@@ -1,0 +1,8 @@
+# MD Converter Dependencies
+# 
+# Note: This tool primarily uses Pandoc via subprocess calls
+# Pandoc must be installed separately: https://pandoc.org/installing.html
+#
+# For enhanced functionality (future versions):
+# pypandoc>=1.11       # Python pandoc wrapper (optional)
+# pyyaml>=6.0          # For advanced template configuration (optional)

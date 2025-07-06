@@ -1,0 +1,763 @@
+J. BOTHA AN D R.M.H. SMI T H
+
+Biostratigraphy of the Lystrosaurus declivis
+Assemblage Zone (Beaufort Group, Karoo
+Supergroup), South Africa
+J. Botha
+National Museum, P.O. Box 266, Bloemfontein, 9300, South Africa
+Department of Zoology and Entomology, University of the Free State, 9300, South Africa
+e-mail: jbotha@nasmus.co.za
+R.M.H. Smith
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, 2050 South Africa
+Karoo Palaeontology, Iziko South African Museum, Cape Town, 8000, South Africa
+e-mail: Roger.Smith4@wits.ac.za
+© 2020 Geological Society of South Africa. All rights reserved.
+
+Abstract
+The earliest Triassic (Induan) Lystrosaurus Assemblage Zone has long been recognised as a particularly signiﬁcant
+biozone in palaeoecological and palaeoenvironmental studies as it contains a community assemblage that records the
+survival and recovery from the end-Permian mass extinction (EPME). Here renamed the Lystrosaurus declivis Assemblage
+Zone it represents the best record globally of the ecological changes in terrestrial community structure and stability
+during this time period. The assemblage is dominated by two species of small to medium-sized herbivorous dicynodonts
+L. declivis and L. murrayi that co-occur in equal abundance, along with a range of smaller and less common faunivorous
+and insectivorous taxa. The latter comprise cynodonts (Thrinaxodon, Galesaurus, and Platycraniellus), therocephalians
+(Olivierosuchus, Regisaurus and Promoschorhynchus), the diminutive parareptiles (Saurodektes, Sauropareion, Colleta,
+Phonodus and Procolophon) and eureptilian arrivals possibly representing immigrant taxa (Prolacerta, Heleosuchus and
+Noteosuchus), among others. The attendant large carnivores were sabre-toothed Moschorhinus and the long-snouted
+archosauromorph Proterosuchus. In the aftermath of the mass extinction, new small temnospondyl taxa established their
+ﬁrst occurrences i.e. Broomistega, Lydekkerina, and Micropholis, and have relatively high abundances compared to
+earlier temnospondyl records in the Karoo. Lithostratigraphically, the biozone for the most part spans the upper
+Palingkloof Member of the Balfour Formation and the overlying Katberg Formation in the western part of the basin, and
+the Normandien Formation in the east. The Lystrosaurus declivis Assemblage Zone of the main Karoo Basin hosts the
+type locality of the global Lootsbergian land-vertebrate faunachron. The biozone is one of the most widespread terrestrial
+faunal assemblages of western Gondwana with closely related species occurring in India and Antarctica. Similar, but
+much more distantly related taxa, occur in Induan-aged strata of Russia, China and Brazil.
+Name
+The Lystrosaurus declivis Assemblage Zone.
+Proposer of name
+
+it to include the biostratigraphic range of Procolophon. Here,
+we propose the name Lystrosaurus declivis Assemblage Zone
+after the most common tetrapod species found, and limited to,
+the biozone.
+
+Broom (1906) proposed the name ‘Lystrosaurus Beds’ for the
+biozone, but it was redeﬁned by Kitching (1970) who expanded
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY 2020 • VOLUME 123.2 PAGE 207-216 • doi:10.25131/ sajg .123.0015
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+207
+
+B I O S T R AT I G R A P HY OF THE LY ST ROSAURUS DE C LIV IS ASSEMBLAGE ZONE (BEAUFORT GROUP, KAROO SUPERGROUP)
+SOUTH AFRICA
+
+Stratigraphic position
+Biostratigraphic position
+Overlies the Daptocephalus Assemblage Zone and underlies the
+Cynognathus Assemblage Zone.
+Lithostratigraphic position
+The biozone includes the upper Palingkloof Member of the
+Balfour Formation East of 24°E, and equivalent Harrismith
+Member of the Normandien Formation in the Northern Free
+State Province, as well as the entire Katberg Formation of the
+Tarkastad Subgroup, Karoo Supergroup (Groenwald and
+Kitching, 1995; Neveling, 2004; Smith and Botha-Brink, 2014).
+A unit closely-spaced of multi-storied sandstone bodies lies
+within the upper third of the Katberg Formation in the distal
+parts of the Karoo Basin at various localities in the Xhariep
+District. It was termed the Swartberg member by Neveling (2004)
+after Swartberg Hill on the farm Bethel 763, southeast of the
+town Bethulie in the Xhariep District, and although not a formal
+member, it can be used to correlate between localities in the
+distal (and with its laterally-equivalent sandstone package in the
+proximal) sector of the basin (R Smith pers. obs.).
+Above the Swartberg member the uppermost Katberg
+Formation ﬁnes upwards into the Burgersdorp Formation,
+which contains the overlying Cynognathus Assemblage Zone
+(Neveling, 2004). Neveling (2004) followed du Toit’s (1917, 1918)
+initial proposal and placed the uppermost boundary of the
+Katberg Formation at the top of the uppermost, thick sandstone
+package, above which the red mudrock of the Burgersdorp
+Formation begins to dominate. The lowermost Burgersdorp
+Formation may also be determined biostratigraphically by
+the co-occurrence of Procolophon and trematosaurid and
+mastodonsaurid amphibians (Neveling, 2004).
+Derivation of name
+The name is derived from Lystrosaurus declivis, the most
+common vertebrate fossil species found within, and limited to,
+strata of this biozone.
+Historical background
+Broom ﬁrst introduced the Lystrosaurus and Procolophon zones
+in 1906 and du Toit (1918) later remarked on the usefulness of
+Lystrosaurus for regional mapping purposes. Tripathi and
+Satsangi (1963) reported the presence of Lystrosaurus in the
+Panchet beds of India. Because these beds interdigitate with
+marine facies containing a well-established Triassic invertebrate
+fauna, Lystrosaurus became widely regarded as a Triassic taxon.
+Kitching (1970, 1977) expanded the Karoo biozone to include
+Procolophon because he maintained that it was found
+throughout the zone (although later studies have shown that
+Procolophon is limited to the upper two-thirds of the zone,
+Botha and Smith, 2006). Keyser (1979) proposed the name
+Lystrosaurus-Thrinaxodon Assemblage Zone, which was
+accepted by the South African Committee for Stratigraphy
+
+208
+
+(S.A.C.S.) in 1980. However, S.A.C.S. later reverted to the term
+Lystrosaurus Assemblage Zone and it was published as such in
+the S.A.C.S. Biostratigraphic Series No. 1 (Groenewald and
+Kitching, 1995). Lystrosaurus has since been found within the
+uppermost portion of the underlying Permian Daptocephalus
+Assemblage Zone (Smith, 1995; Smith and Ward, 2001; Botha
+and Smith, 2007) and thus, we revise the name to Lystrosaurus
+declivis Assemblage Zone to indicate the most abundant
+Lystrosaurus species that is limited to the biozone.
+Palaeontology
+Description of Assemblage Zone
+An assemblage zone characterised by a low diversity of
+herbivorous vertebrates, the abundance of the dicynodont
+therapsid Lystrosaurus declivis in association with the
+dicynodont therapsid Lystrosaurus murrayi, the nonmammaliaform epicynodont therapsid Thrinaxodon liorhinus,
+the procolophonoid parareptile Procolophon trigoniceps, and
+the absence of the dicynodont therapsid Daptocephalus
+leoniceps (Figure 1).
+Taphonomic notes on fossil occurrence
+The vertebrate fossils of the Lystrosaurus declivis Assemblage
+Zone are primarily found in the mudrock sequences between
+channel sandstones. Fossils are found as articulated, semi articulated or disarticulated, but still associated, skeletons
+often within brown-weathering calcareous nodules. In some
+planimetric exposures of channel bank facies of the Katberg
+Formation many partially articulated dorsal-up skeletons, some
+with mummiﬁed skin impressions can be found (Smith and
+Botha-Brink, 2011). A taphonomically signiﬁcant occurrence in
+this biozone is the ﬁrst appearance of monotaxic and multitaxic
+bonebeds in the Karoo succession. Juvenile Lystrosaurus declivis
+are the most common contributor to these ﬂoodplain hosted
+bonebeds that are interpreted as drought induced die-offs
+(Smith and Botha, 2005, Viglietti et al., 2013, Smith and
+Botha-Brink, 2014). Positively identiﬁed skeletons of the
+amphibian Broomistega (Fernandez, et al., 2013), the parareptile
+Procolophon (Kitching, 1977), the dicynodont Lystrosaurus
+(Modesto and Botha-Brink, 2010; Bordy et al., 2011; Botha-Brink,
+2017) and the non-mammaliaform cynodont Thrinaxodon
+(Damiani et al., 2003, Smith and Botha-Brink, 2014) have
+been found within passively-ﬁlled underground burrow
+structures in the mudrocks of the uppermost Balfour and
+lower Katberg formations.
+List of fossils
+Abundant fossils of Lystrosaurus declivis are found from the
+lowermost boundary of the zone through to the upper portion,
+becoming scarce within the uppermost Katberg Formation
+(Figure 1A). This species has yet to be found at the uppermost
+boundary of the zone (Neveling, 2004). Lystrosaurus murrayi is
+also found in great abundance from the lower boundary and
+into the Katberg Formation, but positively identiﬁable material
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+J. BOTHA AN D R.M.H. SMI T H
+
+Figure 1. Lateral and dorsal views of the index taxa deﬁning the Lystrosaurus declivis Assemblage Zone. (top) Lystrosaurus declivis, (centre) Thrinaxodon
+liorhinus, (bottom) Procolophon trigoniceps .
+
+of this species has not been found above the Swartberg member
+(a regional member found in the Xhariep Municipal District
+[previously Bethulie and Rouxville districts], Neveling, 2004)
+in the uppermost Katberg Formation. These two species of
+Lystrosaurus are by far the most common taxa found in the
+
+assemblage zone. Thrinaxodon liorhinus (Figure 1B) is
+commonly found in the Palingkloof Member and lowermost
+Katberg Formation, becoming scarce in the uppermost portion
+of the zone, although it has been found at the upper boundary
+(Neveling, 2004). Procolophon trigoniceps (Figure 1C) is
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+209
+
+B I O S T R AT I G R A P HY OF THE LY ST ROSAURUS DE C LIV IS ASSEMBLAGE ZONE (BEAUFORT GROUP, KAROO SUPERGROUP)
+SOUTH AFRICA
+
+restricted to the upper two-thirds of the Katberg Formation
+and is found with increasing frequency from just below the
+Swartberg member to the upper boundary of the zone. The nonmammaliaform epicynodont Galesaurus planiceps, which is
+restricted to the Palingkloof Member and lowermost Katberg
+Formation, is also found in relative abundance. Although
+relatively rare, the archosauriform Proterosuchus fergusi is
+one of the ﬁrst taxa to appear in the Lystrosaurus declivis
+Assemblage Zone and is thus helpful in locating the lower
+boundary of the zone. Fossils of the procolophonoid parareptiles
+“Owenetta” kitchingorum and Saurodektes rogersorum, (note
+that these two taxa are soon to be synonymized into Saurodektes
+kitchingorum resulting in the absence of Owenetta from
+the Triassic, Juan Cisneros pers. comm.) the dicynodont
+Lystrosaurus curvatus, Triassic records of the therocephalian
+
+Moschorhinus kitchingi (a boundary-crossing taxon), and the
+non-mammaliaform epicynodont Progalesaurus lootsbergensis
+are restricted to the Palingkloof Member (or equivalent units)
+and have yet to be found in the overlying Katberg Formation
+(Botha and Smith, 2007; Huttenlocker & Botha-Brink,
+2013; Smith and Botha-Brink, 2014). A number of small
+temnospondyls make their first appearance near the
+base of this assemblage zone including Micropholis stowi,
+Lydekkerina huxleyi and Broomistega putterilli, and at the
+uppermost transition with the overlying Cynognathus
+assemblage (Langbergia-Gargainia Subzone), the medium
+to large temnospondyl Kestrosaurus and an indeterminate
+trematosaurid (Damiani et al., 2000) also appear.
+Ranges of the vertebrate genera are depicted in Figure 2.
+Three new ichnofossils, Dicynodontipus, Procolophonichnium
+
+Figure 2. Composite stratigraphic section showing the biostratigraphic ranges of the vertebrate taxa found within the Lystrosaurus declivis Assemblage
+Zone. Lithological sections measured at Lootsberg Pass, Bethel and Perdelaagte. Scale in metres. P=Palingkloof, S=Swartberg, PTB=Permo-Triassic boundary.
+
+210
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+J. BOTHA AN D R.M.H. SMI T H
+
+and Rhynchosauroides (Marchetti et al., 2019) have been added
+to the existing Thalassinoides and Histioderma attributed to
+Procolophon and Lystrosaurus respectively.
+According to the collection data provided by Smith et al.
+(2012) by far the most abundant taxon encountered in the
+LAZ is Lystrosaurus (73%) followed by Procolophon (17%),
+Thrinaxodon (3%) and Lydekkerina (2%). However, both
+Procolophon and Lydekkerina are known to occur as monotaxic
+bonebed accumulations, which likely contributes to their overrepresentation in the collections. Smith and Botha-Brink (2014)
+provide ﬁeld data that suggests that the actual abundance of
+Lystrosaurus fossils is much higher. They record a narrow 20 m
+thick interval in the Lower Katberg Formation of their Bethulie
+section where Lystrosaurus fossils comprise more than 90% of
+the faunal content.
+Vertebrates
+Amphibia
+
+Amniota
+Parareptilia
+
+Eureptilia
+Lepidosauromorpha
+Archosauromorpha
+
+Synapsida
+Therapsida
+Anomodontia
+
+Therocephalia
+
+Cynodontia
+
+Micropholis stowi
+Thabanchuia oomie
+Lydekkerina huxleyi
+Eolydekkerina magna
+Broomulus dutoiti
+Kestrosaurus dreyeri
+Broomistega putterilli
+Rhytidosteus capensis
+Trematosauridae indet.
+‘Owenetta’ kitchingorum
+Saurodektes rogersorum
+Sauropareion anoplus
+Coletta seca
+Phonodus dutoitorum
+Procolophon trigoniceps
+Paliguana whitei
+Heleosuchus griesbachi
+Noteosuchus colletti
+Prolacerta broomi
+Proterosuchus fergusi
+
+Myosaurus gracilis
+Lystrosaurus curvatus
+Lystrosaurus murrayi
+Lystrosaurus declivis
+Lystrosaurus maccaigi
+Ericiolacerta parva
+Moschorhinus kitchingi
+Olivierosuchus parringtoni
+Promoschorhynchus platyrhinus
+Regisaurus jacobi
+Scaloposaurus constrictus
+Tetracynodon darti
+Progalesaurus lootsbergensis
+Galesaurus planiceps
+Thrinaxodon liorhinus
+Platycraniellus elegans
+
+Invertebrates Arthropoda
+
+cf. Gymnostreptus
+
+Plants
+
+Agathoxylon
+Glossopteris
+Trizygia speciosum
+Paracalamites
+
+Trace fossils Invertebrate
+
+Katbergia
+Scoyenia
+Macanopsis
+Gyrolithes/Daimonelix
+Cylindricum
+Planolites
+Skolithos
+Thalassinoides (Procolophon)
+Histioderma (Lystrosaurus)
+Dicynodontipus
+Procolophonichnium
+Rhynchosauroides
+
+Vertebrate
+
+Geological description
+Thickness of biozone
+Maximum thickness is at least 830 m in the southeastern Karoo
+Basin near Katberg Pass, becoming thinner in both westerly
+and northerly directions. The biozone varies in thickness from
+more than 830 m in the Groot Winterberg southwest of
+Queenstown and approximately 450 m in Lootsberg Pass south
+of Middelburg, to approximately 120 m at Oliviershoek Pass
+south of Harrismith and approximately 40 m in the Normandien
+Pass northeast of Harrismith (Figure 2). At its most westerly
+occurrence near Nieu Bethesda, Eastern Cape and at its most
+northerly occurrence at Verkykerskop in the Free State, the top
+of the biozone is eroded away, but the remnants indicate
+thicknesses of roughly 120 m and 40 m respectively.
+Lithology
+The lowermost portion of the Lystrosaurus declivis Assemblage
+Zone comprises the predominantly argillaceous Palingkloof
+Member of the Balfour Formation and is characterised by
+massively-bedded maroon and olive-grey siltstone interbedded
+with relatively few minor thin sandstone sheets with sharp,
+ﬂat basal and upper contacts. The lower Palingkloof contains
+tabular sheet sands structured with horizontal to climbing
+ripple lamination and have distinctive sharp ﬂat basal and
+upper contacts, the former commonly with sand-ﬁlled
+desiccation polygons and the latter preserving patches of
+claystone-veneered oscillation ripples. Horizons of roughsurfaced irregularly-shaped calcareous nodules and scattered
+small spherical glaebules (possible pisoliths) with internal
+shrinkage cracks are ubiquitous to these massive mudrock beds.
+The distinguishing sedimentological features of this facies
+include the predominance of the dark reddish-brown coloured
+(2.5 YR 2.5/4) massively bedded silty mudstone. The upper
+portion of the Palingkloof Member is distinguished from the
+underlying section by a change in mudrock colour from dark
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+211
+
+B I O S T R AT I G R A P HY OF THE LY ST ROSAURUS DE C LIV IS ASSEMBLAGE ZONE (BEAUFORT GROUP, KAROO SUPERGROUP)
+SOUTH AFRICA
+
+reddish-brown to a lighter maroon. This facies is characterised
+by several 1 to 5 m thick regions of alternating 1 to 3 cm thick
+mudstone-siltstone couplets. Irregularly-shaped calcareous
+nodules (that often contain fossil bone), scattered small spherical
+peloids with internal shrinkage cracks, and isolated Katbergia
+and tetrapod burrow casts occur within the siltstone beds.
+This unit gradually coarsens upwards into the predominantly
+arenaceous Katberg Formation and reveals a progressive
+increase in vertically stacked tabular olive-grey medium-grained
+sandstone bodies, which are separated by upwardly thinning
+intervals of blocky weathering light olive grey siltstone and
+ﬁssile dark red mudstone beds. The thicker channel sandstones
+commonly display elongate basal scours or gulleys that have
+eroded into the underlying mudrock and are often ﬁlled
+with lenses of reworked pedogenic nodule conglomerate. The
+sandstones contain irregular disconformity surfaces that are
+commonly lined with mudstone clast conglomerate whereas the
+basal conglomerates consist of mud pebbles, reworked fossil
+bone fragments and spheroidal pedogenic glaebules commonly
+showing internal septarian shrinkage cracks (Botha et al. 2020).
+
+Australia (Arakel, 1982) and the Indo-Gangetic alluvial plains of
+India (Khadkikar et al., 1998). In both instances they are formed
+by the repeated alternation between saturated and dry soil
+moisture conditions under a warm climate monsoonal rainfall
+regime. The appearance of similar septarian glaebules in the
+PTB stratigraphic record in the main Karoo Basin serves to
+strengthen the sedimentological facies interpretation for warm
+climatic conditions with highly seasonal rainfall in this part
+of western Gondwana in the earliest Triassic. Pace et al.
+(2009) interpreted the pisolitic conglomerates as remnants of
+completely degraded landscapes.
+
+Depositional environment
+
+The upper boundary of the Lystrosaurus declivis Assemblage
+Zone is drawn at the ﬁrst occurrence of the fairly common
+trirachodontid cynodont Langbergia and the medium-sized
+archosauriform Garjainia, deﬁning the base of the Cynognathus
+Assemblage Zone.
+
+The sequence of Lystrosaurus declivis Assemblage zone
+depositional facies from predominantly red mudrocks with thin
+sheet sandstones up into a progressively more arenaceous
+succession dominated by vertically-stacked multi-storey channel
+sandstones is interpreted as a rapid shift from the high sinuosity
+meandering channels of the Daptocephalus Assemblage Zone
+below, through low sinuosity anastomosed systems in the lower
+half of the zone, into a northward prograding braid-plain setting
+in the upper half along with concomitant climatic drying (Smith
+1995, Smith and Botha-Brink 2014).
+The silt and sand-ﬁlled desiccation cracks and the presence
+of silt granules in the red mudrocks are interpreted as the
+ﬁrst indication of aeolian dust in the depocentre. A loessic
+contribution to the thick massive silty-mudstone is supported by
+their uniform massive texture with planar or gently undulating
+contacts that are commonly veneered with claystone indicative
+of relatively rapid, episodic sedimentation (Giles et al., 2013).
+Weakly developed pedogenesis with textural Bca horizons
+showing claystone-lined shrink/swell planes and small spherical
+carbonate nodules are interpreted as immature loessic soils
+similar to the Triassic loessites described by Chan (1999) from
+the Ankareh Formation of north-central Utah.
+The vertically accreted multi-storied conglomeratic
+sandstone bodies are similar to the sandy ephemeral stream
+channel ﬁlls described from the mid-Devonian of southern
+England by Tunbridge (1984). He interpreted them as inchannel deposits of wide, shallow low-sinuosity rivers with a
+highly ﬂuctuating discharge regime. The presence of numerous
+spherical pea-sized calcareous pisoliths (or glaebules) with
+septarian shrinkage cracks in the clast-supported melange of red
+mudrock pebbles, rolled bone fragments and other pedogenic
+calcareous nodules indicate that they too are reworked from the
+alluvium into which the channel has incised. The pisoliths are
+similar to those described from Quaternary calcretes of western
+
+212
+
+Boundaries
+Lower boundary
+Characterised by the ﬁrst appearance of the dicynodonts
+Lystrosaurus declivis and Lystrosaurus murrayi, and the
+archosauriform Proterosuchus fergusi.
+Upper boundary
+
+Lateral boundaries
+Outcrops continuously around the Karoo Basin (Figure 3).
+Subdivisions
+There are no formal subdivisions within the biozone. However,
+Lystrosaurus declivis and L. murrayi become very abundant in
+the lowermost Katberg Formation, which has been referred to
+as the Lystrosaurus abundant zone (Botha and Smith, 2006),
+and Procolophon dominates the upper third of the Katberg
+Formation, which has resulted in this region sometimes being
+referred to as a Procolophon abundant zone (e.g. Broom, 1906;
+Neveling et al., 2004; Botha and Smith, 2006).
+Regional aspects
+Geographic distribution
+The main outcrop of the Lystrosaurus declivis Assemblage Zone
+strata comprises a region of varying thickness that extends from
+just south of Middelburg in the southeast to Mthatha (previously
+Umtata) in the southwest in the Eastern Cape Province
+northward through the western Kwa-Zulu Natal Province and
+through the eastern Free State Province to Harrismith in the
+northeast (Figure 3).
+Lateral variation
+The relative abundance and diversity of the Lystrosaurus declivis
+assemblage is constant throughout the basin. The only
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+J. BOTHA AN D R.M.H. SMI T H
+
+Figure 3. Distribution of the Lystrosaurus declivis Assemblage Zone (green) in the Beaufort Group (yellow). Type locality (see Figure 4) is indicated by
+open square.
+
+discernible variation is in the maximum size of L declivis that
+appears to gain larger maximum body sizes in the northern and
+eastern parts of the basin compared to further south.
+Correlation
+The Lystrosaurus declivis Assemblage Zone is equivalent to the
+Lootsbergian land-vertebrate faunachron of Lucas (1998). These
+vertebrate-deﬁned units correlate chronostratigraphically with
+assemblages of the lower Fremouw Formation of Antarctica
+(Kitching et al., 1972), the Sanga do Cabral Formation, Paraná
+Basin of Brazil (based on the presence of Procolophon)
+(Barbarena et al., 1981; Souto-Rieiro and Holz, 1998; Abdala
+et al., 2002), and the Panchet Formation, Damodar Basin of India
+(Bandyopadhyay et al., 2002). The latter Panchet records also
+preserve reliable age controls based on marine-nonmarine
+interbeds.
+Other age-equivalent assemblages may include LAZ-like
+vertebrates at higher taxonomic-levels, but present unique
+species endemic to those areas, and have yet to produce strong
+
+overlap with the South African species from paleontological
+collecting. These include the Vokhmian and Rybinskian
+gorizonts of the Vetlugian Series in the South Urals Basin of
+Russia (Benton et al., 2004) and the lower Jiucaiyuan Formation,
+Junggar Basin of northwestern China (Cheng, 1993).
+Lastly, other continental assemblages, as well as marinenonmarine transitional assemblages, are known that include
+important invertebrate and macro- and micro-ﬂoral records,
+but lack stratigraphically informative vertebrates, making links
+to the Karoo Basin record more challenging. These include: the
+Kockatea Formation, Perth Basin, Blina Formation, Fitzroy Basin,
+Gosford and Terrigal formations, Sydney Basin, the Sagittarius
+Sandstone and Arcadia formations, Bowen Basin of Australia
+(Ochev and Shishkin, 1989; Michaelsen, 2002), and the Wordie
+Creek Formation of eastern Greenland (Lucas, 1998).
+Age
+The Lystrosaurus declivis Assemblage Zone is generally
+considered to be Early Triassic (Induan to early Olenekian)
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+213
+
+B I O S T R AT I G R A P HY OF THE LY ST ROSAURUS DE C LIV IS ASSEMBLAGE ZONE (BEAUFORT GROUP, KAROO SUPERGROUP)
+SOUTH AFRICA
+
+based on global correlations with fossil plants and vertebrates
+(Lucas, 1998). Recent studies suggest that the upper Palingkloof
+Member is not older than 252.24 +/-0.1 (Gastaldo et al., 2020)
+and may be as young as 251.7+/-0.3 (Botha et al., 2020). This
+likely places the base of the Lystrosaurus declivis Assemblage
+Zone within the basal Triassic as in the Lystrosaurus murrayidominated fauna of the Panchet beds in India (Tripathi and
+Satsangi, 1963).
+
+as Fairydale) in the Xhariep District 30 km northeast of the
+town Bethulie. We name the locality Bethel for brevity (GPS
+co-ordinates from the top of Swartberg Hill on Bethel 763
+on 1:50 000 map 3026AD Tampasfontein: 30° 25’12.43”S
+26° 15’ 30.42”E, taken from Google Earth, 2018) and it is selected
+because of the abundance and diversity (at least 18 species) of
+tetrapod fossils that it has produced over the years, including
+the three index taxa and covers most of the zone from the base
+to the top of the Swartberg member (Figure 4).
+
+Type locality
+Acknowledgements
+Groenewald and Kitching (1995) erected the holostratotype of
+the biozone along highway N9 through Lootsberg Pass and the
+adjacent area, between Graaff-Reinet and Middelburg, Eastern
+Cape Province. Approximately 450 m of the lower part of the
+zone is exposed in this area, but the uppermost Katberg
+Formation is not exposed here and importantly, relatively few
+fossils have been found in the road cutting and adjacent area.
+Thus, we introduce a new type locality for the Lystrosaurus
+declivis Assemblage Zone, a well-known locality that encompasses
+exposures on three adjoining farms, namely Bethel 763,
+Heldenmoed 677 and Donald 207 (commonly referred to
+
+We are grateful to the staff of the Karoo Palaeontology
+laboratories at Iziko South African Museum and the National
+Museum, Bloemfontein for their tireless ﬁeldwork and their
+painstaking preparation and curation of the fossils. The
+African Origins platform of the National Research Foundation
+of South Africa (Grant no. 117704), the Palaeontological
+Scientiﬁc Trust (PAST) and the DST-NRF Centre of Excellence
+in Palaeosciences (CoE-Pal) are acknowledged for ﬁnancial
+assistance.
+
+Figure 4. Map of the Type locality of the Lystrosaurus declivis Assemblage Zone on the farms Bethel, Heldenmoed and Donald in the Smithﬁeld District,
+Eastern Cape, South Africa.
+
+214
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+J. BOTHA AN D R.M.H. SMI T H
+
+References
+Abdala, F., Dias-da-Silva, S. and Cisneros, J.C., 2002. First record of nonmammalian cynodonts (Therapsida) in the Sanga do Cabral Formation
+(Early Triassic) of southern Brazil. Palaeontologia africana, 38, 93-98.
+Arakel, A.V., 1982. Genesis of calcrete in Quaternary soil proﬁles, Hutt and
+Leeman lagoons, Western Australia. Journal of Sedimentary Research 52,
+109-125.
+Bandyopadhyay, S., RoyChowdhury, T.K. and Sengupta, D.P., 2002.
+Taphonomy of some Gondwana vertebrate assemblages of India.
+Sedimentary Geology, 147, 219-245.
+Barberena, M.C., Lavina, E.L. and Becker, M.R., 1981. Sobre a presença de
+tetrápodes n Formação Sanga do Cabral (Grupo Rosário do Sul), Triássico
+do Rio Grande do Sul, Brasil. Anais do II Congresso Latino-Americano de
+Paleontología, 1, 295-306.
+Benton, M.J., Tverdokhlebov, V.P. and Surkov, M.V., 2004. Ecosystem
+remodelling among vertebrates at the Permian-Triassic boundary in Russia.
+Nature, 432, 97-100.
+Bordy, E.M., Sztanó, O., Rubidge, B.S. and Bumby, A., 2011. Early Triassic
+vertebrate burrows from the Katberg Formation of the south-western Karoo
+Basin, South Africa. Lethaia, 44, 33-45.
+Botha-Brink, J., 2017. Burrowing in Lystrosaurus: preadaptation to a
+postextinction environment? Journal of Vertebrate Paleontology, 37, (5):
+e1365080.
+Botha, J. and Smith, R.M.H., 2006. Rapid vertebrate recuperation in the Karoo
+Basin of South Africa following the end-Permian extinction. Journal of
+African Earth Sciences, 45, 502-514.
+Botha, J. and Smith, R.M.H., 2007. Lystrosaurus species composition across the
+Permo-Triassic boundary of South Africa. Lethaia, 40, 125-137.
+Botha, J., Huttenlocker, A.K., Smith, R.M.H., Prevec, R., Viglietti, P. and
+Modesto, S., 2020. New geochemical and palaeontological data from the
+Permo-Triassic boundary in the South African Karoo Basin test the
+synchrony of terrestrial and marine extinctions. Palaeogeography,
+Palaeoclimatology, Palaeoecology. DOI: 10.1016/j.palaeo.2019.109467
+Broom, R., 1906. On the Permian and Triassic faunas of South Africa.
+Geological Magazine, 5, 29-30.
+Chan, M.A., 1999. Triassic loessite of North-Central Utah: stratigraphy,
+petrophysical character, and paleoclimate implications. Journal of
+Sedimentary Research 69, 477-485.
+Cheng, Z., 1993. On the discovery and signiﬁcance of the nonmarine PermoTriassic Transition Zone at Dalongkou in Jimusar, Xinjiang, China. In: S.G.
+Lucas and M. Morales (Editors), The Nonmarine Triassic, 3, 65-67 Bulletin
+of the New Mexico Museum of Natural History and Science, New Mexico.
+Damiani, R.J., Neveling, J., Hancox, P.J. and Rubidge B.S., 2000. First
+trematosaurid temnospondyl from the Lystrosaurus Assemblage Zone of
+South Africa and its biostratigraphic implications. Geological Magazine 137,
+659-665.
+Damiani, R., Modesto, S., Yates, A. and Neveling, J., 2003. Earliest evidence of
+cynodont burrowing. Proceedings of the Royal Society London B, 270,
+1747-1751.
+Du Toit, A.L., 1917. The geology of part of the Transkei. Explanation of Cape
+Sheet 27 (Maclear – Umtata). Geological Survey of South Africa, 32pp.
+Du Toit, A.L., 1918. The zones of the Karroo System and their distribution.
+Proceedings of the Geological Society of South Africa, 21, 17-37.
+Fernandez, V., Abdala, F., Carlson, K.J., Cook, D.C., Rubidge, B.S., Yates, A.
+and Tafforeau, P., 2013. Synchrotron reveals Early Triassic odd couple:
+Injured amphibian and aestivating therapsid share burrow. PLoS ONE 8,
+e64978. doi:10.1371/journal.pone.0064978.
+Gastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, W., Looy, C.V. and Martini,
+A.M., 2020. The base of the Lystrosaurus Assemblage Zone, Karoo Basin,
+predates the end-Permian marine extinction. Nature Communications 11,
+1428. doi.org/10.1038/s41467-020-15243-7
+Giles, J.A., Soreghan, M.J., Benison, K.C., Soreghan, G.S. and Hasiotis, S.T.,
+2013. Lakes, loess and paleosols in the Permain Wellington Formation of
+Oklahoma, USA: implications for palaeoclimate and palaeogeography
+of the midcontinent. Journal of Sedimentary Research, 83, 825-846.
+
+Groenewald, G.H. and Kitching, J.W., 1995. Biostratigraphy of the Lystrosaurus
+Assemblage Zone. South African Committee for Stratigraphy. Biostratigraphic
+Series 1, 35-39.
+Huttenlocker, A.K. and Botha-Brink, J., 2013. Body size and growth patterns
+in the therocephalian Moschorhinus kitchingi (Therapsida: Eutheriodontia)
+before and after the end-Permian extinction in South Africa. Paleobiology,
+39, 253-277.
+Khadkikar, A., Merh S.S., Malik, J.N. and Chamyal, L.S., 1998. Calcretes in
+semi-arid alluvial systems: Formative pathways and sinks. Sedimentary
+Geology, 116, 251-260.
+Keyser, A.W., 1979. A review of the biozonation of the Beaufort Group in the
+Karoo basin of South Africa. Geological Society of South Africa, Abstracts
+1979 Geological Congress 2, 13-31.
+Kitching, J.W., 1970. A short review of the Beaufort zoning in South Africa.
+In: S.H. Haughton (Editor), I.U.G.S., 2nd Gondwana Symposium Proceedings
+and Papers, 309-312.
+Kitching, J.W., 1977. The distribution of the Karroo vertebrate fauna. Bernard
+Price Institute for Palaeontological Research Memoir 1, 1-131.
+Kitching, J.W., Collinson, J.W., Elliot, D.H. and Colbert, E.H., 1972. Lystrosaurus
+Zone (Triassic) fauna from Antarctica. Science, 175, 524-527.
+Lucas, S.G., 1998. Global Triassic tetrapod biostratigraphy and biochronology.
+Palaeogeography, Palaeoclimatology, Palaeoecology, 143, 347-384.
+Marchetti, L., Klein, H., Buchwitz, M., Ronchi, A., Smith, R.M.H., De Klerk, E.,
+Sciscio, L. and Groenwald, G., 2019. Ichnoassociations of Permian and
+Triassic tetrapod footprints in the Karoo Basin of South Africa. Gondwana
+Research 72,139-168.
+Michaelsen, P., 2002. Mass extinction of peat-forming plants and the
+effect on ﬂuvial styles across the Permian-Triassic boundary, northern
+Bowen Basin, Australia, Palaeogeography Palaeoclimatology Palaeoecology,
+179, 173-188.
+Modesto, S.P. and Botha-Brink, J., 2010. A burrow cast with Lystrosaurus
+skeletal remains from the Lower Triassic of South Africa. Palaios, 25,
+274-281.
+Neveling, J., 2004. Stratigraphic and sedimentological investigation of the
+contact between the Lystrosaurus and Cynognathus Assemblage Zones
+(Beaufort Group: Karoo Supergroup). Council for Geoscience Bulletin 137,
+1-165.
+Neveling, J., Hancox, P.J. and Rubidge, B.S., 2004. Biostratigraphy of the lower
+Burgersdorp Formation (Beaufort Group; Karoo Supergroup) of South
+Africa – implications for the stratigraphic ranges of Early Triassic tetrapods.
+Palaeontologia africana, 41, 81-87.
+Ochev, V.G. and Shishkin, M.A., 1989. On the principles of global correlation
+of the continental Triassic on the tetrapods. Acta Palaeontologica Polonica,
+34, 149-173.
+Pace, D.W., Gastaldo, R.A. and Neveling, J., 2009. Early Triassic aggradational
+and degradational landscapes of the Karoo Basin and evidence for climate
+oscillation following the P–Tr Event. Journal of Sedimentary Research, 79,
+316-331.
+Smith, R.M.H., 1995. Changing ﬂuvial environments across the Permian–
+Triassic boundary in the Karoo Basin, South Africa, and possible causes of
+the extinctions. Palaeogeography, Palaeoclimatology, Palaeoecology, 117,
+81-104.
+Smith, R.M.H. and Botha-Brink, J., 2011. Anatomy of an extinction: EndPermian drought induced die-off in the Karoo Basin, South Africa. Abstracts
+SVP Annual Meeting Las Vegas Journal Vertebrate Palaeontology, SVP
+Program and Abstracts Book, 2011, 196.
+Smith, R.M.H., Rubidge, B.S. and van der Walt, M., 2012. Therapsid biodiversity
+patterns and paleoenvironments of the Karoo Basin, South Africa. In:
+A. Chinsamy (Editor), The forerunners of mammals: radiation, histology
+and biology. Indiana University Press, Bloomington, 31-62.
+Smith, R.M.H. and Botha-Brink, J., 2014. Anatomy of an extinction:
+Sedimentological and taphonomic evidence for drought-induced
+die-offs during the Permo-Triassic mass extinction in the main Karoo
+Basin, South Africa. Palaeogeography, Palaeoclimatology, Palaeoecology,
+396, 99-118.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+215
+
+B I O S T R AT I G R A P HY OF THE LY ST ROSAURUS DE C LIV IS ASSEMBLAGE ZONE (BEAUFORT GROUP, KAROO SUPERGROUP)
+SOUTH AFRICA
+
+Smith, R.M.H. and Ward, P.D., 2001. Pattern of vertebrate extinctions across an
+event bed at the Permian–Triassic boundary in the Karoo Basin of South
+Africa. Geological Society of America Bulletin, 29, 1147-1150.
+Souto-Ribeiro, A.W. and Holz, M., 1998. The Early Triassic Sanga do Cabral
+(Paraná Basin, Brazil) and Katberg Sandstone (Karoo Basin, South Africa)
+Formations: a possible ‘taphocorrelation’. Journal of African Earth Sciences,
+27 (1A), 189pp.
+Tripathi, C. and Satsangi, P. P., 1963. Lystrosaurus fauna of the Panchet series
+of the Raniganj coalﬁeld. Memoirs of the Geological Survey of India,
+Palaeontologia Indica, New series 37, 1-65.
+
+216
+
+Tunbridge, I.P., 1984. Facies model for a sandy ephemeral stream and clay
+playa complex; the Middle Devonian Trentishoe Formation of North Devon,
+U.K. Sedimentology 31, 697-715.
+Viglietti P.A., Smith R.M.H. and Compton J.S., 2013. Origin and
+palaeoenvironmental signiﬁcance of Lystrosaurus bonebeds in the earliest
+Triassic Karoo Basin, South Africa. Palaeogeography, Palaeoecology,
+Palaeoclimatology, 392, 9-21.
+
+Editorial handling: R.M.H. Smith.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/207/5083298/207_0015_botha_smith.pdf
+by University of Exeter user
+
+

@@ -1,0 +1,3117 @@
+Received: 1 December 2017
+
+| Revised: 29 January 2018 | Accepted: 3 February 2018
+
+DOI: 10.1002/jmor.20804
+
+RESEARCH ARTICLE
+
+Evolution of facial innervation in anomodont therapsids
+(Synapsida): Insights from X-ray computerized microtomography
+Julien Benoit1
+
+|
+
+Kenneth D. Angielczyk1,2 | Juri A. Miyamae3 | Paul Manger4
+
+|
+
+Vincent Fernandez5 | Bruce Rubidge1
+1
+Evolutionary Studies Institute (ESI), School
+of Geosciences, University of the
+Witwatersrand, Johannesburg 2050, South
+Africa
+2
+
+Integrative Research Center, Field Museum
+of Natural History, 1400 South Lake Shore
+Drive, Chicago, Illinois 60605
+3
+
+Department of Geology & Geophysics, P.O.
+Box 208109, Yale University, New Haven,
+Connecticut 06520-8109
+4
+
+School of Anatomical Sciences, University
+of the Witwatersrand, Johannesburg 2193,
+South Africa
+5
+
+European Synchrotron Radiation Facility,
+Beamline ID19, Grenoble 38000, France
+
+Abstract
+Anomodontia was the most successful herbivorous clade of the mammalian stem lineage (nonmammalian synapsids) during the late Permian and Early Triassic. Among anomodonts, Dicynodontia stands apart because of the presence of an osseous beak that shows evidence of the insertion
+of a cornified sheath, the ramphotheca. In this study, fourteen anomodont specimens were
+microCT-scanned and their trigeminal canals reconstructed digitally to understand the origin and
+evolution of trigeminal nerve innervation of the ramphotheca. We show that the pattern of innervation of the anomodont “beak” is more similar to that in chelonians (the nasopalatine branch is
+enlarged and innervates the premaxillary part of the ramphotheca) than in birds (where the nasopalatine and maxillary branches play minor roles). The nasopalatine branch is noticeably enlarged in
+the beak-less basal anomodont Patranomodon, suggesting that this could be an anomodont or chainosaur synapomorphy. Our analyses suggest that the presence or absence of tusks and postcanine
+teeth are often accompanied by corresponding variations of the rami innervating the caniniform
+
+Correspondence
+Julien Benoit, Evolutionary Studies Institute
+(ESI), School of Geosciences, University of
+the Witwatersrand, PO Wits, Johannesburg
+2050, South Africa.
+Email: julien.benoit@wits.ac.za
+
+process and the alveolar region, respectively. The degree of ossification of the canal for the nasal
+ramus of the ophthalmic branch also appears to correlate with the presence of a nasal boss. The
+nasopalatine canal is absent from the premaxilla in the Bidentalia as they uniquely show a large
+plexus formed by the internal nasal branch of the maxillary canal instead. The elongated shape of
+this plexus in Lystrosaurus supports the hypothesis that the rostrum evolved as an elongation of
+the subnarial region of the snout. Finally, the atrophied and variable aspect of the trigeminal canals
+in Myosaurus supports the hypothesis that this genus had a reduced upper ramphotheca.
+
+KEYWORDS
+
+anomodontia, beak, dicynodontia, maxillary canal, rhamphotheca
+
+1 | INTRODUCTION
+
+Nasterlack, Canoville, & Chinsamy, 2012; Laaß, 2015; Laaß & Schillinger, 2015; Laaß & Kaestner, 2017), and the possibly semi-aquatic
+
+Anomodontia is a group of successful, mostly herbivorous therapsids,
+
+Lystrosaurus (e.g., Ray, Chinsamy, & Bandyopadhyay, 2005; although
+
+which first appear in the fossil record in the Wordian (middle Permian),
+
+see King, 1990). Some members of the clade may have evolved a para-
+
+about 265–270 million years ago (Ma) (Liu, Rubidge, & Li, 2010). The
+
+sagittal hindlimb posture, although the forelimbs appear to have
+
+main subclade of anomodonts, Dicynodontia, rapidly radiated and
+
+€ bisch, 2006).
+retained a more sprawling posture (e.g., King, 1985; Fro
+
+became the most diverse and abundant tetrapod herbivores of the
+
+Although they suffered a significant loss in species richness (King,
+
+Lopingian (late Permian) and much of the Triassic (King, 1988; Ruta,
+
+€ bisch, 2008, 2013; Irmis & Whiteside, 2012), anomodonts
+1990; Fro
+
+€ bisch, & Benton, 2013). Anomodonts evolved a range of
+Angielczyk, Fro
+
+survived the Permo-Triassic mass extinction and underwent a second-
+
+body sizes (from approximately mouse-sized to rhinoceros-sized) and
+
+ary diversification before finally going extinct near the end of the Trias-
+
+€ bisch & Reisz,
+ecomorphologies, including the arboreal Suminia (Fro
+
+sic (Ruta et al., 2013). This gives the Anomodontia a temporal range
+
+2009, 2011), the fossorial cistecephalids (Cox, 1972; Cluver, 1978;
+
+of about 60 million years (and possibly over 100 million years if
+
+Journal of Morphology. 2018;279:673–701.
+
+wileyonlinelibrary.com/journal/jmor
+
+C 2018 Wiley Periodicals, Inc.
+V
+
+| 673
+
+|
+
+BENOIT ET AL.
+
+controversial fossils from the Early Cretaceous of Australia truly repre-
+
+Kuratani, 2014). In turtles, the beak of the upper jaw is constituted by
+
+sent a late-surviving dicynodont; Thulborn & Turner, 2003), the longest
+
+the maxilla laterally and the premaxilla medially and the ramphotheca is
+
+of any major non-mammalian synapsid clade. Finally, anomodonts were
+
+innervated by the nasopalatine ramus of CNV2 (Figure 1; Owen, 1866).
+
+cosmopolitan, with their remains having been discovered on every con-
+
+The beak of birds, in contrast, is formed primarily by the extended pre-
+
+€bisch, 2009).
+tinent (Fro
+
+maxilla, which is innervated by CNV1, as in other archosaurs (Dubbel-
+
+The most diverse and abundant subclade of Anomodontia is Dicy-
+
+dam, 1998; Witmer, 1995). Each of these conditions differs in its own
+
+nodontia. There are more than 100 well-characterized dicynodont spe-
+
+way from the plesiomorphic condition encountered in most amniotes,
+
+€ bisch, 2009) and in some areas, such as the upper Permian
+cies (Fro
+
+in which the snout is innervated by both CNV1 and CNV2, and the
+
+strata of the South African Karoo Basin, dicynodonts comprise 77%–
+
+tooth roots are supplied and innervated by the maxillary canal, which
+
+96% of the specimens discovered (Sidor & Smith, 2007; Smith,
+
+transmits CNV2 and accompanying vessels (Bellairs, 1949; Du€ring von
+
+Rubidge, & van der Walt, 2012). The dicynodont skull is highly modi-
+
+& Miller, 1979; Witmer, 1995; Abdel-Kader, Ali, & Ibrahim, 2011;
+
+fied, compared to the basic therapsid ground plan, to accommodate a
+
+Leitch & Catania, 2012; Benoit, Manger, & Rubidge, 2016a).
+
+palinal motion of the mandible associated with the adoption of a her-
+
+Reconstructing the pathway of the trigeminal nerve fibers in
+
+bivorous diet (Watson, 1948; Crompton & Hotton, 1967; King, Oelof-
+
+extinct beaked taxa such as anomodonts will elucidate the adaptation
+
+sen, & Rubidge, 1989). These modifications include a significantly
+
+of their nervous systems to the evolutionary innovation of a synapsid
+
+shortened snout, a partial bony secondary palate formed primarily by
+
+ramphotheca, as well as how facial sensitivity co-varies with the grad-
+
+the fused premaxillae, loss of premaxillary teeth and reduction or com-
+
+ual reduction and disappearance of teeth. The aim of this study is thus
+
+plete loss of the postcanine dentition, extreme reduction of the trans-
+
+to describe the patterns of ramification of the trigeminal canals in the
+
+verse flanges of the pterygoids, extensive emargination of the temporal
+
+upper jaw (CNV1 and CNV2) of anomodonts in order to address how
+
+openings, presence of a large lateral fossa on the squamosal hypothe-
+
+innervation patterns in the snout co-evolved with the development of
+
+sized to accommodate a neomorphic jaw adductor muscle mass (M.
+
+a cornified beak.
+
+adductor mandibulae externus lateralis; see Crompton & Hotton, 1967;
+Barghusen, 1986; King et al., 1989; King, 1994, Angielczyk, 2004),
+
+2 | MATERIAL AND METHODS
+
+enlargement of the temporal opening, a jaw joint that allows extensive
+translation of the articular relative to the quadrate, and fusion of the
+
+2.1 | Material scanned
+
+mandibular symphysis. Based on the reduction or complete loss of premaxillary teeth, the presence of oblique canals and rugose bone textur-
+
+2.1.1 | Anomodontia
+
+ing covering the premaxilla and the more rostral parts of the maxilla,
+
+- NMQR 3000: Patranomodon nyaphulii (Anomodontia), Eodicynodon
+
+and the presence of dense Sharpey’s fibers in the premaxilla and max-
+
+Assemblage Zone (AZ), Karoo Basin, Wordian (middle Permian).
+
+illa, it is posited that a cornified beak, or ramphotheca, was present in
+
+Scanned at the ESI (Evolutionary Studies Institute) using Nikon Metrol-
+
+dicynodonts (King, 1988, 1990; Hieronymus, Witmer, Tanke, & Currie,
+
+ogy XTH 225/320 LC. Voxel size: 0.036 mm,
+
+2009; Jasinoski & Chinsamy-Turan, 2012).
+A ramphotheca and the underlying edentulous bony beak is a striking evolutionary innovation which evolved multiple times in tetrapods
+
+- NMQR 2978: Eodicynodon oosthuizeni (Dicynodontia), Eodicynodon AZ, Karoo Basin, Wordian (middle Permian). Scanned at the ESI
+using Nikon Metrology XTH 225/320 LC. Voxel size: 0.074 mm,
+
+(Lee, 1997). The presence of a ramphotheca has been inferred in Dicy-
+
+- BP/1/2642: Pristerodon mackayi (Dicynodontia: Eumantelliidae),
+
+nodontia since the first description of members of the group (Owen,
+
+Cistecephalus AZ, Karoo Basin, Wuchiapigian (late Permian). Scanned
+
+1845), with taxonomic names such as Dicynodon testudiceps (now
+
+at the ESI using Nikon Metrology XTH 225/320 LC. Voxel size:
+
+€ bisch,
+regarded as a nomen dubium; see Kammerer, Angielczyk, & Fro
+
+0.0469 mm.
+
+2011), Emydops, and Therochelonia referring to the superficial similarity
+that exists between the beaks of dicynodonts and turtles.
+In turtles and birds the osseous edentulous beak is covered by a
+cornified ramphotheca made of keratin. The ramphothecal tissue is a
+
+- NHCC LB314: Abajudon kaayai (Dicynodontia: Endothiodontia),
+lower Madumabisa Mudstone Formation, Mid-Zambezi Basin,? Capitanian (middle Permian). Scanned at the University of Chicago PaleoCT
+facility using GE v|tome|x s 240. Voxel size: 0.080 mm.
+
+living structure supplied and innervated by numerous vessels and
+
+- SAM-PK-K11193: Diictodon feliceps (Dicynodontia: Pylaecephali-
+
+nerves that ramify inside the osseous beak, opening on its surface and
+
+dae), Cistecephalus AZ, Karoo Basin, Wuchiapigian (late Permian).
+
+giving a rugose texture to the external surface of maxilla, premaxilla,
+
+Scanned at the ID19 beamline of the European Synchrotron Radiation
+
+and palate (Witmer, 1995; Buchtov
+a, Pač, Knotek, & Tichy, 2009; Hier-
+
+Facility (ESRF, Grenoble). Voxel size: 0.0469 mm.
+
+onymus et al., 2009). Innervation by the somatosensory fibers of the
+
+- NHCC LB14: Compsodon helmoedi (Dicynodontia: Emydopoidea),
+
+trigeminal nerve (cranial nerve V, hereafter CNV), confers tactile sensi-
+
+upper Madumabisa Mudstone Formation, Luangwa Basin, Wuchiapin-
+
+tivity to the beak. The trigeminal nerve is divided into three main
+
+gian (late Permian). Scanned at the University of Chicago PaleoCT facil-
+
+branches: the mandibular branch (CNV3) innervates the mandible,
+
+ity using GE v|tome|x s 240. Voxel size: 0.065 mm.
+
+whereas the maxillary (CNV2) and ophthalmic (CNV1) branches inner-
+
+- BP/1/2690: Myosaurus gracilis (Dicynodontia: Emydopoidea),
+
+vate the upper jaw (Owen, 1866; Dubbeldam, 1998; Witmer, 1995;
+
+Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic). Scanned at the ESI
+
+Nieuwenhuys, Ten Donkelaar, & Nicholson, 1998; Higashiyama &
+
+using Nikon Metrology XTH 225/320 LC. Voxel size: 0.0221 mm.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+674
+
+F I G U R E 1 The trigeminal canals in the tortoise Stigmochelys pardalis. (BP/4/TAB). Top, oblique view; Left, lateral view; Right, dorsal view.
+The ophthalmic canal is light blue, the nasopalatine canal is dark blue and the maxillary canal is green. Abbreviations: Mx Can, maxillary
+canal; NasPal, nasopalatine canal; Oph Can, ophthalmic canal. Scale bar: 10 mm
+
+- BP/1/2701a: Myosaurus gracilis (Dicynodontia: Emydopoidea),
+
+- NMQR 815: Lystrosaurus declivis (Dicynodontia: Dicynodontoi-
+
+Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic). Scanned at the ESI
+
+dea: Lystrosauridae), Lystrosaurus AZ, Karoo Basin, Induan (Early Trias-
+
+using Nikon Metrology XTH 225/320 LC. Voxel size: 0.0327 mm.
+- BP/1/2701b: Myosaurus gracilis (Dicynodontia: Emydopoidea),
+
+sic). Scanned at the ESI using Nikon Metrology XTH 225/320 LC. Voxel
+size: 0.086 mm.
+
+Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic). Scanned at the ESI
+using Nikon Metrology XTH 225/320 LC. Voxel size: 0.0234 mm.
+
+2.1.2 | Outgroups
+
+- BP/1/4262: Myosaurus gracilis (Dicynodontia: Emydopoidea),
+
+- CG-RMS353: Heleosaurus scholtzi (Eupelycosauria: Varanopidae); Tapi-
+
+Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic). Scanned at the ESI
+
+nocephalus AZ, Karoo Basin, Capitanian (middle Permian). Scanned at
+
+using Nikon Metrology XTH 225/320 LC. Voxel size: 0.0221 mm.
+
+the ESI using Nikon Metrology XTH 225/320 LC. Voxel size: 0.0378 mm.
+
+- NHCC LB366: Cistecephalidae gen. et sp. nov. (Dicynodontia:
+
+- FMNH PR 1670: Varanosaurus acutirostris (Eupelycosauria:
+
+Emydopoidea: Cistecephalidae), lower Madumabisa Mudstone Forma-
+
+Ophiacodontidae); Wellington Formation, Oklahoma, Kungurian (early
+
+tion, Mid-Zambezi Basin, Capitanian or Wuchiapingian (middle or late
+
+Permian). Scanned at the University of Chicago PaleoCT facility using
+
+Permian). Scanned at the University of Chicago PaleoCT facility using
+
+GE v|tome|x s 240. Voxel size: 0.0663 mm.
+
+GE v|tome|x s 240. Voxel size: 0.041 mm.
+
+- BP/1/3849: Olivierosuchus parringtoni (Therocephalia: Akidnogna-
+
+- NHCC LB631: Oudenodon bainii (Dicynodontia: Cryptodontia:
+
+thiidae); Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic) Scanned
+
+Oudenodontidae), upper Madumabisa Mudstone Formation, Luangwa
+
+at the ESI using Nikon Metrology XTH 225/320 LC. Voxel size:
+
+Basin, Wuchiapingian (late Permian). Scanned at the University of
+
+0.0655 mm.
+
+Chicago PaleoCT facility using GE v|tome|x s 240. Voxel size:
+0.010 mm.
+- NMQR 3995: Lystrosaurus curvatus (Dicynodontia: Dicynodontoidea: Lystrosauridae), Lystrosaurus AZ, Karoo Basin, Induan (Early Trias-
+
+- BP/1/7199: Thrinaxodon liorhinus (Cynodontia: Epicynodontia);
+Lystrosaurus AZ, Karoo Basin, Induan (Early Triassic). Scanned at the
+ESRF (see Fernandez et al., 2013 for details). Voxel size: 0.03 mm.
+- BP/4/1104: Homopus sp. (Chelonia: Testudinidae), extant, South
+
+sic). Scanned at the ESI using Nikon Metrology XTH 225/320 LC. Voxel
+
+Africa. Scanned at the ESI using Nikon Metrology XTH 225/320 LC.
+
+size: 0.125 mm.
+
+Voxel size: 0.0445 mm.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 675
+
+BENOIT ET AL.
+
+|
+- BP/4/TAB no ref: Stigmochelys pardalis (Chelonia: Testudinidae),
+
+extant, South Africa. Scanned at the ESI using Nikon Metrology XTH
+225/320 LC. Voxel size: 0.0513 mm.
+
+BENOIT ET AL.
+
+2.3 | Results
+2.3.1 | Outgroups
+
+- BP/4/1094: Stigmochelys pardalis (Chelonia: Testudinidae), extant,
+
+Pelycosaur-grade synapsids are represented by the varanopid Heleosau-
+
+South Africa. Scanned at the ESI using Nikon Metrology XTH 225/320
+
+rus (CG-RMS353; a complete left maxilla and fragments of the premax-
+
+LC. Voxel size: 0.0586 mm.
+
+illa, nasal, and frontals) and the ophiacodontid Varanosaurus (FMNH PR
+
+For enquiries concerning access to CT scan data, please contact K.
+
+1670; a complete, articulated skull and mandible). Non-anomodont
+
+Angielczyk or W. Simpson (wsimpson@fieldmuseum.org) for FMNH
+
+therapsids are represented by the cynodont Thrinaxodon (BP/1/7199;
+
+and NHCC specimens, and K. Jakata (kudawashe.jakata@wits.ac.za) for
+
+complete and undistorted skull) and the therocephalian Olivierosuchus
+
+other specimens.
+
+(BP/1/3849; Benoit et al., 2016a). Information on the trigeminal canals
+of additional non-anomodont therapsids can be found in Benoit et al.
+(2016a), but are not considered in detail here because Olivierosuchus
+
+2.2 | Reconstruction of the trigeminal canals
+Three-dimensional renderings of the internal structure of the maxillary
+and ophthalmic branches of the trigeminal nerve were obtained using
+manual segmentation in Avizo 8 (FEI VSG, Hillsboro, OR). Because we
+focus on the bony structures that transmitted tissues actively playing a
+role in the innervation and nutrition of the face, and thus are relevant
+to the evolution of beak sensitivity in anomodonts, we only segmented
+the parts of the canals that directly communicate with the external surface of the skull. In accordance with the phylogenetic relationship unifying Mammaliaformes and non-mammalian synapsids (NMS), and to
+maximize primary hypotheses of homology, our identifications of the
+rami of the trigeminal canals use the names of the corresponding rami
+of CNV in extant mammals. Note that some vessels and branches of
+the facial nerve (CNVII) may have shared the canal along with CNV and
+participated in the innervation and supply of the beak (Bellairs, 1949;
+Du€ring von & Miller, 1979; Witmer, 1995; Abdel-Kader et al., 2011;
+Leitch & Catania, 2012; see Benoit et al., 2016a). Mandibles were not
+preserved in some of the specimens examined here, and because the
+mandibular canal shows little variation, our descriptions focus on the
+upper jaw.
+
+and Thrinaxodon are generally representative of the morphologies
+found in those taxa.
+In all four outgroup taxa, the surface of the bones forming the
+snout is smooth. The region normally innervated and supplied by the
+ophthalmic nerve and accompanying vessels is not preserved in Heleosaurus, but the ophthalmic canal was probably not ossified, as in most
+other NMS (Figure 2; Benoit et al., 2016a). The nasal ramus of the ophthalmic branch appears as a long, slender, and weakly ramified sulcus in
+Varanosaurus, but the frontal ramus is not completely enclosed in a
+bony tube (Figure 3). Instead, the frontal bone is pierced by minute
+foramina for the exit of the ophthalmic nerve (Figure 3; Benoit et al.,
+2016a). In place of an ophthalmic branch, Olivierosuchus displays isolated foramina only (Figure 4a). In contrast, a reasonably ossified path
+for both rami of the ophthalmic nerve is preserved in Thrinaxodon. The
+ophthalmic canal is divided into a caudal branch (the frontal rami) and a
+rostral branch (the nasal rami), which themselves ramify into numerous
+smaller canals that are oriented anteroposteriorly and open on the surface of the frontal and nasal bones, respectively (Figure 4b; Benoit
+et al., 2016a).
+As in mammals (Rodella, Buffoli, Labanca, & Rezzani, 2012; Higashiyama & Kuratani, 2014), but unlike non-avian sauropsids (hereafter
+
+To investigate the evolution of the trigeminal canals and associated
+
+€ring von & Miller,
+referred to as reptiles) and birds (Bellairs, 1949; Du
+
+structures in dicynodonts, we used parsimony to optimize a series of
+
+1979; Witmer, 1995; Abdel-Kader et al., 2011; Leitch & Catania, 2012),
+
+11 discrete-state characters (Supplementary Information 1) on a modi-
+
+the innervation and supply of the surface of the premaxilla is not pro-
+
+fied version of the phylogeny of Angielczyk and Kammerer (2017; the
+
+vided by the ophthalmic canal in Thrinaxodon and Olivierosuchus. There
+
+position of Abajudon is based on the results of Olroyd, Sidor, & Angielc-
+
+are few neurovascular foramina on the premaxilla, which are so small
+
+zyk, in press). We conducted the analysis using Mesquite version 3.2
+
+that the corresponding canals are nearly invisible in the microCT data
+
+(build 801) (Maddison & Maddison, 2017). Given the nature of our
+
+without high contrast and high resolution. As a result, they were over-
+
+sampling, the non-bidentalian portion of the tree is the same as in
+
+looked in most previous microCT scan-based studies of the trigeminal
+
+Angielczyk and Kammerer (2017), but only two members of Bidentalia
+
+innervation of the snout in therapsids (Crompton, Musinsky, & Ower-
+
+(Oudenodon and Lystrosaurus) are included.
+
+kowicz, 2015; Crompton, Owerkowicz, Bhullar, & Musinsky, 2017;
+
+This research complies with the legal requirements of the countries
+in which it was undertaken. No permits were required.
+
+Benoit et al., 2016a, b; Laaß & Kaestner, 2017). In Thrinaxodon and Olivierosuchus, the premaxillary neurovascular foramina are connected to
+
+Institutional abbreviations: AMNH: American Museum of Natural
+
+a short tube that originates from the premaxillary portion of the roof of
+
+History (New York City, U.S.A.); BP: Evolutionary Studies Institute
+
+the oral cavity, and which therefore may have been for the nasopala-
+
+(Johannesburg, South Africa); CG: Council for Geoscience (Pretoria,
+
+tine nerve (Figure 4). In Thrinaxodon, this tube is connected to the inter-
+
+South Africa); FMNH: Field Museum of Natural History (Chicago, U.S.
+
+nal nasal ramus of the maxillary canal laterally, which suggests that the
+
+A.); NHCC: National Heritage Conservation Commission (Lusaka, Zam-
+
+maxillary nerve might have contributed to the innervation of the pre-
+
+bia); NMQR: National Museum (Bloemfontein, South Africa); SAM:
+
+maxillary surface as well (Figure 4b). This condition is likely not repre-
+
+Iziko Museum of Natural History South Africa (Cape Town, South
+
+sentative of the plesiomorphic condition in synapsids as it is shared
+
+Africa).
+
+with Mammalia, in which the surface of the premaxilla is also
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+676
+
+The trigeminal canals in Heleosaurus scholtzi. (CG-RMS353). Top, oblique view; Left, lateral view; Right, dorsal view. The
+nasopalatine canal is in dark blue and the maxillary canal is in green. Abbreviations: Al Cau, caudal alveolar ramus; Al Med, medial alveolar
+ramus; Al Ros, rostral alveolar ramus; Can, canine; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx
+Sin, maxillary sinus; NasPal, nasopalatine canal; Sup Lab, superior labial ramus. Scale bar: 5 mm
+
+FIGURE 2
+
+innervated by the maxillary nerve (Rodella et al., 2012; Higashiyama &
+
+This ramus sends a long branch medially that anastomoses with the
+
+Kuratani, 2014). In Heleosaurus, Varanosaurus, and Olivierosuchus, there
+
+nasopalatine canal in Thrinaxodon but not in other outgroup taxa (Fig-
+
+is evidence of foramina on the premaxilla. In Varanosaurus and Oliviero-
+
+ures 2–4a). Rostro-ventrally, there is the superior labial ramus, which
+
+suchus, where the premaxilla is better preserved, these foramina are
+
+innervates the rostro-ventral margin of the maxilla lateral to the naris
+
+connected to a network of thin canals which cluster caudally into a sin-
+
+(Figures 2–4).
+
+gle opening on the buccal surface of the premaxilla (Figures 3, 4a).
+
+Caudally, the maxillary canal is connected to the maxillary sinus (or
+
+Therefore, these canals are here identified as the nasopalatine canal
+
+maxillary antrum), a diverticulum of the nasal cavity (Figures 2–4). The
+
+(Figures 3, 4a). However, unlike the more derived Thrinaxodon and
+
+maxillary sinus excavates a small space inside the internal wall of the
+
+mammals, the nasopalatatine canal does not anastomose with the
+
+maxilla, rostral to the orbit, in Heleosaurus and Thrinaxodon (Figures 2–
+
+internal nasal ramus of the maxillary canal in Varanosaurus and Oliviero-
+
+4a), but it can be relatively extensive, as in Varanosaurus, Olivierosuchus,
+
+suchus (Figures 3, 4a), likely representing the plesiomorphic condition
+
+and some other NMS (Figures 3, 4b; Benoit et al., 2016a).
+
+for synapsids.
+
+Between the maxillary sinus and the external nasal ramus, the
+
+Of the three branches of the trigeminal canals, the maxillary canal
+
+maxillary canal ramifies into three distinct branches, the rostral, median,
+
+bears the largest number of identifiable rami. It is remarkable that its
+
+and caudal alveolar rami, in Thrinaxodon, Olivierosuchus, Heleosaurus,
+
+branches in the ‘pelycosaurs,’ Heleosaurus, and Varanosaurus, can be
+
+and the great majority of other NMS (Figures 2, 4; Benoit et al.,
+
+homologized with those of therapsids and mammals despite the fact
+
+2016a). A median alveolar ramus was not identifiable in Varanosaurus
+
+that these taxa diverged from the lineage including mammals in the
+
+(Figure 3), although it was likely present. The alveolar rami innervate
+
+Pennsylvanian, over 300 million years ago. Rostrally, there are three
+
+the ventral margin of the maxilla above the postcanine teeth (Figures
+
+major ramifications. The dorsal-most ramification is the external nasal
+
+2–4). In non-prozostrodontian cynodonts, the caudal ramus (and in
+
+ramus, which ramifies within the thickness of the maxilla at the level of
+
+some cases, the median ramus) originates directly from the maxillary
+
+the caniniform teeth (Figure 2). This branch innervates and supplies
+
+antrum, whereas in other, more stemward therapsids and the ‘pelyco-
+
+most of maxilla’s surface in ‘pelycosaurs’ and other NMS (Figures 2–4;
+
+saurs,’ all three rami originate from the maxillary canal (Figures 2–4;
+
+Benoit et al., 2016a). The rostral-most branch is the internal nasal
+
+Benoit et al., 2016a). The most noticeable difference between the max-
+
+ramus, which innervates and supplies the maxilla lateral to the naris.
+
+illary canal of ‘pelycosaurs’ and that in therapsids is the extension of
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 677
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+The trigeminal canals in Varanosaurus acutirostris (FMNH PR 1670). Top, oblique view; Left, lateral view; Right, dorsal view. The
+ophthalmic canal is in light blue, the nasopalatine canal is in dark blue and the maxillary canal is in green. Abbreviations: Al Cau, caudal
+alveolar ramus; Al Ros, rostral alveolar ramus; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin,
+maxillary sinus; NasPal, nasopalatine canal; Oph Nas, nasal ramus of the ophthalmic canal; Sup Lab, superior labial ramus; Scale bar: 10 mm
+
+FIGURE 3
+
+the caudal alveolar ramus in ‘pelycosaurs.’ In Heleosaurus and Varano-
+
+Aside from two foramina on the dorsomedial surface of the nasal
+
+saurus, the caudal alveolar ramus is lengthened caudally and gives off
+
+(Figure 5), the ophthalmic canal is not ossified in this species, as usual
+
+side branches at regular intervals that lead to the surface of the maxilla
+
+for NMS (Benoit et al., 2016a). The nasopalatine canal is not completely
+
+above the superior lip (Figures 2, 3). This results in the presence of reg-
+
+preserved because of the breakage of the premaxillae, but enough is
+
+ularly spaced foramina aligned parallel to the ventral margin of the
+
+visible to state that the nasopalatine nerve and accompanying vessels
+
+maxilla that are strikingly reminiscent of the condition commonly
+
+were transmitted by a sulcus on the dorsal surface of the buccal cavity
+
+encountered in reptiles (Owen, 1866; Bellairs, 1949; Estes, 1961;
+
+and then ramified within the premaxilla to innervate the top of the
+
+€ring von & Miller, 1979; Brochu, 2003; Witmer,
+Tatarinov, 1976; Du
+
+snout (Figure 5). This condition greatly differs from that in the synapsid
+
+1995; Abdel-Kader et al., 2011; Leitch & Catania, 2012; Benoit et al.,
+
+outgroup taxa, in which the nasopalatine canal leaves no sulcus inside
+
+2016a; Barker, Naish, Newham, Katsamenis, & Dyke, 2017).
+
+the buccal cavity and thus appears shorter (Figures 2–4), but it is similar
+to the morphology encountered in chelonians (Figure 1).
+
+2.3.2 | Anomodontia
+
+The morphology of the maxillary canal of Patranomodon is similar
+
+Patranomodon nyaphulii
+
+to that in the outgroup taxa. There are three main ramifications: the
+
+Patranomodon is the basal-most anomodont in our sample (e.g., Kam-
+
+internal nasal and superior labial rami, which pass through the maxilla
+
+merer et al., 2011; Castanhinha et al., 2013; Cox & Angielczyk, 2015;
+
+and reach the anterior and ventral margins of the maxilla, respectively,
+
+Angielczyk & Kammerer 2017), and is represented by a nearly complete
+
+and the external nasal ramus, which bears an extra ramification that
+
+and undeformed skull (NMQR 3000). Only the premaxillae are broken,
+
+extends far dorso-caudally toward the orbit (Figure 5). To date, such a
+
+and the acid used to prepare the skull might have infiltrated and
+
+lengthened extra ramification has been encountered only in the dinoce-
+
+enlarged the trigeminal canals. Therefore, some connections between
+
+phalian Moschops (Benoit, Manger, Norton, Fernandez, & Rubidge,
+
+the branches might not represent real anastomosis, but artifacts of acid
+
+2017a). This observation is interesting given that dinocephalians and
+
+preparation. As preserved, the bones on the snout are smooth, but the
+
+anomodonts often were considered to be closely related in the older
+
+presence of rugosity on the rostral aspect of the premaxilla cannot be
+
+literature (e.g., Broom, 1932; Watson, 1948; Watson & Romer, 1956;
+
+assessed.
+
+King, 1988), but further investigation of how widespread this
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+678
+
+| 679
+
+The trigeminal canals in Olivierosuchus parringtoni (A. BP/1/3849) and Thrinaxodon liorhinus (B. BP/1/7199). Top, oblique view;
+Left, lateral view; Right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue and the maxillary canal is in
+green. Abbreviations: Al Cau, caudal alveolar ramus; Al Med, medial alveolar ramus; Al Ros, rostral alveolar ramus; Anas: anastomosis; Ext
+Nas, external nasal ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph
+Can, ophthalmic canal; Oph Fr, frontal ramus of the ophthalmic canal; Oph Nas, nasal ramus of the ophthalmic canal; Sup Lab, superior
+labial ramus. Scale bars: 10 mm
+
+FIGURE 4
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+The trigeminal canals in Patranomodon nyaphulii (NMQR 3000). Top, oblique view; Left, lateral view; Right, dorsal view. The
+ophthalmic canal is in light blue, the nasopalatine canal is in dark blue and the maxillary canal is in green. Abbreviations: Al Cau, caudal
+alveolar ramus; Al Med, medial alveolar ramus; Al Ros, rostral alveolar ramus; Anas: anastomosis; Ext Nas, external nasal ramus; Int Nas,
+internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Can, ophthalmic canal; Sup Lab,
+superior labial ramus. Scale bar: 10 mm. Mirrored for comparison
+
+FIGURE 5
+
+mophology is in dinocephalians and non-dicynodont anomodonts will
+
+trigeminal canal contribute to this rugosity, but it appears to be mostly
+
+be needed before its phylogenetic significance can be fully assessed.
+
+caused by independent vascular canals that originate in the medulary
+
+There are three alveolar rami that supply and innervate the
+
+cavities of the bones (Figure 6).
+
+facial surface above the complete set of cheek-teeth (Figure 5). As
+
+Only the nasal ramus of the ophthalmic nerve is ossified in Eodicy-
+
+is usual in non-cynodont therapsids, the alveolar rami ramify from
+
+nodon (Figure 6). It is moderately ramified, with canals oriented in all
+
+the maxillary canal and not from the maxillary sinus (Figure 5).
+
+directions, and the longest branch rostrally reaches the posterior mar-
+
+Nevertheless, the condition in Patranomodon is slightly different
+
+gin of the naris (Figure 6).
+
+from that in other therapsids because all three alveolar rami radiate
+
+As in the basal anomodont Patranomodon, the nasopalatine nerve
+
+from the same point within the maxillary canal (Figure 5). The maxil-
+
+has numerous ramifications that connect to a long antero-posterior sul-
+
+lary sinus is incompletely ossified posteriorly, as in the outgroup
+
+cus that excavates the roof of the oral cavity on the ventral surface of
+
+taxa (Figure 5; Benoit et al., 2016a).
+
+the palatal portion of the premaxilla. Along its course in the buccal cavity, the nasopalatine nerve may have given rise to branches that inner-
+
+Eodicynodon oosthuizeni
+
+vated the palate, but this is not evidenced on the specimen (Figure 6).
+
+Eodicynodon is the oldest and most stemward dicynodont in our sample
+
+Rostrally, the nasopalatine nerve penetrates the caudo-ventral margin
+
+(e.g., Rubidge, 1990a; Kammerer et al., 2011; Castanhinha et al., 2013;
+
+of the premaxilla and ramifies into numerous smaller canals to inner-
+
+Cox & Angielczyk, 2015; Angielczyk, Hancox, & Nabavizadeh, in press;
+
+vate and supply the rostral extremity of the beak medial to the naris
+
+Angielczyk & Kammerer, 2017). It is represented by a complete, acid-
+
+(Figure 6).
+
+prepared skull (NMQR 2978). As in all other dicynodonts (see descrip-
+
+The maxillary canal is distinctive compared to that of the contem-
+
+tions below), the presence of a ramphotheca is evidenced by the
+
+poraneous Patranomodon. Rostro-ventrally, the numerous branches of
+
+rugose external surfaces of the premaxilla and maxilla (Rubidge, 1984,
+
+the superior labial ramus diverge inside the caniniform process rostral
+
+1990b). The terminal openings of the numerous ramifications of the
+
+to the enlarged caniniform tusk (Figure 6). Rostrally, the internal nasal
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+680
+
+The trigeminal canals in Eodicynodon oosthuizeni (NMQR 2978). Top left, transparent skull in oblique view; Top right, solid skull
+in oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark
+blue and the maxillary canal is in green. Abbreviations: Boss, nasal boss; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus; IOF,
+infraorbital foramen; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Can, ophthalmic canal; Oph Fr,
+frontal ramus of the ophthalmic canal; Oph Nas, nasal ramus of the ophthalmic canal; Rug, rugosities of the ramphotheca; Sup Lab, superior
+labial ramus; Scale bar: 10 mm. Mirrored for comparison
+
+FIGURE 6
+
+ramus is highly ramified, and it innervates and supplies the maxillary
+
+of the trigeminal canals are located on the region of the snout that
+
+part of the beak, lateral to the naris (Figure 6). In contrast, there is only
+
+bears the rugosity associated with the ramphotheca (Figure 8).
+
+one recognizable branch of the external nasal ramus, which ramifies
+
+The nasal ramus of the ophthalmic canal is partially ossified only at
+
+dorsal to the tusk (Figure 6). The internal and external nasal rami
+
+the level of the nasal boss (Figure 8). The rostral-most ramifications of
+
+are separated by a short, non-ramified portion of the maxillary canal
+
+the nasal ramus reach the posterior margin of the naris, as in Eodicyno-
+
+(Figure 6).
+
+don (Figure 8).
+
+Unlike in Patranomodon and other NMS, there are no alveolar rami
+
+The nasopalatine canal richly innervates and supplies the extremity
+
+in Eodicynodon (Figure 6), a condition that may be correlated to the
+
+of the beak, medial to the naris (Figure 8). As in Eodicynodon there is a
+
+near absence of postcanine teeth (only one postcanine tooth is present
+
+distinct sulcus for the nasopalatine nerve on the buccal surface of the
+
+on the left side in NMQR 2978) (see Witmer, 1995; Benoit, Norton,
+
+palatal portion of the premaxilla.
+
+Manger, & Rubidge, 2017b, for similar conditions in other taxa with
+
+The maxillary canal is less ramified distally but has a much more
+
+reduced dentitions). However, the greatly enlarged caniniform tusk
+
+complex pattern of major branches compared to Eodicynodon. The
+
+strongly affects the morphology of the maxillary sinus, which is mostly
+
+internal nasal ramus is lengthened rostrally, elongated rostro-ventrally
+
+occupied by the tusk’s root (Figure 7a). Caudal to the maxillary sinus,
+
+beyond the level of the naris, and anastomoses with the nasopalatine
+
+there is a discrete and ossified orbital opening for CNV2, the infraor-
+
+canal (Figure 8). Therefore, the maxillary canals likely participated to
+
+bital foramen, inside the orbit (Figure 7), a condition that is otherwise
+
+some degree in the irrigation and innervation of the surface of the pre-
+
+encountered only in probainognathian cynodonts (Benoit et al., 2016a).
+
+maxilla in Diictodon. This condition resembles that in the outgroup taxa
+and Bidentalia (see below), although the internal nasal ramus of Diicto-
+
+Diictodon feliceps
+
+don does not seem to form the highly ramified plexus in the premaxilla
+
+Diictodon is a pylaecephalid dicynodont and is represented by a com-
+
+that is present in Lystrosaurus and Oudenodon. As in Eodicynodon, the
+
+plete skull (SAM-PK-K11193). As in Eodicynodon, the terminal openings
+
+superior labial ramus ramifies rostrally inside the caniniform process
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 681
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+MicroCT slides to show the relationship of the maxillary canal and the canine root in coronal cross section. (a) Eodicynodon
+(NMQR 2978); (b) Abajudon (NHCC LB314); (c) Pristerodon (BP/1/2642); (d) Lystrosaurus (NMQR 815). Not to scale. Abbreviations: Can,
+canines; Mx Sin, maxillary sinus; Nas Cav, nasal cavity
+
+FIGURE 7
+
+(Figure 8). Caudally, the external nasal ramus ramifies at the level of the
+
+As in Eodicynodon, it penetrates the nasopalatine canal on the postero-
+
+canine into four branches that are directed dorsally (Figure 8). Notably,
+
+ventral margin of the premaxilla (Figure 9). The dorsal branch arises
+
+the points where the external and internal nasal rami branch are sepa-
+
+from the nasopalatine canal immediately after it enters the premaxilla,
+
+rated by a long segment of the maxillary canal, a condition also encoun-
+
+after which the canal ramifies into numerous smaller canals more ros-
+
+tered in Pristerodon, Oudenodon, and Lystrosaurus.
+
+tally (Figure 9). These smaller branches extend to the external surface
+
+There are no postcanine teeth and no corresponding alveolar rami,
+as in Lystrosaurus, and the maxillary sinus is occupied by the large root
+of the tusk (Figure 8). There is no trace of an infraorbital foramen.
+
+of the premaxilla, medial to the naris (Figure 9).
+The maxillary canal innervates and supplies the maxilla lateral to
+the naris. Rostrally, the internal nasal ramus divides into three branches,
+one dorsally and two rostro-ventrally, which reach the lateral margin of
+
+Pristerodon mackayi
+
+the naris rostrally (Figure 9). The superior labial ramus ramifies rostro-
+
+Pristerodon is the sole member of the monotypic family Eumantelliidae
+
+ventrally inside the caniniform process, rostral to the tusk (Figure 9).
+
+(Kammerer & Angielczyk, 2009), and is a relatively basal dicynodont
+
+Compared to Eodicynodon, the maxillary canal is lengthened between
+
+although its exact phylogenetic position has been difficult to recon-
+
+the point of ramification of the external nasal ramus and that of the
+
+struct confidently (see discussion of this problem in Angielczyk,
+
+internal nasal ramus (Figure 9). The external nasal ramus branches at
+
+Rubidge, Day, & Lin, 2016). In this study, Pristerodon is represented by
+
+the level of the canine, and it innervates and supplies the surface of
+
+a complete acid-prepared skull (BP/1/2642), a specimen of historical
+
+the maxilla dorso-rostrally to the canine (Figure 9). Caudally, the maxil-
+
+importance because of the central role it played in Crompton and Hot-
+
+lary canal passes through the maxillary antrum and opens inside the
+
+ton’s (1967) analysis of the dicynodont feeding system. As in Eodicyno-
+
+orbit through a discrete infraorbital foramen (Figure 9).
+
+don, the terminal openings of the trigeminal canals contribute to
+
+There are three distinct alveolar rami (Figure 9). The caudal ramus
+
+the rugosity of the premaxilla and the anterior aspect of the maxilla
+
+is short and originates directly from the ventral surface of the orbit
+
+(Figure 9).
+
+(Figure 9). The medial ramus is connected to a deep sulcus that exca-
+
+Only a small part of the nasal ramus of the ophthalmic canal is ossi-
+
+vates the ventral margin of the maxillary sinus, which might represent
+
+fied, but unlike in Eodicynodon, it does not reach the posterior border
+
+the course of the maxillary nerve through this antrum (Figure 9). The
+
+of the naris (Figure 9). The ramifications are mostly oriented antero-
+
+medial ramus separates from this sulcus at the level of the only com-
+
+posteriorly (Figure 9).
+
+plete postcanine tooth preserved, and finishes its course on the surface
+
+There is a long and distinctive sulcus on the buccal surface of the
+
+of the maxilla just caudal to the canine (Figure 9). The rostral alveolar
+
+palatal portion of the premaxilla for the nasopalatine nerve (Figure 9).
+
+ramus branches just posterior to the canine and innervates the same
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+682
+
+The trigeminal canals in Diictodon feliceps (SAM-PK-K11193). Top left, transparent skull in oblique view; Top right, solid skull in
+oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue
+and the maxillary canal is in green. Abbreviations: Boss, nasal boss; Can Proc, caniniform process; Ext Nas, external nasal ramus; Int Nas,
+internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Nas, nasal ramus of the ophthalmic
+canal; Rug, rugosities of the ramphotheca; Sup Lab, superior labial ramus. Scale bar: 20 mm
+
+FIGURE 8
+
+area as the medial ramus (Figure 9). As in Eodicynodon, the maxillary
+
+Despite the poor preservation of the rostrum, most of the maxil-
+
+sinus, which is located at the base of the zygomatic process, is occu-
+
+lary canal can be described. The internal nasal ramus and the superior
+
+pied by the root of the tusk (Figure 7c).
+
+nasal ramus branch into numerous smaller canals that densely innervate
+and supply the rostral part of the maxilla laterally, and the region of the
+
+Abajudon kaayai
+
+caniniform process, respectively (Figure 10). The external nasal ramus
+
+Abajudon is an endothiodont dicynodont (Angielczyk et al., 2014a;
+
+separates from the maxillary canal above the middle of the tooth row,
+
+Olroyd et al., in press) represented here by a skull (NHCC LB314) that
+
+not above the tusk as in other anomodonts (Figure 10). It is short
+
+is nearly complete aside from damage to the premaxilla and the ante-
+
+and splits into one large branch directed dorsally, and three other
+
+rior part of the maxilla. The specimen is far more complete than the
+
+smaller branches, a condition reminiscent of that in Eodicynodon
+
+holotype of A. kaayai described by Angielczyk et al. (2014a), and is
+
+(Figures 6, 10).
+
+referred to this species on the basis of its possession of the same highly
+distinctive maxillary teeth (see Olroyd et al. in press for details).
+
+The alveolar rami are large and highly ramified, which likely reflects
+the large number of postcanine teeth (about ten) present in Abajudon
+
+The ophthalmic canal is represented by both its frontal and nasal
+
+(Figure 10). As in Compsodon and Pristerodon (see below), all alveolar
+
+rami which are connected to each other by a deep antero-posteriorly
+
+rami originate from the maxillary sinus (Figure 10). The maxillary sinus
+
+oriented sulcus that excavates the endocranial face of the frontal and
+
+itself is large because of the absence of the caniniform tooth (unlike
+
+nasal bones (Figure 10). The nasal ramus appears much more ramified
+
+in Eodicynodon and Diictodon) (Figure 7b), and it extends antero-
+
+than the frontal ramus, and its ramifications are mostly oriented
+
+posteriorly above the last five maxillary teeth (Figure 10). As in Eodicy-
+
+antero-posteriorly (Figure 10).
+
+nodon, there is an ossified infraorbital canal that links the maxillary
+
+The nasopalatine canal is not preserved.
+
+sinus to the orbital floor caudo-medially (Figure 10).
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 683
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+F I G U R E 9 The trigeminal canals in Pristerodon mackayi (BP/1/2642). Top left, transparent skull in oblique view; Top right, solid skull in
+oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue
+and the maxillary canal is in green. Abbreviations: Al Cau, caudal alveolar ramus; Al Med, medial alveolar ramus; Al Ros, rostral alveolar
+ramus; Dent Teeth, dentary teeth; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus; IOF, infraorbital foramen; Mx Can, maxillary
+canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Nas, nasal ramus of the ophthalmic canal; Rug, rugosities of the
+ramphotheca; Sup Lab, superior labial ramus. Scale bar: 10 mm
+
+Compsodon helmoedi
+
+(Figure 11). The other two open on the surface of the caniniform pro-
+
+Compsodon is an emydopoid dicynodont (Angielczyk et al., 2014b;
+
+cess (Figure 11). Unlike Diictodon, they do not extend beyond the level
+
+Angielczyk & Kammerer, 2017) represented here by a complete
+
+of the lateral margin of the naris (Figure 11). The superior labial ramus
+
+skull (NHCC LB14). The spatial configuration of the trigeminal
+
+is located just ventral to the level of the external ramus and innervates
+
+canals in Compsodon is similar to that in Pristerodon, but less rami-
+
+and supplies the caniniform process (Figure 11). Unlike Diictodon and
+
+fied (Figure 11). The trigeminal canals end on the surface of the
+
+Pristerodon, the divergence points of the external and internal nasal
+
+snout in areas bearing rugosity associated with the presence of
+
+rami are close to each other on the maxillary canal (Figure 11). As in
+
+the ramphotheca (Figure 11).
+
+Eodicynodon, the external nasal ramus is limited to only one branch,
+
+Only a small part of the nasal ramus of the ophthalmic canal is ossified (Figure 11). The canal is more or less parallel to the sagittal plane
+and gives off a few minor branches along its course.
+
+located dorsal to the tusk (Figure 11).
+There are two short and non-ramified alveolar rami (Figure 11).
+They are both connected to the maxillary sinus. The more rostral
+
+There is a long, wide sulcus on the buccal surface of the palatal
+
+branch goes to the area posterior to the tusk whereas the posterior
+
+portion of the premaxilla for the nasopalatine nerve (Figure 11). As in
+
+branch goes to the area posterior to the two relictual postcanine teeth
+
+Pristerodon, the nasopalatine canal starts at the postero-ventral margin
+
+(Figure 11). They might represent the anterior and median alveolar
+
+of the premaxilla and ramifies rostrally into numerous smaller canals
+
+rami, but based on the condition in Pristerodon (in which the median
+
+(Figure 11). Most ramifications open on the external surface of the
+
+and posterior rami are connected to the maxillary sinus, but the ante-
+
+beak, but some are oriented toward the buccal cavity (Figure 11).
+
+rior ramus is not) they are more likely to be the median and posterior
+
+The maxillary canal is only weakly ramified (Figure 11). The internal
+
+branches. The maxillary sinus is occupied by the enlarged root of the
+
+nasal ramus has three slender branches (Figure 11). One of them is
+
+tusk (Figure 11). There is no ossified infraorbital canal caudal to the
+
+directed to the palate and opens on the roof of the buccal cavity
+
+maxillary sinus.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+684
+
+The trigeminal canals in Abajudon kaayai (NHCC LB314). Top, oblique view; Left, lateral view; right, dorsal view. The
+ophthalmic canal is in light blue, the possible root of the nasopalatine canal is in dark blue and the maxillary canal is in green. Abbreviations:
+Al Cau, caudal alveolar ramus; Al Med, medial alveolar ramus; Al Ros, rostral alveolar ramus; Ext Nas, external nasal ramus; Int Nas, internal
+nasal ramus; IOF, infraorbital foramen; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Fr, frontal ramus of
+the ophthalmic canal; Oph Nas, nasal ramus of the ophthalmic canal; Sup Lab, superior labial ramus. Scale bar: 10 mm
+
+FIGURE 10
+
+Myosaurus gracilis
+
+made only a minor contribution to the innervation and supply of the
+
+Myosaurus is a peculiar genus of emydopoid dicynodont because it dis-
+
+surface of the premaxilla, in a manner similar to non-anomodont ther-
+
+plays rugousity for the keratinous ramphotheca on the dentary only,
+
+apsids (Figures 2–4, 12).
+
+but not on the maxilla and premaxilla (Cluver, 1974; Hammer & Cos-
+
+The maxillary canal is short and stubby in Myosaurus (Figure 12),
+
+griff, 1981). This raises the possibility that the ramphotheca on the
+
+and the extremities of its branches reach the surface of the maxilla at a
+
+upper jaw was not as extensive in Myosaurus as was usually the case in
+
+comparatively long distance caudal to the naris (Figure 12). Rostrally,
+
+dicynodonts (also see Surkov, 2006). In this study, Myosaurus is repre-
+
+the three usual ramifications that comprise the maxillary canal—namely
+
+sented by four complete skulls (BP/1/2690; BP/1/2701a; BP/1/
+
+the internal nasal ramus, external nasal ramus and superior labial ramus
+
+2701b; BP/1/4262). They all have a distinctive trigeminal canal mor-
+
+—are anteroposteriorly short and barely recognizable (Figure 12). The
+
+phology compared to other dicynodonts.
+
+external nasal ramus emits a long branch dorso-caudally which runs
+
+The nasal ramus of the ophthalmic canal is completely enclosed in
+
+along the rostral margin of the maxillary antrum. In BP/1/2701a, the
+
+Myosaurus and ramifies into numerous smaller branches (Figure 12).
+
+internal nasal ramus still maintains three distinct branches, as encoun-
+
+Since the premaxilla is antero-posteriorly short in Myosaurus (Cluver,
+
+tered in most NMS (Figures 2–4; Benoit et al., 2016a). There is no
+
+1974; Hammer & Cosgriff, 1981), the nasal ramus appears closer to the
+
+canine or caniniform process, but a small socket for a tusk is retained.
+
+rostral margin of the skull in dorsal view than in other dicynodonts (Fig-
+
+Caudally, the maxillary canal passes through the maxillary antrum and
+
+ure 12). The ramifications are mostly oriented antero-posteriorly and
+
+its course can be followed to a discrete infraorbital foramen inside the
+
+reach the posterior margin of the naris rostrally (Figure 12). A long and
+
+orbit (Figure 12).
+
+wide sulcus for the nasopalatine nerve is present on the buccal surface
+
+The number of alveolar rami is difficult to determine as there are a
+
+of the palatal portion of the premaxilla in all specimens except BP/1/
+
+number of branches directed toward the ventral margin of the maxilla.
+
+2701a, in which the palate has been over-prepared (Figure 12). Never-
+
+These branches are particularly numerous in BP/1/2701b (Figure 12b).
+
+theless, BP/1/2701a is the only specimen that preserves the premaxilla
+
+However, two branches are consistently present in all four specimens:
+
+anterior to the naris, and it demonstrates that the nasopalatine nerve
+
+one originating directly from the maxillary canal and another originating
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 685
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+The trigeminal canals in Compsodon helmoedi (NHCC LB14). Top left, transparent skull in oblique view; Top right, solid skull in
+oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue
+and the maxillary canal is in green. Abbreviations: Al Can, alveolar canals; Boss, nasal boss; Can Proc, caniniform process; Ext Nas, external
+nasal ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Nas, nasal
+ramus of the ophthalmic canal; Rug, rugosities of the ramphotheca; Sup Lab, superior labial ramus. Scale bar: 10 mm
+
+FIGURE 11
+
+from the maxillary antrum (Figure 12). They might correspond to the
+
+of Cistecephalus by Keyser (1965, 1973) and Laaß and Schillinger
+
+medial and caudal alveolar rami respectively, by analogy with Compso-
+
+(2015).
+
+don. There are no postcanine teeth.
+
+The ophthalmic canal is not ossified in NHCC LB366 (Figure 13),
+
+The maxillary antrum (sinus) is located at the base of the zygomatic
+
+but the natural endocast preserved in BP/1/3337 distinctly shows that
+
+process, as is usual in dicynodonts. Because of the absence of tusks,
+
+a sulcus for the ophthalmic nerve extends along the roof of the nasal
+
+the maxillary sinus is spacious and expansive both anteroposteriorly
+
+cavity (Figure 13). This sulcus ramifies into three smaller branches ros-
+
+and mediolaterally (Figure 12).
+
+trally, two of which diverge laterally (Figure 13). All three ramifications
+are located under the nasal bone and thus may be homologous to the
+
+Cistecephalidae
+
+nasal ramus. The pattern of foramina on NHCC LB366 (one foramen
+
+The description of the condition in cistecephalid dicynodonts is mostly
+
+located caudally and several foramina located more rostrally) is consist-
+
+based on the scan of a partial skeleton of a new cistecephalid from the
+
+ent with the condition observed in BP/1/3337 (Figure 13).
+
+Mid-Zambezi Basin (NHCC LB366) (Lungmus et al., 2015). The skull of
+
+The course of the nasopalatine canal is unclear in NHCC LB366
+
+this specimen is distorted, partly crushed, and the premaxillae are bro-
+
+due to distortion and breakage at the level of the premaxilla. However,
+
+ken. Therefore, the description of the trigeminal canals is supplemented
+
+the presence of a ventro-medial canal ramifying in the proximal part of
+
+with that of the natural endocast of the ophthalmic canal preserved in
+
+the premaxilla suggests that the beak was innervated and supplied by
+
+a specimen of a second new cistecephalid species from the Luangwa
+
+the nasopalatine canal as in other anomodonts (Figure 13). This is con-
+
+Basin of Zambia (BP/1/3337; this taxon was briefly described by
+
+firmed by the serial-grinding study of Keyser (1965: fig. 2) who figured
+
+Angielczyk et al., 2014b). Additional literature is also used to complete
+
+a conspicuous canal running in the position of the nasopalatine canal in
+
+this description, primarily Laaß and Kaestner’s (2017) study of the max-
+
+Cistecephalus. Pitting indicates that the ramphotheca was limited to the
+
+illary canal in Kawingasaurus fossilis as well as the tomographic studies
+
+premaxilla and a small area dorsal to the nostril (Keyser, 1965).
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+686
+
+| 687
+
+The trigeminal canals in Myosaurus gracilis (a BP/1/2701a; b BP/1/2701b). Top left, transparent skull in oblique view; Top
+right, solid skull in oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine
+canal is in dark blue and the maxillary canal is in green. Abbreviations: Al Cau, caudal alveolar ramus; Al Med, medial alveolar ramus; Ext
+Nas, external nasal ramus; IOF, infraorbital foramen; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal,
+nasopalatine canal; Oph Can, Ophthalmic canal; Oph Nas, nasal ramus of the ophthalmic canal; Rug, rugosities of the ramphotheca; Sup Lab,
+superior labial ramus. Scale bar: 5 mm
+
+FIGURE 12
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+The trigeminal canals in Cistecephalidae gen. et sp. nov. (Mid-Zambezi Basin, Zambia) Top left, transparent skull (NHCC
+LB366) in oblique view; Top right, natural endocast of the ophthalmic canal in BP/1/3337 Cistecephalidae gen. et sp. nov. (Luangwa Basin,
+Zambia) in dorsal view; Bottom left, transparent skull of NHCC LB366 in lateral view; Bottom right, transparent skull of NHCC LB366 in
+dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue and the maxillary canal is in green. Abbreviations: Al
+Can, alveolar canals; Boss, nasal boss; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin,
+maxillary sinus; NasPal, nasopalatine canal; Oph Can, ophthalmic canal; Oph Nas, nasal ramus of the ophthalmic canal; Sup Lab, superior
+labial ramus. Scale bar: 5 mm. NHCC LB366 is mirrored for comparison
+
+FIGURE 13
+
+The maxillary canal in NHCC LB366 is poorly preserved, but our
+
+be observed on NHCC LB366 because of preservation. In Kawingasau-
+
+observations of this specimen (Figure 13) are complemented by the
+
+rus, there is only one short, unbranched alveolar ramus (Laaß & Kaest-
+
+well preserved specimen of Kawingasaurus described by Laaß and
+
+ner, 2017). The reduction of the alveolar rami presumably coincides
+
+Kaestner (2017). The internal nasal and superior labial rami in NHCC
+
+with the absence of postcanine-teeth in cistecephalids.
+
+LB366 are highly ramified, as in Pristerodon, Abajudon, and Eodicynodon.
+The superior labial ramus innervates and supplies the caniniform pro-
+
+Oudenodon bainii
+
+cess whereas the internal nasal ramus goes to the rostro-ventral margin
+
+Oudenodon and Lystrosaurus represent the clade Bidentalia in our
+
+of the maxilla, lateral to the naris (Figure 13). In Kawingasaurus, these
+
+dataset. This large clade also includes other cryptodonts such as Tro-
+
+branches are similar in their branching pattern but are more strongly
+
+pidostoma, Aulacephalodon, and Pelanomodon, basal dicynodontoids
+
+oriented antero-posteriorly (Laaß & Kaestner, 2017). The external nasal
+
+like Dicynodon and Daptocephalus, and the Triassic kannemeyerii-
+
+ramus is short and ramifies into numerous branches dorsally (Figure
+
+forms (e.g., Kammerer & Angielczyk, 2009; Kammerer et al. 2011,
+
+13). In contrast, Kawingasaurus displays a short and un-ramified exter-
+
+2013; Cox & Angielczyk, 2015; Angielczyk & Kammerer, 2017). As
+
+nal nasal ramus (Laaß & Kaestner, 2017), which is consistent with the
+
+detailed below, the bidentalians in our dataset show important dif-
+
+reconstruction of the maxillary canal of Cistecephalus made by Laaß
+
+ferences from other anomodonts in their pattern of trigeminal canal
+
+and Schillinger (2015: fig. 4).
+
+branching. Oudenodon is represented by a complete skull (NHCC
+
+There are only two short, unbranched alveolar rami visible (Figure
+
+LB631). As in other dicynodonts, the terminal openings of the tri-
+
+13). Unlike Compsodon, they both originate from the maxillary canal
+
+geminal canals are located in the areas bearing rugosity associated
+
+(Figure 13). The maxillary sinus is antero-posteriorly extensive and spa-
+
+with the ramphotheca (Figure 14).
+
+cious because of the absence of a tusk (Figure 13). An infraorbital fora-
+
+Only the nasal ramus of the ophthalmic canal is ossified (Figure
+
+men is present in Kawingasaurus (Laaß & Kaestner, 2017) but could not
+
+14). This ramus is highly branched and innervates the surface of the
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+688
+
+The trigeminal canals in Oudenodon bainii. Top left, transparent skull in oblique view; Top right, solid skull in oblique view;
+Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue and the
+maxillary canal is in green. Abbreviations: Al Can, alveolar canals; Boss, nasal boss; Can Proc, caniniform process; Ext Nas, external nasal
+ramus; Int Nas, internal nasal ramus; Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Nas, nasal ramus of
+the ophthalmic canal; Rug, rugosities of the ramphotheca and frontal; Sup Lab, superior labial ramus. Scale bar: 10 mm
+
+FIGURE 14
+
+nasal bone (Figure 14). Rostrally, its ramifications extend to the caudal
+margin of the naris.
+
+Postcanine teeth are absent in Oudenodon, but there are two,
+reduced alveolar canals originating from the maxillary antrum (Figure
+
+As in Lystrosaurus (see below), but unlike the other anomodonts in
+
+14), as in Compsodon, Myosaurus, and the Zambezi cistecephalid. The
+
+our dataset, the nasopalatine canal does not participate in the innerva-
+
+maxillary antrum is a wide and empty space because of the absence of
+
+tion and nutrition of the surface of the premaxilla. There is a long sul-
+
+a tusk (Figure 14). As in other dicynodonts, it extends into the base of
+
+cus for the nasopalatine nerve which runs along the buccal surface of
+
+the zygomatic process of the maxilla (Figure 14). There is no visible
+
+the palatal portion of the premaxilla, but the course of the nasopalatine
+
+infraorbital foramen.
+
+canal ends in the trabeculae of the premaxilla, a few millimeters after
+the nerve has penetrated the bone (Figure 14). The morphology of the
+
+Lystrosaurus spp.
+
+nasopalatine canal of Oudenodon differs from that of Lystrosaurus in
+
+Two pristinely preserved, acid-prepared skulls, NMQR 815 (L. decli-
+
+not reaching the floor of the naris, which is instead innervated by the
+
+vis) and NMQR 3595 (L. curvatus) were scanned and are described
+
+internal nasal branch of the maxillary canal (Figure 14).
+
+here. As in other dicynodonts, the terminal openings of the trigemi-
+
+All branches of the maxillary canal are highly ramified (Figure 14).
+
+nal canals are located at the external surfaces of the nasal, maxilla,
+
+Rostrally, the internal nasal ramus is extremely ramified and extends
+
+and premaxilla in the areas bearing rugosity associated with the
+
+rostrally and medially beyond the level of the naris (Figure 14). As in
+
+ramphotheca (Figure 15). In addition, the inter-orbital region is
+
+Lystrosaurus (see below), it ramifies in the premaxilla, forming a large
+
+rugose in Lystrosaurus and likely had a keratinous covering (Grine,
+
+star-shaped plexus of branches directed toward the surface of the
+
+Forster, Cluver, & Georgi, 2006; Jasinoski & Chinsamy-Turan, 2012),
+
+whole premaxilla, including the rostral part of its palatal portion (Figure
+
+and it is innervated by the frontal ramus of the ophthalmic canal
+
+14). The internal nasal ramus is separated from the external nasal ramus
+
+(Figure 15).
+
+by a long branch that gives off numerous, small ramifications ventrally
+
+In contrast to Oudenodon, both rami of the ophthalmic canal are
+
+(Figure 14). The superior labial ramus innervates and supplies the cani-
+
+ossified in Lystrosaurus (Figure 15). The frontal ramus ramifies inside the
+
+niform process with many ramifications (Figure 14), even though tusks
+
+frontal bone and its numerous branches open onto the bone’s inter-
+
+are absent in Oudenodon. The external nasal ramus also is highly rami-
+
+orbital surface (Figure 15). The nasal ramus innervates and supplies the
+
+fied, and emits numerous branches that ramify dorsal to the caniniform
+
+surface of the nasal bone rostral to the orbit and its ramifications
+
+process (Figure 14).
+
+extend rostrally to reach the caudal margin of the naris (Figure 15). The
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 689
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+The trigeminal canals in Lystrosaurus declivis (NMQR 815). Top left, transparent skull in oblique view; Top right, solid skull in
+oblique view; Bottom left, lateral view; Bottom right, dorsal view. The ophthalmic canal is in light blue, the nasopalatine canal is in dark blue
+and the maxillary canal is in green. Abbreviations: Can Proc, caniniform process; Ext Nas, external nasal ramus; Int Nas, internal nasal ramus;
+Mx Can, maxillary canal; Mx Sin, maxillary sinus; NasPal, nasopalatine canal; Oph Fr, frontal ramus of the ophthalmic nerve; Oph Nas, nasal
+ramus of the ophthalmic canal; Rug, rugosities of the ramphotheca and frontal; Sup Lab, superior labial ramus. Scale bar: 20 mm
+
+FIGURE 15
+
+branches of the frontal ramus are oriented vertically, whereas those of
+
+observed in Oudenodon. The external nasal ramus is also highly rami-
+
+the nasal ramus are oriented antero-posteriorly (Figure 15).
+
+fied, and it is separated from the internal nasal ramus by an elongated
+
+As in Oudenodon, the nasopalatine canal does not participate in the
+
+branch that itself gives off numerous, small ventral branches that inner-
+
+innervation and nutrition of the beak. There is a distinct sulcus for the
+
+vate the anterolateral portion of the palatal rim (Figure 15). Unlike
+
+nasopalatine nerve that runs along the buccal surface of the palatal
+
+Compsodon, Abajudon, or Eodicynodon, the external nasal ramus of
+
+portion of the premaxilla, as in other dicynodonts, but then it pene-
+
+Lystrosaurus emits numerous branches that ramify dorsal to the tusk
+
+trates the nasopalatine canal at the ventral margin of the premaxilla,
+
+(Figure 15). The superior labial ramus also is highly ramified and reaches
+
+bends at a nearly 908 angle, and extends toward the naris (Figure 15).
+
+the surface of the caniniform process rostral to the canine (Figure 15).
+
+There, it emits two smaller canals that end on the floor of the naris
+
+There is no alveolar canal, consistent with the absence of postca-
+
+(Figure 15). No anastomosis of the maxillary canal is visible in either of
+
+nine teeth (Figure 15). The maxillary antrum is occupied by the large
+
+the Lystrosaurus specimens.
+
+tusk root, and extends into the base of the zygomatic process of the
+
+All branches of the maxillary canal are extremely ramified (Figure
+
+maxilla (Figure 7d). Cluver (1971) also noted this posterior extension of
+
+15), similar to the condition in Oudenodon. Rostrally, the internal nasal
+
+the maxillary sinus in his detailed description of the skull of Lystrosaurus.
+
+ramus is the most ramified of all branches and the most modified com-
+
+There is no visible infraorbital foramen caudal to the maxillary antrum.
+
+pared to that of other NMS. As noted above, the nasopalatine canal no
+longer reaches the surface of the premaxilla, and is replaced by the
+internal nasal ramus (Figure 15). The internal nasal ramus extends rostrally and medially beyond the level of the naris (Figure 15). From here,
+it ramifies in every direction, forming a large star-shaped plexus of
+
+3 | DISCUSSION
+3.1 | Character evolution in Anomodontia
+
+branches directed toward the surface of the whole premaxilla (Figure
+
+To understand the evolutionary history of the trigeminal canals in
+
+15). This condition appears to be unique to bidentalians, as it is also
+
+anomodonts, we used parsimony to optimize a series of characters
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+690
+
+| 691
+
+Results of the character state reconstructions. Phylogenetic tree after Angielczyk and Kammerer (2017). See the data matrix in
+Supplementary Information 1
+
+FIGURE 16
+
+based on our data on a modified version of the tree presented in
+
+(Benoit et al., 2016a,b,2017a,b), were used to infer the ancestral inter-
+
+Angielczyk & Kammerer (2017). Heleosaurus, Varanosaurus, Olivierosu-
+
+nal anatomy, innervation, and supply of the snout that was present at
+
+chus, and Thrinaxodon, as well as other taxa described in the literature
+
+the root of Anomodontia (Figure 16). Based on these taxa, the
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+BENOIT ET AL.
+
+|
+
+FIGURE 16
+
+BENOIT ET AL.
+
+Continued
+
+plesiomorphic condition includes: (a) a maxillary canal with three well-
+
+are themselves ramified into about three to six branches (Figures 2–4;
+
+developed alveolar rami, the caudal-most ramus of which is extremely
+
+Benoit et al. 2016a); (c) the presence of a maxillary sinus in which the
+
+long in ‘pelycosaurs’ but not in therapsids (Figures 2–4, 16h); (b) the
+
+maxillary canal vanishes caudally (Figures 2–4; Benoit et al. 2016a); (d)
+
+presence of three main rostral branches of the maxillary canal (the
+
+a short nasopalatine canal that contributes in part to the innervation of
+
+external and internal nasal rami, and the superior labial ramus), which
+
+the premaxilla and leaves no sulcus on the buccal portion of the
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+692
+
+premaxilla (in Eutheriodontia, the nasopalatine canal barely participates
+
+present in Galeops and Galepus, which is important given that Galeops
+
+in the innervation of the premaxilla and may be connected to the inter-
+
+typically is reconstructed as the sister taxon of Dicynodontia in most
+
+nal nasal ramus, but this might constitute a secondarily-derived charac-
+
+phylogenetic analyses (e.g., Kammerer et al., 2011, 2013; Cox &
+
+ter) (Figure 16b); and potentially (e) an unossified ophthalmic canal
+
+Angielczyk, 2015; Angielczyk & Kammerer, 2017). However, Brink-
+
+(Figures 2, 16c, d; Benoit et al., 2016a,2017a). Within the framework
+
+man’s assessment of the character in Galeops was based on the holo-
+
+of this article, the first significant change in trigeminal canal anatomy
+
+type of G. whaitsi (AMNH FARB 5536); a natural mold in which the
+
+related to anomodont evolution was the reduction of the caudal alveo-
+
+premaxilla is poorly preserved. Two more recently identified referred
+
+lar ramus near the base of Therapsida, which anomodonts subse-
+
+specimens of G. whaitsi (SAM-PK-4005, SAM-PK-12261) have better
+
+quently inherited from their therapsid ancestors (Figure 16h).
+
+preserved premaxillae that clearly show that tooth alveoli were present
+on the premaxilla and that their seeming absence in the holotype is an
+
+3.2 | The origin of the ramphotheca in basal
+
+artifact of preservation (Angielczyk, 2004). The only known skull of
+
+anomodonts
+
+Galepus (AMNH FARB 5541) also is a natural mold, and although the
+anterior portion of the premaxilla appears to be edentulous, the preser-
+
+The oldest and most stemward non-dicynodont anomodont in our sample, Patranomodon, differs little from the ancestral condition except
+that it displays a well-defined sulcus on the buccal portion of the premaxilla that leads rostrally to a distinctly larger and more ramified nasopalatine canal (Figure 5). The clear sulcus left by the naso-palatine
+nerve and vessels, and the numerous ramifications of the canal in
+Patranomodon, suggest that the nasopalatine nerve and vessels were
+larger, more ramified, and assumed a more important role in the innervation and nutrition of the extremity of the premaxilla in nondicynodont anomodonts than in other NMS. This condition is reconstructed as an unambiguous synapomorphy of the clade unifying Patranomodon with other, more derived anomodonts (although there is a
+reversal in Bidentalia; see below) (Figure 16b). Because Varanosaurus
+and Olivierosuchus display an intermediate condition in which the nasopalatine nerve ramifies in the premaxilla but leaves no deep sulcus on
+its buccal portion (which might be the plesiomorphic condition for
+NMS), the state of this character is reconstructed as ambiguous in
+anomodont taxa stemwards of Patranomodon (Figure 16b). Missing
+data for taxa such as the venyukoviioids and anomocephaloids also
+contributes to the equivocal plesiomorphic state reconstruction for
+that portion of the tree, and investigation of these taxa would help to
+better pinpoint when the change occurred within Anomodontia. Finally,
+the exact optimization also depends on the phylogenetic placement of
+Patranomodon (e.g., it is reconstructed in a more stemward position in
+the analysis of Cox & Angielczyk, 2015, compared to the analyses of
+Angielczyk & Kammerer, 2017 and Angielczyk et al., in press, which
+would imply a deeper origin in Anomodontia).
+The morphology of the nasopalatine canal in Patranomodon is reminiscent of that observed in chelonians, where the nasopalatine canal
+leaves a deep sulcus and abundantly innervates and supplies the sur-
+
+vation of the specimen and the presence of tooth impressions farther
+back on the jaws introduce some uncertainty as to whether the premaxilla originally was toothless. Even if a true beak did not evolve
+before the origin of dicynodonts, the chelonian-like enlargement of the
+nasopalatine canal in Patranomodon, where the roots of the premaxillary teeth are preserved, suggests that a transformation of the anatomy
+and sensitivity of the snout had already begun in basal anomodonts,
+which might have facilitated the evolution of the beak later in the
+clade’s history.
+The possible link between the anatomy of the nasopalatine canal
+and the presence of a ramphotheca is also supported by the data from
+Myosaurus. Unlike other dicynodonts, the upper jaw of Myosaurus displays no sign of the rugosity that marks the presence of a cornified
+cover (Cluver, 1974; Hammer & Cosgriff, 1981; Surkov, 2006). Myosaurus retains a long and deep sulcus for the nasopalatine nerve, but the
+portion of premaxilla preserved in BP/1/2701a shows that only a few
+ramifications actually reach the extremity of the snout (Figure 12a).
+The stubbiness of the maxillary canal, the retracted position of its rostral openings, and the variability of its morphology among specimens
+suggest that the trigeminal nerve was subject to weaker selective pressures in Myosaurus than in other dicynodonts, which is typical of biological structures that are no longer indispensable (see e.g., Benoit,
+Abdala, Van den Brandt, Manger, & Rubidge, 2015; Benoit et al.,
+2016a; Billet et al., 2012). These observations raise the possibility that
+the ramphotheca on the premaxilla of Myosaurus was reduced or
+absent (Surkov, 2006). Such reduction or loss would be surprising, considering that Myosaurus is edentulous and that there is evidence for a
+ramphotheca on the mandible (Cluver, 1974; Hammer & Cosgriff,
+1981; Surkov, 2006). Further study of its sensory and feeding systems
+is clearly warranted.
+
+face of the premaxilla (Figure 1; Owen, 1866). This raises the possibility
+that at least a small ramphotheca covered the premaxilla in Patranomodon. The premaxilla is not preserved in the only specimen of Patrano-
+
+3.3 | Character evolution at the root of Dicynodontia
+
+modon, so it is impossible to assess whether rugosity associated with a
+
+The trigeminal canals of Eodicynodon and the other sampled dicyno-
+
+ramphotheca was present. Such rugosity is absent in most other non-
+
+donts differ extensively from the inferred ancestral condition found in
+
+dicynodont anomodonts (Biseridens, Anomocephalus, Tiarajudens, venyu-
+
+the outgroups (Figure 16). For example, although a discrete infraorbital
+
+koviioids, Galechirus), which display large premaxillary teeth instead of a
+
+foramen for the CNV2 located posterior to the maxillary sinus and
+
+beak (Brinkman, 1981; Ivakhnenko, 1996; Modesto & Rubidge, 2000;
+
+which opens inside the orbit is reconstructed as an ambiguous dicyno-
+
+Liu et al., 2010; Cisneros, Abdala, Jashashvili, Bueno, & Dentzien-Dias,
+
+dont synapomorphy with reversals in Diictodon, Compsodon, and the
+
+2015). Brinkman (1981) suggested that an edentulous beak was
+
+bidentalians; Figure 16k), some of the ambiguity of this character is
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 693
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+likely the result of missing data. All of the dicynodonts, except the cis-
+
+(Benoit et al. 2016a,2017a), whereas the ramus is unossified in all other
+
+tecephalids, also have an ossified nasal ramus of the ophthalmic canal,
+
+biarmosuchians, gorgonopsians, therocephalians, and non-mammalian
+
+although the canal is ossified to varying degrees in different taxa (Fig-
+
+cynodonts that have been examined to date (Benoit et al. 2016a,b).
+
+ure 16c). The superior labial ramus is usually highly ramified in dicyno-
+
+The lack of an ossified nasal ramus in Patranomodon and the seeming
+
+donts, except in Compsodon, Diictodon, and Myosaurus, and it supplies
+
+ubiquity of an unossified nasal ramus among NMS strongly suggest
+
+the caniniform process of the maxilla. (Figures 6, 8–15). This character
+
+that this was the basal state for Anomodontia (Figure 16c). This could
+
+is reconstructed as a synapomorphy of Dicynodontia, with the condi-
+
+mean that the character state is a dicynodont synapomorphy, but miss-
+
+tion in Diictodon, Compsodon, and Myosaurus representing reversals
+
+ing data for Galechirus, Galeops, and Eodicynodon oelofseni raise the pos-
+
+(Figure 16f). Finally, with the exception of Abajudon, the cistecephalids,
+
+sibility that it also could have evolved on the dicynodont stem
+
+and Oudenodon, the sampled dicynodonts share the presence of an
+
+sometime after the divergence of Patranomodon. Further investigation
+
+enlarged caniniform tusk in the maxilla (Figure 16e). The root of the
+
+of these taxa and other non-dicynodont anomodonts will be necessary
+
+tusk, when present, compresses the maxillary sinus and displaces it
+
+to refine understanding of when in anomodont history an ossified nasal
+
+toward the zygomatic process of the maxilla, two characters that are
+
+ramus of the ophthalmic canal evolved. It is possible that the nasal
+
+reconstructed as synapomorphies of dicynodonts (Figure 16i, j).
+
+bone was covered by skin or a keratinous sheath that was involved in
+
+Compression (or reduction in size) of the maxillary sinus is
+
+display for species recognition or intraspecific signaling (Benoit et al.,
+
+unequivocally reconstructed as the plesiomorphic state for dicynodonts
+
+2016a). This would be consistent with the fact that the nasal ramus of
+
+(Figure 16i). Not surprisingly, this character state is correlated with the
+
+the opthalmic canal is more ramified in taxa with prominent nasal
+
+presence of the tusk: all of the tusked dicynodonts in our sample dis-
+
+bosses such as Eodicynodon, Diictodon, Compsodon, and Oudenodon
+
+play the state, whereas tuskless taxa such as Abajudon, Myosaurus, the
+
+(Figures 6, 10, 11, 14).
+
+cistecephalids, and Oudenodon do not (Figure 16e, i). This observation
+is important for two reasons. First, in a strict parsimony framework,
+
+3.4 | The effect of dentition on facial innervation
+
+missing data for Galechirus, Galeops, and Eodicynodon oelofseni make
+the optimization for the character equivocal in the non-dicynodont
+
+In addition to the morphology of the maxillary sinus noted above, two
+
+chainosaurs, raising the possibility that these taxa had a compressed
+
+other characters seem to have been affected by the extensive transfor-
+
+maxillary sinus. However, none of these taxa possessed a dicynodont-
+
+mation of the dentition that occurred in dicynodonts. The first of these
+
+like tusk (or a distinct caniniform tooth at all), so it seems highly unlikely
+
+characters is the reduction or loss of the alveolar rami of the maxillary
+
+that their maxillary sinuses were reduced in size. Second, because cani-
+
+canal. The alveolar rami of CNV2 are responsible for innervating the
+
+niform tusks are ubiquitous among basal dicynodonts, and the absence
+
+tooth roots and surrounding regions (Rodella et al., 2012; Higashiyama
+
+of tusks in taxa such as the cistecephalids, Myosaurus, Diictodon and
+
+& Kuratani, 2014). The ancestral state reconstruction for this character
+
+Oudenodon seem to represent secondary losses or polymorphism (e.g.,
+
+is equivocal from near the base of Chainosauria to the base of Thero-
+
+Abajudon; see Sullivan, Reisz, & Smith, 2003; Olroyd et al., in press), we
+
+chelonia, where reduction of the alveolar ramus is unequivocally
+
+posit that the condition in these taxa are reversals associated with the
+
+inferred to be the ancestral character state (Figure 16h). Part of this
+
+loss of the tusk (Figure 16e, i). Notably, the non-dicynodont anomo-
+
+uncertainty stems from the large amount of missing data for basal dicy-
+
+dont Tiarajudens has extremely enlarged, sabre-like caniniforms, and all
+
+nodonts, but it is also due to the complex pattern of evolution of the
+
+phylogenies in which it has been included imply that its large canini-
+
+postcanine dentition of dicynodonts (Figure 16g).
+
+forms evolved independently from the tusks of dicynodonts (Cisneros,
+
+All non-dicynodont anomodonts, apart from Tiarajudens, have an
+
+Abdala, Rubidge, Dentzien-Dias, & Bueno Ade, 2011; Cisneros et al.,
+
+extensive postcanine dentition in the maxilla (Brinkman, 1981; Ivakh-
+
+2015). According to Cisneros et al. (2015:fig. 5), the maxillary sinus in
+
+nenko, 1996; Rubidge & Hopson, 1996; Modesto & Rubidge, 2000;
+
+Tiarjudens also was occupied by the root of the caniniform tooth,
+
+Rybczynski, 2000; Liu et al., 2010; Cisneros et al, 2015), and Eodicyno-
+
+though the sinus seems to have been relatively spacious compared to
+
+don oelofseni also retains three maxillary teeth (Rubidge, 1990a). In con-
+
+the condition in dicynodonts when deformation is taken into account.
+
+trast, Eodicynodon oosthuizeni, Colobodectes, and pylaecephalids other
+
+This might be due to the extremely mediolaterally compressed shape
+
+than Diictodon (in which postcanines are absent; e.g., Sullivan & Reisz,
+
+of the caniniform in Tiarajudens compared to the more circular cross-
+
+2005) all retain only one to two relictual postcanines (e.g., Rubidge
+
+section of the tusk root in dicynodonts. Assuming that the only known
+
+1990b; Modesto, Rubidge, Visser, & Welman, 2003; Angielczyk &
+
+specimen of Tiarajudens accurately represents the morphology of the
+
+Rubidge, 2009, 2010, 2013). Pristerodon, Brachyprosopus and the endo-
+
+maxillary sinus lends further support to the hypothesis that the com-
+
+thiodonts have more extensive postcanine dentitions (e.g., Keyser,
+
+pressed maxillary sinus is a synapomorphy of dicynodonts associated
+
+1993; Castanhinha et al., 2013; Angielczyk et al., 2014a,; Cox &
+
+with the evolution of the tusk in the clade.
+
+Angielczyk, 2015), which parsimony reconstructs as a reversal to the
+
+In our current dataset, the presence of an ossified nasal ramus,
+
+basal character state (Figure 16g). Finally, absence of a postcanine den-
+
+resulting in the complete enclosure of the corresponding nerve inside
+
+tition is reconstructed as the plesiomorphic state for Therochelonia,
+
+the nasal bone, is reconstructed as an unambiguous synapomorphy of
+
+with secondary reversals to the presence of a small number of postca-
+
+dicynodonts (Figure 16c). Apart from dicynodonts, this character has
+
+nines in Emydops and Compsodon (Figure 16g). Our data indicate that
+
+also been documented in Thrinaxodon and the dinocephalian Moschops
+
+there is only a general correlation between the loss of postcanines and
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+694
+
+the reduction of the alveolar rami (Figure 16g, h). For example, in Eodi-
+
+of the beak in the clade. A major evolutionary transition occurred at
+
+cynodon oosthuizeni the alveolar ramus is completely lost (Figure 6),
+
+the base of Dicynodontia, with the appearance of an extensive second-
+
+despite the retention of a small number of postcanines, whereas the
+
+ary palate, significant reduction in the dentition (i.e., loss of premaxillary
+
+alveolar rami are reduced but not completely lost in the cistecephalids
+
+teeth and retention of only a small number of maxillary postcanines),
+
+and Oudenodon (Figure 13), which retain no postcanine dentition.
+
+and the gain of a keratinous beak. Even the basal dicynodont Eodicyno-
+
+Because of this complexity we cannot definitively resolve the evolu-
+
+don oosthuizeni is far more similar to later dicynodonts in these charac-
+
+tionary history of the alveolar rami in dicynodonts without more
+
+ters than to non-dicynodont chainosaurs such as Galeops (c.f., the
+
+detailed sampling of basal dicynodonts.
+
+positions of Galeops and E. oosthuizeni in the morphospace of Ruta
+
+The second character is the pattern of innervation of the maxilla,
+
+et al., 2013), despite retaining some pleiomorphic character states in
+
+particularly the caniniform process, by the superior labial ramus. In all
+
+other parts of the skull (Barry, 1974; Rubidge, 1984, 1990b; King et al.,
+
+of the sampled dicynodonts except Diictodon, Compsodon, and Myosau-
+
+1989).
+
+rus, the superior labial ramus is moderately to highly ramified, richly
+
+These changes in cranial morphology appear to have been accom-
+
+supplying the caniniform process of the maxilla. Extensive ramification
+
+panied by changes in the trigeminal canals and associated structures
+
+of the superior labial ramus is reconstructed as a synapomorphy of
+
+that are optimized as occurring at the base of Dicynodontia (i.e., reduc-
+
+dicynodonts in our dataset, and this is also the node where the tusk
+
+tion of the maxillary sinus, ossified nasal ramus of the opthalmic canal,
+
+and caniniform process of the maxilla first appear (Figure 16e, f). As the
+
+reduction of the alveolar rami of the maxillary canal, elaboration of the
+
+caniniform process houses the tusk, the association between these
+
+superior labial ramus in the vicinity of the caniniform process), although
+
+structures is clear, and there are few cases among dicynodonts, such as
+
+it is interesting to note that at least one important change—enlarge-
+
+Endothiodon tolani, where the tusk is present but a well-developed can-
+
+ment and increased ramification of the nasopalatine canal—occurred
+
+iniform process is absent. It follows that as these structures were being
+
+before the evolution of the beak (Figure 16b). Once the basic ground
+
+elaborated, the superior labial ramus would also increase in complexity.
+
+plan for the dicynodont skull was established, experimentation contin-
+
+Reduction of the postcanine dentition and evolution of the keratinous
+
+ued in the clade, including changes in the details of the secondary pal-
+
+beak also might have been important here. For example, in addition to
+
+ate and variation in the number of postcanine teeth. This was
+
+representing the phylogenetically earliest instance of the presence of a
+
+accompanied by additional changes to the trigeminal canals, and there
+
+tusk and caniniform process, Eodicynodon oosthuizeni also shows good
+
+is evidence, such as the varying degrees of reduction of the alveolar
+
+evidence for the presence of a beak and has a highly reduced postca-
+
+branches observed in our sampled taxa, to suggest that some of these
+
+nine dentition. Given the general relationship between reduction of the
+
+changes occurred homoplastically (Figure 16). The beaks and innerva-
+
+alveolar rami and reduction of the postcanines noted above, it is unsur-
+
+tion patterns of bidentalian dicynodonts tend to display more consis-
+
+prising that the superior labial ramus would take over innervation of
+
+tency in morphology and structure than is the case for the more
+
+the anterior regions of the maxilla as the alveolar rami were being
+
+stemward taxa that we focused on here (Figures 14–16l). For example,
+
+reduced. However, as is the case with the correlation between the
+
+there is considerable variation in the presence and number of postca-
+
+presence of postcanines and the morphology of the alveolar rami, the
+
+nine teeth in non-bidentalians, whereas only a handful of bidentalians
+
+elaboration of the superior labial ramus is not precisely associated with
+
+such as Tropidosotma, Australobarbarus, and Rastodon retain postca-
+
+the presence of the caniniform process and tusk (Figure 16e, f). For
+
+nines (Kurkin, 2000; Botha & Angielczyk, 2007; Boos, Kammerer,
+
+example, Compsodon and Diictodon have simplified superior labial rami,
+
+Schultz, Soares, & Ilha, 2016). Because of this, we predict that bidenta-
+
+despite possessing both the tusk and caniniform process (Figures 10,
+
+lians exmined in the future will present similar morphologies. However,
+
+11). The case of Diictodon is especially puzzling given that the canini-
+
+the bidentalians studied here display some novel character states indi-
+
+form process appears to have played a key role in its feeding system
+
+cating that the evolution of facial innervation did not stop completely
+
+(e.g., Cluver, 1970; Hotton, 1986; Rayner, 1992; Cox, 1998; Cox &
+
+at the base of Bidentalia (Figure 16).
+
+Angielczyk, 2015). Study of additional taxa will be necessary to deter-
+
+Indeed, bidentalians have undergone a significant reorganization of
+
+mine whether the condition in Diictodon is an autapomorphic reversal
+
+the trigeminal canals compared to the other dicynodonts included in
+
+or perhaps a more general pylaecephalid synapomorphy, and to better
+
+this study, which implies that their pattern of facial innervation also
+
+understand the evolution of the superior labial ramus in emydopoids
+
+was different. The nasopalatine ramus no longer innervates the rostral
+
+(i.e., do the reductions in Compsodon and Myosaurus represent inde-
+
+end of the premaxilla (Figure 16b). In Lystrosaurus, it now primarily sup-
+
+pendent reversals or did cistecephalids re-elaborate the ramus, perhaps
+
+plies the area around the external naris, whereas in Oudenodon, it sim-
+
+as part of the transition to a fossorial lifestyle?).
+
+ply vanishes inside the premaxilla (Figures 14, 15). In its place, the
+highly ramified internal nasal ramus innervates the rostral end of the
+
+3.5 | General overview and significance for
+anomodont evolution
+
+premaxilla. In both bidentalians examined here, this branch originates in
+
+In summary, the results of our examination of the evolution of the tri-
+
+ures 14, 15). Once inside the premaxilla, it forms a large plexus that
+
+geminal canals in anomodonts fit well with apparent evolutionary pat-
+
+sends ramifications in all directions (Figures 14, 15). This morphology is
+
+terns related to the loss of the postcanine dentition and the evolution
+
+unique to bidentalians, and given that Oudenodon and Lystrosaurus are
+
+the maxilla and extends rostrally to the premaxilla through a long canal
+that emits ventral ramifications along the margin of the upper jaw (Fig-
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 695
+
+BENOIT ET AL.
+
+|
+
+BENOIT ET AL.
+
+distant relatives within this clade (Angielczyk & Kammerer, 2017), it is
+
+example, the nasopalatine canal only sends a few branches to the inte-
+
+likely a conserved synapomorphy of Bidentalia (Figure 16l). The por-
+
+rior of the naris in Lystrosaurus (Figure 15), unlike Diictodon in which
+
+tions of the external nasal ramus and superior labial ramus that supply
+
+the premaxilla is still mostly innervated and supplied by the nasopala-
+
+the rest of the palatal rim and caniniform process are ramified to an
+
+tine canal (Figure 10). Given these differences, and the large number of
+
+unusual degree as well (Figures 14, 15).
+
+other characters that suggest that Diictodon is distantly related to
+
+Besides the unusual arrangement of the trigeminal canals, the
+
+Bidentalia, it is almost certain that the similarities of the internal and
+
+degree of ramification of the nerves innervating the surface of the
+
+external nasal rami are homoplasies (Figure 16l), perhaps related to bur-
+
+snout in bidentalians is also striking. This suggests that the snout of
+
+rowing habits.
+
+bidentalians was more sensitive than in the other taxa we examined,
+although the need for this increased sensitivity is unclear. Lystrosaurus
+frequently has been suggested to have had an amphibious,
+
+3.6 | Facial innervation and skull shape evolution in
+Lystrosaurus
+
+hippopotamus-like ecology (Broom 1903a, b, 1932; Watson, 1912,
+1913; Brink, 1951; Camp, 1956; Cluver, 1971; Kemp, 1982; Hotton,
+
+The trigeminal canal anatomy of Lystrosaurus is intriguing when consid-
+
+1986; Germain & Laurin, 2005; Ray et al., 2005; Canoville & Laurin,
+
+ered in the context of the unusual skull shape of the taxon compared
+
+2010; although see King, 1991; King & Cluver, 1991; Botha & Smith,
+
+to other dicynodonts. Since the earliest descriptions of specimens now
+
+2007; Botha-Brink & Angielczyk, 2010), and the ventrally extended
+
+recognized as representing Lystrosaurus (Huxley, 1859; Owen, 1860),
+
+snout has been suggested to be an adaptation to allow it to feed with
+
+authors have commented on the unusual deepening of the snout. Clu-
+
+the face partially submerged. If this is correct, then receptors con-
+
+ver (1971) considered the proportional changes in the snout of Lystro-
+
+nected to the trigeminal nerve, such as tactile receptors similar to the
+
+saurus in detail. He found that compared to more “normally”
+
+dome pressure receptors present on the snout of crocodilians (Leitch &
+
+proportioned dicynodonts, the nostril of Lystrosaurus is in roughly the
+
+Catania, 2012) or electroreceptors similar to those of monotremes
+
+same position relative to the basicranial axis, whereas the palatal rim
+
+(Manger & Pettigrew, 1995, 1996) may have been present. The pres-
+
+has been shifted ventrally. The mechanism effecting this change pri-
+
+ence of similar receptors has already been hypothesized in a wide vari-
+
+marily appears to be the ventral extension of the premaxilla, with con-
+
+ety of therapsids including the Russian therocephalian Perplexisaurus
+
+comitant morphological changes in other elements, such as deepening
+
+(Tatarinov, 1999; Ivakhnenko, 2001; Surkov, 2006). Alternatively, the
+
+of the vomerine septum.
+
+arrangement of the jaw musculature, construction of the skull, and the
+
+A logical scenario for the evolution of the facial innervation in
+
+presence of a patent suture between the premaxilla and maxilla all sug-
+
+Lystrosaurus follows from Cluver’s (1971) proposed mechanism for the
+
+gest that Lystrosaurus had a powerful, snapping bite (Crompton & Hot-
+
+deepening of the snout in this taxon (ventral lengthening of the subna-
+
+ton, 1967; Cluver, 1971; Jasinoski, Rayfield, & Chinsamy, 2009, 2010a,
+
+rial portion of the premaxilla) and the anatomy of the trigeminal canals
+
+2010b), and increased innervation of the snout may have increased
+
+observed here. In the other dicynodonts examined in this study, the
+
+food selectivity during feeding, as recently hypothesized in dinosaurs
+
+nasopalatine canal (and associated nerve) runs along the roof of the
+
+(Barker et al., 2017). Both of these hypotheses, however, do not
+
+buccal cavity, passing close to the external naris, and ramifies to inner-
+
+account for the presence of a similar ramification pattern in Oudenodon,
+
+vate the rostral portion of the premaxilla (Figures 5–13). In Lystrosaurus,
+
+which is generally regarded as terrestrial and having a less specialized
+
+the nasopalatine canal also passes along the dorsal surface of the buc-
+
+feeding system and mechanical properties of the skull (Jasinoski et al.
+
+cal cavity before sharply bending and innervating the area near the
+
+2009, 2010a, b). Finally, there is evidence that Oudenodon and Lystro-
+
+external naris (but not the rostral surface of the premaxilla) (Figure 15).
+
+saurus spent time in burrows (e.g., Groenewald, 1991; Botha, 2003;
+
+This suggests that the nasopalatine canal was forced to maintain its
+
+Modesto & Botha-Brink, 2010; Krapovickas, Mancuso, Marsicano,
+
+ancestral association with the external naris as the subnarial portion of
+
+Domnanovich, & Schultz, 2013; Botha-Brink, 2017), and the other bur-
+
+the premaxilla extended ventrally. Moreover, the snout deepening in
+
+rowing dicynodonts included in our dataset (Diictodon and the cistece-
+
+Lystrosaurus may have been facilitated further by the replacement of
+
+phalids) have highly innervated regions of their snouts as well (Figures
+
+the nasopalatine ramus by the internal nasal rami of the maxillary canal
+
+10, 13; Laaß & Kaestner, 2017). This may indicate that tactile reception
+
+as the main source of innervation of the premaxilla in Bidentalia, which
+
+from the face was an important source of sensory input for dicyno-
+
+freed the nasopalatine ramus from having to maintain an association
+
+donts when underground.
+
+with the alveolar region of the premaxilla (Figure 15).
+
+Interestingly, despite occupying a disparate phylogenetic position,
+
+Although this scenario is speculative, it likely can be tested. Recent
+
+the burrowing taxon Diictodon displays some characters of the trigemi-
+
+phylogenetic analyses have consistently reconstructed the Permian
+
+nal canals that are reminiscent of bidentalians. The internal nasal ramus
+
+dicynodonts Euptychognathus bathyrhynchus and Kwazulusaurus shakai
+
+of Diictodon not only innervates the maxilla, but also extends rostrally
+
+(if it is a valid taxon) as members of Lystrosauridae, and Sintocephalus
+
+to reach the surface of the premaxilla, as in bidentalians (Figure 10).
+
+alticeps, Basilodon woodwardi, and Syops vanhoepeni are also sometimes
+
+The divergence points of the external and internal nasal rami also are
+
+considered members of this clade (Kammerer et al., 2011, 2013;
+
+separated by a long segment of the maxillary canal only in Diictodon,
+
+Castanhinha et al., 2013; Cox & Angielczyk, 2015; Boos et al., 2016;
+
+Oudenodon, and Lystrosaurus in our dataset (Figures 10, 14, 15). How-
+
+Angielczyk et al., in press). These taxa have less extreme snout
+
+ever, there are also important differences between these taxa. For
+
+morphologies than Lystrosaurus and might preserve intermediate
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+696
+
+arrangements of the trigeminal canals that could elucidate the details
+
+AUTHOR CONT RI BUT IONS
+
+of the transition.
+
+Study concept and design: JB, KDA. Acquisition of data: JB, KDA,
+JAM, VF. Analysis and interpretation of data: JB, KDA. Drafting of
+the manuscript: JB, KDA. Critical revision of the manuscript for
+
+4 | CONCLUSION
+
+important intellectual content: JAM, PM, VF, BR. Obtained funding:
+JB, PM, BR. Administrative, technical, and material support: PM, BR.
+
+Anomodonts are distinguished from all other NMS by the greater
+importance of the nasopalatine nerve in the innervation of the snout.
+
+Study supervision: PM, BR. All authors gave final approval for
+publication.
+
+This condition is similar to that encountered in turtles, suggesting that
+it is likely correlated with the evolution of the beak in both clades.
+Here we highlight a complex series of transformations, with multiple
+homoplasic losses of the alveolar rami and reduction of the maxillary
+sinus correlated to the numerous reductions, losses and potential re-
+
+ORC ID
+Julien Benoit
+
+http://orcid.org/0000-0001-5378-3940
+
+Paul Manger
+
+http://orcid.org/0000-0002-1881-2854
+
+acquisitions of the postcanine dentition and tusk. Despite this, some
+trends can be traced. It appears that the trigeminal canals evolved
+
+RE FE RE NC ES
+
+under the strong influence of both the dentition and the ramphotheca.
+
+Abdel-Kader, T. G., Ali, R. S., & Ibrahim, N. M. (2011). The Cranial Nerves
+of Mabuya quinquetaeniata III: Nervus Trigeminus. Life Science Journal,
+8, 650–669.
+
+Taxa with reduced or absent postcanine teeth are more likely to lose
+their alveolar rami, and taxa with large tusks have a compressed maxillary antrum. In this respect, the typical dicynodont condition (large
+tusk, small maxillary antrum, no premaxillary and postcanine teeth,
+alveolar ramus absent) was already achieved in Eodicynodon and then,
+with some degree of convergence, in many other more derived taxa.
+The evolution of the trigeminal canals and sensitivity in dicynodonts
+highlight another example of the complexity of dicynodont evolution.
+This underscores the fact that the extensive radiation of dicynodonts
+produced a tremendous diversity of forms and functional types, and
+that they deserve special attention among NMS.
+
+AC KNOW LE DGME NT S
+We thank the following institutions for access to specimens: the
+American Museum of Natural History (New York City, U.S.A.), the
+Evolutionary Studies Institute (Johannesburg, South Africa), the
+Council for Geoscience (Pretoria, South Africa), the Field Museum of
+Natural History (Chicago, U.S.A.), the National Heritage Conservation
+Commission (Lusaka, Zambia), the National Museum (Bloemfontein,
+South Africa), and the Iziko Museum of Natural History South Africa
+(Cape Town, South Africa). We acknowledge the European Synchrotron Radiation Facility for provision of synchrotron radiation facilities, and we would like to thank P. Tafforeau for assistance in using
+beamline ID17. J. Lungmus assisted with data collection that University of Chicago PaleoCT facility. This research was conducted with
+financial support from the Claude Leon Foundation; PAST and its
+scatterlings projects; the NRF African Origin Platform; and the DSTNRF Centre of Excellence in Palaeosciences (CoE in Palaeosciences).
+Opinions expressed and conclusions arrived at, are those of the
+authors and are not necessarily to be attributed to the CoE in
+Paleosciences.
+
+C ONFLICT OF INT E RE ST
+The authors declare no competing interests.
+
+Angielczyk, K. D. (2004). Phylogenetic evidence for and implications of a
+dual origin of propaliny in anomodont therapsids (Synapsida). Paleobiology, 30(2), 268–296.
+Angielczyk, K. D., Hancox, P. J., & Nabavizadeh, A. (In Press). A redescription of the Triassic kannemeyeriiform dicynodont Sangusaurus
+(Therapsida, Anomodontia), with an analysis of its feeding system. In
+C. A. Sidor, & S. J. Nesbitt, (eds.), Vertebrate and Climatic Evolution
+in the Triassic Rift Basins of Tanzania and Zambia. Society of Vertebrate Paleontology Memoir 17. Journal of Vertebrate Paleontology
+37 (6, Supplement).
+Angielczyk, K. D., Huertas, S., Smith, R. M. H., Tabor, N. J., Sidor, C. A.,
+Steyer, J.-S., . . . Gostling, N. J. (2014a). New dicynodonts (Therapsida,
+Anomodontia) and updated tetrapod stratigraphy of the Permian
+Ruhuhu Formation (Songea Group, Ruhuhu Basin) of southern Tanzania. Journal of Vertebrate Paleontology, 34, 1408–1426.
+Angielczyk, K. D., & Kammerer, C. F. (2017). The cranial morphology,
+phylogenetic position, and biogeography of the upper Permian dicynodont Compsodon helmoedi van Hoepen (Therapsida, Anomodontia).
+Papers in Palaeontology, 3, 513–545.
+Angielczyk, K. D., & Rubidge, B. S. (2009). The Permian dicynodont Colobodectes cluveri (Therapsida, Anomodontia), with notes on its ontogeny and stratigraphic range in the Karoo Basin, South Africa. Journal
+of Vertebrate Paleontology, 29, 1162–1173.
+Angielczyk, K. D., Rubidge, B. S., Day, M. O., & Lin, F. (2016). A reevaluation of Brachyprosopus broomi and Chelydontops altidentalis, dicynodonts (Therapsida, Anomodontia) from the middle Permian
+Tapinocephalus Assemblage Zone of the Karoo Basin, South Africa.
+Journal of Vertebrate Paleontology, 36(2), e1078342.
+Angielczyk, K. D., & Rubidge, B. S. (2010). A new pylaecephalid dicynodont (Therapsida, Anomodontia) from the Tapinocephalus Assemblage
+Zone, Karoo Basin, Middle Permian of South Africa. Journal of Vertebrate Paleontology, 30, 1396–1409.
+Angielczyk, K. D., & Rubidge, B. S. (2013). Skeletal morphology, phylogenetic relationships and stratigraphic range of Eosimops newtoni
+Broom, 1921, a pylaecephalid dicynodonts (Therapsida, Anomodontia)
+from the Middle Permian of South Africa. Journal of Systematic Palaeontology, 11(2), 191–231.
+Angielczyk, K. D., Steyer, J.-S., Sidor, C. A., Smith, R. M. H., Whatley, R. L.,
+& Tolan, S. (2014b). Permian and Triassic dicynodont (Therapsida:
+Anomodontia) faunas of the Luangwa Basin, Zambia: Taxonomic
+update and implications for dicynodont biogeography and
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 697
+
+BENOIT ET AL.
+
+|
+€bisch
+biostratigraphy. In C. F. Kammerer, K. D. Angielczyk, & J. Fro
+(Eds.), Early Evolutionary History of the Synapsida (pp. 93–138). Dordrecht: Springer.
+
+Barghusen, H. R. (1986). On the evolutionary origin of the therian tensor
+veli palatini and tensor tympani muscles. In N. Hotton, P. D. Maclean,
+J. J. Roth, & E. C. Roth (Eds.), The ecology and biology of mammal-like
+reptiles (pp. 253–262). Washington, D.C.: Smithsonian Institution
+Press.
+Barker, C. T., Naish, D., Newham, E., Katsamenis, O. L., & Dyke, G.
+(2017). Complex neuroanatomy in the rostrum of the Isle of Wight
+theropod Neovenator salerii. Scientific Reports, 7, 3749.
+Barry, T. H. (1974). A new dicynodont ancestor from the Upper Ecca.
+Annals of the South African Museum, 64, 117–136.
+Benoit, J., Abdala, F., Van den Brandt, M. J., Manger, P. R., & Rubidge, B.
+S. (2015). Physiological implications of the abnormal absence of the
+parietal foramen in a Late Permian cynodont (Therapsida). The Science
+of Nature (Naturwissenschaften), 102(11–12), 69.
+Benoit, J., Fernandez, V., Manger, P. R., & Rubidge, B. S. (2016b). Cranial
+bosses of Choerosaurus dejageri (Therapsida, Therocephalia): Earliest
+evidence of cranial display structures in eutheriodonts. PLoS One, 11
+(8), e0161457.
+Benoit, J., Manger, P. R., & Rubidge, B. S. (2016a). Palaeoneurological
+clues to the evolution of defining mammalian soft tissue traits. Scientific Reports, 6, 25604.
+Benoit, J., Manger, P. R., Norton, L. A., Fernandez, V., & Rubidge, B. S.
+(2017a). Synchrotron scanning reveals the palaeoneurology of the
+head-butting Moschops capensis (Therapsida, Dinocephalia). PeerJ, 5,
+e3496.
+Benoit, J., Norton, L. A., Manger, P. R., & Rubidge, B. S. (2017b). Reappraisal of the envenoming capacity of Euchambersia mirabilis (Therapsida, Therocephalia) using lCT-scanning techniques. PLoS One, 12(2),
+e0172047.
+Bellairs, A. D. A. (1949). Observations on the snout of Varanus, and a
+comparison with that of other lizards and snakes. Journal of Anatomy,
+83, 116–146.
+Billet, G., Hautier, L., Asher, R., Schwarz, C., Crumpton, N., Martin, T., &
+Ruf, I. (2012). High morphological variation of vestibular system
+accompanies slow and infrequent locomotion in three-toed sloths. Proceedings of the Royal Society B: Biological Sciences, 279, 3932–3939.
+Boos, A. D. S., Kammerer, C. F., Schultz, C. L., Soares, M. B., & Ilha, A. L.
+R. (2016). A new dicynodont (Therapsida: Anomodontia) from the
+Permian of southern Brazil and its implications for bidentalian origins.
+PLoS One, 11(5), e0155000.
+Botha, J. (2003). Biological aspects of the Permian dicynodont Oudenodon (Therapsida: Dicynodontia) deduced from bone histology and
+cross-sectional geometry. Palaeontologia Africana, 39, 37–44.
+Botha-Brink, J. (2017). Burrowing in Lystrosaurus: Preadaptation to a
+postextinction environment?. Journal of Vertebrate Paleontology, 37(5),
+e1365080.
+Botha, J., & Angielczyk, K. D. (2007). An integrative approach to distinguishing the Late Permian dicynodont species Oudenodon bainii and
+Tropidostoma microtrema (Therapsida: Anomodontia). Palaeontology,
+50(5), 1175–1209.
+Botha-Brink, J., & Angielczyk, K. D. (2010). Do extraordinarily high
+growth rates in Permo-Triassic dicynodonts (Therapsida, Anomodontia) explain their success before and after the end-Permian extinction? Zoological Journal of the Linnean Society, 160, 341–365.
+Botha, J., & Smith R. M. H. (2007). Lystrosaurus species composition
+across the Permo-Triassic boundary of South Africa. Lethaia, 40,
+125–137.
+
+BENOIT ET AL.
+
+Brinkman, D. B. (1981). The structure and relationships of the dromasaurs (Reptilia: Therapsida). Breviora, 465, 1–34.
+Brochu, C. A. (2003). Osteology of Tyrannosaurus rex: Insights from a
+nearly complete skeleton and high-resolution computed tomographic
+analysis of the skull. Journal of Vertebrate Paleontology, 7(sup4), 1–138.
+Broom, R. (1903a). On the classification of the theriodonts and their
+allies. Report of the South African Association for the Advancement of
+Science, 1, 286–295.
+Broom, R. (1903b). On the structure of the shoulder girdle in Lystrosaurus. Annals of the South African Museum, 4, 139–141.
+Broom, R. (1932). The mammal-like reptiles of South Africa and the origin
+of mammals. London: H. F. and G. Witherby.
+Brink, A. S. (1951). On the genus Lystrosaurus Cope. Transactions of the
+Royal Society of South Africa, 33(1), 107–120.
+Buchtova, M., Pač, L., Knotek, Z., & Tichy, F. (2009). Complex sensory
+corpuscles in the upper jaw of Horsfield’s Tortoise (Testudo horsfieldii). Acta Veterinaria Brno, 78, 193–197.
+Camp, G. L. (1956). Triassic dicynodont reptiles. Part II. Triassic dicynodonts compared. Memoirs of the University of California, 13,
+305–348.
+Canoville, A., & Laurin, M. (2010). Evolution of humeral microanatomy
+and lifestyle in amniotes, and some comments on paleobiological
+inferences. Biological Journal of the Linnean Society, 100, 384–406.
+jo, R., Ju
+nior, L. C., Angielczyk, K. D., Martins, G. G.,
+Castanhinha, R., Arau
+Martins, R. M. S., . . . Wilde, F. (2013). Bringing dicynodonts back to
+life: Paleobiology and anatomy of a new emydopoid genus from the
+Upper Permian of Mozambique. PLoS One, 8(12), e80974.
+Cisneros, J. C., Abdala, F., Rubidge, B. S., Dentzien-Dias, P. C., & Bueno
+Ade, O. (2011). Dental occlusion in a 260-million-year-old therapsid
+with saber canines from the Permian of Brazil. Science, 331(6024),
+1603–1605.
+Cisneros, J. C., Abdala, F., Jashashvili, T., Bueno, A. O., & Dentzien-Dias,
+P. (2015). Tiarajudens eccentricus and Anomocephalus africanus, two
+bizarre anomodonts (Synapsida, Therapsida) with dental occlusion
+from the Permian of Gondwana. Royal Society Open Science, 2,
+150090.
+Cluver, M. A. (1970). The palate and mandible in some specimens of
+Dicynodon testudirostris Broom and Haughton (Reptilia, Therapsida).
+Annals of the South African Museum, 56, 133–153.
+Cluver, M. A. (1971). The cranial morphology of the dicynodont genus
+Lystrosaurus. Annals of the South African Museum, 56, 155–274.
+Cluver, M. A. (1974). The cranial morphology of the Lower Triassic dicynodont Myosaurus gracilis. Annals of the South African Museum, 66,
+35–54.
+Cluver, M. A. (1978). The skeleton of the mammal-like reptile Cistecephalus with evidence for a fossorial mode of life. Annals of the South African Museum, 76, 213–246.
+Cox, C. B. (1972). A new digging dicynodont from the Upper Permian of
+Tanzania. In K. A. Josey & T. S. Kemp (Eds.), Studies in vertebrate evolution (pp.173–189). Edinburgh: Oliver and Boyd.
+Cox, C. B., & Angielczyk, K. D. (2015). A new endothiodont dicynodont
+(Therapsida, Anomodontia) from the Permian Ruhuhu Formation
+(Songea Group) of Tanzania and its feeding system. Journal of Vertebrate Paleontology, 35(4), e935388.
+Cox, B. (1998). The jaw function and adaptive radiation of the dicynodont mammal-like reptiles of the Karoo basin of South Africa. Zoological Journal of the Linnean Society, 122(1–2), 349–384.
+Crompton, A. W., & Hotton, N. (1967). Functional morphology of the
+masticatorious apparatus of two dicynodonts (Reptilia, Therapsida).
+Postilla, 109, 1–51.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+698
+
+Crompton, A. W., Musinsky, C., & Owerkowicz, T. (2015). The Evolution
+of the Mammalian Nose. In K. Dial, N. H. Shubin, & E. L. Brainerd
+(Eds.), Great transformations in vertebrate evolution (pp. 189–205).
+Chicago: University of Chicago Press.
+Crompton, A. W., Owerkowicz, T., Bhullar, B.-A., & Musinsky, C. (2017).
+Structure of the nasal region of non-mammalian cynodonts and mammaliaforms: Speculations on the evolution of mammalian endothermy.
+Journal of Vertebrate Paleontology, 37, e1269116.
+Dubbeldam, J. L. (1998). The sensory trigeminal system in birds: Input,
+organization and effects of peripheral damage. A review. The Journal
+of Metabolic Diseases, 106(5), 338–345.
+Du€ring von, M., & Miller, M. R. (1979). Sensory nerve endings of the skin
+and deeper structures. In C. Gans, R. G. Northcutt, & P. Ulinski (Eds.),
+Biology of the reptilia Volume 9, Neurology (pp. 407–411). New York:
+Academic Press.
+Estes, R. (1961). Cranial anatomy of the cynodont reptile Thrinaxodon
+liorhinus. Bulletin of the Museum of Comparative Zoology, 125, 165–
+180.
+Fernandez, V., Abdala, F., Carlson, K. J., Cook, D. C., Rubidge, B. S.,
+Yates, A., & Tafforeau, P. (2013). Synchrotron reveals early triassic
+odd couple: Injured amphibian and aestivating therapsid share burrow. PLoS One, 8(6), e64978.
+€ bisch, J. (2006). Locomotion in derived dicynodonts (Synapsida,
+Fro
+Anomodontia): A functional analysis of the pelvic girdle and hind limb
+of Tetragonias njalilus. Canadian Journal of Earth Sciences, 43(9),
+1297–1308.
+€ bisch, J. (2009). Composition and similarity of global anomodontFro
+bearing tetrapod faunas. Earth-Science Reviews, 95(3–4), 119–157.
+€ bisch, J. (2008). Global taxonomic diversity of anomodonts (TetraFro
+poda, Therapsida) and the terrestrial rock record across the PermianTriassic boundary. PLoS One, 3(11), e3733.
+€ bisch, J. (2013). Vertebrate diversity across the end-Permian extincFro
+tion—separating biological and geological signals. Palaeogeography,
+Palaeoclimatology, Palaeoecology, 372, 50–61.
+€ bisch, J., & Reisz, R. R. (2009). The Late Permian herbivore Suminia
+Fro
+and the early evolution of arboreality in terrestrial vertebrate ecosystems. Proceedings of the Royal Society B: Biological Sciences, 276
+(1673), 3611–3618.
+€ bisch, J., & Reisz, R. R. (2011). The postcranial anatomy of Suminia
+Fro
+getmanovi (Synapsida: Anomodontia), the earliest known arboreal tetrapod. Zoological Journal of the Linnean Society, 162, 661–698.
+Germain, D., & Laurin, M. (2005). Microanatomy of the radius and lifestyle in amniotes (Vertebrata, Tetrapoda). Zoologica Scripta, 34, 335–
+350.
+Grine, F. E., Forster, C. A., Cluver, M. A., & Georgi, J. A. (2006). Cranial
+variability, ontogeny, and taxonomy of Lystrosaurus from the Karoo
+Basin of South Africa. In M. T. Carrano, T. J. Gaudin, R. W. Blob & J.
+R. Wible (Eds.), Amniote paleobiology: Perspectives on the evolution of
+mammals, birds, and reptiles. (pp. 432–503). Chicago: University of
+Chicago Press.
+Groenewald, G. H. (1991). Burrow casts from the Lystrosaurus-Procolophon Assemblage Zone, Karoo Sequence, South Africa. Koedoe, 34(1),
+13–22.
+Hammer, W. R., & Cosgriff, J. W. (1981). Myosaurus gracilis, an Anomodont Reptile from the Lower Triassic of Antarctica and South Africa.
+Journal of Paleontology, 55, 410–424.
+
+| 699
+and histological correlates of novel skin structures. The Anatomical
+Record, 292, 1370–1396.
+Hotton, N. III. (1986). Dicynodonts and their role as primary consumers.
+In N. Hotton, III., P. D. MacLean, J. J. Roth, & E. C. Roth (Eds.), The
+ecology and biology of mammal-like reptiles (pp. 71–82). Washington,
+D.C: Smithsonian Institution Press.
+Huxley, T. H. (1859). On a new species of Dicynodon (D. Murrayi), from
+near Colesberg, South Africa; and on the structure of the skull in
+dicynodonts. The Quarterly Journal of the Geological Society of London,
+15(1–2), 555–658.
+Irmis, R. B., & Whiteside, J. H. (2012). Delayed recovery of non-marine
+tetrapods after the end-Permian mass extinction tracks global carbon
+cycle. Proceedings of the Royal Society B: Biological Sciences, 279,
+1310–1318.
+Ivakhnenko, M. F. (1996). Primitive anomodonts, venyukoviids, from
+the Late Permian of Eastern Europe. Paleontological Journal, 30,
+77–84.
+Ivakhnenko, M. F. (2001). Tetrapods from the East European Placket—
+Late Paleozoic Natural Territorial Complex. Trudy Paleontologičeskogo
+Instituta Rossiiskoi Akademii Nauk [Transactions of the Paleontological
+Institute of the Russian Academy of Sciences], 283, 1–200.
+Jasinoski, S. C., & Chinsamy-Turan, A. (2012). Biological inferences of the
+cranial microstructure of the dicynodonts Oudenodon and Lystrosaurus. In A. Chinsamy-Turan (Ed.), Forerunners of mammals: Radiation,
+histology, biology (pp. 149–178). Bloomington: Indiana University
+Press.
+Jasinoski, S. C., Rayfield, E. J., & Chinsamy, A. (2009). Comparative feeding biomechanics of Lystrosaurus and the generalized dicynodont
+Oudenodon. The Anatomical Record, 292, 862–874.
+Jasinoski, S. C., Rayfield, E. J., & Chinsamy, A. (2010a). Functional implications of dicynodont cranial suture morphology. Journal of Morphology, 271, 705–728.
+Jasinoski, S. C., Rayfield, E. J., & Chinsamy, A. (2010b). Mechanics of the
+Scarf Premaxilla-Nasal Suture in the Snout of Lystrosaurus. Journal of
+Vertebrate Paleontology, 30, 1283–1288.
+Kammerer, C. F., & Angielczyk, K. D. (2009). A proposed higher taxonomy of anomodont therapsids. Zootaxa, 2018, 1–24.
+€bisch, J. (2011). A comprehenKammerer, C. F., Angielczyk, K. D., & Fro
+sive taxonomic revision of Dicynodon (Therapsida, Anomodontia) and
+its implications for dicynodont phylogeny, biogeography, and biostratigraphy. Journal of Vertebrate Paleontology, 31, 1–158.
+€bisch, J., & Angielczyk, K. D. (2013). On the validity
+Kammerer, C. F., Fro
+and phylogenetic position of Eubrachiosaurus browni, a Kannemeyeriiform Dicynodont (Anomodontia) from Triassic North America. PLoS
+One, 8(5), e64203.
+Kemp, T. S. (1982). Mammal-like reptiles and the origin of mammals. London: Academic Press.
+Keyser, A. W. (1965). The morphology of the anomodent genus Cistecephalus Owen, 1876. University of Pretoria, Master’s dissertation.
+Keyser, A. W. (1973). A preliminary study of the type area of the Cistecephalus Zone of the Beaufort Series, and a revision of the anomodont
+family Cistecephalidae. Geological Survey of South Africa Memoir, 62,
+1–71.
+Keyser, A. W. (1993). A re-evaluation of the smaller Endothiodontidae.
+Memoirs of the Geological Survey of South Africa, 82, 1–53.
+
+Higashiyama, H., & Kuratani, S. (2014). On the maxillary nerve. Journal of
+Morphology, 275, 17–38.
+
+King, G. M. (1985). The postcranial skeleton of Kingoria nowacki (von
+Huene) (Therapsida: Dicynodontia). Zoological Journal of the Linnean
+Society, 84(3), 263–289.
+
+Hieronymus, T. L., Witmer, L. M., Tanke, D. H., & Currie, P. J. (2009).
+The facial integument of centrosaurine ceratopsids: Morphological
+
+King, G. (1988). Anomodontia. In P. Wellnhofer (Ed.), Encyclopedia of
+paleoherpetology. (pp. 1–174). Stuttgart: Gustav Fischer.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+BENOIT ET AL.
+
+|
+
+King, G. M. (1990). The dicynodonts: A study in paleobiology. London:
+Chapman and Hall.
+King, G. M. (1994). The early anomodont Venjukovia and the evolution of
+the anomodont skull. Journal of Zoology, 232(4), 651–673.
+King, G. M., Oelofsen, B. W., & Rubidge, B. S. (1989). The evolution of
+the dicynodont feeding system. Zoological Journal of the Linnean Society, 96, 185–212.
+King, G. M. (1991). The aquatic Lystrosaurus: a palaeontological myth.
+Historical Biology, 4, 285–321.
+King, G. M., & Cluver, M. A. (1991). The aquatic Lystrosaurus: An alternative lifestyle. Historical Biology, 4, 323–341.
+Krapovickas, V., Mancuso, A. C., Marsicano, C. A., Domnanovich, N. S., &
+Schultz, C. L. (2013). Large tetrapod burrows from the Middle Triassic
+of Argentina: A behavioural adaptation to seasonal semi-arid climate?
+Lethaia, 46, 154–169.
+Kurkin, A. A. (2000). New dicynodonts from the Upper Permian of the
+Vyatka Basin. Paleontological Journal, 34, S203–S210.
+Laaß, M. (2015). Bone-conduction hearing and seismic sensitivity of the
+late Permian anomodont Kawingasaurus fossilis. Journal of Morphology,
+276(2), 121–143.
+Laaß, M., & Schillinger, B. (2015). Reconstructing the auditory apparatus
+of therapsids by means of neutron tomography. Physics Procedia, 69,
+628–635.
+Laaß, M., & Kaestner, A. (2017). Evidence for convergent evolution of a
+structure comparable to the mammalian neocortex in a Late Permian
+therapsid. Journal of Morphology, 278, 1033–1057.
+Lee, M. S. Y. (1997). The evolution of beaks in reptiles: A proposed evolutionary constraint. Evolutionary Theory, 11, 249–254.
+Leitch, D. B., & Catania, K. C. (2012). Structure, innervation and response
+properties of integumentary sensory organs in crocodilians. Journal of
+Experimental Biology, 215, 4217–4230.
+Liu, J., Rubidge, B., & Li, J. (2010). A new specimen of Biseridens qilianicus
+indicates its phylogenetic position as the most basal anomodont. Proceedings of the Royal Society B: Biological Sciences, 277, 285–292.
+Lungmus, J. K., Angielczyk, K. D., Sidor, C. A., Nesbitt, S. J., Smith, R. M.,
+Steyer, J.-S., . . . Tolan, S. (2015). A new cistecephalid dicynodont
+(Therapsida, Anaomodontia) from the Mid-Zambezi Basin (Zambia)
+and its fossorial adaptations. Society of Vertebrate Paleontology 75th
+Annual Meeting, Dallas, Texas.
+Manger, P. R., & Pettigrew, J. D. (1996). Ultrastructure, number, distribution and innervation of electroreceptors and mechanoreceptors in
+the bill skin of the platypus. Brain Behavior and Evolution, 48, 27–54.
+Manger, P. R., & Pettigrew, J. D. (1995). Electroreception and the feeding
+behaviour of the platypus (Ornithorhyncus anatinus: Monotremata:
+Mammalia). Philosophical Transactions of the Royal Society B: Biological
+Sciences, 347, 359–381.
+Modesto, S. P., & Botha-Brink, J. (2010). A burrow cast with Lystrosaurus
+skeletal remains from the Lower Triassic of South Africa. Journal of
+Vertebrate Paleontology, 25, 274–281.
+Modesto, S. P., Rubidge, B. S., Visser, I., & Welman, J. (2003). A new
+basal dicynodont from the Upper Permian of South Africa. Palaeontology, 46, 211–223.
+Nasterlack, T., Canoville, A., & Chinsamy, A. (2012). New insights into
+the biology of the Permian genus Cistecephalus (Therapsida, Dicynodontia). Journal of Vertebrate Paleontology, 32, 1396–1410.
+Nieuwenhuys, R., Ten Donkelaar, H. J., & Nicholson, C. (1998). The central nervous system of vertebrates. Berlin: Springer.
+Maddison, W. P., & Maddison, D. R. (2017). Mesquite: A modular system
+for evolutionary analysis. Version 3.2 http://mesquiteproject.org
+
+BENOIT ET AL.
+
+Modesto, S., & Rubidge, B. (2000). A basal anomodont therapsid from
+the lower Beaufort Group, Upper Permian of South Africa. Journal of
+Vertebrate Paleontology, 20, 515–521.
+Olroyd, S. L., Sidor, C. A., & Angielczyk, K. D. (In Press) New materials of
+the enigmatic dicynodont Abajudon kaayai (Therapsida, Anomodontia)
+from the lower Madumabisa Mudstone Formation, middle Permian of
+Zambia. Journal of Vertebrate Paleontology.
+Owen, R. (1845). Report on the Reptilian Fossils of South Africa: PART I.
+—Description of certain Fossil Crania, discovered by A. G. Bain, Esq.,
+in Sandstone Rocks at the South-eastern extremity of Africa, referable to different species of an Extinct genus of Reptilia (Dicynodon),
+and indicative of a new Tribe or Sub-order of Sauria. Transactions of
+the Geological Society of London, s2, 59–84.
+Owen, R. (1860). On the orders of fossil and recent Reptilia, and their
+distribution in time. Report of the British Association for the Advancement of Science, 1859, 153–166.
+Owen, R. (1866). The anatomy of vertebrates, Vol. 1: Fishes and reptiles.
+London: Longmans, Green, and Co.
+Ray, S., Chinsamy, A., & Bandyopadhyay, S. (2005). Lystrosaurus murrayi
+(Therapsida, Dicynodontia): Bone histology, growth, and lifestyle
+adaptations. Palaeontology, 48, 1169–1185.
+Rayner, R. J. (1992). Phyllotheca: The pastures of the Late Permian.
+Palaeogeograpny, Palaeoclimatology, Palaeoecology, 92(1–2), 31–40.
+Rodella, L. F., Buffoli, B., Labanca, M., & Rezzani, R. (2012). A review of
+the mandibular and maxillary nerve supplies and their clinical relevance. Archives Oral Biology, 57, 323–334.
+Rubidge, B. S. (1984). The cranial morphology and palaeoenvironment of Eodicynodon Barry (Therapsida: Dicynodontia). Navorsinge Van Die Nasionale Museum Bloemfontein, South Africa, 4(14),
+325–402.
+Rubidge, B. S. (1990a). A new vertebrate biozone at the base of the
+Beaufort Group. Palaeontologia Africana, 27, 17–20.
+Rubidge, B. S. (1990b). Redescription of the cranial morphology of Eodicynodon oosthuizeni (Therapsida: Dicynodontia). Navorsinge Van Die
+Nasionale Museum Bloemfontein, South Africa, 7, 1–25.
+Rubidge, B. S., & Hopson, J. A. (1996). A primitive anomodont therapsid from the base of the Beaufort Group (Upper Permian) of
+South Africa. Zoological Journal of the Linnean Society, 117, 115–
+139.
+€ bisch, J., & Benton, M. J. (2013). DecouRuta, M., Angielczyk, K. D., Fro
+pling of morphological disparity and taxic diversity during the adaptive radiation of anomodont therapsids. Proceedings of the Royal
+Society B: Biological Sciences, 280(1768), 20131071.
+Rybczynski, N. (2000). Cranial anatomy and phylogenetic position of
+Suminia getmanovi, a basal anomodont (Amniota: Therapsida) from
+the Late Permian of Eastern Europe. Zoological Journal of the Linnean
+Society, 130(3), 329–373.
+Sidor, C. A., & Smith, R. M. H. (2007). A second burnetiamorph therapsid from the Permian Teekloof Formation of South Africa and
+its associated fauna. Journal of Vertebrate Paleontology, 27, 420–
+430.
+Smith, R. M. H., Rubidge, B. S., & van der Walt, M. (2012). Therapsid biodiversity patterns and environments of the Karoo Basin, South Africa.
+In A. Chinsamy (Ed.), Forerunners of mammals: Radiation, histology,
+biology. (pp. 223–246. Bloomington and Indianapolis: Indiana University Press.
+Sullivan, C., Reisz, R. R., & Smith, R. M. H. (2003). The Permian mammallike herbivore Diictodon, the oldest known example of sexually dimorphic armament. Proceedings of the Royal Society B: Biological Sciences,
+270, 173–178.
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+700
+
+Sullivan, C., & Reisz, R. R. (2005). Cranial anatomy and taxonomy of the
+Late Permian dicynodont Diictodon. Annals of Carnegie Museum, 74,
+45–75.
+Surkov, M. V. (2006). The first evidence of tactile sensor zones among
+dicynodonts. Proceedings of Saratov University, New Series, Earth Sciences, 6, 91–95.
+Tatarinov, L. P. (1976). Morphological evolution of the Theriodonts and the
+general problems of Phylogenetics. Moscow: NAUKA.
+Tatarinov, L. P. (1999). The nasal cavity, maxillary sensory system, and
+certain brain features of the ictidosuchoidea (reptilia, theriodontia).
+Paleontological Journal, 33, 99–110.
+Thulborn, T., & Turner, S. (2003). The last dicynodont: An Australina Cretaceous relict. Proceedings of the Royal Society B: Biological Sciences,
+270(1518), 985–993.
+
+Watson, D. M. S., & Romer, A. S. (1956). A classification of therapsid
+reptiles. Bulletin of the Museum of Comparative Zoology, 114, 35–89.
+Witmer, L. M. (1995). Homology of facial structures in extant archosaurs
+(birds and crocodilians), with special reference to paranasal pneumaticity and nasal conchae. Journal of Morphology, 225(3), 269–327.
+
+SUP POR TI NG INFOR MATION
+Additional Supporting Information may be found online in the supporting information tab for this article.
+
+How to cite this article: Benoit J, Angielczyk KD, Miyamae JA,
+
+Watson, D. M. S. (1912). The skeleton of Lystrosaurus. Records of the
+Albany Museum, 2, 287–299.
+
+Manger P, Fernandez V, Rubidge B. Evolution of facial innerva-
+
+Watson, D. M. S. (1913). The limbs of Lystrosaurus. Geological Magazine,
+10(06), 256–258.
+
+computerized
+
+Watson, D. M. S. (1948). Dicynodon and its allies. Proceedings of the Zoological Society of London, 118, 823–877.
+
+tion in anomodont therapsids (Synapsida): Insights from X-ray
+microtomography.
+
+Journal
+
+of
+
+Morphology.
+
+2018;279:673–701. https://doi.org/10.1002/jmor.20804
+
+10974687, 2018, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmor.20804 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 701
+
+BENOIT ET AL.
+
+

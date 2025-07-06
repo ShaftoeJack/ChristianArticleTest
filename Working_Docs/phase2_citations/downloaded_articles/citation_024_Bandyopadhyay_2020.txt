@@ -1,0 +1,2360 @@
+438
+
+438
+
+Article
+
+by Saswati Bandyopadhyay1* and Sanghamitra Ray2
+
+Gondwana Vertebrate Faunas of India: Their Diversity and
+Intercontinental Relationships
+1
+
+Geological Studies Unit, Indian Statistical Institute, 203 B. T. Road, Kolkata 700108, India; email: saswati@isical.ac.in
+Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur 721302, India; email: sray@gg.iitkgp.ac.in
+*Corresponding author
+2
+
+(Received : 23/12/2018; Revised accepted : 11/09/2019)
+https://doi.org/10.18814/epiiugs/2020/020028
+
+The twelve Gondwanan stratigraphic horizons of
+India have yielded varied vertebrate fossils. The oldest
+fossil record is the Endothiodon-dominated multitaxic
+Kundaram fauna, which correlates the Kundaram
+Formation with several other coeval Late Permian
+horizons of South Africa, Zambia, Tanzania,
+Mozambique, Malawi, Madagascar and Brazil. The
+Permian-Triassic transition in India is marked by
+distinct taxonomic shift and faunal characteristics and
+represented by small-sized holdover fauna of the
+Early Triassic Panchet and Kamthi fauna. The Middle
+and Late Triassic saw extensive radiations of the
+indigenous and living faunas in the form of new
+temnospondyls, varied archosauromorphs, the basal
+dinosaurs, non-mammalian cynodonts and
+mammaliaforms. All the Triassic Gondwanan horizons
+of India can be correlated with other horizons around
+the world, resulting in precise biostratigraphic
+correlation. The Triassic-Jurassic transition in India
+show marked biotic turnover, which may have resulted
+from global warming and volcanism. On a Pangaean
+landscape, the Indian Gondwanan vertebrate
+assemblages reflect major transformations in vertebrate
+evolution, global faunal transitions, and constitute
+important biostratigraphic markers.
+
+Introduction
+The Late Palaeozoic terrestrial communities were dominated by
+the stem-amphibians (temnospondyls) and non-mammalian synapsids,
+whereas the diapsids remained a minor component (Padian and Sues,
+2015). The best known groups were the aquatic mesosaurs, lizardlike millerosaurs, procolophonids and large pareiasaurs. Mesozoic is
+the time when the species richness started to increase globally as well
+as locally with the appearance of new genera and early radiation of
+
+many extant lineages, producing highly diverse terrestrial vertebrates
+in the vacant niches created throughout the world due to the endPermian extinction event. Diapsids diversified rapidly by the Middle
+Triassic in to many communities of continental tetrapods, whereas
+the non-mammalian synapsids became a minor components for the
+remainder of the Mesozoic Era. The Gondwana basins of peninsular
+India (Fig. 1A) aptly exemplify the diverse vertebrate faunas found
+from the Late Palaeozoic and Mesozoic. During the last few decades
+much emphasis was given on explorations and excavations of
+vertebrate fossils in these basins which have yielded many new fossil
+vertebrates, significant both in numbers and diversity of genera, and
+providing information on their taphonomy, taxonomy, phylogeny,
+evolutionary history, palaeobiology, palaeoecology and palaeobiogeography. There are at least twelve Gondwanan stratigraphic
+horizons (Fig. 1B), which have yielded varied vertebrate fossils. In
+the current work, we review these vertebrate fossils from two
+perspectives. We give a comprehensive account of these fossils, their
+occurrences and taxonomy, followed by their global correlation and
+biostratigraphic implications. The study highlights several waves of
+faunal replacements, especially at the Permian-Triassic and TriassicJurassic boundaries.
+
+Gondwana Basins of India
+The Gondwana deposits of India mark the resumption of
+sedimentation during the Permo-Carboniferous time after a long gap
+since the Proterozoic, and were deposited in glacial, fluvioglacial,
+fluviatile and lacustrine conditions. The age of these sediments ranges
+from the Late Carboniferous (ca. 290 Ma) to Middle Jurassic, as
+separation of the Indian plate from the Gondwana landmass was
+initiated during the onset of the Late Jurassic (ca. 167 Ma, Chatterjee
+et al., 2017). The Gondwana sediments accumulated in a number of
+isolated intracratonic basins of peninsular India bounded by faults
+developed along Precambrian lineaments during deposition. The
+basins subsided between normal faults, accommodating the Gondwana
+successions of 1-4 km in thickness (Veevers and Tewari, 1995). There
+are four major intracratonic basins – the Pranhita-Godavari (henceforth
+P-G Basin), Satpura, Son-Mahanadi and Damodar (Fig. 1A) – that
+document the thick Gondwana Supergroup, which may be subdivided
+into a Lower Gondwana Group characterized by the Palaeozoic
+March 2020
+
+439
+
+Figure 1 A, Gondwana basins of peninsular India (after Bandyopadhyay, 1999); B, Generalized Gondwana stratigraphy showing the fossilbearing horizons in bold (after Bandyopadhyay and Sengupta, 2006; Mukherjee et al., 2012; Ray 2015); C, Geological map of the PranhitaGodavari Basin (after Kutty et al., 1987; Ray, 1997).
+Episodes Vol. 43, no. 1
+
+440
+Glossopteris-Gangamopteris flora and an Upper Gondwana Group
+dominated by the Mesozoic Dicroidium-Lepidopteris-Ptilophyllum
+flora (Cotter and De, 1917; Robinson, 1970; Pascoe, 1975;
+Mukhopadhyay et al., 2010). The Lower Gondwana succession in
+most of the basins shows uniform lithological features, starting with
+the glacio-fluvial Talchir Formation and followed by the coal-bearing
+Barakar Formation (Fig. 1B). The Upper Gondwana succession of
+these basins, however, differs considerably and the formations are
+defined on the basis of distinctive lithology, fossil flora and fauna
+(Fig. 1B).
+Among the four Gondwana basins of India (Fig. 1A), the
+Gondwana succession of the P-G Basin occurs in a narrow, rectilinear
+half-graben (400 km long and 75 km wide) trending NNW–SSE (330°150°) and bordered on both sides by the Precambrian rocks
+(Fig. 1C). The overall dip of this half-graben basin, which was formed
+with the hanging-wall block lying to its west (Biswas, 2003;
+Chakraborty et al., 2003), is 5°–12° towards NE (Chakraborty et al.,
+2003) and the general palaeocurrent direction is to the north (Sengupta,
+1970). Seven vertebrate-bearing horizons have been identified from
+this basin, which have yielded highly diverse vertebrate remains
+(Bandyopadhyay, 1999). These include the Late Permian Kundaram
+Formation, and different Triassic horizons such as the Kamthi,
+Yerrapalli, Maleri and Lower Dharmaram formations, and the Jurassic
+Upper Dharmaram and Kota formations (Bandyopadhyay, 1999,
+2011). The Maleri Formation has two vertebrate assemblages, which
+have led to a biochronological subdivision into lower (Carnian) and
+upper (Norian) horizons (Kutty and Sengupta 1989).
+The westernmost Satpura basin (Fig. 2A) is rhomboidal in outline,
+and is about 200 km long and 60 km wide. The longer sides are marked
+
+by the ENE–WSW-trending Son-Narmada (south) and Tapti (north)
+faults. This basin is a pull-apart basin and developed due to the
+extension related to strike-slip movements along these two faults
+(Chakraborty et al., 2003). The regional strike of the basin fill is ENE–
+WSW and the regional formation dip is ca. 5° to the north. The
+Gondwana succession (ca. 4 km in thickness) consists of siliciclastic
+sediments and ranges in age from Early Carboniferous to the Middle
+Triassic (Crookshank, 1936; Pascoe, 1975; Robinson, 1970;
+Bandyopadhyay and Sengupta, 1999). There are only two vertebratebearing horizons in this basin: the Late Permian Bijori Formation
+and the Middle Triassic Denwa Formation (Lydekker, 1885a, b;
+Bandyopadhyay and Sengupta, 1999).
+In eastern India along the E–W trending Damodar Basin (Fig.
+1A), several isolated basins occur, which are of similar morphology
+and structural characteristics. These are the Karanpura and Bokaro
+basins along with the small outliers of Auranga and Hutar, Jharia
+Basin and Raniganj Basin from west to east. The basins are all
+rhombic, fault-bound with numerous intrabasinal faults at high angles
+to the bounding faults along their longer sides (Chakraborty et al.,
+2003). Of these basins, the Raniganj Basin is a fault-controlled
+subsidence basin which has produced vertebrate remains. It is
+rhomboidal in outline (70 km long and 20 km wide), relatively long
+in WNW–ESE direction with low (5°-7°) dip towards south (Fig.
+2B). The Damodar Basin has a thick succession (ca. 3 km thick) of
+fluvioglacial, fluvial and lacustrine sediments, though vertebrate
+fossils are known from only one horizon, the Early Triassic Panchet
+Formation (Fig. 1B, 2B).
+The Son-Mahanadi, centrally positioned in peninsular India (Fig.
+1A), is a composite basin and comprises three sub-basins, namely
+
+Figure 2. Geological maps of A, Satpura Basin (after Sengupta et al., 2016); B, Damodar Basin (after Ray, 2005); C, Rewa Basin (after
+Mukherjee et al., 2012).
+March 2020
+
+441
+the Rewa Basin in the north (Fig. 2C, inset), the centrally-located
+Hasdo-Arand Basin, and the Mahanadi Basin in the south. The Rewa
+Basin is bounded by the Malwa ridge in the north and by the
+Manendragarh-Pratapur ridge in the south (Chakraborty et al., 2003).
+The basin is rhomboidal in outline and extends in an essentially ENE–
+WSW direction (400 km x 150 km). The overall attitude of the basinfill strata is less than 15° to the north. This basin is considered a
+fault-controlled subsidence basin (Chakraborty et al., 2003), and is
+characterized by a thick and continuous Triassic succession
+(Mukherjee et al., 2012). The Triassic succession is subdivided into
+the Pali Formation at the base, followed successively by an arenaceous
+Karki Formation and a mud-dominated Tiki Formation (Mukherjee
+et al., 2012; Fig. 1B). Of these, the Tiki Formation (Fig. 2C) has
+yielded a rich Late Triassic vertebrate fauna (Datta and Das, 1996;
+Datta, 2004, 2005; Prasad et al., 2008; Ray et al., 2016; Bhat et al.,
+2018a, b; Datta et al., 2019).
+
+Gondwana Vertebrate Faunas
+Permian Vertebrate Fauna
+
+given by Bandyopadhyay (1999). Since there has been no update on
+the already available information, the faunal details are not repeated
+here.
+On the other hand, the Kundaram Formation of P-G Basin has
+yielded a Late Permian multitaxic tetrapod fauna where the dominant
+component is the dicynodonts. The non-dicynodont members include
+a small captorhinid reptile (Kutty, 1972) and a medium-sized
+gorgonopsian (Ray and Bandyopadhyay, 2003). The dicynodont
+assemblage includes two species of the genus Endothiodon (E.
+mahalanobisi and E. uniseries), Dicynodontoides (= ‘Kingoria’),
+Pristerodon, Oudenodon and Sauroscaptor (Fig.3A–B; Ray, 2000,
+2001; Ray and Bandyopadhyay, 2003; Kammerer et al., 2016). The
+fauna is mostly represented by complete and partial skulls and lower
+jaws, and shows a preponderance of Endothiodon known from about
+30 individuals (Ray, 1999; Ray and Bandyopadhyay, 2003). This skullonly accumulation, encrusted with thick iron-rich matrix and collected
+from overbank fines, is a lag deposit and has been attributed to
+prolonged subaerial exposure prior to burial, resulting in
+disarticulation and winnowing out of the postcrania by water flow as
+the heavier skulls resisted transportation and were subsequently buried
+near the site of death (Ray and Bandyopadhyay, 2003).
+
+Faunal characteristics
+Intercontinental relationships
+In India, Permian vertebrates have a poor representation and are
+known from two distinct horizons, namely the Vihi (Gangamopteris)
+beds of the Mamal Formation of Kashmir (Bandyopadhyay, 1999)
+and the Kundaram Formation of the P-G Basin (Kutty, 1972; Ray,
+1999, 2001). The Kashmir fauna is characterized by several
+palaeoniscoid fishes and archegosauroid temnospondyls
+(Woodward, 1905; Tripathi, 1962), the details of which were
+
+The Late Permian palaeogeography encompassed three large
+continental masses that are principally distributed at the mid-latitudes,
+namely the Gondwana, Laurasia and Siberia, joined together to form
+the supercontinent Pangaea (Bernardi et al., 2017). Well documented
+Late Permian tetrapod ecosystems are known from these landmasses,
+where the tetrapod associations were structured and provincialized at
+
+Figure 3. A-B, Sauroscaptor tharavati Kammerer et al. (2016). Skull of a small dicynodont from the Kundaram Formation of India in A,
+dorsal and B, ventral views.
+Episodes Vol. 43, no. 1
+
+442
+high taxonomic levels (Bernardi et al., 2017). Of these, the PermoTriassic Beaufort Group of the Karoo Basin in South Africa documents
+a rich tetrapod fossil record, which has resulted in its biostratigraphic
+subdivisions (Rubidge, 1995; Smith et al., 2012) with global
+applicability. Of the six Assemblage Zones (AZ) Pristerodon and
+Endothiodon appeared first in the Pristerognathus AZ, proliferated
+in the Tropidostoma AZ and persisted as a rare member in the
+Cistecephalus AZ (Rubidge, 1995). In addition, the Pristerognathus
+AZ contains the small dicynodont Diictodon, which constitutes about
+85% of the total fossils found. It decreases to about 40% in the
+Tropidostoma AZ (Rubidge, 1995), where Rhachiocephalus and
+Endothiodon (E. miseries, E. bathystoma) constitute 10–30% and
+5%, respectively. Similarly, the fossil fauna of the Cistecephalus AZ
+is composed of Diictodon (50%) followed by Oudenodon (20%),
+Cistecephalus (10%), Pristerodon (5%), Emydops (5%),
+Aulacephalodon (5%), Rhachiocephalus and Endothiodon (less than
+2%, Rubidge, 1995).
+There are several other Endothiodon-bearing horizons in Africa,
+which are analogous to the Karoo environment and are found in
+Zimbabwe, Mozambique, Malawi, Zambia and Tanzania (King, 1992).
+In Zambia, the Lopingian is represented by the Upper Madumabisa
+Mudstone Formation in the Luangwa Basin, from which a single
+assemblage of 14 dicynodont taxa is known and correlated with the
+Cistecephalus AZ of South Africa (King, 1992; Angielcyzk et al.,
+2014; Sidor et al., 2014). The Late Permian tetrapod fossils are
+preserved in the Ruhuhu and Usili formations of the Ruhuhu Basin
+of Tanzania, where the tetrapods occur at multiple stratigraphic
+horizons in each formation (Angielczyk et al., 2014). The Usili
+horizons and the uppermost Ruhuhu horizon contain a single faunal
+assemblage dominated by dicynodonts consisting of endothiodonts,
+emydopoids, cryptodonts, and dicynodontoids (52%), followed by
+gorgonopsians, therocephalians, cynodonts and notably abundant
+biarmosuchians (35%), pareiasaurs (5.5%) and temnospondyls
+(6.6%). Bernardi et al. (2017) suggested that these horizons may be
+correlated with the upper Cistecephalus and/or lower Daptocephalus
+AZs of the Karoo Basin.
+Endothiodon is also known from the K5 horizon of the Metangula
+
+Graben, Mozambique along with an endemic kingoriid dicynodont
+Niassodon and a probable Oudenodon (Castanhinha et al., 2013).
+Based on the presence of Endothiodon and Oudenodon, the latter
+making its first appearance in the Tropidostoma AZ of South Africa,
+K5 is correlated broadly with the Tropidostoma and Cistecephalus
+AZs (Castanhinha et al., 2013). In addition, Endothiodon-bearing
+strata are also known from the Chiweta beds of Malawi (Frobisch,
+2009; Bernardi et al., 2017). The Lower Sakamena Formation of
+Madagascar is known for its richness in the Late Permian fossils,
+which are characterized by the diapsids (Smith, 2000). Mazin and
+King (1991) described a dicynodont taxon, Oudenodon sakamenenis
+from the upper part of Lower Sakamena Formation. Though longranging, this genus is common in the Cistecephalus and Dicynodon
+AZs of South Africa suggesting a probable correlation.
+Apart from Africa and India, a rich Late Permian fauna is known
+from the Rio do Rasto Formation of the Paraná Basin, Brazil (Cisneros
+and Abdala, 2005; Benardi et al., 2017). The Rio do Rasto Formation
+of the Paraná Basin has produced three local faunas containing
+vertebrates– the Aceguá, Posto Queimado and Serra do Cadeado
+(Barberena et al., 1991). Of these, the Serra do Cadeado local fauna
+consists of Endothiodon (Barberena et al., 1975) and long-snouted
+rhinesuchids, including Australerpeton cosgriffi, suggesting that the
+Serra do Cadeado fauna can be loosely correlated with
+Pristerognathus, Tropidostoma and Cistecephalus AZs.
+A close similarity of the Kundaram vertebrate fauna with that of
+the Tropidostoma and/or Cistecephalus (AZ) was noted based on their
+dicynodont-content (Ray, 1999). Subsequent works by several authors
+have shown that Endothiodon dominates in the Kundaram fauna; the
+latter containing the long-ranging Pristerodon, Oudenodon and a
+cistecephalid Sauroscaptor (Ray, 2001; Kammerer et al., 2016), with
+a gorgonopsian (Ray and Bandyopadhyay, 2003) and a captorhinid
+(Kutty, 1972). Based on this dicynodont-rich fossil content, the
+Kundaram Formation may be correlated with the Tropidostoma and
+lower Cistecephalus AZs of South Africa, and several other
+Endothiodon-bearing African strata (Fig. 4). These include the upper
+Madumabisa Mudstones of Zambia, Ruhuhu and Kawinga formations
+of Tanzania, K5 horizon of Mozambique, Chiweta Bed of Malawi. In
+
+Figure 4. Correlation of the Upper Permian vertebrate-bearing horizons around the world (shaded in grey). Middle-Upper Permian time
+scale follows Gradstein et al. (2012). Abbreviation: Chnx, Changhsingian; Sources of information: Rubidge (1995), Ray (1999), Cisneros
+and Abdala (2005), Smith et al. (2012), Bernardi et al. (2017).
+March 2020
+
+443
+addition, the Kundaram Formation may be correlated with the Lower
+Sakamena Formation of Madagascar and the Morro Pelado member
+of the Rio do Rasto Formation of Brazil. Hence, an early Lopingian
+(Wuchiapingian) age is suggested for the Kundaram vertebrate fauna.
+
+Triassic Vertebrate Faunas
+The largest and most devastating mass extinction event took place
+at the end of the Permian period when 70% of marine genera and 70–
+80% of the terrestrial families became extinct (Dineen et al., 2014).
+The Triassic period (252.2-201.3 my; Gradstein et al., 2012) is
+characterized by extraordinary changes in terms of vegetation due to
+different climatic conditions, two major extinction events and
+advancement in vertebrate evolution (Sues and Fraser, 2010). The
+typical hot and arid climate of the Late Permian continued at the
+beginning of the Triassic but gradually the period witnessed fairly
+moist and hot climate of monsoon type with an alternation of wet and
+dry seasons (Robinson, 1970; Preto et al., 2010; Sues and Fraser,
+2010). The long 50 million year Triassic period started with
+impoverished terrestrial vertebrate diversity when the competition
+for niche space was low because of low beta-diversity which gradually
+increased with subsequent origination, speciation and interaction
+between species resulting in diversification (Hoffmann et al., 2013;
+Hautmann, 2014). The geologically ephemeral Early Triassic fauna
+was replaced by a novel Middle Triassic community with renewed
+incumbency (Roopnarine, 2018) but low level of cosmopolitanism
+(Sahney and Benton, 2008). The period ended with a highly diverse
+vertebrate fauna that included varied temnospondyls, lepidosaurs,
+crocodilians, non-avian dinosaurs and early mammals, thus restoring
+the terrestrial tetrapod community and setting the stage for the modern
+terrestrial ecosystem (Fraser, 2006; Sues and Fraser, 2010). The Late
+Triassic thus may be considered as a transitional period between
+ancient and modern terrestrial ecosystems.
+Three general continental tetrapod faunas dominated the Triassic.
+These faunas comprised the ‘Palaeozoic holdovers’, which was the
+Early Triassic tetrapod assemblage that survived the end-Permian
+extinction to proliferate during the Triassic, the ‘indigenous’ Triassic
+fauna, which appeared and became extinct during the Late Triassic,
+and the ‘living’ fauna, which appeared during the Late Triassic and
+are still continuing today. This latter group consists of the dinosaurs
+(including birds), crocodylians, turtles, lepidosaurs and several extant
+groups of amphibians (Romer, 1966; Padian and Sues, 2015).
+Representative fossils of these groups are found in the Indian scenario,
+the details of which are discussed in the following section.
+
+lapillopsid Manubrantlia, a plagiosaurid Capulomala, a brachyopid
+Pachygonia, a probable tupilakosaurid Tupilakosaurus sp., and an
+indeterminate benthosuchid (Bandyopadhyay, 1999, 2011; Warren et
+al., 2009; D. P. Sengupta, pers comm.). The Panchet fauna also
+includes possibly three species of the dicynodont, Lystrosaurus
+(Tripathi and Satsangi, 1963; Ray, 2005; Gupta and Das, 2011), two
+cynodonts, Thrinxodon and Panchetocynodon (Satsangi, 1987; Das
+and Gupta, 2012) and the diapsid Proterosuchus (Huxley, 1865;
+Bandyopadhyay, 1999, 2011; Table 1).
+The other Early Triassic vertebrate-bearing horizon is the Kamthi
+Formation of the P–G Basin. This formation has purple siltstone and
+ferruginous sandstones, which are pebbly in places. The Kamthi
+siltstone has yielded numerous small, articulated but poorly preserved,
+skeletons (Fig. 5A–B), which were identified as a dicynodont
+(Bandyopadhyay and Sengupta, 2006). Although the skulls are mostly
+broken or distorted, these are large with flaring posterior ends,
+especially the squamosals. The postcranial skeletons are, in
+comparison well preserved and articulated. The Kamthi dicynodont
+is characterized by a robust humerus with expanded ends, which is
+smaller than the associated femur, and the presence of two U-shaped
+deep notches on the dorsal margin of the iliac blade (Fig. 5B). Such
+notched iliac border resulting in three possible origination sites for
+the ilio-femoralis muscle is seen only in the dicynodont Lystrosaurus
+(Ray, 2006). Presence of this unique feature suggests that the Kamthi
+dicynodont was Lystrosaurus, though other vertebrate fossils are yet
+
+Early Triassic
+There are two Early Triassic horizons bearing representative
+vertebrate fossils in India. These include the Panchet Formation of
+the Damodar basin and the Kamthi Formation of the P-G Basin
+(Fig. 1B). Of these, the Panchet Formation (Fig. 2B), comprising
+essentially siliciclastic sediments, has yielded various vertebrate
+remains in the sandstone and shale. The ichthyofaunal assemblage
+includes numerous scales, teeth and tooth plates of actinopterygians,
+dipnoans and chondrichthyans suggesting lack of endemism (Gupta,
+2009). This formation also includes several temnospondyls,
+dicynodonts, diapsids and cynodonts (Table 1). The temnospondyls
+are represented by the trematosaurids Indolyrocephalus, Gonioglyptus,
+a rhytidosteid Indobrachyops, a lydekkerinid, Lydekkerina, a
+Episodes Vol. 43, no. 1
+
+Figure 5A-B, Lystrosaurus sp. Articulated skeletons found on the
+purple siltstone of the Kamthi Formation.
+
+444
+Table 1. Lower and Middle Triassic vertebrate faunas of India. Sources of information: Tripathi and Satsangi (1963), Bandyopadhyay (2011), Ray (2005),
+Bandyopadhyay and Sengupta (2006), Gupta and Das (2011), Das and Gupta (2012), Sengupta et al. (2017), D. P. Sengupta pers.comm. (2018)
+Panchet
+
+Yerrapalli
+
+Denwa
+
+Acrolepidae
+
+Indeterminate genus
+
+-
+
+-
+
+PISCES
+Perleididae
+
+Indeterminate genus
+
+-
+
+Chondrichthyes
+
+Indeterminate genus
+
+-
+
+-
+
+Ceratodontidae
+
+Indeterminate genus
+
+Ceratodus sp.
+
+Ceratodus sp.
+
+Saurichthyformes
+
+-
+
+Saurichthys sp.
+
+Rhytidosteidae
+
+Indobrachyops panchetensis
+
+-
+
+-
+
+Trematosauridae
+
+Indolyrocephalus huxleyi
+
+-
+
+Lonchorhynchine indet.
+
+-
+
+-
+
+AMPHIBIA
+
+Gonioglyptus fragilis
+Gonioglyptus longirostris
+Lapillopsidae
+
+Manubrantlia khaki
+
+Lydekkerinidae
+
+Lydekkerina huxleyi
+
+Plagiosauridae
+
+Capulomala panchetensis
+
+-
+
+Brachyopidae
+
+?Pachygonia incurvata
+
+-
+
+Undescribed
+
+Benthosuchidae
+
+?benthosuchid
+
+-
+
+-
+
+Tupilakosauridae
+
+Tupilakosaurus sp.
+
+-
+
+-
+
+Mastodonosauridae
+
+-
+
+Parotosuchus rajareddyi
+
+-
+
+Capitosauroidea
+
+-
+
+-
+
+Paracyclotosaurus
+crookshanki
+Cherninia denwai
+
+Proterosuchidae
+
+Proterosuchus
+(Chasmatosaurus,
+Ankistrodon) indicus
+
+-
+
+-
+
+Rhynchosauridae
+
+-
+
+Mesodapedon kuttyi
+
+Undescribed
+
+Allokotosauria
+
+-
+
+Pamelaria dolichotrachlea
+
+Shringasaurus indicus
+
+Erythrosuchidae
+
+-
+
+Erythrosuchus sp.
+
+Aphanosauria
+
+-
+
+Yarasuchus deccanensis
+
+-
+
+Lystrosaurus murrayi
+L. cf. declivis, L. cf. curvatus
+
+-
+
+-
+
+DIAPSIDA
+
+SYNAPSIDA
+Lystrosauridae
+Kannemeyeriiform
+
+-
+
+Wadiasaurus indicus
+
+Undescribed taxa
+
+Stahleckeriidae
+
+-
+
+Rechnisaurus cristarhynchus
+
+-
+
+Thrinaxodontidae
+
+Thrinaxodon bengalensis
+
+-
+
+-
+
+Brasilodontidae
+
+Panchetocynodon
+damodarensis
+
+-
+
+-
+
+-
+
+Trirachodontidae indet.
+
+-
+
+Trirachodontidae
+
+to be recovered from the formation. In addition, the temnospondyl
+Brachyops laticeps is known from the upper part of the Kamthi
+Formation or the ‘Mangli” beds’ (Owen, 1855).
+
+Middle Triassic
+The Yerrapalli Formation of the P-G Basin and the Denwa
+Formation of the Satpura Basin (Figs 1B–C, 2A) are the major Middle
+Triassic vertebrate-bearing horizons of India (Crookshank, 1936; Jain
+et al., 1964), though fragmentary remains of a dicynodont and
+temnospondyl are known from the Bhimaram Formation (Kutty et
+al., 1987). The strata of the Yerrapalli Formation comprise red to
+
+violet mudstone alternating with quartzose sandstone, with mudstone
+being fossil-rich. The vertebrate assemblage (Table 1) consists of the
+ceratodontid Ceratodus, the saurichthyform Saurichthys, the
+capitosaur Parotosuchus, the stenaulorhynchine rhynchosaur
+Mesodapedon, the allokotosaur Pamelaria, the erythrosuchid
+Erythrosuchus, the aphanosaur Yarasuchus, two kannemeyeriiform
+dicynodonts (Wadiasaurus and Rechnisaurus), and a trirachodontid.
+The Denwa Formation of the Satpura Basin is the other wellknown Middle Triassic vertebrate-bearing horizon of India. On the
+basis of lithology, Maulik et al. (2000) divided the formation into
+lower and upper parts. The lower Denwa comprises multistoried,
+sheet-like medium-fine grained sandstone bodies interleaved with red
+March 2020
+
+445
+mudstones, while the upper Denwa is a mudstone-dominated unit
+characterized by layers of ribbon-shaped channel-fill bodies and sandy
+to heterolithic sheet sandstones encased within the mudstones. The
+vertebrate assemblage (Table 1) includes the ceratodontid Ceratodus,
+the capitosaurs Paracyclotosaurus, Cherninia, and three indeterminate
+taxa, the undescribed brachyopid, the lonchorhynchine trematosaurid,
+an undescribed rhynchosaur, and various medium–large dicynodonts
+(Mukherjee and Sengupta, 1998; Bandyopadhyay and Sengupta,
+1999; Mukherjee et al., 2019). Recently the horned allokotosaur
+Shringasaurus (Fig. 6A–B) has been described from this horizon
+(Sengupta et al., 2017). This is the only known horned Triassic reptile
+to date.
+
+Late Triassic
+Three Late Triassic horizons of India contain distinct vertebrate
+assemblages — the Maleri and the lower Dharmaram formations of
+the P-G Basin (Table 2) and the Tiki Formation of the Rewa Basin
+(Table 3). The Maleri Formation is represented by a mudstonedominated, nearly 400-m-thick fluvial succession deposited under a
+semi-arid climate (Sarkar, 1988) and may be subdivided into two
+parts. The lower part (100–150 m thick) comprises vertically stacked
+siltstone-dominated intervals, whereas the upper part (200–300 m
+thick) contains multistoried, sheet sandstone, vertically separated by
+comparatively thicker siltstone-dominated intervals (Dasgupta and
+Ghosh, 2018). Numerous thin, sheet-like and lensoid bodies of crossbedded grainstones occur at different stratigraphic levels (Dasgupta
+et al., 2017).
+This formation has yielded two distinct vertebrate assemblages
+
+(Kutty and Sengupta, 1989; Prasad et al., 2008; Bandyopadhyay, 2011;
+Chakravorti and Sengupta, 2019). The Maleri Formation encompasses
+12 families, which represent 25 genera and species (Table 2), of which
+12 and 13 taxa belonged to the lower and upper Maleri faunas,
+respectively. The lower Maleri fauna is characterized by an association
+of the phytosaur Parasuchus, the rhynchosaur Hyperodapedon and
+the metoposaurid Panthasaurus (Chatterjee, 1974, 1978;
+RoyChowdhury, 1965; Chakravorti and Sengupta, 2019). Other
+vertebrates comprise a ptychoceratodontid, a xenacanthid, a
+prolacertid (?), a yet to be described phytosaur similar to
+Angistorhinus, an aetosaur similar to Typothorax, an allokotosaur, a
+basal saurischian, and two cynodont genera (Bandyopadhyay, 2011;
+Novas et al., 2011; Nesbitt et al., 2017; Table 2).
+The upper Maleri fauna, on the other hand, includes two
+chigutisaurids, Kuttycephalus and Compsocerops (Kutty and
+Sengupta, 1989), two derived phytosaurs similar to Angistorhinus
+and Leptosuchus (Hungerbühler et al., 2002), two dinosauromorphs
+(Novas et al., 2011), and a dicynodont very similar to Stahleckeria
+(Novas et al 2011; Bandyopadhyay, 2011; Table 2). This faunal
+assemblage occurs in a stratigraphically younger horizon, from which
+Panthasaurus, Hyperodapedon, Parasuchus and Exaeretodon had
+disappeared, suggesting that the latter is younger than the lower Maleri
+fauna (Kutty and Sengupta, 1989).
+The Maleri Formation is overlain by the Dharmaram Formation,
+one of the most important stratigraphic horizons, and encompasses
+the Triassic-Jurassic boundary in the Indian Gondwana
+(Bandyopadhyay and RoyChowdhury, 1996). It has been
+biochronologically divided into a lower part bearing a Rhaetian fauna
+and an upper part yielding a Hettangian fauna (Bandyopadhyay and
+
+Figure 6. A-B, Shringasaurus indicus Sengupta et al. (2017). A horned allokotosaur from the Denwa Formation of India as A, reconstructed
+skeleton; B, restored life form. Missing bones are shaded by grey.
+Episodes Vol. 43, no. 1
+
+446
+Table 2. Late Triassic vertebrates from different stratigraphic horizons of the P-G Basin, India. Sources of information: Kutty and Sengupta (1989),
+Bandyopadhyay (1999, 2011), Prasad et al. (2008), Chakravorti and Sengupta (2019)
+Lower Maleri
+
+Upper Maleri
+
+Lower Dharmaram
+
+Ceratodontidae
+
+Ptychoceratodus virapa
+
+-
+
+-
+
+-
+
+P. nageswari
+
+P. nageswari
+
+Polyacrodontidae
+
+Polyacrodus? contrarius
+
+-
+
+-
+
+Xenacanthidae
+
+Mooreodontus indicus
+
+M. indicus
+
+M. indicus
+
+Metoposauridae
+
+Panthasaurus maleriensis
+
+-
+
+-
+
+Chigutisauridae
+
+-
+
+Compsocerops cosgriffi
+
+-
+
+-
+
+Kuttycephalus triangularis
+
+-
+
+Phytosauria
+
+Parasuchus hislopi
+Angistorhinus
+
+cf. Leptosuchus
+Angistorhinus
+
+Nicrosaurus-like form
+-
+
+Rhynchosauria
+
+Hyperodapedon huxleyi
+
+-
+
+-
+
+Prolacertiformes
+
+Malerisaurus robinsonae
+
+-
+
+-
+
+Aetosauria
+
+cf. Typothorax
+
+Aetosauria indet.
+
+Paratypothorax-like form
+
+-
+
+-
+
+Desmatosuchus-like form
+
+Alwalkeria maleriensis
+
+Gen indet. A (ISI R282)
+Gen indet. A (284)
+Nambalia roychowdhurii
+Jaklapallisaurus asymmetrica
+Guibasauridae indet.
+
+J. asymmetrica
+Sauropodomorpha indet.
+Neotheropoda indet.
+
+Dicynodontia
+
+-
+
+cf. Ischigualastia
+
+-
+
+Cynodontia
+
+Exaeretodon statisticae
+Deccanodon maleriensis
+
+-
+
+-
+
+PISCES
+
+AMPHIBIA
+
+DIAPSIDA
+
+Dinosauriformes
+
+SYNAPSIDA
+
+RoyChowdhury, 1996, Bandyopadhyay, 2016). This formation is a
+sandstone-dominated unit that contains subordinate amount of
+mudstone. The Rhaetian faunal assemblage contains 8 taxa (Table
+2), comprising a ptychoceratodontid, a xenacanthid (Nath and
+Yadagiri, 2007; Prasad et al., 2008), a derived phytosaur similar to
+Nicrosaurus, an aetosaurid similar to Paratypothorax (Kutty et al
+2007; Bandyopadhyay, 2011), several sauropodomorphs, and a
+neotheropod (Novas et al., 2011).
+Another Late Triassic Gondwana horizon that is rich in varied
+vertebrate fossils is the Tiki Formation of the Rewa Basin (Fig. 7AP). It has yielded a diverse fish assemblage comprising hybodontid
+and xenacanthid sharks, dipnoans and actinopterygians (Prasad et
+al., 2008; Ray et al., 2016; Bhat and Ray, 2018; Bhat et al., 2018a, b)
+a metoposaurid, Panthasaurus maleriensis (Sengupta, 2002;
+Chakravorti and Sengupta, 2019), various diapsids including the
+rauisuchid Tikisuchus romeri and the rhynchosaur Hyperodapedon
+tikiensis (Chatterjee and Mazumdar, 1987; Mukherjee and Ray, 2014).
+Numerous archosauriform teeth belonging to 12 distinct morphotypes
+have been reported from the Tiki Formation (Ray et al., 2019). These
+include Galtonia, Protecovasaurus, aetosaur, indeterminate
+archosauriforms and theropod-like forms. Recently Datta et al. (2019a)
+reported numerous isolated teeth of a possible leptosuchomorph-grade
+phytosaur. Moreover, review of the skull earlier identified as
+Parasuchus from the Tiki Formation (Chatterjee 1978) is found to
+have belonged to a a new mystriosuchine phytosaur Volcanosuchus
+statisticae (Datta et al. 2019b). The formation has also yielded
+
+fragmentary remains of a saurischian dinosaur (Ray et al., 2016) and
+small theropod-like ungual phalanges (Rakshit et al., 2018). It may
+be noted that putatively the earliest lizard Tikiguania estesi (Datta
+and Ray, 2006) was reported from this formation. However,
+Hutchinson et al. (2012) questioned the provenance and geologic
+horizon of Tikiguania because it is almost indistinguishable from
+living agamids and suggested that the fossil might have come from
+younger horizons. As Tikiguania was extracted from the Tiki
+mudstones, which have yielded a rich microvertebrate fauna (Bhat,
+2018; Bhat et al., 2018a, b; Bhat and Ray, 2018; Rakshit et al., 2018;
+Ray et al., 2019), such contamination hypothesis seems less likely
+(Chatterjee et al., 2017). However, unless more conclusive evidence
+is available, the taxon is excluded from the Tiki faunal list (Table 3).
+The formation has also yielded various non-mammalian cynodonts
+including a large traversodontid Ruberodon roychowdhurii (Ray,
+2015), a small non-mammalian cynodont Rewaconodon tikiensis
+(Datta et al., 2004), a morganucodontid mammal Gondwanadon
+tapani (Datta and Das, 1996) and, one of the earliest ‘nontherian’
+mammals Tiktherium, which is characterized by transversely expanded
+molar (Datta, 2005).
+
+Triassic Intercontinental Relationships
+Early Triassic Global Correlation
+The Panchet fauna virtually duplicates the Early Triassic faunas
+March 2020
+
+447
+
+Figure 7. Vertebrates from the Late Triassic Tiki Formation of India. A-B, scattered fossils in the field; C-D, Hyperdapedon tikiensis
+Mukherjee and Ray (2014). Maxillary dental batteries in ventral views; E, Volcanosuchus statisticae Datta et al. (2019b). A partial skull in
+anterior view; F, Tikisuchus romeri Chatterjee and Mazumdar (1987). Restored skull and lower jaw; G-P, isolated teeth of G, Ptychoceratodus
+oldhami Bhat and Ray (2018) in ventral view; H-I, Pristrisodus tikiensis Bhat et al. (2018a) in H, labial and I, lingual views; J-O, xenacanthid,
+J-L, Xenacanthus jaini and M-O, Xenacanthus indicus (Bhat et al., 2018b) in labial, lingual and side views; P, an archosauriform tooth in
+labial view (Bhat, 2018).
+
+of South Africa, Antarctica, Russia and China, showing similar faunal
+associations, and suggesting a Pangaean vertebrate assemblage
+(Bandyopadhyay, 2011). Although the earliest Lystrosaurus (L.
+maccaigi) is known from the latest Permian Dicynodon AZ (Smith
+and Ward, 2001), typical Lystrosaurus species including L. murrayi
+and L. curvatus appeared in the earliest Triassic Lystrosaurus AZ
+Episodes Vol. 43, no. 1
+
+(Smith et al., 2012) and hence may be correlated with the Panchet
+Formation. In addition, the Panchet fauna may be correlated with
+other Lystrosaurus-bearing horizons such as the Kamthi Formation
+of the P-G Basin, the N’tawere Formation of Zambia and the Lower
+Fremouw Formation of Antarctica (Fig. 8).
+The Lystrosaurus - Thrinaxodon - Proterosuchus association is
+
+448
+Table 3. Vertebrate fossil assemblage of the Late Triassic Tiki Formation of the Rewa Gondwana Basin, India. Sources of information: Datta and Das
+(1996), Datta (2004), Mukherjee and Ray (2014), Ray et al. (2016, 2019), Bhat and Ray (2018), Bhat et al. (2018a, b), Rakshit et al. (2018), Datta et al.
+(2019a, b).
+Order/Family
+
+Genus and species
+
+CHONDRICHTHYIS
+Lonchididae
+
+Order/Family
+DIAPSIDA
+
+Lonchidion estesi
+
+Phytosauria
+
+Lonchidion incumbens
+Xenacanthidae
+
+(?)leptosuchomorph
+Rhynchosauria
+
+Hyperodapedon tikiensis
+
+Mooreodontus indicus
+
+Rauisuchidae
+
+Tikisuchus romeri
+
+Mooreodontus jaini
+
+Rhynchocephalia
+
+Undescribed
+
+Tikiodontus asymmetricus
+
+Archosauriformes
+
+Galtonia sp., Protecovasaurus
+sp., other indeterminate forms
+
+Dinosauriformes
+Ceratodus sp.
+
+Undescribed
+Theropod-like(?) forms
+
+Ptychoceratodus oldhami
+
+Aetosauria
+
+Gnathorhizidae
+
+Gnathorhiza sp.
+
+SYNAPSIDA
+
+Actinopterygii
+
+Undescribed
+
+Cynodontia
+
+Panthasaurus maleriensis
+
+Mammaliaformes
+
+AMPHIBIA
+Metoposauridae
+
+Volcanosuchus statisticae
+
+Pristrisodus tikiensis
+
+OSTEICHTHYIS
+Ptychocerato-dontidae
+
+Genus and species
+
+Undescribed
+Ruberodon roychowdhurii
+Rewaconodon tikiensis
+
+well known from the Lystrosaurus AZ of the Beaufort Group of South
+Africa and the Fremouw Formation of Antarctica (Kitching et al.,
+1972; Colbert and Kitching, 1977). However, the temnospondyl fauna
+of the Panchet Formation is more diverse as well as cosmopolitan.
+There are six or seven temnospondyl families in contrast to only two
+or three species of Lystrosaurus, a species of Proterosuchus, and two
+cynodont taxa although the abundance of Lystrosaurus far exceeds
+that of the other taxa. Based on these tetrapods, the Panchet fauna
+may be correlated with the Arcadia Formation of Australia, Knocklofty
+Formation of Tasmania, the Wordie Creek Formation of East
+Greenland, the Wupatki and Torrey members of the Moenkopi
+Formation of USA, and the Puesto Viejo and Rio Mendoza formations
+of Argentina. The age of the Panchet Formation is considered as Early
+Triassic (Induan-Early Olenekian; Cosgriff, 1984; Ray, 2005, 2015).
+The abundance of small Lystrosaurus specimens from the Kamthi
+Formation points towards correlation with the Lystrosaurus AZ of
+the Beaufort Group of South Africa, suggesting that the Kamthi
+Formation may be considered as Early Triassic in age. The specific
+identification of these Lystrosaurus specimens is not possible because
+of their fragmentary condition. A distinct time gap is envisaged
+between the Early Triassic Kamthi Formation and the underlying
+Kundaram Formation, which is Late Permian (early Lopingian,
+Wuchiapingian) in age (Fig. 1B).
+
+Middle Triassic Global Correlation
+With the beginning of the Triassic period, Lystrosaurus, became
+the most common tetrapod immediately after the end-Permian
+extinction event, and rapid turnover gave way to the archosauromorphs
+(Sahney and Benton, 2008). In the Pangaean scenario, the diversity
+of the once dominant temnospondyls and herbivorous synapsids
+started to decline at the beginning of the Middle Triassic and
+simultaneously the diapsids continued to flourish. However, the
+Middle Triassic continental vertebrates are comparatively less well
+represented because of the worldwide increase in marine conditions,
+
+Tikitherium copei
+Gondwanadon tapani
+
+especially in Laurasia (Gandin et al., 1982; Hallam, 1992). In terms
+of climate the Middle Triassic period was fairly hot and moist with
+alternate wet monsoon and dry seasons (Robinson, 1973; Tucker and
+Benton, 1982; Preto et al., 2010). Temnospondyl amphibians are the
+most common vertebrate fossils in many Middle Triassic assemblages
+and diverse archosauromorphs as well as archosaurs also started to
+flourish. The important Middle Triassic vertebrate horizons of Laurasia
+include the Holbrook and the Anton Chico members (Anisian) of the
+Moenkopi Formation in USA (Schoch et al., 2010), much of the
+Buntsandstein in Central Europe (Gradstein et al., 2012), the Dongus
+and Bukobay formations of Russia (Sennikov, 1996), GrenzbitumenZone of Switzerland (Röhl et al., 2001), the Otter Sandstone and the
+Bromsgrove Sandstone formations of United Kingdom (Milner et
+al., 1990), the Er-ma-ying Formation of Shanxi and Inner Mongolia
+(Zhang et al., 2003; Sues and Fraser, 2010; Sookias et al., 2014), and
+the Karamay Formation of Xinjiang, China (He et al., 2014). The
+most important Middle Triassic vertebrate yielding horizon in
+Gondwana is the Manda Formation of Tanzania (Cox, 1991; Lucas,
+1998); it has produced a large number of Middle Triassic vertebrates.
+The other horizons are the Omingonde Formation of Namibia (Keyser,
+1973; Pickford, 1995; Abdala and Smith, 2009), the N’tawere
+Formation of Zambia (Catuneanu et al., 2005; Rubidge, 2015), the
+Arcadia Formation, and the Hawkesbury and Wianamatta formations
+of Australia (Banks, 1978; Warren, 2012).
+Jain et al. (1964) considered the age of Yerrapalli Formation as
+late Early Triassic or possibly early Middle Triassic. Later, with the
+recovery of the kannemeyeriid dicynodont (Roy Chowdhury, 1970;
+Bandyopadhyay, 1988a), and the stenaulorhynchine rhynchosaur
+(Chatterjee 1980), the formation was correlated with the Manda
+Formation of Tanzania, N’tawere Formation of Zambia, the Donguz
+Series of Russia, and the Omingonde Formation of Namibia, and an
+Anisian age for the Yerrapalli Formation was suggested by
+Bandyopadhyay (1988b) and Bandyopadhyay and Sengupta (1999,
+2006). The other fossil-bearing Middle Triassic horizon of India, the
+Denwa Formation of the Satpura Basin, has not yielded any nonMarch 2020
+
+Figure 8. Global correlation of the Triassic Gondwana horizons of India. Triassic time scale is after Ogg et al. (2016). Sources of information: Cosgriff (1984), Rubidge (1995), Bandyopadhyay
+and Sengupta (1999, 2006), Schoch et al. (2010), Ray (2015), Martz and Parker (2017), Datta et al. (2019b).
+
+449
+
+Episodes Vol. 43, no. 1
+
+450
+mammalian cynodonts. Bandyopadhyay and Sengupta (1999)
+correlated it with the Holbrook Member of the Moenkopi Formation,
+U.S.A (Fig. 8). However, Abdala et al. (2005) directly correlated
+subzone C of the Cynognathus AZ of South Africa with the Denwa
+Formation based on the presence of Paracyclotosaurus, and
+considered the possible extension of the age to the latest Anisian
+based on the presence of two mastodonsaurids. Recently, a new
+capitosaurid temnospondyl, Antarctosuchus, a sister taxon to the
+Indian form Paracyclotosaurus crookshanki, has been described from
+the upper Fremouw Formation of Antarctica (Sidor et al., 2014). Based
+on this fossil fauna, the age of the Denwa Formation is considered as
+Anisian (Bandyopadhyay and Sengupta, 1999; Sengupta et al., 2016,
+2017).
+
+Late Triassic Global Correlation
+The faunal records of Late Triassic horizons of the world are
+comparatively rich and complete. A variety of diapsids, including
+dinosaurs, emerged during this time and diversified throughout the
+world. Simultaneously temnospondyls and several amniotes faced
+extinction. A number of major tetrapod taxa such as metoposaurids,
+phytosaurs, aetosaurs, rauisuchids, poposaurids, trilophosaurs,
+diademodontids, traversodonts, chiniquodontids appeared in the Late
+Triassic, became the indigenous taxa of this time and disappeared by
+the end of the Triassic. Almost all the major group of extant terrestrial
+tetrapods, such as dinosaurs (including birds), pterosaurs,
+crocodylians, turtles, lepidosaurs, extant amphibians (frogs,
+salamanders and caecilians) evolved by the end of Triassic. The first
+mammaliaforms (Rowe, 1988) appeared during the Late Triassic. The
+appearance of dinosaurs and mammaliaforms near its close makes
+the Triassic a transitional period between the archaic tetrapods of the
+Palaeozoic, the rise and fall of the dinosaurs during the Mesozoic
+and the spectacular radiation of mammaliaforms during the
+Cenozoic.
+In terms of climate the Late Triassic period had fairly moist and
+hot climate of monsoon type with an alternation of wet and dry seasons
+(Robinson, 1970; Preto et al., 2010). A significant episode of increased
+rainfall throughout the world took place during this time, especially
+at the boundary between the lower and upper Carnian (Preto et al.,
+2010). Subsequently, the late Carnian and Norian became climatically
+stable with some minor climatic changes. In Laurasia, a large number
+of Late Triassic faunas is known from the Chinle Formation of
+southwestern United States, Dockum Formation of Texas, Popo Agie
+Formation of Wyoming and Newark Group of eastern United States
+(Long and Murry, 1995; Heckert, 2004; Lucas, 2018), Keuper Group
+of Germany (Deutsche Stratigraphische Kommission, 2005; Gradstein
+et al., 2012), and Krasiejów and Lisowice of Poland (Dzik and Sulej,
+2007; Dzik et al., 2008). Among the Gondwana continents the Late
+Triassic vertebrates are known from the Ischigualasto, Los Colorado
+and Cacheuta formations of Argentina (Bonaparte, 1978; Tucker and
+Benton, 1982; Rogers et al., 1993; Arcucci et al., 2004), Santa Maria
+and Caturrita formations of Brazil (Langer, 2007; Langer et al., 2018),
+Lower Elliot Formation of South Africa (Yates, 2003), Isalo II Beds
+of Madagascar (Flynn et al., 1999; Fortuny et al., 2019) and Argana
+Group of Morocco (Dutuit, 1972; Buffa et al., 2019).
+In the current work, the post-Carnian age for the Chinle Formation
+in Arizona and New Mexico are considered based on radioisotopic
+data (Irmis et al., 2010, 2011; Olsen et al., 2011; Martz et al., 2013),
+where Otischalkian and Adamanian are early Lacian (early Early
+
+Norian) and late Lacian (late Early Norian), respectively (Martz and
+Parker, 2017). Moreover, the Carnian-Norian boundary falls at about
+228 Ma, and the duration of the Norian stage was long and comprises
+c.20 Ma (Gradstein et al., 2012; Ogg et al., 2016). Proliferation of
+Hyperodapedon in the lower Maleri fauna (about 60% of the total
+diversity, Benton, 1983) shows that it belongs to the Hyperodapedon
+biochron (sensu Lucas and Heckert, 2002) and the Ischigualastian
+LVF (sensu Langer, 2005), and a Carnian age was suggested for the
+formation (Langer, 2005). The lower Ischigualasto Formation of
+Argentina where Hyperodapedon dominated has been dated at
+231.4±0.3 Ma (Martínez et al., 2011), i.e., late Carnian (Gradstein et
+al., 2012; Schultz et al., 2016). Langer et al. (2017) hence suggested
+a late Carnian to earliest Norian age for the horizons where
+Hyperodapedon is abundant, including the lower Maleri Formation.
+Although the lower Maleri Formation has yielded aetosaurian remains
+(Bandyopadhyay, 2011) these are yet to be studied in details. On the
+other hand, the metoposaurid temnopondyls are not robust Late
+Triassic biomarkers (Martz and Parker, 2017) as these have a long
+range extending from middle/late Carnian to middle/late Norian.
+Moreover, their global distribution is genera-specific as Koskinonodon
+and Apachesaurus are known from Noth America, Metoposaurus is
+from Europe, Arganasaurus and Dutuitosaurus is from Morocco and
+Panthasaurus from India (Chakravorti and Sengupta, 2019; Bufa et
+al., 2019). However, presence of Exaeretodon (Chatterjee, 1982)
+suggests a Late Carnian age for the lower Maleri Formation as this
+genus is essentially known from the late Carnian Hyperodapedon AZ
+of Santa Maria Formation of Brazil (Langer et al., 2007), and the
+Ischigualasto Formation of Argentina (Abdala and Ribeiro, 2010). In
+addition, the lower Maleri Formation is correlated with the Isalo II
+Beds (Madagascar), the Lossiemouth Sandstone (England), and the
+Middle Keuper (Germany, Fig. 8).
+It is to be noted that the Bhimaram Formation, underlying the
+Maleri Formation is poorly fossiliferous and has yielded fragmentary
+remains of temnospondyl amphibians and dicynodonts (Kutty et al.,
+1987). Bandyopadhyay and Sengupta (2006) assigned an age of
+Middle Triassic (late Anisian to Ladinian) to the formation. Hence, a
+distinct age gap is evident between the Bhimaram Formation and the
+overlying lower Maleri Formation.
+The upper Maleri Formation has yielded a diverse assemblage,
+including different sauropodomorphs. This distinctly younger upper
+Maleri fauna may be correlated with the Lower Elliot Formation of
+South Africa, lower part of the upper Mackay Formation of
+Madagascar, and lower parts of the Rio Blanco and Los Colorados
+Formation, Argentina (Fig. 8). An early Norian age has been proposed
+for this upper Maleri fauna (Bandyopadhyay, 2011). Although an age
+gap was suggested between the lower and upper fauna of the Maleri
+Formation (Langer, 2005), later workers (Bandyopadhyay and
+Sengupta, 2006; Bandyopadhyay, 2011) did not support this view
+(Ray, 2015).
+The fossil assemblage of the lower Dharmaram Formation is
+essentially an archosaur-dominated tetrapod fauna, which is distinctly
+different from that of the underlying upper Maleri Formation. The
+lower Dharmaram fauna resembles post-Ischigualastian assemblages,
+such as that of the La Esquina Fauna of the Los Colorados Formation,
+the Trossingen Formation of the German Keuper, the lower Elliot
+Formation and the Chinle Formation, and is probably latest Norian–
+Rhaetian in age (Bandyopadhyay and Sengupta, 2006; Kutty et al.,
+2007; Novas et al., 2011; Bandyopadhyay, 2016).
+An association of Hyperodapedon, the derived phytosaurs
+March 2020
+
+451
+including Volcanosuchus and Panthasaurus is found in the Tiki
+Formation of the Rewa basin. Based on its palynofloral assemblage
+(Maheswari and Kumaran, 1979) and faunal content (Bhat, 2018 and
+references therein), the Tiki Formation has been correlated with the
+lower Maleri Formation of the P-G Basin (Lucas, 1998; Datta, 2004)
+and the Camp Springs Member of the Dockum Formation, U.S.A.
+(Datta et al., 2004). A Carnian age was suggested for the Tiki
+Formation (Datta, 2004; Mukherjee et al., 2012). It is evident that
+the Tiki fauna may be placed within the Hyperodapedon biochron
+(Lucas and Heckert, 2002) and the Ischigualastian LVF (Langer, 2005)
+based on the abundance of Hyperodapedon in the fauna (Mukherjee
+and Ray, 2012). Ray (2015) showed that the Tiki Formation may be
+correlated with other horizons such as the lower part of the Pebbly
+Arkose Formation, Zimbabwe, base of the Isalo II Beds (Mackay
+Formation) of Madagascar, upper part of the Alemoa Member of the
+Santa Maria Formation, Brazil, Wolfville Formation of Nova Scotia
+and Popo Agie Formation of Wyoming (Fig. 8). Recently, a rich
+assemblage of freshwater sharks, ceratodontiform dipnoans,
+xenacanthids, and actinopterygians, and varied archosauriform teeth
+has been reported, and shows similarity in faunal assemblage with
+that of the lower Tecovas Formation of the Chinle Group (Ray et al.,
+2016; Bhat et al., 2018a, b), which is early/middle Norian in age
+(Martz and Parker, 2017). Moreover, Datta et al. (2019a, b) reported
+the presence of more derived phytosaurs and absence of the basal
+Parasuchusi from the formation. Hence, a late Carnian to early/middle
+Norian age is proposed for the Tiki Formation.
+
+Jurassic Vertebrate faunas
+Faunal Characteristics
+The end-Triassic witnessed an extinction event which is
+considered as one of largest of the five major extinction events
+(Benton, 1986; Olsen and Sues, 1986, Whiteside et al., 2010). At the
+onset of the Jurassic when the supercontinent Pangaea started to break
+up, world continued to be warm and arid in low- to mid- latitudes in
+western Pangaea as indicated by the high latitude floras in Siberia
+and lack of glacial deposits. While in the Late Jurassic this arid zone
+spread towards southern Eurasia (Hallam, 1984). Sea levels began to
+rise because of increase in sea-floor spreading and subsequently large
+areas of the continents were flooded, the deserts began to retreat, and
+continental temperatures stabilized (Tennant et al., 2016). The typical
+Dicroidium-Ptilophyllum flora of the Gondwana was replaced by a
+conifer-benettetilean flora of the Jurassic (Chatterjee et al., 2017). A
+short-lived but widespread marine transgression at the beginning of
+Jurassic resulted in advancement of shallow seas across the continents
+(Haq, 2017), as a result of which the Early Jurassic terrestrial fossil
+record is scarce (Tennant et al., 2016). India is no exception and the
+terrestrial tetrapods of the Jurassic period are found only from P-G
+Basin (Bandyopadhyay, 1999). There are two horizons, which have
+produced Early Jurassic vertebrates, and these included the Kota
+Formation and the underlying upper part of the Dharmaram Formation
+(Bandyopadhyay and Roychowdhury, 1996). The upper Dharmaram
+fauna includes two sauropodomorphs, Lamplughsaura
+dharmaramensis and Pradhania gracilis, a theropod similar to
+Dilophosaurus, and a sphenosuchid similar to Dibothrosuchus (Kutty
+et al., 2007).
+The overlying Kota Formation has been subdivided into two
+lithological units (Rudra, 1982); the lower unit is dominated by
+Episodes Vol. 43, no. 1
+
+fluviatile sandstone-mudstone association while the upper part
+includes marl and limestone beds. Rudra and Maulik (1994) suggested
+that a meandering river system deposited the lower Kota and a braided
+river system formed the upper part. Interestingly two distinct biozones
+have been identified, where the lower fauna contains two sauropods,
+Barapasaurus tagorei (Fig. 9A) and Kotasaurus yamanpalliensis
+(Fig. 9B-C), an ankylosaur (Galton, 2019), a kuehneotheriid, an
+amphilestid, and a morganucodontid (Table 4). From the limestone
+of the upper part of the Kota Formation a diverse vertebrate fauna
+has been reported, which includes three semionotid genera, two
+pholidophorids, a coelacanthid, a kayentachelyid, a
+campylognathoidid, two sphenodontians, and a lepidosaur. In addition,
+there are seven mammaliaformes (Table 4) including two docodontids,
+a morganucodontid, and an amphilestid (Bandyopadhyay et al., 2010).
+The fauna also contains three mammaliaformes of uncertain affinities
+(Table 4).
+
+Intercontinental relationships
+Early Jurassic tetrapod assemblages are known from the McCoy
+Brook Formation of Nova Scotia, Canada (Sues et al., 1994; Fedak
+et al., 2015), Moenave, Kayenta and Navajo formations, Arizona, in
+USA (Schoch et al., 2010), La Boca Formation of Tamaulipas, Mexico
+(Clark et al., 1994), and Lufeng Formation of Yunnan, China (Lucas
+2009). In the Gondwanan region, the Elliott and Clarens formations
+of South Africa (Knoll, 2005) and the Fallan Formation of Antarctica
+(Hammer and Hickerson, 1996) are known for their Early Jurassic
+vertebrates. The sedimentary succession of the Cañadón Asfalto
+continental basin in the Argentinean Chubut Province of central
+Patagonia preserves a rich record of Jurassic vertebrate fauna. A
+sauropod-dominated fauna occurs in the Las Leoneras Formation,
+which is Early Jurassic (Sinemurian to Pliensbachian) in age (Pol et
+al., 2011). The next stratigraphically higher fauna occurs in the EarlyMiddle Jurassic Cañadón Asfalto Formation (Cúneo et al., 2013).
+The Morrison Formation of USA (Foster, 2003) and the Tendaguru
+Beds of Tanzania (Remes, 2007) are well known for their Late Jurassic
+vertebrate fossils. However, most of the Early Jurassic vertebratebearing horizons of Europe are marine deposits (Delsate and Ezcurra,
+2014).
+In the light of studies on faunal turnover during Triassic-Jurassic
+boundary by Olsen and Galton (1977) and Benton (1986), the upper
+Dharmaram fauna represents the record of earliest Jurassic tetrapods
+and a Hettangian age was assigned to the formation (Bandyopadhyay
+and RoyChowdhury, 1996; Bandyopadhyay and Sengupta, 2006).
+The fauna consists of two basal sauropodomorphs, a sphenosuchian
+similar to Dibothrosuchus of the Lower Jurassic Lufeng Group, China
+and a large theropod similar to Dilophosaurus of the Lower Jurassic
+Kayenta Formation, Arizona (Kutty et al., 2007; Novas et al., 2011).
+These authors further stated that the upper Dharmaram fauna is similar
+to the faunas from the Upper Elliot and Clarens formations of South
+Africa, the Kayenta Formation of USA and the lower Lufeng Group
+of China, and suggested an Early Jurassic age (Sinemurian) for this
+horizon. On the other hand, the Kota Formation has long been
+considered to be of Liassic age (King, 1881; Robinson, 1970) on the
+basis of its varied fish assemblage. Analyzing the faunas of the lower
+and upper units of the Kota Formation and comparing them with
+faunas from coeval horizons, Bandyopadhyay and Roychowdhury
+(1996) and Bandyopadhyay and Sengupta (2006) assigned the lower
+Kota fauna to an age ranging from Sinemurian to Pliensbachian and
+
+452
+
+Figure 9. Sauropod dinosaurs of the Kota Formation, A-B, Barapasaurus tagorei, A, a mounted skeleton; B, mounted manus in anterior
+view; C-D, Kotasaurus yamanpalliensis, C, mounted neck and skull; D, a mounted skeleton.
+March 2020
+
+453
+Table 4. Vertebrate fossil assemblage of the Jurassic Kota Formation of
+India (after Bandyopadhyay et al., 2010; Parmar et al., 2013, Galton, 2019)
+Family/clade
+
+LOWER FAUNA
+
+UPPER FAUNA
+
+-
+
+Lepidotes deccanensis
+
+-
+
+Paradapedium egertoni
+
+-
+
+Tetragonolepis oldhami
+
+-
+
+Pholidophorus kingi
+
+PISCES
+Semionotid
+
+Pholidophorid
+
+-
+
+P. indicus
+
+Coelacanthid
+
+-
+
+Indocoelacanthus robustus
+
+TESTUDINATA
+
+-
+
+Kayentachelyidae
+
+-
+
+Indochelys spatulata
+
+Campylognathoididae
+
+-
+
+Campylognathoides
+indicus
+
+Sphenodontia
+
+-
+
+Rebbanasaurus jaini
+
+-
+
+Godavarisaurus lateefi
+
+Lepidosauria
+
+-
+
+Bharatagama rebbanensis
+
+Sauropodomorpha
+
+Barapasaurus
+tagorei
+
+-
+
+Kotasaurus
+yamanpalliensis
+
+-
+
+Ornithischia
+
+Ankylosauridae
+
+-
+
+MAMMALIA
+
+-
+
+-
+
+Docodontidae
+
+-
+
+Gondtherium dattai
+
+Morganucodontidae
+
+Indotherium
+pranhitai
+(=Indozostrodon
+simpsoni)
+
+Indotherium pranhitai
+
+?Amphilestidae
+
+Indotherium
+pranhitai
+
+Paikasigudodon yadagiri
+
+Incertae sedis
+
+-
+
+Dyskritodon indicus
+
+Kuehneotheriidae
+
+-
+
+Kotatherium haldanei
+
+DIAPSIDA
+
+Eobaataridae
+
+Indobaatar zofiae
+
+Incertae sedis
+
+-
+
+Nakunodon paikasiensis
+
+Incertae sedis
+
+-
+
+Trishulotherium kotaensis
+
+the upper Kota fauna to Toarcian, which may be extended to the
+Middle Jurassic (?Aalenian).
+
+Discussion and Concluding Remarks
+In the backdrop of a Pangaean landscape, certain
+macroevolutionary patterns and major transformations of vertebrate
+evolution, especially of the tetrapods, are evident in the highly diverse
+Gondwana fossil records of India. During the Late Permian, the
+dicynodont-dominated fauna of the Kundaram Formation closely
+resembles the dicynodont radiation in other Gondwanan regions,
+especially the Beaufort Group of the Karoo Supergroup, South Africa
+(Ray, 1999). The Permian-Triassic boundary in India is represented
+by the transition from the Kundaram to the Kamthi formations of PG Basin and from the Raniganj to the Panchet formations of the
+Damodar Basin. The generic diversity of the dicynodonts decreased
+drastically at the onset of the Triassic (Fig. 10) as Lystrosaurus is the
+Episodes Vol. 43, no. 1
+
+only known genus from the Panchet and Kamthi formations. This
+steady decrease is also true for the synapsid (excluding the early
+mammals) diversity. Although collection bias cannot be ruled out,
+such decrease in taxic diversity is correlated with the end-Permian
+mass extinction, which resulted at least in part from a large scale
+destabilization of carbon cycle (Bond and Grasby, 2017).
+After the end-Permian extinction event, most of the ecological
+niches became almost vacant, as a result of which the Early Triassic
+exhibited a low faunal diversity, with Lystrosaurus, accounting > 90%
+of the terrestrial vertebrates together with rare amphibians, but without
+diverse herbivores and top predators (Benton, 1983; Chen and Benton,
+2012). However, Damiani et al. (2003) discovered a more diverse
+tetrapod assemblage from the Early Triassic Lystrosaurus AZ
+exposures in Barendskraal of South Africa. The capitosaurs and
+trematosaurids flourished during this period whereas the
+archosauriforms formed a minor component. A similar faunal
+transition is depicted by the Panchet fauna (Fig. 10), which shows a
+highly diverse temnospondyl radiation involving several families such
+as the trematosaurid, benthosuchid, rhytidosteid, lapillopsid,
+tupilakosaurid and brachyopid temnospondyls, which is comparable
+with that of other coeval Gondwanan and Laurasian regions.
+Mukherjee et al. (2010) suggested that the small size of the
+trematosaurids and Lystrosaurus (Shishkin et al., 1996; Ray, 2005)
+reflects the ‘Lilliput effect’ as documented by Twitchett (2007).
+Moreover, the fast growth strategy adopted by the trematosaurids was
+linked to the rapid invasion of various empty Panchet ecological niches
+in the aftermath of the end-Permian mass extinction (Mukherjee et
+al., 2010). The Panchet and Kamthi fauna may be considered as the
+late Palaeozoic ‘holdover’ fauna as described by Romer (1966) and
+Padian and Sues (2015).
+A significant change occurred in the composition of terrestrial
+tetrapod communities during the Middle Triassic. The diversity and
+the number of archosauromorphs especially the rhynchosaurs
+increased considerably. Two principal lineages of Archosauria,
+Ornithodira and Crurotarsi and two groups of therapsids,
+kannemeyeriiform dicynodonts and gomphodont cynodonts, appeared
+and diversified considerably in the Gondwanan regions (Fraser and
+Sues, 2011). In India although a decrease in diversity at the
+temnospondyl family-level is evident during the Middle Triassic
+(Fig. 10), several new capitosaur taxa such as Paracyclotosaurus
+crookshanki and Cherninia denwai of the Denwa Formation appeared
+during this time. This period also witnessed the radiation of the
+dicynodonts, albeit in small numbers compared to the Late Permian
+diversity (Fig. 10) and is represented by several kannemeyeriiform
+taxa from the Yerrapalli and Denwa formations (Table 2). Moreover
+a decrease in dominance of the synapsids, and increase in diversity
+and radiation of the diapsids (archosauromorphs) in the form of
+rhynchosaurids, allokotosaurs, aphanosaurs and erythrosuchids
+(Fig. 10) is also noticed in this period.
+During the Late Triassic, terrestrial ecosystems exhibited
+widespread and dramatic changes in the composition of vertebrate
+communities resulting in a biologically diverse fauna (Sues and Fraser,
+2010; Irmis and Whiteside, 2011). Taxonomic richness was a rapidly
+ascending phenomenon whereas taxonomic relative abundances were
+qualitatively quite stable in the Late Triassic (Olsen et al., 2011).
+Morphological disparity was relatively high during this time (Brusatte
+et al., 2008) and evidence of high biogeographic provinciality was
+provided by Olsen et al., (2011) from the Norian–Rhaetian Chinle–
+Dockum assemblages and the Germanic basin type assemblages of
+
+454
+
+Figure 10. Graphical representation of the Permian-Jurassic taxic diversity in the different Gondwana stratigraphic horizons of India.
+Subsequently darker shades of grey indicate subdivision of the Triassic into Early, Middle and Late. Sources of information: Chatterjee
+(1980, 1982, 1987), Bandyopadhyay (1999, 2011), Ray (1999, 2001), Kutty et al. (2007), Novas et al. (2011), Kammerer et al. (2016),
+Mukherjee and Ray (2014), Chakravorti and Sengupta (2019), Ray et al. (2016, 2019).
+the Central Europe and Greenland of Carnian–Rhaetian age. Both
+the ‘archaic’ and the ‘modern’ taxa are noted during the Late Triassic.
+The dicynodont therapsids, procolophonid parareptiles and
+chroniosuchian anthracosaurs represented the ‘archaic’. The ancestors
+of modern tetrapod communities such as the crocodyliforms,
+lepidosaurs, mammaliaforms and turtles appeared during Late Triassic,
+along with the oldest frogs, salamanders and caecilians, dinosaurs,
+pterosaurs and mammals, which also had their origin during this period
+(Fraser and Sues, 2011). Similar high diversity and radiation of
+vertebrates are also seen in the Indian scenario, especially in the advent
+of different types of freshwater fishes (hybodontids, xenacanthids,
+actinopterygians and dipnoans), temnospondyls (metoposaurids and
+chigutisaurids) archosauromorphs (archosauriforms, phytosaurs and
+basal saurischians including sauropodomorphs), and cynodonts
+including the early mammaliaforms. This period is characterized by
+the appearances and disappearances of ‘indigenous fauna’ such as
+the phytosaurs and appearance of ‘living’ fauna (sensu Romer, 1966;
+Padian and Sues, 2015), which included the basal saurischians and
+mammaliaforms. The Late Triassic vertebrates of India comprise
+distinct faunal assemblages, which are more or less comparable to
+the global Triassic vertebrate faunachrons, especially of the Carnian
+(sensu Lucas, 1998, 2010; Gradstein et al., 2012; Tanner, 2018). The
+Triassic-Jurassic transition is marked by a distinct faunal change,
+where the phytosaurs and aetosaurs of the upper Maleri and lower
+Dharmaram changes to a new upper Dharmaram fauna comprising
+sphenosuchians (Bandyopadhyay and Sengupta, 2006). This marked
+biotic turnover may be correlated with the drastic climatic change at
+the Triassic-Jurassic transition, which experienced global warming
+because of a four-fold increase in atmospheric CO2 that probably
+derived from volcanism (Bond and Grasby, 2017; Tennant et al., 2017).
+
+Hence, it may be concluded that the Late Permian-early Middle
+Jurassic Gondwanan vertebrates of India reflect major global faunal
+fluctuations and transitions, macroevolutionary patterns and constitute
+important biostratigraphic markers for global correlation of the Indian
+stratigraphic horizons.
+
+Acknowledgements
+We are thankful to Dr. Fareeduddin, Chair, Legacy Committee of
+36th International Congress and Prof. G.V.R. Prasad of Delhi
+University, the Subject Editor who invited us to contribute an article
+for the proposed publication titled “Geodynamic Evolution of the
+Indian Subcontinent- Hadean to Recent”. We are indebted to late
+Prof. Tapan RoyChowdhury for introducing us to the world of
+Vertebrate Palaeontology. One of us (SB) thanks Prof. D. P. Sengupta
+of the Indian Statistical Institute, Kolkata, who shared his views on
+the Panchet fauna. SR thanks Mr. Debajit Datta of the Indian Institute
+of Technology, Kharagpur for drafting the geological map of the P-G
+Basin. The authors are thankful to Prof. H. D. Sues and another
+anonymous reviewer for their suggestions which has upgraded the
+paper. Finally, the authors are grateful to the authorities of the Indian
+Statistical Institute and the Indian Institute of Technology, Kharagpur
+for infrastructure facilities.
+
+References
+Abdala, F., and Ribeiro, A.M., 2010, Distribution and diversity
+patterns of Triassic cynodonts (Therapsida, Cynodontia) in
+Gondwana. Palaeogeography, Palaeoclimatology, Palaeoecology,
+v. 286, pp. 202–217.
+March 2020
+
+455
+Abdala, F., and Smith, R.M.H., 2009, A Middle Triassic cynodont
+fauna from Namibia and its implications for the biogeography of
+Gondwana, Journal of Vertebrate Paleontology, v. 29, pp. 837–
+851.
+Abdala, F., Hancox, P.J., and Neveling, J., 2005, Cynodonts from the
+uppermost Burgersdorp Formation, South Africa, and their bearing
+on the biostratigraphy and correlation of the Triassic Cynognathus
+Assemblage Zone. Journal of Vertebrate Paleontology, v. 25, pp.
+192–199.
+Angielczyk, K.D., Sebastien, H., Smith, R.M.H., Tabor, N.J., Sidor,
+C.A., Steyer, J-S., Tsuji, L.A., and Gostling, N.J., 2014, New
+Dicynodonts (Therapsida, Anomodontia) and updated tetrapod
+stratigraphy of the Permian Ruhuhu Formation (Songea Group,
+Ruhuhu Basin) of Southern Tanzania. Journal of Vertebrate
+Paleontology, v. 34, pp. 1408–1426.
+Arcucci, A.B., Marsicano, C.A., and Caselli, A.C., 2004, Tetrapod
+association and palaeoenvironment of the Los Colorados
+Formation (Argentina): a significant sample from western
+Gondwana at the end of the Triassic. Geobios, v. 37, pp. 557–
+568.
+Bandyopadhyay, S., 1988a, A kannemeyeriid dicynodont from the
+Middle Triassic Yerrapalli Formation. Philosophical Transaction
+of the Royal society of London, v. B320, pp. 185–233.
+Bandyopadhyay, S., 1988b, Vertebrate fossils from the PranhitaGodavari valley of India with special reference to the Yerrapalli
+Formation. Modern Geology, v. 13, pp. 107-117.
+Bandyopadhyay, S., 1999, Gondwana vertebrate faunas of India.
+Proceedings of the Indian National Science Academy, v. A65,
+pp. 285–313.
+Bandyopadhyay, S., 2011, Non-marine Triassic vertebrates of India,
+In: Calvo, J.O., Porfiri, J., Gonzalez Riga, B., and Dos Santos,
+D. (Eds), Paleontología y dinosaurios desde América Latina.
+EDIUNC, Editorial de la Universidad Nacional de Cuyo,
+Mendoza, Argentina, pp. 33-46.
+Bandyopadhyay, S., 2016, Glimpses of Triassic Life in India,
+Developments in Geosciences in the Past Decade. Emerging
+Trends for the Future and Impact on Society and Annual General
+Meeting of the Geological Society of India, Seminar Abstract
+Volume, Indian Institute of Technology, Kharagpur, India, p. 28–
+32.
+Bandyopadhyay, S., and Roy Chowdhury, T., 1996, Beginning of the
+continental Jurassic in India – a palaeontological approach.
+Museum of Northern Arizona, Bulletin, v. 60, pp. 371–378.
+Bandyopadhyay, S., and Sengupta, D.P., 1999, Middle Triassic
+vertebrate faunas from India. Journal of African Earth Sciences,
+v. 29, pp. 233–241.
+Bandyopadhyay, S., and Sengupta, D.P., 2006, Vertebrate faunal
+turnover during the Triassic Jurassic transition: an Indian scenario.
+In: Harris, J., Lucas, S.G., Spielmann, J.A., Lockley, M.G., Milner,
+A.R.C., and Kirkland, J.I. (Eds.), The Triassic - Jurassic Terrestrial
+Transition. New Mexico Museum of Natural History and Science
+Bulletin, v. 37, pp. 77–85.
+Bandyopadhyay, S., Gillette, D.D., Ray, S., and Sengupta, D.P. 2010,
+Osteology of Barapasaurus tagorei (Dinosauria: Sauropoda) from
+the early Jurassic of India. Palaeontology, v. 53, pp. 533–569.
+Banks, M.R., 1978, Correlation chart for the Triassic System of
+Australia. Bulletin of the Bureau of the Mineral Resources, v.
+156C, pp. 1–46.
+Barberena, M.C., Araujo, D.C., and Lavina, E.L., 1975, Late Permian
+and Triassic tetrapods of Southern Brazil. National Geographic
+Research 1985 Winter, p.5-20.
+Barberena M.C., Araujo D.C., Lavina E.L., and Faccini U.F., 1991,
+The evidence for close paleofaunistic affinity between South
+America and Africa. In International Gondwana Symposium, 7,
+Episodes Vol. 43, no. 1
+
+São Paulo, 1988, Proceedings, p. 455–467.
+Benton, M.J., 1983, The Triassic reptile Hyperodapedon from Elgin:
+functional morphology and relationships. Philosophical
+Transactions of the Royal Society of London, v. B302, pp. 605–
+717.
+Benton, M.J., 1986, The Late Triassic tetrapod extinction events. In:
+Padian, K. (Ed.), The beginning of the Age of Dinosaurs.
+Cambridge, Cambridge University Press, pp. 303–320.
+Bernardi, M., Petti, F.M., Kustatscher, E., Franz, M., Hartkopf-Frçder,
+C., Labandiera, C. C., Wapler, T., van Konijnenburg-van Cittert,
+H. A., Peecook, B.R., and Angielczyk, K.D., 2017, Late Permian
+(Lopingian) terrestrial ecosystems: a global comparison with new
+data from the low-latitude Bletterbach Biota, Earth Science
+Reviews v. 175, pp. 18–43.
+Bhat, M.S., 2018, A new assemblage of vertebrate microfossils from
+India: a window on Late Triassic biodiversity and
+palaeobiogeography. Unpublished Ph.D Thesis, Indian Institute
+of Technology, Kharagpur, 237pp.
+Bhat, M.S., and Ray, S., 2018, A record of new lungfishes
+(Osteichthyes: Dipnoi) from the Carnian (Upper Triassic) of India.
+Historical
+Biology,
+https://doi.org/10.
+1080/
+08912963.2018.1499020.
+Bhat, M.S., Ray, S., and Datta, P.M., 2018a, A new hybodont shark
+(Chondrichthyes, Elasmobranchii) from the Upper Triassic Tiki
+Formation of India with remarks on its dental histology and
+biostratigraphy. Journal of Paleontology, v. 92, pp. 221–239.
+Bhat, M.S., Ray, S., and Datta, P. M., 2018b, A new assemblage of
+freshwater sharks (Chondrichthyes: elasmobranchii) from the
+Upper Triassic of India. Geobios, v. 51, pp. 269–283.
+Biswas, S.K., 2003, Regional tectonic framework of the PranhitaGodavari basin, India. Journal of Asian Earth Science, v. 21, pp.
+1–9.
+Bonaparte, J.F., 1978, El Mesozóico de América de Sur y sus
+Tetrapodos - The Mesozoic of South America and its tetrapods.
+Opera Lilloana, v. 26, pp. 1–596.
+Bond, D.P.G., and Grasby, S.E., 2017, On the causes of mass
+extinction. Palaeogeography, Palaeoclimatology, Palaeoecology,
+v. 478, pp. 3–29.
+Brusatte, S.L., Benton, M.J., Ruta, M., and Lloyd, G.T., 2008,
+Superiority, competition, and opportunism in the evolutionary
+radiation of dinosaurs. Science, v. 321, pp. 1486–1488.
+Buffa, V., Jalil, N.E. and Steyer J.S., 2019, Redescription of
+Arganasaurus (Metoposaurus) azerouali (Dutuit) comb. nov. from
+the Upper Triassic of the Argana Basin (Morocco), and the first
+phylogenetic analysis of the Metoposauridae (Amphibia,
+Temnospondyli). Papers in Palaeontology, doi: 10.1002/
+spp2.1259
+Castanhinha, R., Araújo, R., Júnior, L.C., Angielczyk, K.D., Martins,
+G.G., Martins, R.M. S., Chaouiya, C., Beckmann, F., and Wilde,
+W., 2013, Bringing dicynodonts back to life: paleobiology and
+anatomy of a new emydopoid genus from the Upper Permian of
+Mozambique, Plos One, v. 8, e80974. https://doi.org/10.1371 /
+journal.pone.0080974
+Catuneanu, O.,Wopfner, H., Eriksson, P. G., Cairncross, B., Rubidge,
+B. S., Smith, R. M. H. and Hancox, P. J., 2005, The Karoo basins
+of south-central Africa. Journal of African Earth Sciences, v. 43,
+pp. 211-253.
+Chakravorti, S., and Sengupta, D.P., 2019, Taxonomy, morphometry
+and morphospace of cranial bones of Panthasaurus gen. nov.
+maleriensis from the Late Triassic of India. Journal of Iberian
+Geology, v. 45, pp. 317–340.
+Chakraborty, C., Mandal, N. and Ghosh, S.K., 2003, Kinematics of
+the Gondwana basins of peninsular India. Tectonophysics, v. 377,
+pp. 299–324.
+
+456
+Chatterjee, S., 1974, A rhynchosaur from the Upper Triassic Maleri
+Formation of India. Philosophical Transactions of the Royal
+Society London, v. B267, pp. 209 261.
+Chatterjee, S., 1978, A primitive parasuchid (phytosaur) reptile from
+the Upper Triassic Maleri Fornmation of India. Palaeontology, v.
+21, pp. 83–127.
+Chatterjee, S., 1980, The evolution of rhynchosaurs. Memoires de la
+Société Géologique de France, v. 139, pp. 57–65.
+Chatterjee, S., 1982, A new cynodont reptile from the Triassic of
+India. Journal of Palaeontology, v. 56, pp. 203–214.
+Chatterjee, S., and Mazumdar, P.K., 1987, Tikisuchus romeri, a new
+rauisuchid reptile from the Late Triassic of India. Journal of
+Paleontology, v. 61, pp. 787–793.
+Chatterjee, S., Scotese, C.R. and Bajpai, S., 2017, The restless Indian
+plate and its epic voyage from Gondwana to Asia: its tectonic,
+paleoclimatic, and paleobiogeographic evolution. Geological
+Society of America Special Paper, v. 529, p. 1–147.
+Chen, Z.-Q., and Benton, M. J., 2012, The timing and pattern of
+biotic recovery following the end-Permian mass extinction. Nature
+Geoscience, v. 5, pp. 375–383.
+Cisneros, J. C., and Abdala, F., 2005, Pareiasaurids from the Rio Do
+Rasto Formation, southern Brazil: Biostratigraphic implications
+for Permian faunas of the Parana Basin, Revista Brasileira de
+Palaeontologia, v. 8, pp. 13–24.
+Clark, J., Montellano, M., Hopson, J. A., Hernandez, R. and Fastovsky,
+D. A., 1994, An Early or Middle Jurassic tetrapod assemblage
+from the La Boca Formation, northeastern Mexico. In: Fraser,
+N.C., and Sues H.-D. (Eds.). In The Shadow of the Dinosaurs:
+Early Mesozoic Tetrapods, Cambridge: Cambridge University
+Press, pp. 295–302.
+Cosgriff, J.W., 1984, The temnospondyl labyrinthodonts from the
+earliest Triassic. Journal of Vertebrate Paleontology, v. 4, pp. 30–
+46.
+Colbert, E.H. and Kitching, J.W., 1977, Triassic cynodont reptiles
+from Antarctica. American Museum Novitates, no. 2611, pp. 130.
+Cotter, G., and De P., 1917, A revised classification of the Gondwana
+system. Record of the Geological Survey of India, v. 48, pp. 23–
+33.
+Crookshank, H., 1936, Geology of the northern slopes of the Satpura
+between the Morand and Sher rivers. Geological Survey of India,
+Memoirs, v. 66, pp. 173–381.
+Cox, C.B., 1991, The Pangean dicynodont Rechnisaurus and the
+comparative biostratigraphy of Triassic dicynodont fauna.
+Palaeontology, v. 34, pp. 767–784.
+Cúneo, R., Ramezani, J., Scasso, R., Pol, D., Escapa, I., Zavattieri,
+A.M., and Browning, S.A., 2013, High precision U-Pb
+geochronology and a new chronostratigraphy for the Cañadón
+Asfalto Basin, Chubut, central Patagonia: implications for
+terrestrial faunal and floral evolution in Jurassic. Gondwana
+Research, v. 24, pp. 1267–1275.
+Damiani, R., Neveling, J., Modesto, S., and Yates, A.M., 2003,
+Barendskraal, a diverse amniote locality from the Lystrosaurus
+Assemblage Zone, Early Triassic of South Africa. Palaeontologia
+Africana, v. 39, pp. 53–62.
+Das, D.P., and Gupta, A., 2012, A New Cynodont Record from the
+Lower Triassic Panchet Formation, Damodar Valley, Journal
+Geological Society of India, v. 79, pp. 175–180.
+Dasgupta, S., and Ghosh, P., 2018, Freshwater carbonates within a
+Late Triassic siliciclastic fluvial system in a Gondwana rift basin:
+the Maleri Formation, India. Sedimentary Geology, v. 373, pp.
+254–271.
+Dasgupta, S., Ghosh, P., and Gierlowski-Kordesch, E.H., 2017, A
+discontinuous ephemeral stream transporting mud aggregates in
+
+a continental rift basin: the Late Triassic Maleri Formation, India.
+Journal of Sedimentary Research, v. 87, pp. 838–865.
+Datta, D., Kumar, N., and Ray, S., 2019a, Taxonomic identification
+of isolated phytosaur (Diapsida, Archosauria) teeth from the Upper
+Triassic of India and their significances. Historical Biology, doi:
+10.1080/08912963.2019.1613652
+Datta, D., Ray, S., and Bandyopadhyay, S., 2019b. Cranial morphology
+of a new phytosaur (Diapsida, archosauria) from the Upper
+Triassic of India: implications for phytosaur phylogeny and
+biostratigraphy. Papers in Palaeontology, doi: 10.1002/spp2.1292.
+Datta, P.M., 2004, A suggestion for an early Tuvalian time segment
+for the Tiki Formation, South Rewa Gondwana basin, India and
+other correlatable continental sequences. Albertina, v. 30 (suppl),
+pp. 6–7.
+Datta, P.M., 2005, Earliest mammal with transversely expanded upper
+molar from the Late Triassic (Carnian) Tiki Formation, South
+Rewa Gondwana basin, India. Journal of Vertebrate Paleontology,
+v. 25, pp. 200–207.
+Datta, P.M., and Das, D.P., 1996, Discovery of the oldest mammal
+from India. Indian Minerals, v. 50, pp. 217–222.
+Datta, P.M., and Ray, S., 2006, Earliest lizards from the Late Triassic
+(Carnian) of India. Journal of Vertebrate Paleontology, v. 26, pp.
+795–800.
+Datta, P.M., Das, D.P., and Luo, Z.X., 2004, A Late Triassic
+dromatheriid (Synapsida: Cynodontia) from India. Annals of the
+Carnegie Museum, v. 73, pp. 72–84.
+Delsate, D., and Ezcurra, M. D., 2014, The first Early Jurassic (late
+Hettangian) theropod dinosaur remains from the Grand Duchy of
+Luxembourg. Geologica Belgica, v. 17, pp. 175–181.
+Deutsche Stratigraphische Kommisson, 2005, Stratographie von
+Deutschland, IV — Keuper, Courier Forschungsinstitute
+Senckenberg, v. 254, pp. 1–296.
+Dineen, A.A., Fraiser, M.L., and Sheehan, P.M., 2014, Quantifying
+functional diversity in pre and post-extinction paleocommunities:
+A test of ecological restructuring after the end-Permian mass
+extinction. Earth Science Reviews, v. 136, pp. 339–349.
+Dutuit, J.M., 1972, Discovery of an ornithischian dinosaur in the
+Upper Triassic of the Moroccan western Atlas. Comptes Rendus
+de l’Académie des Sciences à Paris, Série D, v. 275, pp. 2841–
+2844.
+Dzik, J., and Sulej, T., 2007, A Review of the early Late Triassic
+Krasiejow biota from Silesia, Poland. Acta Palaeontologia
+Polonica, v. 64, pp. 1–27.
+Dzik, J., Sulej, T., and NiedŸwiedzki, G., 2007, A dicynodonttheropod association in the latest Triassic of Poland. Acta
+Palaeontologica Polonica, v. 53, pp. 733–738.
+Fedak, T.J., Sues, H.D., and Olsen, P.E., 2015, First record of the
+tritylodontid cynodont Oligokyphus and cynodont postcranial
+bones from the McCoy Brook Formation of Nova Scotia, Canada.
+Canadian Journal of the Earth Science, v. 52, pp. 244–249.
+Fortuny, J., Arbez, T., Mujal, E., and Steyer, J.S., 2019, Reappraisal
+of ‘Metoposaurus hoffmani’ Dutuit 1978, and description of new
+temnospondyl specimens from the Middle-Late Triassic of
+Madagascar (Morondava Basin). Journal of Vertebrate
+Paleontology, doi: 10.1080/02724634.2019.1576701
+Foster, J.R., 2003, Palaeoecological analysis of the vertebrate fauna
+of the Morrison Formation (Upper Jurassic) Rocky Mountain
+region, USA. Bulletin of the New Mexico Museum of Natural
+History and Science, v. 23, pp. 1–95.
+Fraser, N.C., 2006, Dawn of the Dinosaurs: Life in the Triassic. Indiana
+University Press, Bloomington, 328 p.
+Fraser, N.C., and Sues, H.D., 2011, The beginning of the ‘Age of
+Dinosaurs’: a brief overview of terrestrial biotic changes during
+the Triassic. Earth and Environmental Science Transactions of
+March 2020
+
+457
+the Royal Society of Edinburgh, v. 101, pp. 189–200.
+Fröbisch, J., 2009, Composition and similarity of global anomodontbearing tetrapod faunas. Earth Science Reviews, v. 95, pp. 119–
+157.
+Flynn, J.J., Parrish, J.M., Rakotosamimanana, B., Simpson, W.F.,
+Whatley, R.L., and Wyss, A.R., 1999, A Triassic fauna from
+Madagascar including earliest dinosaurs. Science, v. 286, pp. 763–
+765.
+Galton, P. M., 2019, Earliest record of an ankylosaurian dinosaur
+(Ornithischia Thyreophora): Dermal armour from Lower Kota
+Formation (Lower Jurassic) of India. Neues Jahrbuch für Geologie
+und Paläontologie - Abhandlungen, v. 291 (2), pp. 205–219.
+Gandin, A., Tongiorgi, M., Rau, A., and Virgili, C., 1982, Some
+examples of the Middle-Triassic Marine transgression in SouthWestern Mediterranean Europe. Geologische Rundschau, v.
+71, pp. 881–894.
+Gradstein, F.M., Ogg, J.G., Schmitz, M.D., and Ogg, G.M., 2012,
+The Geologic Time Scale 2012. Elsevier Publications, UK, 1144
+p.
+Gupta, A., 2009, Ichthyofauna of the Lower Triassic Panchet
+Formation, Damodar valley basin, West Bengal, and its
+implications. Indian Journal of Geosciences, v. 63, pp. 275–286.
+Gupta, A. and Das, D.P. 2011, Report of Lystrosaurus cf. curvatus
+and L. cf. declivis from the Early Triassic Panchet Formation,
+Damodar Valley, West Bengal, India and its implications. Indian
+Journal of Geosciences, v. 65, pp. 119–130.
+Hallam, A., 1984, Continental humid and arid zones during the
+Jurassic and Cretaceous. Palaeogeography, Palaeoclimatology,
+Palaeoecology, v. 47, pp. 195–223.
+Hallam, A., 1992, Phanerozoic Sea-level Changes. Columbia
+University Press, New York, 266 p.
+Hammer W.R., and Hickerson W.J., 1996, Implications of an Early
+Jurassic vertebrate fauna from Antarctica. Museum of Northern
+Arizona Bulletin, v. 60, pp. 215–218.
+Haq, B.U., 2017, Jurassic sea-level variations; a reappraisal. GSA
+Today, v. 1. doi: 10.1130/GSATG359A
+Hautmann, M., 2014, Diversification and diversity partitioning.
+Paleobiology, v. 40, pp. 162–176.
+He, M., Jin, Z., Li, T., Guo, X., and Yang, T., 2014, Stratigraphic
+framework and microfacies of the Triassic Lower Karamay
+Formation in districts I, III, NW Junggar, China. Journal of Earth
+Science, v. 25(6), pp. 1003–1017.
+Heckert, A.B., 2004, Late Triassic microvertebrates from the Upper
+Triassic Chinle Group (Otischalkian-Adamanian: Carnian),
+southwestern U.S.A. New Mexico Museum of Natural History
+and Science Bulletin, v. 27, pp. 1–170.
+Hofmann, R., Hautmann, M., Wasmer, M., and Bucher, H., 2013,
+Palaeoecology of the Spathian Virgin Formation (Utah, USA)
+and its implications for the Early Triassic recovery. Acta
+Palaeontologica Poland, v. 58, pp.149–173.
+Hungerbühler, A., Kutty, T.S., and Chatterjee, S., 2002, New
+phytosaurs from the Upper Triassic of India. Journal of Vertebrate
+Paleontology, v. 22(Suppl. 3), pp. 68A.
+Hutchinson, M.N., Skinner, A., and Lee, M.S.Y., 2012, Tikiguania
+and the antiquity of squamate reptiles (lizards and snakes). Biology
+Letters Royal Society, v. 8, pp. 665–669.
+Huxley, T.H., 1865, On a collection of vertebrate fossil from Panchet
+rocks, Raniganj coalfield. Palaeontologica Indica, v. 4, pp. 2–24.
+Irmis, R.B., and Whiteside, J.H., 2011, Delayed recovery of nonmarine tetrapods after the end-Permian mass extinction tracks
+global carbon cycle. Proceedings of the Royal Society of London,
+v. B279, https://doi.org/10.1098/rspb.2011.1895.
+Irmis, R.B., Martz, J.W., Parker, W.G., and Nesbitt, S.J., 2010, Reevaluating the correlation between Late Triassic terrestrial
+Episodes Vol. 43, no. 1
+
+vertebrate biostratigraphy and the GSSP-defined marine stages.
+Albertiana, v. 38, pp.40–52.
+Irmis, R.B., Mundil, R., Martz, J.W., and Parker, W.G., 2011, Highresolution U-Pb ages from the Upper Triassic Chinle Formation
+(New Mexico, USA) support a diachronous rise of dinosaurs.
+Earth and Planetary Science Letters, v. 309, pp. 258–267.
+Jain, S.L., Robinson, P.L., and Roy Chowdhury, T.K., 1964, A new
+vertebrate fauna from the Triassic of Deccan, India. Journal of
+the Geological Society of London, v. 120, pp. 115 124.
+Kammerer, C.F., Bandyopadhyay, S., and Ray, S., 2016, A new taxon
+of cistecephalid dicynodont from the upper Permian Kundaram
+Formation of India. Papers in Palaeontology, v. 2, pp. 569–584.
+Keyser, A.W., 1973, A new Triassic vertebrate Fauna from South West
+Africa. Palaeontolgia Africana, v. 16, pp. 1–15.
+King, G.M., 1992, The palaeobiogeography of Permian anomodonts.
+Terra Nova, v. 4, pp. 633–640.
+King, W., 1881, The geology of the Pranhita-Godavari valley. Memoir
+of Geological Survey of India, v. 18, pp. 151–311.
+Kitching, J.W., Collinson, J.W., Elliot, D.H., and Colbert, E.H., 1972,
+Lystrosaurus Zone (Triassic) Fauna from Antarctica. Science, v.
+175, pp. 524–527.
+Knoll, F., 2005, The tetrapod fauna of the Upper Elliot and Clarens
+formations in the main Karoo Basin (South Africa and Lesotho).
+Bulletin de la Société Géologique de France, v. 176, pp. 81–91.
+Kutty, T.S., 1972, Permian reptilian fauna from India. Nature, v. 237,
+pp. 462–463.
+Kutty, T.S., and Sengupta, D.P., 1989, Late Triassic formations of the
+Pranhita-Godavari valley and their vertebrate faunal sequence - a
+reappraisal, Indian Journal of Earth Science, v. 16, pp. 189–206.
+Kutty, T.S., Jain, S.L., and Roy Chowdhury, T., 1987, Gondwana
+sequence of the northern Pranhita-Godavari Valley: its stratigraphy
+and vertebrate faunas. The Palaeobotanist, v. 36, pp. 214–219.
+Kutty, T.S., Chatterjee, S., Galton, P.M., and Upchurch, P., 2007,
+Basal sauropodomorphs (Dinosauria: Saurischia) from the Lower
+Jurassic of India: their anatomy and relationships. Journal of
+Paleontology, v. 81, pp. 1218–1240.
+Langer, M.C., 2005, Studies on continental Late Triassic tetrapod
+biochronology. II. The Ischigualastian and a Carnian global
+correlation. Journal of South American Earth Sciences, v. 19, pp.
+219–239.
+Langer, M.C., Ribeiro, A.M., Schultz, C.L., and Ferigolo, J., 2007,
+The continental tetrapod–bearing Triassic of South Brazil. Bulletin
+of the New Mexico Museum of Natural History and Science, v.
+41, pp. 201–218.
+Langer, M.C., Da Rosa, Á.A.S., and Montefeltro, F.C., 2017,
+Supradapedon revisited: geological explorations in the Triassic
+of southern Tanzania. PeerJ, v. 5, https://doi.org/10.7717/
+peerj.4038.
+Langer, M.C., Ramezani, J., and Da Rosa, Á.A.S., 2018, U-Pb age
+constraints on dinosaur rise from south Brazil. Gondwana
+Research, v. 18, pp. 133–140.
+Long, R.A., and Murry, P.A., 1995, Late Triassic (Carnian and Norian)
+tetrapods from the southwestern United States. Bulletin of the
+New Mexico Museum of Natural History and Science, v. 4, pp.
+1–254.
+Lucas, S.G., 1998, Global Triassic tertapod biostratigraphy and
+biochronology. Palaeogeography, Palaeoclimatology,
+Palaeoecology, v. 143, pp. 347–384.
+Lucas, S.G., 2009, Global Jurassic tetrapod biochronology. Volumina
+Jurassica v. 6, pp. 99–108.
+Lucas, S.G., 2010, The Triassic timescale based on nonmarine
+tetrapod biostratigraphy and biochronology, In: Lucas, S.G. (Ed),
+The Triassic Timescale. Geological Society, London, Special
+Publications, v. 334, pp. 447–500.
+
+458
+Lucas, S.G., 2018, Late Triassic terrestrial tetrapods: Biostratigraphy,
+biochronology and biotic events, 351–405. In: Tanner, L.H. (Ed),
+The Late Triassic World: Earth in a Time of Transition, Topics in
+Geobiology. Springer, New York, v. 46, 805 pp.
+Lucas, S.G., and Heckert, A.B., 2002, The Hyperodapedon biochron,
+Late Triassic of Pangaea. Albertiana, v. 27, pp. 30–38.
+Lydekker, R., 1885a, The labyrinthodont from the Bijori Group,
+Memoir Geological Survey of India, Palaeontologia Indica, v.4,
+p.1–16.
+Lydekker, R., 1885b, The Reptilia and Amphibia of the Maleri and
+Denwa groups. Memoir Geological Survey of India,
+Palaeontologia Indica. v. 5, pp. 1–38.
+Maheswari, H.K., and Kumaran, K.P.N., 1979, Upper Triassic Sporae
+Dispersae from the Tiki Formation 1: Miospores from the Son
+River Section between Tharipathar and Ghiyar, South Rewa
+Gondwana Basin. Paleontographica, v. B71, pp.1–126.
+Martínez, R.N., Sereno, P.C., Alcober, O.A., Colombi, C.E, Renne,
+P.R., Montañez, I.P., and Currie, B.S., 2011, A basal dinosaur
+from the dawn of the dinosaur era in southwestern Pangaea.
+Science, v. 331, pp. 206–210.
+Martz, J.W., and Parker, W.G., 2017, Revised formulation of the Late
+Triassic Land Vertebrate “Faunachrons” of western North
+America: recommendations for codifying nascent systems of
+vertebrate biochronology, 39–125, In: Zeigler, K.E., and Parker,
+W.G. (Eds), Terrestrial Depositional Systems: Deciphering
+Complexities Through Multiple Stratigraphic Methods. Elsevier,
+346 pp.
+Martz, J.W., Mueller, B., Nesbitt, S.J., Stocker, M.R., Parker, W.G.,
+Atanassov, M., Fraser, N., Weinbaum, J., and Lehane, J., 2013, A
+taxonomic and biostratigraphic re-evaluation of the Post Quarry
+vertebrate assemblage from the Cooper Canyon Formation
+(Dockum Group, Upper Triassic) of southern Garza County,
+western Texas. Earth and Environmental Science Transactions of
+the Royal Society of Edinburgh, v. 103, pp. 339–364.
+Maulik, P.K., Chakraborty, C., Ghosh, P., and Rudra, D., 2000, Mesoand macro-scale architecture of a Triassic fluvial succession:
+Denwa Formation, Satpura Gondwana basin, Madhya Pradesh.
+Journal of the Geological Society of India, v. 56, pp. 489–504.
+Mazin, J.M., and King, G.M., 1991, The first dicynodont from the
+Late Permian of Malagasy. Palaeontology, v. 34, pp. 837–842.
+Milner, A.R., Gardiner, B.G., Fraser, N.C., and Taylor, M.A., 1990,
+Vertebrates from the Middle Triassic Otter Sandstone Formation
+of Devon. Palaeontology, v. 33, pp. 873–892.
+Mukherjee, D., and Ray, S., 2012, Taphonomy of an Upper Triassic
+vertebrate bonebed-A new rhynchosaur accumulation from India.
+Palaeogeography, Palaeoclimatology, Palaeoecology, v. 333–334,
+pp. 75–91.
+Mukherjee, D., and Ray, S., 2014, A new Hyperodapedon
+(Archosauromorpha, Rhynchosauria) from the Upper Triassic of
+India: implications for rhynchosaur phylogeny. Palaeontology, v.
+57, pp. 1241–1276.
+Mukherjee, D., Ray, S., and Sengupta, D.P., 2010, Preliminary
+observations on the bone microstructure, growth patterns, and
+life habits of some Triassic temnospondyls from India. Journal of
+Vertebrate Paleontology, v. 30, pp. 78–93.
+Mukherjee, D., Sengupta, D.P., and Rakshit, N., 2019, New biological
+insights into the Middle Triassic capitosaurs from India as deduced
+from limb bone anatomy and histology. Papers in Palaeontology,
+doi: 10.1002/spp2.1263
+Mukherjee, D., Ray, S., Pal, S., Chandra, S., and Bandyopadhyay, S.,
+2012, Upper Gondwana succession of the Rewa basin, India:
+understanding the interrelationship of lithologic and stratigraphic
+variables. Journal of the Geological Society of India, v. 79, pp.
+563–575.
+
+Mukherjee, R.N., and Sengupta D.P., 1998, New capitosaurid
+amphibians from the middle Triassic Denwa Formation of Satpura
+Gondwanas, Central India. Alcheringa, v. 22, pp. 317–327.
+Mukhopadhyay, G., Mukhopadhyay, S.K., Roychowdhury, M., and
+Parui, P.K., 2010, Stratigraphic correlation between different
+Gondwana basins of India. Journal of the Geological Society of
+India, v. 76, pp. 251–266
+Nath, T.T., and Yadagiri, P., 2007, A new mammal-like reptile
+(Cynodontia) from the Upper Triassic Maleri Formation of
+Pranhita-Godavari valley, Andhra Pradesh. Journal of the
+Geological Society of India, v. 69, pp. 57–60.
+Nesbitt, S.J., Butler, R.J., Ezcurra, M.D., Barrett, P. M., Stocker, M.R.,
+Angielcyzk, K.D., Smith, R.M.H., Sidor, C.A., NiedŸweidzki,
+G., Sennikov, A. G., and Charig, A.J., 2017, The earliest bird-line
+archosaurs and the assembly of the dinosaur body plan. Nature,
+v. 544, pp. 484–487.
+Novas, F.E., Ezcurra, M.D., Chatterjee, S., and Kutty, T.S., 2011,
+New dinosaur species from the Upper Triassic Upper Maleri and
+Lower Dharmaram formations of Central India. Transactions of
+the Royal Society of Edinburgh, v. 101, pp. 333–349.
+Ogg, J.G., Ogg, G., and Gradstein, F.M., 2016, A concise geologic
+time scale 2016. Elsevier, USA, 233 p.
+Olsen, P.E., and Galton, P.M., 1977, Triassic-Jurassic tetrapod
+extinctions: are they real? Science, v. 197, pp. 983–986.
+Olsen, P.E., and Sues, H.D., 1986, Correlation of continental Late
+Triassic and Early Jurassic sediments, and patterns of the TriassicJurassic tetrapod transition. In: K. Padian (Ed.), The Beginning
+of the Age of Dinosaurs. Cambridge University Press, Cambridge,
+pp. 321–351.
+Olsen, P.E., Kent, D.V., and Whiteside, J.H., 2011, Implications of
+the Newark Supergroup-based astrochronology and geomagnetic
+polarity time scale (Newark-APTS) for the tempo and mode of
+the early diversification of the Dinosauria. Earth and
+Environmental Science Transactions of the Royal Society of
+Edinburgh, v. 101, pp. 201–229.
+Owen, R., 1855, Description of the cranium of a labyrinthodont reptile,
+Brachyops laticeps, from Mangli, central India. Quarterly Journal
+of the Geological Society of London, v. 11, pp. 37–39.
+Padian, K., and Sues, H.D., 2015, The age of the transformation: the
+Triassic period and the rise of today’s land vertebrate fauna. In:
+Dial, K.P., Shubin, N., and Brainerd, E.L. (Eds.), Great
+Transformations in Vertebrate Evolution. University of Chicago
+Press, pp. 351–374.
+Parmar, V., Prasad, G.V.R. and Kumar, D., 2013, The first
+multituberculate mammal from India. Naturwissenschaften,
+v. 100, pp. 515-523.
+Pascoe, E.H., 1975, A Manual of the Geology of India and Burma.
+Government of India Press, Calcutta, v.II, p. 909–1016.
+Pickford, M., 1995, Karoo Supergroup palaeontology of Namibia and
+brief description of a thecodont from Omingonde. Palaeontologia
+Africana, v. 32, pp. 51–66.
+Pol, D., Garrido, A., and Cerda, I. A., 2011, A new sauropodomorph
+dinosaur from the Early Jurassic of Patagonia and the origin and
+evolution of the sauropod-type sacrum. Plos One, v. 26. doi:
+10.1371/journal.pone.0014572
+Prasad, G.V.R., Singh, K.P.V., Goswami, A., and Sudan, C.S., 2008,
+Hybodont shark teeth from continental Upper Triassic deposits
+of India. In: Arratia, G., Schultze, H.P., and Wilson, M.V.H., (Eds),
+Mesozoic Fishes 4: Homology and Phylogeny. Germany, Verlag
+Dr. Friedrich Pfeil, p.413–432.
+Preto, N., Kustatscher, E., and Wignall, P.B., 2010, Triassic climates
+— state of the art and perspectives. Palaeogeography,
+Palaeoclimatology, Palaeoecology, v. 290, pp. 1–10.
+Rakshit, N., Bhat, M.S., Ray, S., and Datta, P.M., 2018, First report
+March 2020
+
+459
+of dinosaurian claws from the Late Triassic of India. Palaeoworld,
+v. 27, pp. 179–187.
+Ray, S., 1999, Permian reptilian fauna from the Kundaram Formation,
+Pranhita-Godavari valley, India. Journal of African Earth Sciences,
+v. 29, pp. 211–218.
+Ray, S., 2000, Endothiodont dicynodonts from the Late Permian
+Kundaram Formation of India. Palaeontology, v. 43, pp. 375–
+404.
+Ray, S., 2001, Small Permian dicynodonts from India. Paleontological
+Research, v. 5, pp. 177–191.
+Ray, S., 2005, Lystrosaurus (Therapsida, Dicynodontia) from India:
+Taxonomy, relative growth and cranial dimorphism. Journal of
+Systematic Palaeontology, v. 3, pp. 203–221.
+Ray, S., 2006, Functional and evolutionary aspects of the postcranial
+anatomy of dicynodonts. Palaeontology, v. 49, pp. 1263–1286.
+Ray, S., 2015, A new Late Triassic traversodontid cynodont
+(Therapsida, Eucynodontia) from India. Journal of Vertebrate
+Palaeontology, v.35. doi: 10.1080/02724634.2014.930472
+Ray, S., and Bandyopadhyay, S., 2003, Late Permian vertebrate
+community of the Pranhita-Godavari valley, India. Journal of
+Asian Earth Sciences, v. 21, pp. 643–654.
+Ray, S., Bhat, M.S., Mukherjee, D., and Datta, P.M., 2016, Vertebrate
+fauna from the Late Triassic Tiki Formation of India: new finds
+and their biostratigraphic implications. The Palaeobotanist, v. 65,
+pp. 47–59.
+Ray, S., Bhat, M.S., and Datta, P.M., 2019, First record of varied
+archosauriforms from the Upper Triassic of India based on isolated
+teeth, and their biostratigraphic implications. Historical Biology,
+doi: 10.1080/08912963.2019.1609957
+Remes, K., 2007, A second Gondwanan diplodocid dinosaur from
+the Upper Jurassic Tendaguru Beds of Tanzania, East Africa.
+Palaeontology, v. 50, pp. 653–667.
+Robinson, P.L., 1970, The Indian Gondwana formations – a review.
+First International symposium on Gondwana Stratigraphy, IUGS,
+South America, p. 201–268.
+Robinson, P.L., 1973, Palaeoclimatology and continental drift. In:
+D. H. Tarling and S.K. Runcorn (Eds.). Academic Press, London,
+pp. 451-476.
+Rogers, R.R., Swisher III, C.C., Sereno, P.C., Monetta, A.M., Forster,
+C.A. and Martínez, R.N., 1993, The Ischigualasto tetrapod
+assemblage (Late Triassic, Argentina) and 40Ar/39Ar Dating of
+dinosaur origins. Science, v. 260, pp. 794–797.
+Röhl, H.J., Schmid-Rçhl, A., furrer, H., Frimmel, A., Oschmann, W.,
+and Schwark, L., 2001, Microfacies, geochemistry and
+palaeoecology of the Middle Triassic Grenzbitumenzone from
+Monte San Giorgo (Canton Ticino, Switzerland). Geol. Insubr.,
+v. 6, pp. 1–13.
+Romer, A.S., 1966, Vertebrate Palaeontology. Third edition, Chicago
+University Press, Chicago.
+Roopnarine, P.D., 2018, Ecological persistence, incumbency and
+reorganization in the Karoo Basin during the Permian-Triassic
+transition. Earth-Science Reviews, v. 189, pp. 244–263.
+Rowe, T.B., 1988, Definition, diagnosis, and origin of Mammalia.
+Journal of Vertebrate Paleontology, v. 8, pp. 241–264.
+RoyChowdhury, T.K., 1965, A new metoposaurid amphibian from
+the Maleri Formation, India. Philosophical Transactions of the
+Royal Society London, v. B250, pp. 1–52.
+RoyChowdhury, T. K., 1970, Two new dicynodonts from Triassic
+Yerrapalli Formation of central India. Palaeontology, v. 13 (1),
+pp. 132-144.
+Rubidge, B.S. (Ed), 1995, Biostratigraphy of the Beaufort Group.
+South African Commission Stratigraphy, Biostratigraphic Series,
+v.1, p.l”45.
+Rubidge, B. S., 2015, Reuniting lost continents - fossil reptiles from
+Episodes Vol. 43, no. 1
+
+the ancient Karoo and their wanderlust. 27th DuToit Memorial
+Lecture, South African Journal of Geology, v. 108, pp. 135–172.
+Rudra, D.K., 1982, Upper Gondwana stratigraphy and sedimentation
+in the Pranhita-Godavari valley, India. Quarterly Journal of
+Geological, Mining and Metallurgical Society of India, v. 54, pp.
+56–79.
+Rudra, D.K., and Maulik, P.K., 1994, Lower Jurassic Kota Limestone
+of India. In: Gierlowski-Kordesch, E. and Kelts, K. (Eds), Global
+Geological Record of Lake Basins, Cambridge University Press,
+Cambridge, v. 1, pp. 185–191.
+Sahney, S., and Benton, M.J., 2008, Recovery from the most profound
+mass extinction of all time. Proceedings of the Royal Society of
+London, v. B275, pp. 759–765.
+Sarkar S., 1988., Petrology of caliche-derived peloidal cacirudite/
+calcarenite in the Late Triassic Maleri Formation of the PranhitaGodavari valley, south India. Sedimentary Geology, v. 55, pp.
+263–282.
+Satsangi, P.P., 1987, The vertebrate faunas of the Permian and Lower
+Triassic sequence of India. In: Mesozoic Gondwana vertebrates,
+Geological Survey of India Special Publication, v.11, p.165–178.
+Schoch, R.R., Nesbitt, S., Müller, J., Lucas, S.G., and Boy, J.A., 2010,
+The reptile assemblage from the Moenkopi Formation (Middle
+Triassic) of New Mexico. Neues Jahrbuch für Geologie und
+Paläontologie - Abhandlungen, v. 255, pp. 345–369.
+Schultz, C.L., Langer, M.C., and Montefeltro, F.C., 2016, A new
+rhynchosaur from south Brazil (Santa Maria Formation) and
+rhynchosaur diversity patterns across the Middle-Late Triassic
+boundary. Paläontologische Zeitschrift, v. 90, pp. 593–609.
+Sengupta, D.P., 2002, Indian metoposaurid amphibians revised.
+Paleontological Research, v. 6, pp. 41–65.
+Sengupta, S.M., 1970, Gondwana sedimentation around Bheemaram
+(Bhimaram), Pranhita-Godavari Valley, India. Journal of
+Sedimentary Petrology, v. 40, pp. 140 –170.
+Sengupta, S., Sengupta, D.P., and Bandyopadhyay, S., 2016,
+Stratigraphy of the Upper Gondwana formations around Sohagpur:
+Western part of the Satpura Gondwana Basin, Central India.
+Journal Geological Society of India, v. 87, pp. 503–519.
+Sengupta, S., Ezcurra, M.D., and Bandyopadhyay, S., 2017, A new
+horned and long-necked herbivorous stem-archosaur from the
+Middle Triassic of India. Scientific Reports, v. 7 (8366), p. 1–9.
+Sennikov, A.G., 1996, Evolution of the Permian and Triassic tetrapod
+communities of Eastern Europe. Palaeogeography,
+Palaeoclimatology, Palaeoecology, v. 120 (3–4), pp. 331–351.
+Shishkin, M.A., Rubidge, B.S., and Kitching, J.W., 1996, A new
+lydekkerinid (Amphibia, Temnospondyli) from the Lower Triassic
+of South Africa: implications for evolution of the early
+capitosauroid cranial pattern. Philosophical Transactions of the
+Royal Society of London, v. B351, pp. 1635–1659.
+Sidor, C.A., Steyer, J.S., and Hammer, W.R., 2014, A new capitosaurid
+temnospondyl from the Middle Triassic Upper Fremouw
+Formation of Antarctica. Journal of Vertebrate Paleontology, v.
+34, pp. 539–548.
+Smith, R.M.H., 2000, Sedimentology and taphonomy of Late Permian
+vertebrate fossil localities in southwestern Madagascar.
+Palaeontologia Africana, v. 36, pp. 25–41.
+Smith, R.M.H., and Ward, P.D., 2001, Pattern of vertebrate extinctions
+across an event bed at the Permian-Triassic boundary in the Karoo
+Basin of South Africa. Geology, v. 29, pp. 1147–1150.
+Smith, R.M.H., Rubidge, B., and van der Wal, M., 2012, Therapsid
+biodiversity patterns and paleoenvironments of the Karoo Basin,
+South Africa. In: Chinsamy-Turan, A. (Ed.), Forerunners of
+Mammals. Indiana University Press, pp. 31–62.
+Sookias, R.B., Sullivan, C., Liu, J., and Butler, R.J., 2014, Systematics
+of putative euparkeriids (Diapsida, Archosauriformes) from the
+
+460
+Triassic of China. PeerJ, v. 2, doi: 10.7717/peerj.658.
+Sues, H.D., and Fraser, N.C., 2010, Triassic Life on Land: The Great
+Transition. Columbia University Press, New York, 236 pp.
+Sues, H.D., Shubin, N.H., and Olsen, P.E., 1994, A new sphenodontian
+(Lepidosauria: Rhynchocephalia) from the Mccoy Brook
+Formation (Lower Jurassic) of Nova Scotia, Canada. Journal of
+Vertebrate Paleontology, v. 14, pp. 327–340.
+Tanner, H.T., 2018, The Late Triassic World, Topics in Geobiology
+46. Springer, 805 p.
+Tennant, J.P., Mannion, P.D., and Upchurch, P., 2016, Sea level
+regulated tetrapod diversity dynamics through the Jurassic/
+Cretaceous interval. Nature Communication, v. 712737. doi:
+10.1038 /ncomms12737
+Tennant, J.P., Mannion, P.D., Upchurch, P., Sutton, M.D., and Price,
+G.D., 2017, Biotic and environmental dynamics through the Late
+Jurassic–Early Cretaceous transition: evidence for protracted
+faunal and ecological turnover. Biological Reviews, v. 92, pp.
+776–814.
+Tripathi, C., 1962 Rhinesuchus wadiai sp. nov., a new labyrinthodont
+from Vindhya Pradesh. Records Geological Survey of India, v.
+89, pp. 399–406.
+Tripathi, C., and Satsangi, P.P., 1963, Lystrosaurus fauna of the
+Panchet series of the Raniganj coalfield. Memoirs of the
+Geological Survey of India, New series, v. 37, pp. 1–65.
+Tucker, M.E., and Benton, M.J., 1982, Triassic environments, climates
+and reptile evolution. Palaeogeography, Palaeoclimatology,
+Palaeoecology, v. 40, pp. 361–379.
+
+Twitchett, R.J., 2007, The Lilliput effect in the aftermath of the endPermian extinction event. Palaeogeography, Palaeoclimatology,
+Palaeoecology, v. 252, pp. 132–144.
+Veevers, J.J., and Tewari, R.C., 1995, Gondwana Master Basin of
+peninsular India between Tethys and interior of the Gondwana
+provinces of Pangea. Geological Society of America, Memoir, v.
+187, pp. 1–72.
+Warren, A., 2012, The South African stereospondyl Microposaurus
+from the Middle Triassic of the Sydney Basin, Australia. Journal
+of Vertebrate Paleontology, v. 32, pp. 538–544.
+Warren, A., Damiani, R., and Sengupta, D.P., 2009, Unique
+stereospondyl mandibles from the early Triassic Panchet
+Formation of India and the Arcadia Formation of Australia.
+Special Papers in Palaeontology, v. 1, pp. 161–173.
+Whiteside, J.H., Olsen, P.E., Eglinton, T., Brookfield, M.E., and
+Sambrotto, R.N., 2010, Compound-specific carbon isotopes from
+Earth’s largest flood basalt eruptions directly linked to the endTriassic mass extinction. Proceedings of the National academy
+of Sciences of the United States of America, v. 107, pp. 6721–
+6725.
+Woodward, A.S., 1905, Permo-Carboniferous vertebrates from
+Kashmir. Palaeontologia lndica New Series, v. 3, pp. 1–13.
+Yates, A.M., 2003, A definite prosauropod dinosaur from the Lower
+Elliot Formation (Norian: Upper Triassic) of South Africa.
+Palaeontologia Africana, v. 39, pp. 63–68.
+Zhang, W., Chen, P. J., and Palmer, A.R., 2003, Biostratigraphy of
+China. Elsevier Press, 599 p.
+
+Saswati Bandyopadhyay is the Professor
+and former Head of the Geological Studies
+Unit, Indian Statistical Institute, Kolkata.
+She has specialized mainly in Vertebrate
+Palaeontology including origin, evolution,
+functional morphology and systematic study
+of the Mesozoic reptiles, their taphonomy
+and bone histology. She has worked on the
+Indian dinosaurs including the Jurassic
+sauropod Barapasaurus tagorei and
+discovered a new horned reptile,
+Shringasaurus indicus, from the Middle
+Triassic mudstone of the Satpura Gondwana
+Basin, India. Besides she has also worked
+on Indian Gondwana geology including
+stratigraphy and depositional environment,
+biochronology and palaeoclimatology.
+
+Sanghamitra Ray is a Professor at the
+Department of Geology and Geophysics,
+Indian Institute of Technology Kharagpur,
+India. Her research is focused on various
+aspects of the Permo-Triassic Gondwana
+vertebrates, mainly involving deduction of
+their palaeobiology based on functional
+morphology and bone histology. During the
+last few years, she has been actively involved
+in deciphering the (i), Late Triassic
+vertebrate faunal assemblages of India and
+their palaeobiological aspects including
+mode of life, (ii), various trace fossils and
+their producers, and (iii) reconstruction of
+the Triassic palaeo-ecosystem of India.
+
+March 2020
+
+

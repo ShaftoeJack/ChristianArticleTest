@@ -1,0 +1,810 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/221920734
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian
+Southern Alps
+Chapter · December 2011
+DOI: 10.5772/27233 · Source: InTech
+
+CITATIONS
+
+READS
+
+46
+
+548
+
+3 authors:
+Marco Avanzini
+
+Massimo Bernardi
+
+Museo delle Scienze, Trento, Italy
+
+Museo delle Scienze, Trento, Italy
+
+201 PUBLICATIONS 3,197 CITATIONS
+
+84 PUBLICATIONS 1,688 CITATIONS
+
+SEE PROFILE
+
+Umberto Nicosia
+Sapienza University of Rome
+181 PUBLICATIONS 2,856 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Marco Avanzini on 16 May 2014.
+The user has requested enhancement of the downloaded file.
+
+SEE PROFILE
+
+25
+The Permo-Triassic Tetrapod Faunal
+Diversity in the Italian Southern Alps
+Marco Avanzini1, Massimo Bernardi1 and Umberto Nicosia2
+
+1Science Museum, Trento,
+
+2Sapienza University of Rome,
+
+Italy
+1. Introduction
+The Permian and Triassic palaeogeography of the Alpine region originated a peculiar
+geological situation, now well exposed in several sections, in which marine sediments,
+continental deposits, and volcanites interfinger. The study of the resulting mixed sections
+allowed to build a framework of biostratigraphic and chronological data in which tetrapod
+footprints play a key role (e.g., Avanzini & Mietto, 2008).
+Global track record is much more abundant than the skeletal record and, although suffering
+from problems related to a correct attribution to the trackmakers, provides data as reliable
+as those obtained from skeletal remains (Carrano & Wilson, 2001 and references therein).
+During the Permian and the Early-Middle Triassic, tetrapods, and especially reptiles,
+radiated and entire new land-dwelling groups originated (e.g., the archosaurs).
+Consequently, in this temporal interval the tetrapod track record shows a huge increase in
+variability reflecting the morphological diversity spanning from a stem-reptile to a
+'mammalian' foot, from basal crocodilomorph to a dinosauromorph foot. How is this pattern
+documented in the Dolomites region and surrounding areas (Southern Alps, NE Italy)?
+In this geographical sector the recent discovery of many new tetrapod footprint-bearing
+outcrops has yield to a phase of renewed interest for ichnological data. As a result, the
+stratigraphical, palaeoecological and palaeogeographical importance of tetrapod footprints
+in this geographical sector is becoming more and more widely acknowledge.
+In this contribution we provide an overview of Permian and Triassic tetrapod faunal
+composition as deduced from the study of several ichnosites located in the Italian Southern
+Alps with special reference to the pattern exhibited around the PT boundary.
+
+2. Geological setting
+In the Permian succession of the Southern Alps tetrapod tracks are found within two
+tectonosedimentary cycles. The lower cycle is represented by the alluvial-lacustrine
+continental deposits of the Collio and Tregiovo Formations while the upper cycle is
+represented by clastic red-beds of the Verrucano Lombardo Formation and Val Gardena
+Sandstone (Trentino Alto Adige). Towards the top, the latter interfingers with the sulphate
+evaporites and shallow-marine carbonate sequences of the Bellerophon Fm. The two cycles
+are put in contact by a regional unconformity documented by erosional surfaces and
+
+592
+
+Earth and Environmental Sciences
+
+palaeosoil horizons. Floristic and radiometric data (Cassinis & Doubinger, 1991, 1992;
+Cassinis et al., 1999, 2002; Schaltegger & Brack, 1999) indicate that the lower cycle is
+Artinskian-Kungurian in age (Early Permian). The upper cycle has been dated by means of
+sporomorphs and foraminifers and is considered Wuchiapingian in age (Late Permian,
+Cassinis et al., 2002).
+Triassic units follow. The precise position of the PT boundary in the Southern Alps has been
+debated for long time (see Broglio Loriga & Cassinis, 1992 for a review). Although some
+early works put the boundary at or very close to the Bellerophon-Werfen Formation limit
+(Bosellini, 1964; Assereto et al., 1973; Posenato, 1988), the PT boundary is now thought to lie
+within (Pasini, 1985; Broglio Loriga et al., 1986; Visscher & Brugman, 1988; Farabegoli &
+Perri, 1998; Farabegoli et al., 2007) or at the top (Wignall et al., 1996) of the Tesero Member,
+the lowermost part of the Werfen Fm. The first Triassic tetrapod tracks are found within the
+terrigenous and terrigenous-carbonate units of the Werfen Fm. and are Olenekian in age
+(Early Triassic). Several terrigenous and terrigenous-carbonate units of Anisian age (Middle
+Triassic) follow: Gracilis Fm., Voltago Cgl., Richthofen Cgl., Morbiac dark Limestones. All
+were deposited in lagoonal-peritidal to continental environments and have yielded well
+preserved ichnoassociations. No tetrapod tracks are known from the Dolomites' Ladinian
+(Middle Triassic) which is represented mainly by basinal units (Buchenstein Fm. and
+Wengen Group) and carbonate platform deposits (Sciliar Dolomite).
+
+3. Permian and Triassic ichnoassociations
+Permian and Triassic ichnoassociations in the Southern Alps have been documented since
+the XIX century (e.g., Curioni, 1870). Recent reviews have been published by Conti et al.
+(1997), Conti et al. (1999), Conti et al. (2000), Avanzini et al. (2001), Avanzini & Mietto (2008).
+Here we provide an updated overview on these studies focusing on the contribution that
+tetrapod ichnology can give to the debates concerning the large scale patterns of extinction
+and subsequent recovery on lands near the PT boundary (Benton & Twitchett, 2003;
+Twitchett et al., 2001; Retallack et al., 2006; Sheldon & Chakrabarti, 2010).
+In the Alpine area several different types of bioevents were recognized (Conti et al., 2000;
+Ronchi et al., 2005). According to their relative importance, they had different degrees of
+utility for correlation. The first-appearance datum (FAD) and last appearance datum (LAD)
+concern a taxon, at either genus and species level, and are important at the regional level.
+The first occurrence (FO) and last occurrence (LO) as well as the disappearance event (DE)
+concern a faunal complex and have very high correlation power.
+Here, ichnoassociations have been grouped in four discrete time bins: Artinskian-Kungurian
+(Early Permian) (Fig. 1), Wuchiapingian (Late Permian) (Fig. 2), Olenekian (Early Triassic)
+and Anisian (Middle Triassic) (Fig. 3). Traditionally, these discrete associations have been
+considered 'Faunal Units' (FU) (Conti et al., 1997; Conti et al., 1999; Conti et al., 2000;
+Avanzini et al., 2001; Ronchi et al., 2005).
+In the present study: i) no vertical differences within a single bin have been considered even
+though some are well known; and, ii) only species-level determinations have been
+considered except where a genus or a higher-level taxon is represented by an undetermined
+species only (e.g., Procolophonichnium isp.), or in the case of Rhynchosauroides isp.1 and
+Rhynchosauroides isp.2 of Valentini et al. (2007) which underwent a formal revision and,
+although not yet renamed, can be considered as distinct ichnospecies.
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+593
+
+3.1 Artinskian-Kungurian (Early Permian)
+The Permian first cycle ichnoassociation is documented within the Collio and Tregiovo
+Formations. Data have been recorded in the Collio basin (Geinitz, 1869; Curioni, 1870;
+Cassinis, 1966; Berruti, 1969; Ceoloni et al., 1987; Conti et al., 1991) and from sediments
+cropping out in other localities of the Orobic basin (Gümbel, 1880; Dozy, 1935; Casati, 1969;
+Casati & Forcella, 1988; Nicosia et al., 2000; Santi, 2003, 2005; Santi & Krieger, 2001) and in
+the Tregiovo and Luco basins (Conti et al., 1997; Avanzini et al., 2008).
+The ichnoassociation includes the following ichnospecies (after Conti et al., 1997; Conti et al.,
+2000, updated) (Fig. 1).
+
+Fig. 1. Artinskian and Kungurian (Early Permian) tetrapod tracks form the Southern Alps.
+A) Amphisauropus imminutus Haubold, 1970; B) Amphisauropus latus Haubold, 1970; C)
+Batrachichnus salamandroides (Geinitz, 1861); D) Camunipes cassinisi Ceoloni et al., 1987; E)
+Dromopus lacertoides (Geinitz, 1861); F) Dromopus didactylus (Moodie, 1896); G) Varanopus
+curvidactylus Moodie, 1929. From Santi & Krieger (1999), Ceoloni et al. (1987), Avanzini et al.
+(2008).
+Amphisauropus imminutus Haubold, 1970
+Amphisauropus latus Haubold, 1970
+Batrachichnus salamandroides (Geinitz, 1861)
+Camunipes cassinisi Ceoloni et al., 1987
+Dromopus lacertoides (Geinitz, 1861)
+Dromopus didactylus (Moodie, 1896)
+Ichniotherium cottae (Pohlig, 1885)
+
+594
+
+Earth and Environmental Sciences
+
+Varanopus curvidactylus Moodie, 1929
+Santi (2007) has clearly shown that Camunipes cassinisi Ceoloni et al., 1987 is a junior
+synonym of Erpetopus Moodie, 1929.
+The Early Permian ichnoassociation is bounded by the Amphisauropus latus FO and
+Ichniotherium cottae FO at the base and by the Dromopus didactylus LO at the top. This
+association is very similar to those found in the Permian of various European countries. It is
+named Collio FU and it can in turn be subdivided into two subunits. The lower subunit
+(Pulpito subunit) is characterized by the presence of Amphisauropus latus Haubold, 1970,
+Dromopus lacertoides (Geinitz, 1861) and Ichniotherium cottae (Pohlig, 1885). The upper
+subunit (Tregiovo subunit) is bounded by the disappearance event (DE) for all but one of
+the preceding forms, yielding a drastic reduction of faunal diversity; indeed the subunit is
+monotypic being represented by very frequent specimens of the only relict species Dromopus
+didactylus (Moodie, 1896). This pattern was interpreted as a bioevent, given the relatively
+unchanged sedimentation conditions.
+3.2 Wuchiapingian (Late Permian)
+The Permian second cycle ichnoassociation has been recorded in the Bletterbach section
+(Ceoloni et al., 1988; Conti et al., 1975; 1977; 1980; Leonardi & Nicosia, 1973; Leonardi et al.,
+1975; Nicosia et al., 1999) and other quasi-coheval outcrops (SS. 48, Col Fratton (Kittl, 1891;
+Abel, 1926); S. Pellegrino Pass (Conti et al., 1977), Seceda (Valentini et al., 2009), Nova
+Ponente (Wopfner, 1999), Recoaro (Mietto, 1975; 1981) San Genesio-Meltina Plateau in the
+Adige basin (Avanzini, unpublished).
+The ichnoassociation includes the following ichnospecies (after Avanzini et al., 2001; Conti
+et al. 2000; Valentini et al., 2007, updated) (Fig. 2).
+Chelichnus tazelwurmi Ceoloni et al., 1988
+Dicynodontipus geinitzi (Hornstein, 1876)
+Ganasauripus ladinus Valentini et al., 2007
+Hyloidichnus tirolensis Ceoloni et al., 1988
+Ichniotherium accordii Ceoloni et al., 1988
+Ichniotherium cottae (Pohlig, 1885)
+Janusichnus bifrons Ceoloni et al., 1988
+Pachypes dolomiticus Leonardi et al., 1975
+Paradoxichnium radeinensis Coeloni et al., 1988
+Protochirotherium isp.
+Rhynchosauroides pallinii Conti et al., 1977
+Rhynchosauroides isp.1 of Valentini et al., 2007
+Rhynchosauroides isp.2 of Valentini et al., 2007
+Therapsida indet.
+Note that the specimens from Val Gardena Fm. ascribed to Chelichnus tazelwurmi Ceoloni et
+al., 1988 and Ichniotherium cottae (Pohlig, 1885) are currently under revision and that their
+nomenclature is expected to change in the near future.
+The Upper Permian tetrapod footprint complex is characterized by a diversified fauna
+almost completely new as compared with other Permian faunas (Ceoloni et al., 1986).
+Bounded in its lower part by the Rynchosauroides and Protochirotherium FAD, its records also
+the Dycinodontipus FAD and the Ichniotherium LAD. It is named the Bletterbach FU.
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+595
+
+Fig. 2. Wuchiapingian (Late Permian) tetrapod tracks form Southern Alps. A) Chelichnus
+tazelwurmi Coeloni et al., 1988; B) Dicynodontipus geinitzi (Hornstein, 1876); C) Ganasauripus
+ladinus Valentini et al., 2007; D) Rhynchosauroides pallinii Conti et al., 1977; E) Hyloidichnus
+tirolensis Ceoloni et al., 1988; F) Ichniotherium accordii Ceoloni et al., 1988; G) Ichniotherium
+cottae (Pohlig, 1885); I) Janusichnus bifrons Ceoloni et al., 1988; M) Pachypes dolomiticus
+Leonardi et al., 1975; H) Paradoxichnium radeinensis Ceoloni et al., 1988; L) cf.
+Protochirotherium isp.; M) Therapsida indet. From Conti et al. (1977, 2000), Valentini et al.
+(2007).
+Early Permian and Late Permian associations of the Southern Alps are separated by a
+stratigraphic break that correspond to a time-gap of 14-27 Ma (Italian IGCP 203 Group, 1986;
+Cassinis et al., 1988; Cassinis et al., 1999). A similar hiatus, equivalent to part of the Middle
+Permian, has been recognized in the global Permian tetrapod fossil record and has been
+termed Olson’s gap (Lucas and Heckert, 2001). The gap is thought to be associated with a
+significant remodelling of the global Permian tetrapod fauna (Lucas and Heckert, 2001;
+Lucas, 2004). As stated before, the two Southern Alpine FUs have been considered two
+different 'evolutionary stages' (Conti et al., 2000).
+3.3 Olenekian (Early Triassic)
+In the studied sector, the Early Triassic is represented by the Werfen Fm.: a complex
+succession of carbonate, terrigenous and mixed sediments. The formation is divided into
+
+596
+
+Earth and Environmental Sciences
+
+nine members and tracks are present in the upper three (Campil Member, Cencenighe
+Member and San Lucano Member).
+Tracks have been found near Recoaro, in Val Gardena (Bulla/Pufels), and Val Travignolo
+(Conti et al., 2000; Mietto, 1986). Olenekian tracks are generally poorly preserved and some, as
+those signaled by Leonardi (1967, p. 118, 119), are here discarded. Furthermore (contra e.g.
+Avanzini & Mietto, 2008) levels bearing Capitosauroides and Procolophonichnium ichnogenera
+(e.g., cropping out in the Monte Marzola) previously considered to be part of the Werfen Fm.
+are here reconsidered within the 'Gracilis Formation' which is Anisian (Middle Triassic) in age.
+The ichnoassociation includes the following ichnospecies (after Avanzini et al., 2001; Conti
+et al. 2000, updated) (Fig. 3):
+Rhynchosauroides palmatus (Lull, 1942)
+Rhynchosauroides schochardti (Rühle von Lilienstern, 1939)
+Both R. palmatus (Lull, 1942) and R. schochardti (Rühle von Lilienstern, 1939) have not been
+validated by Valentini et al. (2007) in their review of the ichnogenus Rhynchosauroides from
+the Val Gardena Sandstone. No review has been conducted of this ichnogenus in the Werfen
+Formation. We acknowledge that both ichnospecies could follow in an undetermined
+Rhynchosauroides isp., this is however nearly irrelevant (i.e., Early Triassic ichnodiversity
+could be 1 instead of 2) to the data analyses presented here.
+The Lowermost Triassic of the Southern Alps is characterized by the scarce presence of
+vertebrates, a factor that is undoubtedly linked to environmental conditions
+(palaeogeography) which did not favor the permanence in this region of complex and
+consistent faunal associations. The ichnoassociations are dominated by Rhynchosauroides
+forms that are likely mainly Permian survivor.
+3.4 Anisian (Middle Triassic)
+Several Anisian ichnoassociations have been found in the Dolomites and surrounding areas.
+These are found within several formations (Gracilis Fm., Voltago Cgl., Richthofen Cgl.,
+Morbiac dark Limestones) which document transitional continental to marine
+environments. Tracksites are located in the Braies Dolomites (Northern Dolomites), in the
+eastern Dolomites, in the upper Val di Non and Val d’Adige, and in the Recoaro-Vallarsa
+area (Abel, 1926; Brandner, 1973; Mietto, 1987; Avanzini, 1999, 2000, 2002; Avanzini et al.,
+2001; Avanzini & Leonardi, 2002; Avanzini & Lockley, 2002; Avanzini & Neri, 1998;
+Avanzini & Mietto, 2008; Todesco et al., 2008; Todesco & Bernardi, 2011).
+The ichnoassociation includes the following ichnospecies (after Avanzini & Mietto, 2008,
+updated) (Fig. 3):
+Brachychirotherium paeneparvum Demathieu & Leitz, 1982
+Brachychirotherium circaparvum Demathieu, 1967
+Capitosauroides cf. bernburgensis Haubold, 1971
+Chirotherium barthii Kaup, 1835
+Chirotherium rex Peabody, 1948
+Isochirotherium infernense Avanzini & Leonardi, 2002
+Isochirotherium delicatum Courel & Demathieu, 1976
+Parasynaptichnium gracilis Mietto, 1987
+Procolophonichnium isp.
+Rhynchosauroides tirolicus Abel, 1926
+Rhynchosauroides peabodyi Faber, 1958
+Rotodactylus cf. cursorius Peabody, 1948
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+597
+
+Fig. 3. Olenekian (A, B) and Anisian (C-P) (Early and Middle Triassic) tetrapod tracks from
+Southern Alps. A) Rhynchosauroides palmatus (Lull, 1942); B) Rhynchosauroides schochardti
+(Rühle von Lilienstern, 1939); C) Chirotherium rex Peabody, 1948; D) Isochirotherium infernense
+Avanzini and Leonardi, 2002; E) cf. Sphingopus isp.; F) Chirotherium barthii Kaup, 1835; G)
+tridactyl footprint, possible dinosauriformes; H) Isochirotherium delicatum Courel &
+Demathieu ,1976; I) Parasynaptichnium gracilis Mietto 1987; L) Synaptichnium pseudosuchoides
+Nopcsa, 1923; M) Synaptichnium cameronense (Peabody, 1948); N) Brachychirotherium aff.
+Parvum; O) Rhynchosauroides tirolicus Abel, 1926; P) Rhynchosauroides peabodyi Faber, 1958.
+From Avanzini (2003), Avanzini & Mietto (2008).
+
+598
+
+Earth and Environmental Sciences
+
+Rotodactylus lucasi Demathieu & Gand, 1973
+Sphingopus isp.
+Synaptichnium cameronense (Peabody, 1948)
+Synaptichnium pseudosuchoides Nopcsa, 1923
+Synaptichnium diabloense Peabody, 1948
+Therapsida indet.
+In the considered sector, tetrapod tracks are not recorded from Ladinian deposits, in
+correspondence of a great rise of the sea level. Well documented associations reappear only
+in the Late Triassic (Tuvalian).
+In the Anisian, a progressive increase in the complexity of the ichnoassociations and the size
+of the taxa from the Bithynian to the Illyrian is documented in the Southern Alps.
+The analysis of the stratigraphic distribution of ichnofaunas crossed with sequence
+stratigraphy and the ammonite biostratigraphy has led to the identification, within the
+Pelsonian - Illyrian interval of several taxa characterized by a narrow vertical distribution
+(Avanzini & Mietto, 2008).
+While the Aegean-Bithynian interval is characterized by several lizard-like ichnotaxa and
+small archosauriform (Parasynaptichnium gracilis and Synaptichnium pseudosuchoides FAD),
+the middle Pelsonian and the Illyrian are mainly dominated by medium-large chirotheroids
+(i.e., Chirotherium barthii, C. cf. rex, Isochirotherium herculis).
+
+4. Ichnodiversity trends trough the Permo-Triassic
+The likely producer of an ichnospecies is generally uncertain; tracks and trackmakers can
+only be associated with certainty when found in association (e.g., Voigt et al., 2007).
+However, for most studies the identity of the trackmaker does not need to be (and cannot
+be) determined at a specific or generic level. The range of the possible producers can be
+constrained within the least inclusive group that bounds all the taxa sharing similar
+morphological characteristics that fit with the features of the studied tracks (Carrano &
+Wilson, 2001). In the case of the track record here analysed this implies that different
+ichnogenera can be attributed to trackmakers belonging to different taxonomic categories.
+Furthermore, acknowledging that different substrates, behaviours and even different
+ichnotaxonomic traditions can bias our palaeobiodiversity and abundance estimates, the
+here suggested taxonomic designations are based on: i) the most conservative found in
+literature (i.e., broad), and ii) the most widely acknowledge (i.e., some single alternative
+hypothesis have been discarded) (Tab. 1).
+For example the ichnogenus Procolophonichnium has been attributed to different biological
+groups such as procolophonids (Anapsida), therapsids (Synapsida) and basal amniotes (see
+Klein & Lucas, 2010; Klein et al., in press). The least inclusive group that bounds these taxa
+is the Amniota and Procolophonichnium is here conservatively considered as produced by an
+indeterminate stem group amniote (i.e., basal amniote). A coarse assignment of trackmaker
+identity has been shown to be still useful for evolutionary studies (e.g., Wilson and Carrano,
+1999; Carrano & Wilson, 2001).
+Although possibly unsafe, a link between ichnofaunal and faunal record in the Dolomites
+area is the only possible source of information about tetrapod life on lands in Permian and
+Triassic since, as state above, the bony record is nearly absent.
+Ichnodiversity and faunal composition through time are shown in Figs. 4 and 5. Taken at
+face value, available data show that diversity (shear number of ichnospecies) grows through
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+599
+
+the Permian, then suddenly drops in (or until) the Olenekian and then reaches its maximum
+in the Anisian. A finer stratigraphic and temporal resolution would show that lowest and
+highest diversity are separated by circa 6 million years only (Avanzini & Mietto, 2008).
+Ichnotaxon
+Amphisauropus
+Batrachichnus
+Brachychirotherium
+Capitosauroides
+Chelichnus
+Chirotherium
+Dicynodontipus
+Dromopus
+Erpetopus
+(Camunipes)
+Ganasauripus
+Hyloidichnus
+Ichniotherium
+Isochirotherium
+Janusichnus
+Pachypes
+Paradoxichnium
+Parasynaptichnium
+Procolophonichnium
+Protochirotherium
+Rhynchosauroides
+Rotodactylus
+Sphingopus
+Synaptichnium
+Varanopus
+
+Attribution
+Seymouriamorpha
+Stem group Amphibia
+Archosauria
+Stem-group Amphibia
+Non-therapsid Eupelycosauria
+Archosauriformes
+Non-mammalian Therapsida
+Araeoscelida
+Captorhinidae
+Lepidosauromorpha
+Captorhinidae
+Diadectomorpha
+Archosauriformes
+Stem-group Amniota
+Pareiasauridae
+Lepidosauromorpha
+Archosauriformes
+Stem-group Amniota
+Archosauriformes
+Lepidosauromorpha/Eosuchia
+Dinosauromorpha
+Dinosauromorpha
+Archosauriformes
+Captorhinomorpha
+
+Table 1. Permian-Triassic tetrapod ichnogenera and their inferred trackmakers (mainly after
+Haubold, 1996, 2000; Klein et al., 2011)
+The Artinskian-Kungurian (Early Permian) ichnoassociation (Fig. 1) is comparable with
+coeval associations around the World (the so-called Batrachichnus ichnofacies; Lucas & Hunt,
+2006) and document the presence of 5 different groups: amphibians, seymouriamorphs,
+diadectomorphs, captorhinomorphs and araeoscelids (Fig. 4). These are represented, in
+similar proportion, by 8 different ichnospecies. The most notable difference with other
+Lower Permian tracksites is the absence of tracks ascribed to large non-therapsid
+Eupelycosaur grade trackmakers (e.g. Dimetropus).
+The richer Wuchiapingian (Late Permian) ichnoassociation (Fig. 2) is constituted of 14
+ichnospecies which document the presence of 6 groups: diadectomorphs and
+captorhinomorphs are still present, together with lepidosauromophs, pareiasaurs, synapsids
+and archosauriforms (Fig. 4). This ichnoassociations, according to Lucas and Hunt (2006, p.
+152), “the most characteristic ichnofauna being that of the Val Gardena Formation” allowed
+
+600
+
+Earth and Environmental Sciences
+
+defining a Pachypes ichnocoenosis in the Brontopodus ichnofacies (Lucas and Hunt, 2006). As
+widely acknowledge, however, Southern Alps Late Permian ichnoassociation is far richer
+than elsewhere and, although ichnodiversity-based estimates can be misleading for the
+problems acknowledge before, it is interesting to note that, on a global scale, Wuchiapingian
+land vertebrate life experienced a dramatic drop in diversity (the end-Guadalupian crisis;
+see Benton, 1995; King, 1991; Retallack et al., 2006; Sahney & Benton, 2008).
+
+Fig. 4. Tetrapod ichnodiversity and faunal composition trough the Permian and Triassic in
+the Dolomites region (Southern Alps, NE Italy). White bars represent the ichnospecies listed
+in the text for each of the four studied ichnoassociation: A) Artinskian-Kungurian (Early
+Permian), B) Wuchiapingian (Late Permian), C) Olenekian (Early Triassic), and D) Anisian
+(Middle Triassic). Each color, corresponding to the cardinal numbers 1-12, represent any
+least inclusive group to which the ichnospecies are referred.
+Olenekian (Early Triassic) tracks (Fig. 3) are all found isolated and poorly preserved. This
+surely has to do with the low preservation potential for tracks in the Southern Alps
+formations. However the few track-bearing levels within the three upper members of the
+Werfen Fm. undoubtedly record transitional continental-marine environments with high
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+601
+
+preservation potential: where tracks could be preserved a monotypic lepidosauromorph
+fauna is documented (2 ichnospecies). The interpretation of this datum in the considered
+geographical sector is however poorly supported: both an “ecological bias” (e.g., only the
+coast dwellers who were able to live on the ephemeral emerged lands left their footprints),
+or a real “evolutionary pattern” (e.g., recovery in diversity from PT mass extinction was
+extremely slow) would produce the observed pattern of diversity.
+Anisian (Middle Triassic) ichnoassociation is very diverse being constituted by 18
+ichnospecies. 5 groups are represented: lepidosauromophs, stem amphibians, “synapsids”,
+archosauriforms and dinosauromorphs (Fig. 4). It is interesting to note that as soon as the
+Anisian, nearly 70% of the ichnodiversity in the considered geographical sector documents
+the presence of archosaurs (10 archosaur-produced + 3 dinosauromorph-produced
+ichnospecies). The pattern is consistent with those observed in Germany, France and
+Arizona (USA) (see Hunt and Lucas, 2007 and references therein).
+
+5. Discussion and conclusions
+Our analysis of the Permo-Triassic faunal composition in the Dolomites region as deduced
+from the track record well matches the skeletal record with the obvious exclusion of few,
+very rare forms, dubiously referred to high level taxonomic groups too inclusive to be
+meaningful (Amphibia, Amniota). In this way, incidentally, the footprint reliability for
+evolutionary studies was, once again, confirmed. This is in particular true when data are
+collected from rich and deeply studied ichnoassociations. Once stated the reliability of data,
+we can analyse the impact of two well known biological crises that have been documented
+world-wide in the Middle and Late Permian (see Hallam & Wignall, 1997; Retallak et al.
+2006; Sheldon, 2006 and references therein) on mid Early Permian to late Early Triassic
+faunas in the Dolomites.
+The effects of the first crisis, the so-called Olson's extinction, are documented in the
+considered geographical sector by: i) the progressive disappearance of long ranging taxa,
+typical of the Early Permian (and Carboniferous) as the Seymouriamorpha and the
+Araeoscelidia; ii) the persistence of groups as the Diadectids and the Captorhinomorphs; iii)
+the appearance of groups that will have their explosion during the Late Permian
+(Pareiasaurs and non-mammalian Therapsids). Contemporaneously it is worth of note the
+appearance of the first Lepidosauromorphs and of rare Archosauromorphs. On the contrary,
+the events recorded between Late Permian and late Early Triassic, across the end-Permian
+crisis, suggest a very low survival, and only of the groups that appeared during the Late
+Permian (Lepidosauromorph, non Mammalian Therapsid, Archosauromorphs). Noticeably,
+an early appearance and the abundant presence of Rotodactylus and Sphingopus in the
+Southern Alps also supports the hypotheses of an early origin, soon after the PT boundary,
+for the Dinosauromorpha (e.g., Brusatte et al., 2011).
+The recognized trends, suggest different controlling factors for the two Permian crises (Fig.
+5). The end-Guadalupian “crisis” (Benton, 1995, 1989; King, 1991; Retallack et al., 2006), or
+“extinction” (Sahney & Benton, 2008) seems to show the typical feature of the depletion of a
+long-lived association, mainly characterized by ecological replacement of the old taxa with
+new ones (famous examples, based on bone remains, are the replacement of Caseids with
+Pareiasaurs in the niche of large plant-eaters and of large Sphenacodontids with the nonmammalian Therapsid among carnivorous), and thus an event controlled by normal
+
+602
+
+Earth and Environmental Sciences
+
+environment changes, more or less slow and gradual. The end-Permian crisis, instead, is
+recorded by the termination of short lived taxa, just appeared during the same Late Permian
+and can be better interpreted as the result of a mass-extinction, connected to a series of
+catastrophic events.
+
+Fig. 5. Tetrapod ichnodiversity trough time in the Southern Alps. Colored polygons
+represent the duration of each of the studied ichnoassociations.
+Thus, paradoxically, it may have been the end-Guadalupian, slow speed, crisis that,
+anticipating the substitution of obsolescent anatomical and ecological 'models' and forcing
+the appearance of entirely new taxa, allowed some land-animal groups overcoming the
+following and much more acute, end-Permian crisis.
+
+6. Acknowledgments
+We thank F.M. Petti and R. Todesco (Science Museum, Trento) for constructive discussions
+and M.C. Deflorian (Science Museum, Trento) for assistance with figures. This study is part
+of the project “The Permian-Triassic ecological crisis in the Dolomites: extinction and
+recovery dynamics in Terrestrial Ecosystems” financed by the Promotion of Educational
+Policies, University and Research Department of the Autonomous Province of Bolzano South Tyrol. The research was supported also by the Science Museum, Trento and the
+Sapienza University of Rome.
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+603
+
+7. References
+Abel, O. (1926). Der erste Fund einer Tetrapodenfährte in den unteren alpinen Trias.
+Paläontologische Zeitschrift, Vol.7, pp. 22-24.
+Assereto, R.; Bosellini, A., Fantini Sestini, N. & Sweet, W.C. (1973). The Permian–Triassic
+boundary in the Southern Alps (Italy). In: The Permian and Triassic Systems and their
+Mutual Boundary, A., Logan & L.V., Hills (Eds.), Alberta Society of Petroleum
+Geologists Memories, Vol.2, pp. 176–199.
+Avanzini, M. (1999). New Anisian vertebrate tracks from the Southern Alps. In: Third
+International Symposium on lithographic limestones, S. Renesto, (Ed.), 17-21, suppl.
+Rivista Museo Civico Scienze Naturali “E.Caffi” Bergamo, Bergamo, Italy.
+Avanzini, M. (2000). Synaptichnium tracks with skin impressions from the Anisian (Middle
+Triassic) of the Southern Alps (Val di Non – Italy). Ichnos, Vol.7, pp. 243-251.
+Avanzini, M. (2002). Dinosauromorph tracks from the middle Anisian (middle Triassic) of
+the Southern Alps (Valle di Non - Italy). Bollettino della Società Paleontologica Italiana,
+Vol.41, pp. 37-40.
+Avanzini, M. (2002). Tetrapod footprints from the Mesozoic carbonate platforms of the
+Italian Alps. Zubía, Vol.21, pp. 175-186.
+Avanzini, M.; Ceoloni, P., Conti, M.A., Leonardi, G., Manni, R., Mariotti, N., Mietto, P.,
+Muraro, C., Nicosia, U., Sacchi, E., Santi, G. & Spezzamonte, M. (2001). Permian
+and Triassic tetrapod ichnofaunal units of Northern Italy: Their potential
+contribution to continental biochronology. Natura Bresciana, Vol.25, pp. 89-107.
+Avanzini M.; Ferretti, P., Seppi, R. & Tomasoni, R. (2001). Un grande esemplare di orma
+'dinosauroide' Parachirotherium Kuhn 1958 sp. dall’Anisico superiore (Illirico) del
+Sudalpino. Studi Trentini di Scienze Naturali, Acta Geologica, Vol.76, pp. 201-204.
+Avanzini, M. & Leonardi, G. (2002). Isochirotherium inferni ichnosp. n. in the Upper Anisian
+(Illyrian) of Adige Valley (Bozen, Italy). Bollettino Società Paleontologica Italiana,
+Vol.41, pp. 41-50.
+Avanzini, M. & Lockley, M. (2002). Middle Triassic archosaur ontogeny and population
+structure: interpretation based on Isochirotherium delicatum fossil footprints
+(Southern Alps – Italy). Palaeogeography, Palaeoclimatology, Palaeoecology, Vol.185, pp.
+391-402.
+Avanzini, M. & Mietto P. (2008). Lower and Middle Triassic footprints-based biochronology
+in the Italian Southern Alps. Oryctos, Vol.8, pp. 3-13
+Avanzini, M & Neri, C. (1998). Impronte di tetrapodi da sedimenti anisici della Valle di Non
+(Trentino occidentale - Italia): nota preliminare. Annali del Museo Civico di Storia
+Naturale di Ferrara, Vol.1, pp. 5-19.
+Avanzini M.; Neri C., Nicosia, U. & Conti, M.A. (2008). A new Early Permian ichnocoenosis
+from the “Gruppo vulcanico atesino”(Mt. Luco, Southern Alps, Italy). Studi Trentini
+di Scienze Naturali, Acta Geologica, Vol.83, pp. 231-236.
+Benton, M.J. (1989). Mass extinctions among tetrapods and the quality of the fossil record.
+Proceedings of the Royal Society, Series B, Vol.325, pp. 369-386.
+Benton, M.J. (1995). Diversification and extinction in the history of life. Science, Vol.268, pp.
+52–58.
+Benton, M.J. & Twitchett, R.J. (2003). How to kill (almost) all life: the end-Permian extinction
+event. Trends in Ecology and Evolution, Vol.18, pp. 358-365.
+
+604
+
+Earth and Environmental Sciences
+
+Berruti G., (1969). Osservazioni biostratigrafiche sulle formazioni continentali prequaternarie delle valli Trompia e Sabbia. II. Sulla fauna fossile della Formazione di
+Collio (alta Val Trompia). Natura Bresciana, Annali del Museo Civico di Scienze
+Naturali, Brescia, Vol.6, pp. 3-32.
+Bosellini, A. (1964). Stratigrafia, petrografia e sedimentologia delle facies carbonatiche al
+limite Permiano-Trias nelle Dolomiti occidentiali. Memorie del Museo di Storia
+Naturale della Venezia Tridentina, Vol.15, pp. 59-110.
+Brandner, R. (1973). Tetrapodenfährten aus der unteren Mitteltrias der Südalpen.
+Veröffentiichungen der Universiätt Innsbruck, Vol.86, pp. 57-71.
+Broglio-Loriga, C. & Cassinis, G. (1992). The Permo-Triassic boundary in the Southern Alps
+(Italy) and in adjacent Periadriatic regions. In: Permo-Triassic events in the eastern
+Tethys, W.C. Sweet, Y. Zunyi, J.M. Dickins & Y. Hongfu (Eds.), 78–97, Cambridge
+University Press, Cambridge, United Kingdom.
+Broglio Loriga, C.; Neri, C. & Posenato, R. (1986). The Early macrofaunas of the Werfen
+Formation and the Permian Triassic boundary in the Dolomites (Southern Alps,
+Italy). Studi Trentini di Scienze Naturali, Acta Geologica, Vol.62, pp. 3-18.
+Brusatte, S.L.; Niedźwiedzki, G. & Butler, R.J. (2011). Footprints pull origin and
+diversification of dinosaur stem-lineage deep into Early Triassic. Proceedings of the
+Royal Society of London, Series B, Vol.278, pp. 1107-1113.
+Carrano, M.T. & Wilson, J.A. (2001). Taxon distributions and the tetrapod track record.
+Paleobiology, Vol.27, pp. 563-581.
+Casati, P., 1969 - Strutture della Formazione di Collio (Permiano Inferiore) Nelle Alpi
+Orobie. Natura, Vol.60, pp. 301-312.
+Casati, P. & Forcella, F. (1988). Alpi Orobie. 'Il Bollettino', CAI-Annuario del Comitato
+Scientifico centrale, Vol.87, pp. 81-86.
+Cassinis, G. (1966). La Formazione di Collio nell’area-tipo dell’alta Val Trompia (Permiano
+inferiore bresciano). Rivista Italiana di Paleontologia e Stratigrafia, Vol.72, pp. 507-588.
+Cassinis, G. & Doubinger, J. (1991). On the geological time of the typical Collio and Tregiovo
+continental beds in the Southalpine Permian (Italy), and some additional
+observations. Atti Ticinensi di Scienze della Terra, Vol.34, pp. 1-20.
+Cassinis, G. & Doubinger, J. (1992). Artinskian to Ufimian palynomorph assemblages from
+the Central Southern Alps, Italy and their regional stratigraphic implications. In:
+Contributions to Eurasian Geology, A.E.M. Nairn & V. Koroteev (Eds), 9-18,
+Occasional Publication ESRI New Series 8b, Part I, Columbia University of South
+Carolina, South Carolina, USA.
+Cassinis, G.; Cortesogno, L., Gaggero, L., Massari, F., Neri, C., Nicosia, U. & Pittau, P. (1999).
+Stratigraphy and facies of the Permian deposits between Eastern Lombardy and the Western
+Dolomites, Field Trip Guidebook, Earth Scences Department, Pavia University,
+Brescia, Italy.
+Cassinis, G.; Massari, F., Neri, C. & Venturini, C. (1988). The continental Permian in the
+Southern Alps (Italy). A review. Zeitschrift geologische Wissenshaftliche, Vol.16, pp.
+1117-1126.
+Cassinis, G.; Nicosia, U., Pittau, P. & Ronchi, A. (2002). Palaeontological and radiometric
+data from the Permian continental deposits of the Central-Eastern Southern Alps
+(Italy), and their stratigraphic implications. Mémoires de l’Association des
+Géologues du Permien, Vol.2, pp. 53-74.
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+605
+
+Ceoloni, P.; Conti, M.A., Mariotti, N. & Nicosia, U. (1986). New Late Permian tetrapod
+footprints from Southern Alps. Memorie della Società Geologica Italiana, Vol.34, pp.
+45-65.
+Ceoloni, P.; Conti, M.A., Mariotti, N., Mietto, P. & Nicosia, U. (1987). Tetrapod footprints
+from Collio Formation (Lombardy, northern Italy). Memorie Scienze Geologiche
+Università di Padova, Vol.39, pp. 213–233.
+Ceoloni, P.; Conti, M.A., Mariotti, N., Mietto, P., and Nicosia, U. (1988). Tetrapod footprint
+faunas from Southern and Central Europe. Zeitschrift Geologische Wissenschaften,
+Vol.16, pp. 895-906.
+Conti M.A.; Leonardi, G., Mariotti, N. & Nicosia, U. (1975). Tetrapod footprints, fishes and
+molluscs from the Middle Permian of the Dolomites (N. Italy). Memorie
+Geopaleontologiche dell'Università di Ferrara, Vol.3, pp. 139-150.
+Conti M.A.; Leonardi, G., Mariotti, N. & Nicosia, U. (1977). Tetrapod footprints of the “Val
+Gardena Sandstone” (North Italy). Their paleontological, stratigraphic and
+paleoenvironmental meaning. Palaeontographia Italica, Vol.70, pp. 1-91.
+Conti M.A.; Leonardi G., Mariotti, N. & Nicosia, U., (1980). Nuovo contributo alla
+stratigrafia delle “Arenarie di Val Gardena”. Memorie della Società Geologica Italiana,
+Vol.20, pp. 357-363.
+Conti, M.A.; Leonardi, G., Mietto, P. & Nicosia, U. (2000). Orme di tetrapodi non
+dinosauriani del Paleozoico e Mesozoico in Italia. In: Dinosauri in Italia. Le orme
+giurassiche dei Lavini di Marco (Trentino) e gli altri resti fossili italiani, G. Leonardi & P.
+Mietto (Eds.), 297-320, Accademia Editoriale, Pisa, Italy.
+Conti M.A.; Mariotti, N., Manni, R., & Nicosia, U. (1999). Tetrapod footprints in the
+Southern Alps: an overview. In: Stratigraphy and facies of the Permian deposits between
+eastern Lombardy and the western Dolomites, G. Cassinis, L. Cortesogno, L. Gaggero,
+F. Massari, C. Neri, U. Nicosia & P. Pittau (Eds.), 137-138, International Field
+Conference on 'The continental Permian of the Southern Alps and Sardinia (Italy).
+Regional reports and general correlations', Field Trip Guidebook.
+Conti, M.A.; Mariotti, N., Mietto, P. & Nicosia, U. (1991). Nuove ricerche sugli icnofossili
+della Formazione di Collio in Val Trompia. Natura Bresciana, Annali del Museo Civico
+di Storia Naturale Brescia, Vol.26, pp. 109–119.
+Conti, M.A.; Mariotti N., Nicosia, U. & Pittau, P. (1997). Selected bioevents succession in the
+continental Permian of the Southern Alps (Italy): improvements of intrabasinal and
+interregional correlations. In: Late Palaeozoic and Early Mesozoic Circum-Pacific Events
+and Their Global Correlation, J.M., Dickins, Y., Zunyi, Y., Yhongfu, S.G., Lucas & S.J.,
+Acharyya (Eds.), 51-65, Cambridge University Press, Cambridge, United Kingdom.
+Curioni, G. (1870). Osservazioni geologiche sulla Val Trompia. Rendiconti Istituto Lombardo
+Scienze Lettere Arti, Memorie, Vol.3, pp. 1–60.
+Dozy, J.J. (1935). Einige Tierfärhten aus dem Unteren Perm der Bergamasker Alpen.
+Paläontologische Zeitschrift, Vol.17, pp. 45-55.
+Farabegoli, E. & Perri, M.C. (1998). Permian/Triassic boundary and early Triassic of the
+Bulla section (Southern Alps, Italy): Lithostratigraphy, facies and conodont
+biostratigraphy. Giornale di geologia, Vol.60, pp. 292–311.
+Farabegoli, E.; Perri, M.C. & Posenato, R. (2007). Environmental and biotic changes across
+the Permian-Triassic boundary in western Tethys: The Bulla parastratotype, Italy.
+Global and Planetary Change, Vol.55, pp. 109-135.
+
+606
+
+Earth and Environmental Sciences
+
+Geinitz, H.B. (1869). Über Fossile Pflanzenreste aus der Dyas von Val Trompia. Neue
+Jährbuch für Mineralogie Geologie Paläontologie, pp. 456-461.
+Gümbel, C.W. (1880). Geognostische Mitteilungen aus den Alpen. VI. Ein geognostischer
+Streifzug durch die Bergamasker Alpen. Sitzungsberichte der königl Akademie der
+Wissenschaften Mathematisch-Naturwissenschaftliche Klasse, Vol.10, pp. 164-240.
+Hallam, A. & Wignall, P.B. (1997). Mass extinctions and their aftermath. Oxford University
+Press, Oxford.
+Haubold, H. (1996). Ichnotaxonomie und Klassifikation von Tetrapodenfährten aus dem
+Perm. Hallesches Jahrbuch für Geowissenschaften B, Vol.18, pp. 23-88.
+Haubold, H. (2000). The tetrapod tracks of the Permian – state of knowledge and progress
+2000. Hallesches Jahrbuch für Geowissenschaften, B, Vol.22, pp. 1-16.
+Hunt, A.P. & Lucas, S.G. (2007). Late Triassic tetrapod tracks of western North America.
+New Mexico Museum of Natural History and Science Bulletin, Vol.40, pp. 215–230.
+Italian IGCP 203 Group (1986). Permian and Permian-Triassic boundary in the South-Alpine
+segment of the western Tethys. Field guide-book, SGI and IGCP Project 203, Pavia.
+King, G.M. (1991). Terrestrial tetrapods and the end Permian event: a comparison of
+analysis. Historical Biology, Vol.5, pp. 239–255.
+Kittl, E. (1891). Saurier Färthe von Bozen. Mitteilungen/Österreichischer Touristen-Club Wien,
+Vol.3, pp. 7.
+Klein, H. & Lucas, S.G. (2010).Tetrapod footprints - their use in biostratigraphy and
+biochronology of the Triassic. Geological Society, London, Special Publications, Vol.334,
+pp. 419-446.
+Klein, H.; Voigt, S., Saber, H., Schneider, J.W., Hminna, A., Fischer, J., Lagnaoui A. & Brosig,
+A. (In press). First occurrence of a Middle Triassic tetrapod ichnofauna from the
+Argana Basin (Western High Atlas, Morocco). Palaeogeography, Palaeoclimatology,
+Palaeoecology.
+Leonardi, P. (1967). Le Dolomiti: Geologia dei monti tra Isarco e Piave. Edizioni Manfrini,
+Rovereto.
+Leonardi P.; Conti, M.A., Leonardi, G., Mariotti, N. & Nicosia, U. (1975). Pachypes dolomiticus
+n. gen. n. sp.; Pareiasaur footprint from the “Val Gardena Sandstone” (Middle
+Permian) in the Western Dolomites (N. Italy). Atti dell'Accademia Nazionale dei
+Lincei, Rendiconti, Classe di Scienze Fisiche Matematiche e Naturali, Vol.57, pp. 221-232.
+Leonardi, G. & Nicosia, U. (1973). Stegocephaloid footprint in the Middle Permian
+Sandstone (“Grödener Sandsteine”) of the western Dolomites. Annali dell’Università
+di Ferrara, Vol.5, pp. 116-124.
+Lucas, S.G. (2004). A global hiatus in the Middle Permian tetrapod fossil record. Stratigraphy,
+Vol.1, pp. 47-64.
+Lucas, S.G. & Hecker, T.A.B. (2001). Olson’s gap: A global hiatus in the record of Middle
+Permian tetrapods. Journal of Vertebrate Paleontology, Vol.21, pp. 75A.
+Lucas, S.G. & Hunt, A.P. (2006). Permian tetrapod footprints: biostratigraphy and
+biochronology. In: Non-marine Permian biostratigraphy and biochronology, 179-200,
+S.G., Lucas, G., Cassinis & J.W., Schneider (Eds.), Geological Society, London,
+Special Publications, 265.
+Mietto P. (1975). Orme di tetrapodi nelle arenarie permiche di Recoaro (Vicenza). Studi
+Trentini di Scienze Naturali, Acta Geologica, Vol.52, pp. 57-67.
+
+The Permo-Triassic Tetrapod Faunal Diversity in the Italian Southern Alps
+
+607
+
+Mietto P. (1981). Una grande impronta di pareiasauro nel Permiano di Recoaro (Vicenza).
+Rendiconti della Società Geologica Italiana, Vol.4, pp. 363-364.
+Mietto, P. (1986). Orme di tetrapodi nella Formazione di Werfen del Recoarese. Rivista
+Italiana di Paleontologia e Stratigrafia, Vol.92, pp. 321-326.
+Mietto, P. (1987). Parasynaptichnium gracilis nov. ichnogen., nov. isp. (Reptilia: Archosauria
+Pseudosuchia) nell'Anisico inferiore di Recoaro (Prealpi vicentine - Italia). Memorie
+Scienze Geologiche, Vol.39, pp. 37-47.
+Nicosia, U.; Sacchi, E. & Spezzamonte, M. (1999). New Palaeontological data on the Val
+Gardena Sandstone. In: Stratigraphy and facies of the Permian deposits between eastern
+Lombardy and the western Dolomites, G. Cassinis, L. Cortesogno, L. Gaggero, F.
+Massari, C. Neri, U. Nicosia & P. Pittau (Eds.), 33, International Field Conference on
+'The continental Permian of the Southern Alps and Sardinia (Italy). Regional
+reports and general correlations', Abstract book.
+Nicosia, U.; Ronchi, A. & Santi, G. (2000). Permian tetrapod footprints from W Orobic Basin
+(Northern Italy). Biochronological and evolutionary remarks. Geobios, Vol.33, pp.
+753-768.
+Pasini, M. (1985). Biostratigrafia con i foraminiferi del limite Formazione a Bellerophon /
+Formazione di Werfen fra Recoaro e la Val Badia (Alpi Meridionali). Rivista Italiana
+di Paleontologia e Stratigrafia, Vol.90, pp. 481-510.
+Posenato, R. (1988). The Permian/Triassic boundary in the western Dolomites, Italy. Review
+and proposal. Annali dell'Università di Ferrara, Scienze della Terra, Vol.1, pp. 31-45.
+Retallack, G.J.; Metzger, C.A., Greaver, T., Jahren, A.H., Smith, R.M.H., Sheldon, N.D. (2006).
+Middle-Late Permian mass extinction on land. Geological Society of America Bulletin,
+Vol.118, pp. 1398–1411.
+Ronchi, A.; Santi, G. & Confortini, F. (2005). Biostratigraphy and facies in the continental
+deposits of the central Orobic Basin: A key section in the Lower Permian of the
+southern Alps (Italy). New Mexico Museum of Natural History & Science Bulletin,
+Vol.30, pp. 273-281.
+Santi, G. (2003). Early Permian tetrapod ichnology from the Orobic Basin (Southern AlpsNorthern Italy). Data, problems, hypotheses. Bollettino della Società Geologica Italiana,
+Volume Speciale, Vol.2, pp. 59-66.
+Santi, G. (2005). Lower Permian palaeoichnology from the Orobic Basin (Northern Alps).
+GeoAlp, Vol.2, pp. 77-90.
+Santi, G. (2007). A short critique of the ichnotaxonomic dualism Camunipes-Erpetopus, Lower
+Permian ichnogenera from Europe and North America. Ichnos, Vol.14, pp.185-191.
+Santi, G. & Krieger, C. (2001). Lower Permian tetrapod footprints from Brembana Valley–
+Orobic Basin (Lombardy, Northern Italy). Revue de Paléobiologie, Vol.20, pp. 45-68.
+Schaltegger, U. & Brack, P. (1999). Radiometric age constraints on the formation of the Collio
+Basin (Brescian Prealps). In: Stratigraphy and facies of the Permian deposits
+between eastern Lombardy and the western Dolomites, G. Cassinis, L. Cortesogno,
+L. Gaggero, F. Massari, C. Neri, U. Nicosia, P. Pittau (Eds.), 15-25, International
+Congress on 'The continental Permian of the Southern Alps and Sardinia (Italy).
+Regional reports and general correlations', Field trip guide-book, 71, Brescia, Italy.
+Sahney, S. & Benton, M.J. (2008). Recovery from the most profound mass extinction of all
+time. Proceedings of the Royal Society, Series B, Vol.275, pp. 759-765.
+
+608
+
+Earth and Environmental Sciences
+
+Sheldon, N.D. (2006). Abrupt chemical weathering increase across the Permian–Triassic
+boundary. Palaeogeography, Palaeoclimatology, Palaeoecology, Vol.231, pp. 315-321.
+Sheldon, N.D. & Chakrabarti, R. (2010). Mass extinctions, climate change, and enhanced
+terrestrial weathering?: The End-Permian and End-Guadalupian events compared.
+Geochimica et Cosmochimica Acta, Vol.74S1, p. A944.
+Todesco, R. & Bernardi, M. (2011). Una nuova icnoassociazione nel Triassico medio
+(Anisico) del Trentino meridionale (val Gerlano, Vallarsa). Studi Trentini di Scienze
+Naturali, Vol.88, pp. 203-218.
+Todesco, R.; Wachtler, M., Kustatscher, E. & Avanzini, M. (2008). Preliminary report on a
+new vertebrate track and flora site from Piz da Peres (Anisian-Illyrian): Olang
+Dolomites, Northern Itlay. Geo.Alp, Vol.5, pp. 121-137.
+Twitchett, R.J.; Looy, C.V., Morante, R., Visscher, H. & Wignall, P.B. (2001). Rapid and
+synchronous collapse of marine and terrestrial ecosystems during the end-Permian
+biotic crisis. Geology, Vol.29, pp.351–354.
+Valentini, M.; Conti, M.A. & Mariotti, N. (2007). Lacertoid footprints of the Upper Permian
+Arenaria di Val Gardena formation (Northern Italy). Ichnos, Vol.14, pp. 193-218.
+Valentini M.; Nicosia, U. & Conti, M.A. (2009). A re-evalution of Pachypes, a pareiasaurian
+track from the Late Permian. Neues Jahrbuch für Geologie und Paläontologie
+Abhandlungen, Vol.251, pp. 71-94.
+Visscher, H. & Brugman, W.A. (1988). The Permian-Triassic boundary in the Southern Alps: A
+palynological approach. Memorie della Società Geologica Italiana, Vol.34, pp. 121- 128.
+Voigt, S.; Berman, D.S. & Henrici, A.C. (2007). First well established track-trackmaker
+association of Paleozoic tetrapods based on Ichniotherium trackways and diadectid
+skeletons from the Lower Permian of Germany. Journal of Vertebrate Paleontology,
+Vol.27, pp. 553–570.
+Wignall, P.B.; Kozur, H. & Hallam, A. (1996). The timing of palaeoenvironmental changes at
+the Permo-Triassic boundary using conodont biostratigraphy. Historical Biology,
+Vol.11, pp. 39–62.
+Wilson, J.A. & Carrano, M.T. (1999). Titanosaurs and the origin of ‘‘wide-gauge’’ trackways:
+a biomechanical and systematic perspective on sauropod locomotion. Paleobiology,
+Vol.25, pp. 252–267.
+Wopfner, H. (1999). Über Tetrapoden-Fährten, Kohlen und versteinerte Holzer aus dem
+Grödner Sandstein (Perm) dei Deutschnofen. Der Schlern, Vol.73, pp. 23-32.
+
+View publication stats
+
+

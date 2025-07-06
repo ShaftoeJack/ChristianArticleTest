@@ -1,0 +1,1768 @@
+Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Contents lists available at ScienceDirect
+
+Palaeogeography, Palaeoclimatology, Palaeoecology
+journal homepage: www.elsevier.com/locate/palaeo
+
+Putative dicynodont coprolites from the Upper Triassic of Poland
+Piotr Bajdek a, Krzysztof Owocki b, Grzegorz Niedźwiedzki c,⁎
+a
+
+Aleja Najświętszej Maryi Panny 20/20A, 42-200 Częstochowa, Poland
+Institute of Paleobiology, Polish Academy of Sciences, Twarda 51/55, 00-818 Warsaw, Poland
+c
+Department of Organismal Biology, Evolutionary Biology Center, Uppsala University, Norbyvägen 18A, 752 36 Uppsala, Sweden
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 21 February 2014
+Received in revised form 12 June 2014
+Accepted 17 June 2014
+Available online 30 June 2014
+Keywords:
+Coprolites
+Dicynodont
+Ecology
+Physiology
+Upper Triassic
+Poland
+
+a b s t r a c t
+A signiﬁcant number (more than 100) of brown to dark and silty, carbonate or pyrite-mineralized, in part organic
+carbon-rich, spherical or oval-shaped structures have been collected from the Upper Triassic (uppermost Norianlower Rhaetian) sediments of the Lipie Śląskie clay-pit at Lisowice near Lubliniec town, Poland. Their geological
+context, morphology, content, geochemistry and association with skeletal remains suggest they are fecal masses
+of a sizable herbivorous tetrapod. The only large herbivore known from the site is a giant 5 meter-long dicynodont (Synapsida: Anomodontia), represented by numerous bones and also by large, oval-shaped footprints.
+The putative dicynodont coprolites were collected from mudstone and siltstone with numerous organic remains
+that were deposited in anoxic conditions. In addition, REEs and other trace element concentrations suggest that
+the burial environment and diagenesis of these coprolites were under anoxic conditions. SEM and thin section
+images of the coprolite matrix show numerous nests with pyrite (probably bacterial in origin) and large amount
+of mineral particles. The putative dicynodont coprolites contain also amorphous, dark organic matter, poorly preserved palynomorphs, small fragments of plant cuticle. Detailed characteristic of these coprolites reveals possible
+implications for the ecology and physiology of the source animal species. The δ 13C values of the gymnosperm cuticle and dark organic matter measured in three coprolites are −23.4‰, −21.2‰ and −20.3‰, all average. The
+evidence from these coprolites suggests that dicynodonts processed plant soft elements into very small pieces,
+but wood fragments were found also in a mass accumulation in two coprolites.
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Fossil feces, formally known as coprolites, may reveal interesting
+and unique data about the diet of extinct animals (Chin and Kirkland,
+1998; Dutta and Ambwani, 2007; Smith and Botha-Brink, 2011; Owocki
+et al., 2012), the food web in ancient ecosystems (Chin and Gill, 1996;
+Chin, 2007; Chin et al., 2009), behavior (Fiorelli et al., 2013;
+Niedźwiedzki, in press) and physiology of the source animals (Chin
+et al., 2003). However, relatively small numbers of coprolites from herbivorous tetrapods older than Pliocene in age have been described and
+their signiﬁcance for the source animals' ecology well discussed.
+Coprolites of plant eating tetrapods from the Mesozoic and Permian
+deposits are of great importance, since several lineages of herbivorous
+tetrapods appeared at that time. Coprolites of these animals can be a
+source of valuable data about their biology and the origin of adaptations
+to herbivore physiology.
+
+⁎ Corresponding author at: Subdepartment of Evolutionary Organismal Biology,
+Evolutionary Biology Centre, Uppsala University, Norbyvägen 18A, 752 36 Uppsala,
+Sweden. Tel.: +46 18 471 2677.
+E-mail addresses: piotr.bajdek@gmail.com (P. Bajdek), kowocki@twarda.pan.pl
+(K. Owocki), grzegorz.niedzwiedzki@ebc.uu.se (G. Niedźwiedzki).
+
+http://dx.doi.org/10.1016/j.palaeo.2014.06.013
+0031-0182/© 2014 Elsevier B.V. All rights reserved.
+
+The best known Mesozoic coprolites of herbivores include Upper
+Jurassic herbivorous dinosaur coprolites from the Morrison Formation
+(Chin and Kirkland, 1998), Upper Cretaceous (Campanian) hadrosaur
+Maiasaura peeblesorum coprolites from the Two Medicine Formation,
+Montana (Chin and Gill, 1996; Chin, 2007; Chin et al., 2009), and
+Upper Cretaceous (Maastrichtian) herbivorous dinosaur coprolites
+from the Lameta Formation, India (Ghosh et al., 2003; Kar et al., 2004;
+Ambwani and Dutta, 2005; Prasad et al., 2005; Dutta and Ambwani,
+2007). Recently, several massive coprolite associations were reported
+from the Middle–Upper Triassic of the Chañares Formation, Argentina,
+which appear to represent fossil communal latrines of kannemeyeriiform
+dicynodonts (Fiorelli et al., 2013).
+Here we report on a new occurrence of putative dicynodont coprolite accumulations which were discovered in the Upper Triassic strata
+in the Lipie Śląskie clay-pit at Lisowice, Upper Silesia (Fig. 1). The fecal
+nature of these specimens was originally suggested by the sedimentological context, comminuted plant contents, and associated tetrapod
+fossils. We provide the ﬁrst description of such fossils with food residues
+collected in the Keuper deposits of Germanic Basin. Their morphology,
+content, similarity to other described dicynodont coprolites (Hunt
+et al., 1998; Souto, 2001; Fiorelli et al., 2013; Hunt et al., 2013) and association with the skeletal remains of large dicynodonts suggest that they
+are fecal masses of this large herbivorous therapsid (Fig. 2). In the same
+
+2
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Fig. 1. Schematic rock column from the main exposure in the Lipie Śląskie clay-pit at Lisowice with position of the putative dicynodont coprolite-rich interval.
+Modiﬁed from Niedźwiedzki (in press).
+
+layers numerous phosphatic coprolites (containing dicynodont bone
+fragments) of a large carnivore were also found (Niedźwiedzki, in
+press). Therefore, new specimens described in this paper offer a new
+view on the characteristics of dicynodont feces as well as possibly on
+some aspects of the dicynodont ecology and physiology. We also
+describe the geological and sedimentological characteristics of the putative dicynodont coprolite accumulations from the Lipie Śląskie clay-pit,
+which may be comparable to communal latrine-bearing areas described
+from other Triassic sites (Fiorelli et al., 2013).
+Stable carbon and nitrogen isotopes in coprolites provide unique
+trophic perspectives on ancient ecosystems (Ghosh et al., 2003; Prasad
+
+Fig. 2. Skeletal reconstruction of dicynodont species from the Lipie Śląskie clay-pit at
+Lisowice.
+Modiﬁed from Dzik et al. (2008a,b).
+
+et al., 2005) as they represent residues from the digestive tract of the extinct tetrapod. According to Vogel (1978) and Lee-Thorp et al. (1989)
+the stable isotope ratio of organic carbon in excrements represents the
+average composition of food sources. Stable isotopes of carbon and
+nitrogen (δ13C and δ15N, respectively) are powerful tools for tracing nutrient ﬂow within ancient ecosystems (Schweizer et al., 2006). Two
+factors such as preservation and microbial processes sometimes change
+C/N ratios in organisms (DeNiro, 1985), stable isotopic compositions
+of C and N components tend to be preserved in fossilized remains
+(Masters, 1987).
+Usually, it is very hard or impossible to link fossil dung with its producer species (Chin, 1997; Owocki et al., 2012; Bajdek, 2013). Some rare
+exceptions of very likely source-species-assigned coprolites from the
+tetrapod Mesozoic record include the Upper Cretaceous (Maastrichtian)
+theropod Tyrannosaurus rex coprolite from the Frenchman Formation,
+Canada (Chin et al., 1998), another theropod Allosaurus fragilis coprolite
+from the Upper Jurassic Morrison Formation, USA (Stone et al., 2000),
+previously mentioned hadrosaur Maiasaura peeblesorum coprolites
+and predatory archosaur Smok wawelski coprolites (Niedźwiedzki, in
+press) from the Upper Triassic of Poland.
+Possible dicynodont coprolites previously have been assigned to the
+ichnotaxon Dicynodontocopros maximus by Hunt et al. (1998), who also
+summarized the history of their examination in review papers on vertebrate coprolites (2007, 2013). However, D. maximus coprolites are phosphatic in composition (anonymous journal reviewer, 2014). According
+to Hunt et al. (2007) possible dicynodont coprolites were initially described by Case (1922) from the Upper Triassic Tecovas Formation,
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Texas. They were 5–18 cm long, smooth surfaced and lacking vertebrate
+bone inclusions. The holotype of D. maximus UMMP 7255, stored in the
+Museum of Paleontology, University of Michigan, is based on one of
+those specimens. Large, amorphous forms up to 12 cm in length and
+nearly 6 cm in width were also described by Rusconi (1949) from the
+Middle Triassic of Argentina. Ochev (1974) described Middle Triassic
+coprolites including 2–10 cm long specimens with possible plant impressions from localities in Russia (Karagachka, Donguz I and Bukobay V) and
+Kazakhstan (Mollo-Khara-Bala-Kantemir) and compared them with
+those described by Case (1922). Hunt (1992) and Hunt et al. (1998)
+discussed the occurrence of D. maximus in the Upper Triassic (Carnian)
+of the Chinle Group, including the Bluewater Creek Formation of Arizona.
+Souto (2001) described ovoid and cylindrical coprolite morphotypes
+from the Middle Triassic Santa Maria Formation, Brazil, suggesting that
+the ovoid forms might have been produced by dicynodonts. Northwood
+(2005) described a possible coprolite of a herbivore from the Lower Triassic Arcadia Formation, Australia. The source animal may have been a dicynodont, however Northwood noticed that this blocky, elongate
+specimen was morphologically different from coprolites previously
+assigned to dicynodonts. Recently, Fiorelli et al. (2013) reported the
+ﬁrst non-mammal megaherbivore communal latrines from eight massive
+coprolite accumulations in the Middle–Upper Triassic of northwestern
+Argentina. Defecation of dicynodonts in so-called communal latrines reveals that this gregarious behavior is not unique to mammals. In the
+newest review paper on Triassic vertebrate coprolites (Hunt et al.,
+2013) a new ichnogenus of dicynodont coprolite (Santamariacopros
+elongatus) was introduced, based on one of the coprolite morphotypes
+described by Souto (2001) from the Santa Maria Formation.
+2. Geological setting
+The Lipie Śląskie clay-pit at Lisowice (Fig. 1) displays an approximately 12 m thick stratigraphical section composed of gray and greenish to reddish ﬂuvial mudstone, siltstone interbedded with cross- or
+horizontally-stratiﬁed sandstone. The strata exposed in the Lipie Śląskie
+clay-pit correspond to the uppermost part of the Middle and lower part
+of the Upper Keuper deposits of the Germanic Basin (Aigner and
+Bachmann, 1992; Szulc et al., 2006; Franz et al., 2007a,b; Dzik et al.,
+2008a,b; Franz, 2008).
+The material described in this paper was collected from the bonebearing interval of gray mudstone and siltstone interpreted as a low
+energy ﬂuvial environment (Dzik et al., 2008a,b). The dark color of the
+mudstone, which is rich in well-preserved plant fossils and high pyrite
+content, suggests anoxic conditions during the formation of the
+coprolite-bearing deposit. The age of the deposit of the Lipie Śląskie
+clay-pit is interpreted as the latest Norian-early Rhaetian, based on
+paleobotanical data as well as on conchostracans and tetrapods (Dzik
+et al., 2008a,b; Niedźwiedzki et al., 2012; Świło et al., in press).
+
+3
+
+fragments of typical late Norian-Rhaetian seed-fern Lepidopteris
+(Staneczko, 2007). Other plant fossils include representatives of
+Cycadophyta, Coniferophyta and Pteridospermophyta (Wawrzyniak and
+Ziaja, 2009; Wawrzyniak, 2010a,b, 2011). Wawrzyniak (2010b) described
+from this site such as cf. Nilsonia sp., cf. Androstrobus sp., and cf. Beania
+sp. Other, but rather rare fossils are remains of cf. Elatocladus sp., a representative of the Coniferales. In the opinion of Wawrzyniak (2010b)
+these species are characteristic elements of Early–Mid Jurassic ﬂoras.
+Probable isoëtalean macrospores include Trileites cf. pinguis and
+Horstisporites bertelseni (Fuglewicz, 1977) and in some, organic-rich
+layers form mass accumulations. The most abundant pollen type is
+wingless pollen Enzonalasporites sp. div., which co-occurs with abundant pollen of Corollina meyeriana and Granuloperculatipollis rudis
+(Staneczko, 2007; Dzik et al., 2008a,b).
+Among invertebrate fossils there are common freshwater bivalves
+Tihkia silesiaca (Skawina and Dzik, 2011), but the most common are
+ostracods (Darwinula sp. and Rhombocythere sp.) which occur only in
+few horizons in the lower part of the gray-unit and can form massive
+accumulations if present.
+The conchostracans Gregoriusella polonica and Euestheria sp. are
+small (1.5–3.5 mm in length), being morphologically close to Euestheria
+brodieana from the Rhaetian of England and the United States (Kozur
+and Weems, 2005, 2007, 2010). Numerous carapaces of much larger
+species Shipingia sp. (3–6 mm in length) were also collected in the lowermost part of the gray-unit.
+Vertebrates are represented by hybodont sharks (genera Polyacrodus
+and Hybodus) and dipnoan and actinopterygian ﬁshes as well as numerous tetrapods (Dzik et al., 2008a,b; Świło, 2010a,b,c; Świło and
+Kowalski, 2011;Niedźwiedzki et al., 2012; Niedźwiedzki, in press;
+Świło et al., in press). Bone remains of temnospondyls are represented
+by a plagiosaurid and a large cyclotosaur. Reptile bone material includes
+remains of small dinosauriforms, dinosaurs, poposaurids, pterosaur wing
+bones and teeth, and a mammaliaform tooth (Świło et al., in press). The
+cranial–postcranial elements of small archosauromorphs and diapsids
+are known from the site (Niedźwiedzki, in press). A large 5–6 meterlong predatory dinosaur Smok wawelski Niedźwiedzki, Sulej et Dzik,
+2012 is being intensively studied (Dzik et al., 2008a,b; Niedźwiedzki et
+al., 2012; Niedźwiedzki, in press). The only large herbivorous tetrapod
+known from the site is a giant 5 meter-long dicynodont (Fig. 2), which
+is the largest dicynodont described to date (Dzik et al., 2008a,b;
+Niedźwiedzki et al., 2011). Bite traces on dicynodont bones and possible
+predator–prey interactions of Smok wawelski and this dicynodont
+were described and discussed by Niedźwiedzki et al. (2011) as well.
+Varied types of tetrapod footprints (including dicynodont large
+and oval-shaped footprints) are also known from the site (Dzik et al.,
+2008a,b; Niedźwiedzki, in press).
+
+4. Material and methods
+3. Paleobiological context
+Lipie Śląskie clay-pit is rich in body and trace fossils. Plant cuticles,
+larger plant fragments, spores and pollen tend to be well-preserved in
+the gray mudstone–siltstone layers and also inside of inorganic in origin
+calcareous nodules and septarian concretions. Charred trunks are also
+common in these sediments and were likely transported by stream
+water from drier areas. The dominant plant species at this site is a conifer
+similar to species of genera Brachyphyllum, Pagiophyllum or Hirmeriella, as
+is the case for other Norian, Rhaetian, and Jurassic fossil plant assemblages of the region (Clement-Westerhof and Van Konijnenburg-Van
+Cittert, 1991). Its pollen of Corollina morphology is also very common in
+palynomorph samples from the site. The second most common plant species is represented by branched twigs similar to Stachyotaxus from the
+Rhaetian of Greenland and Scania, Sweden (Arndt, 2002). Ginkgoales
+are represented by leaves similar to the genera Schmeissneria and pollen
+similar to Monosulcites. Ferns are represented by abundant cuticle
+
+All studied specimens were found in organic-rich, gray mudstone
+and siltstone exposed in the middle and upper part of the section
+(Fig. 1). Sixteen putative dicynodont coprolite specimens (ZPAL
+V.33/1101-1116) are housed in the collection of the Institute of Paleobiology, Polish Academy of Sciences, Warsaw, Poland (Figs. 3 and 4;
+Table 1).
+Most of the collected specimens are fragmented and incomplete;
+some specimens have been partially reconstructed by ﬁtting broken
+pieces together (Fig. 3B). Therefore, the measurement of the volume
+as suggested by some researchers (Thulborn, 1991; Chin, 2002) was
+not possible. Instead their total length and width were measured and
+the general external morphology was described (Table 1). The seven
+specimens subjected to destructive analysis were ﬁrst photographed
+and measured. Four thin sections from partially preserved and organicrich specimens were made for study of internal structures and possible
+food remains.
+
+4
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Fig. 3. Field photographs of putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A) Small spherical and small elongated forms. (B–D) Large sphere-shaped forms.
+
+4.1. Microscope and SEM observations
+
+4.2. REEs analysis
+
+Standard polished thin sections of matrix from two coprolites were
+examined petrographically using a compound light microscope (Leica
+DM5500B at the Uppsala University), in normal and polarized light
+with an attached Leica microsystem camera (Figs. 7, 8). The coprolite
+matrices and surfaces were subjected to binocular microscope observations (Nikon Eclipse LV 100 POL at the University of Warsaw) and freshly broken surfaces were imaged and analyzed with a scanning electron
+microscope (SEM) equipped with an EDS detector at the University of
+Uppsala (Figs. 7, 8, 9).
+
+Rare earth elements (REEs) and other trace elements were analyzed
+using an inductively coupled plasma-mass spectrometer (Acme Analytical Laboratories Ltd., Vancouver, Canada). The 4 samples from 2 specimens were pulverized by ceramic box (Table 2). The 4-acid digestion on
+0.25 g split was made on the obtained mesh. The splits were heated in
+HNO3–HClO4–HF to fuming and taken to dryness. The residues were
+dissolved in HCl. Solutions were analyzed by ICP-MS. The detection
+limits were between 0.02 and 0.1 ppm varying for different trace elements. The Rare Earth Elements (REE) data were normalized (indicated
+
+Fig. 4. The putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A–B) Spherical forms. (C–D) Elongated forms.
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+5
+
+Table 1
+List of the collected putative dicynodont coprolite specimens from the Lipie Śląskie clay-pit at Lisowice, Poland.
+ZPAL V.33/1101
+ZPAL V.33/1102
+ZPAL V.33/1103
+ZPAL V.33/1104
+ZPAL V.33/1105
+ZPAL V.33/1106
+ZPAL V.33/1107
+ZPAL V.33/1108
+ZPAL V.33/1109
+ZPAL V.33/1110
+ZPAL V.33/1111
+ZPAL V.33/1112
+ZPAL V.33/1113
+ZPAL V.33/1114
+ZPAL V.33/1115
+ZPAL V.33/1116
+
+Dark (black-brown) coprolite
+Dark (black) coprolite with pyrite
+Dark (brown) coprolite
+Dark (black) coprolite
+Dark (black) coprolite with pyrite veins
+Dark (black) coprolite
+Dark (black-brown) coprolite with pyrite nests
+Dark (black) coprolite with pyrite
+Dark (black) coprolite
+Dark (black-brown) coprolite
+Dark (black) coprolite with pyrite
+Dark (black) coprolite with rare plant remains
+Dark (brown) coprolite
+Dark (brown) coprolite
+Dark (black) coprolite with rare plant remains
+Dark (black) coprolite with plant remains
+
+by subscript N) to the Post-Archean Australian Shale (PAAS) (Taylor and
+McLennan, 1985) to remove abundance effect.
+4.3. TOC analysis
+Concentrations of total organic carbon (TOC) were determined using
+a Leco Carbon Analyzer CR-12 (Uppsala University, Sweden). For determination of TOC, carbonates from the coprolite and rock samples were
+removed by treatment with 20% HCl and subsequent rinsing. Eight samples were analyzed (Table 3), six of them were taken from coprolites
+and another two from fossilized wood and host sediment.
+4.4. Stable carbon and nitrogen analysis
+The stable carbon and nitrogen isotope analysis of organic carbon in
+the coprolites was performed using stable-isotope-ratio mass spectrometry and procedure presented by Schweizer et al. (2006). Three
+coprolite samples were analyzed for their stable carbon and nitrogen
+isotopic compositions (Table 4). Soft organic material was scraped
+from the broken surface of the coprolites as a ﬁne powder; a small
+amount (up to 15–20 mg) of macroscopically representative organic
+material was loosened with clear needles under a binocular microscope
+and placed in aluminum-foil bags with tweezers. All samples were
+refrigerated to minimize alteration and microbial contamination of the
+organic-rich material. Samples were combusted with ultra pure oxygen
+at 1000 °C. The resulting gases (CO2 and N2) were separated. Isotope ratios of the combustion gases were analyzed using continuous ﬂow,
+stable-isotope-ratio mass spectrometry, Finnigan MAT, DeltaplusXL
+(Uppsala University, Sweden).
+4.5. Analysis of HCl-resistant minerals
+Six samples from three distinct coprolites (with a large amount of pyrite, organic matter and visible plant remains) were dissolved with 5% HCl
+acid and the undissolved fraction was examined. The samples weighed
+about 100 g (see Table 5) and were taken from the central part of the coprolites. Material after dissolution was sieved with a 2 mm mesh. The insoluble deposit was then dried and weighed. The results of the analysis of the
+undissolved fraction are summarized in Table 5.
+5. Coprolites description and content
+5.1. General shape
+Numerous (about 100 specimens) more or less irregular, spherical
+or oval-shaped coprolites (range from 3 to 17 cm in diameter) were
+collected or observed in the ﬁeld and sixteen of the most complete
+
+–
+Specimen for thin sections
+Specimen for geochemical analysis
+Specimen for thin sections
+Specimen for geochemical analysis
+–
+Specimen for thin sections
+–
+–
+–
+–
+Specimen for thin sections
+–
+–
+Specimen for geochemical analysis
+–
+
+specimens were measured (Figs. 4 and 5) and are housed in the collection. The original sizes of the largest individual coprolites are difﬁcult to
+determine. Coprolite morphology is variable; some of them have original, not eroded surfaces and clear cut edges. All specimens are distinctly
+different (are ovoid to spheroidal in shape, usually dark gray and organic
+rich) from the mudstone and siltstone deposits and also bones, phosphatic coprolites of predatory tetrapods, oncoids, inorganic carbonate nodules
+and septarian concretions or plant remains from the same site. These coprolites vary from grayish-brown to dark gray. All sampled coprolites lack
+bone remains and other animal macrofossils (Figs. 6 and 7). Most of the
+collected coprolites comprise small mineral particles, mainly quartz
+grains and inorganic clasts (Fig. 8A, C, D). Coprolites are in places highly
+mineralized by pyrite (Fig. 8B, E, F), but the main diagenetic alteration
+is represented by calcite microspary replacement. Two analyzed coprolites contain highly fragmented and macroscopically visible plant material (Fig. 6A, B). The HCl-resistant minerals and particles (including
+authigenic mineralization of pyrite) and organic carbon of one of the
+studied carbonate-rich coprolites comprise about 30–50% of the mass
+of the coprolites (Table 5). The vast majority of clasts are represented
+by very small quartz grains (between 0.5 and 0.05 mm based on SEM
+observations; Figs. 8, 9) and also very large grains of sand-sized particles
+which are not quartz grains or pyrite crystals. A few specimens contain
+visible but rare plant tissues (cuticle fragments and wood fragments),
+palynomorphs (pollen and spores) and other accumulations of amorphous and dark organic carbon (Fig. 7A–D). Two types of organic carbon
+remains (cuticle fragments and amorphous and dark organic matter)
+were examined to characterize the carbon and nitrogen isotopic composition of residue and to identify the diet of the coprolite producers.
+All the investigated samples are phosphate-free and contain a large
+amount of authigenic sulﬁde minerals (mainly pyrite), sometimes in
+the form of characteristic crystal nests (Figs. 6C and 8B), sphere-like objects or are disposed concentrically. In a few coprolites mineral particles
+are concentrated in the form of small spherical structures (secondary
+grains; Fig. 8D) and some pyrite minerals moreover show pseudomorphs after microbials, probably coccoid bacteria (Fig. 7E, F).
+5.2. Plant cuticle fragments
+Plant cuticle was found in two of the examined coprolites (Fig. 7B).
+It is probably of a gymnosperm and resembles the cuticle of the
+Cheirolapidecae (Clement-Westerhof and Van Konijnenburg-Van
+Cittert, 1991). Plant cuticle can be resistant to decomposition and these
+are probably remains of undigested plant fragments. At the Lisowice
+site, several kinds of plant cuticles were described (Wawrzyniak,
+2010a,b,c). Preliminary analysis of cuticle fragments recognized in the
+coprolites suggests that only one type of cuticle appears to be present
+in the coprolite material.
+
+Y
+Lu
+
+62.86
+57.88
+42.84
+39.24
+
+Yb
+
+70.7
+59.975
+62.053571
+66.65
+
+Tm
+
+137.85
+189.58
+145
+142.2
+
+64.92
+62.78
+53.7
+64.58
+
+Ho
+
+36.165909
+178.36136
+156.93864
+36.272727
+
+Tb
+Gd
+
+238.06809
+240.12553
+204.79362
+241.74255
+278.49091
+249.12727
+224.97273
+248.79091
+
+Eu
+
+177.28929
+159.40179
+143.43393
+167.19643
+
+Sm
+
+152.7875
+154.00938
+142.5375
+144.67813
+93.758427
+94.059551
+101.00225
+95.098876
+
+Nd
+La
+
+Specimen 1
+Specimen 2
+Specimen 3
+Specimen 4
+
+PAAS
+
+70.792105
+72.086842
+67.573684
+68.163158
+
+Ce
+
+150.115
+147.92625
+149.78125
+137.3425
+
+Pr
+
+207.32468
+203.23377
+188.84416
+206.85714
+
+Dy
+
+104.66207
+107.92414
+98.148276
+82.151724
+
+31.43
+28.94
+21.42
+19.62
+–
+0.50
+
+Er
+
+3256.2
+2897.5
+2783.3
+3126.7
+–
+28.0
+
+Lu PPM 0.1
+Yb PPM 0.1
+
+197.96
+167.93
+173.75
+186.62
+3.10
+2.80
+
+Tm PPM 0.1
+
+32.46
+31.39
+26.85
+32.29
+–
+0.5
+
+Er PPM 0.1
+
+137.85
+189.58
+145.00
+142.20
+1.04
+1.00
+
+303.52
+312.98
+284.63
+238.24
+3.40
+2.90
+
+Ho PPM 0.1
+Dy PPM 0.1
+
+159.13
+784.79
+690.53
+159.60
+5.00
+4.40
+159.64
+156.49
+145.41
+159.28
+0.85
+0.77
+
+Tb PPM 0.1
+Gd PPM 0.1
+
+1118.92
+1128.59
+962.53
+1136.19
+5.20
+4.70
+306.34
+274.04
+247.47
+273.67
+1.24
+1.10
+992.82
+892.65
+803.23
+936.30
+5.70
+5.60
+4889.2
+4928.3
+4561.2
+4629.7
+31.0
+32.0
+
+Eu PPM 0.1
+Sm PPM 0.1
+Nd PPM 0.1
+
+834.45
+837.13
+898.92
+846.38
+7.90
+8.90
+
+Pr PPM 0.19
+Ce PPM 0.02
+
+12,009.2
+11,834.1
+11,982.5
+10,987.4
+70.0
+80.0
+2690.1
+2739.3
+2567.8
+2590.2
+32.0
+38.0
+
+La PPM 0.1
+
+Specimen 1
+Specimen 2
+Specimen 3
+Specimen 4
+NASC
+PAAS
+
+Table 2
+REEs and other trace elements concentrations (ppm) in the putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice, Poland.
+
+116.29286
+103.48214
+99.403571
+111.66786
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Y PPM 0.1
+
+6
+
+5.3. Palynomorphs
+Palynomorphs were found in one of the analyzed samples of the
+coprolites (Fig. 7A). Recognized palynotaxa include Corollina meyeriana,
+Corollina sp., Monosulcites minimus and Porcellispora sp. They could
+have been ingested by the feces producer with forage (host plant), or
+digested accidentally, e.g. with drinking water. If they represent the
+consumed plant species, the diet of this dicynodont species included
+gymnosperm plants. Remains of fungi were not detected in the material.
+5.4. Amorphous and dark organic matter
+A great part of the dark matter in two analyzed coprolites is an
+amorphous organic matter (Figs. 7D, 9B, C). This may represent residues
+of well-digested plant tissues. No remains of wood, plant ﬁber or cuticle
+were found and hence, it might be a carbon residue of a strongly
+disintegrated plant tissue.
+5.5. Concentrations of plant remains
+In two specimens a signiﬁcant content of plant remains has been preserved. They compose about 40% of the coprolite volume (Fig. 6A, B).
+These are mainly wood fragments; which are highly carbonized in
+the present-day state of preservation. They are mostly elongate and
+do not exceed 2 cm in length in the max dimension. These are residues
+of highly-ﬁbrous woody elements of gymnosperm plants. Some of them
+are broken, worn or sharp-edged.
+5.6. Other observations
+A few of the thin sections of the sampled coprolites revealed that the
+coprolites are massive and rather structureless. Some of the specimens
+possess internal small cavities that are probably an effect of microbial
+processes (Fig. 8C). The coprolites have also considerable diagenetic alteration represented by pyrite, gypsum and calcite veins (Figs. 6D and 7F),
+which probably represent secondary inﬁll of the internal desiccation
+fractures or are related to septarian cracks. Another possibility is that
+the cracks have been made by gases, mainly methane and ammonia.
+Harrell and Schwimmer (2010) concluded that in large fecal masses, as
+opposed to the smaller ones, the gases produce rather radial ﬁssures
+than more typical small vesicles, because they are conﬁned by the large
+size of the coprolite matrix. The ﬁssures in crocodylian coprolites described by Harrell and Schwimmer (2010) are generally open, rather
+than ﬁlled with calcite crystals, as in typical septarian concretions. Nevertheless, Thulborn (1991) illustrated similar concentric and radial ﬁssures
+inﬁlled with gypsum.
+6. Discussion
+6.1. Origin of the structures
+Several lines of evidence suggest that the specimens are fossil feces.
+Firstly, the structures could not be transported as clasts of pre-existing
+rocks, because they are collected from mudstone sediments formed
+in a low energy environment. Formation of such noticeably pyritemineralized and in part organic rich structures is difﬁcult to explain by
+hydrodynamic processes or sediment-burrowing organisms' activity,
+because: (a) the structures lack larger plant remains and in only two
+specimens the plant fragments size is constrained by the upper limit
+of 2 cm, (b) they reveal no internal lamination. Even if speciﬁc chemical
+conditions had caused decomposition of soft plant debris, we can still
+notice the rare occurrence of wood fragments, which are everywherepresent in the sediments, as well as the absolute lack of bone fragments
+or invertebrate remains in the structures. Moreover, the presence of
+open cavities suggests that the structures were lithiﬁed through replacement rather than as simple concretionary growth (Chin, 2007).
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+Table 3
+Total organic carbon (TOC) data of the organic matter residue from the putative
+dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice, Poland.
+TOC
+Sample
+
+%
+
+Lis1a cop
+Lis1b cop
+Lis2 cop
+Lis3 cop
+Lis4a cop
+Lis4b cop
+Lis wood 1
+Lis wood 2
+Lis mud
+Lis sand
+
+2.56
+2.51
+1.91
+0.07
+6.95
+7.74
+61.57
+59.62
+1.92
+0.63
+
+2.62
+2.04
+2.62
+0.05
+7.36
+7.92
+60.45
+61.32
+1.98
+0.53
+
+2.79
+2.38
+2.96
+0.12
+6.41
+8.27
+60.94
+58.50
+2.05
+0.68
+
+Table 4
+Carbon and nitrogen isotopic composition of the putative dicynodont coprolites from the
+Lipie Śląskie clay-pit at Lisowice, Poland.
+Sample
+
+δ13C (‰)
+
+δ15N (‰)
+
+Copro 1A
+Copro 1B
+Copro 1C
+Copro 2A
+Copro 2B
+Copro 2C
+Copro 3A
+Copro 3B
+Copro 3C
+
+−22.49
+−23.37
+−23.79
+−22.25
+−21.52
+−21.12
+−20.81
+−20.72
+−19.94
+
+7.8
+6.9
+7.2
+4.9
+4.7
+4.9
+5.5
+5.2
+5.5
+
+7
+
+Thus, the most probable interpretation is that the structures are of fecal
+origin. This hypothesis is supported also by the fact that the size of the
+structures is constrained by an upper limit.
+Few collected specimens are elongate in shape (Fig. 5), nevertheless
+in contrast to excrements produced by carnivorous and omnivorous
+animals of characteristic elongate morphologies, those produced by
+herbivores are usually roughly spherical or amorphous blocks (Chin
+and Gill, 1996; Chame, 2003). Because the specimens are not phosphatic
+(contain mineral particles, macroscopically visible plant material,
+palynomorphs, and amorphous and dark organic carbon and are mineralized by calcite and pyrite), they might indeed have been produced by
+a herbivore. The only herbivorous species known from the site is a giant
+dicynodont. Possible coprolites previously assigned to dicynodonts
+by other authors (Hunt et al., 1998; Souto, 2001; Hunt et al., 2007;
+Fiorelli et al., 2013) are of similar sizes and morphologies. Phosphatic
+coprolites of carnivorous animals, including specimens of sizable tetrapods, are also known from the site (Niedźwiedzki, in press). Thus, the
+most parsimonious and probable explanation of the origin of the structures is that they are fossilized feces of a giant 5 m long dicynodont,
+whose bone remains are associated with the host sediments.
+Two specimens have a signiﬁcant content of plant remains. They include wood fragments up to 2 cm in length and a total plant remains
+content of about 40% of the fecal mass volume. The spectrum in the
+content and mineral composition of the coprolites is interesting and includes: (1) highly mineralized specimens with pyrite and a low content
+of amorphous dark organic matter, (2) specimens with pockets of pyrite
+crystals, amorphous dark organic matter and single plant elements,
+(3) specimens with a great amount of organic matter in the form of
+wood fragments. This probably reﬂects the variability of ingested food
+
+Table 5
+The HCl-resistant minerals, pyrite crystals and carbon organic remains of the studied carbonate-rich coprolites comprise about 30–50% of the mass of the specimens.
+Sample
+
+Type of coprolite
+
+Weight
+
+N2 mm
+
+b2 mm
+
+Dissolved part
+
+Cop 1a
+Cop 1b
+Cop 2
+Cop 3
+Cop 4
+Cop 5
+
+Pyrite-rich coprolite
+Pyrite-rich coprolite
+Coprolite with plant remains
+Dark coprolite
+Dark coprolite
+Dark coprolite
+
+106 g
+102 g
+104 g
+98 g
+106 g
+102 g
+
+26 g
+28 g
+11 g
+27 g
+15 g
+27 g
+
+23 g
+19 g
+10 g
+38 g
+32 g
+24 g
+
+57 g
+55 g
+83 g (and organic)
+33 g
+59 g
+51 g
+
+Fig. 5. Morphotypes of the putative dicynodont coprolite from the Lipie Śląskie clay-pit at Lisowice. (A) Small spherical form. (B) Large spherical form. (C) Small elongated forms. (D) Measurements used to distinguish morphotypes. (E) Plot showing the range of coprolite sizes and suggested division into two groups (based on specimens ZPAL V.33/1101-1116).
+
+8
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Fig. 6. Cross section (surfaces after breaking) of four spherical putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A–B) Coprolites very rich in organic remains, mainly plant remains (wood elements and cuticle fragments). (C) Coprolite with rare plant remains and rich in dark amorphous organic matter. (D) Coprolite without visible plant remains
+and with rare dark amorphous organic matter and rich in pyrite and microscopic scale mineral particles. Arrows in C show pyrite nests (light areas) and plant remains (black elements).
+Arrows in D show cracks ﬁlled by clay.
+
+Fig. 7. Thin sections of the putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A) Palynomorphs. (B) Plant cuticle fragment. (C) Wood tissue. (D) Dark organic
+carbon matter. (E) Probable microbial structures (pyrite pseudomorphs after bacteria). (F) Pyrite veins with sphere-like structures. Both cuticule fragments and palynomorphs are commonly observed in the coprolite matrix which is very rich in macroscopic organic remains.
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+9
+
+Fig. 8. SEM photos (A–D) and photomicrographs in polarized light (E–F) of the putative dicynodont coprolite matrix from the Lipie Śląskie clay-pit at Lisowice. (A) Mineral grain fabric in
+the coprolite matrix (note tightly packed grain fabric). (B) Pyrite nest with crystals in the coprolite matrix. (C) Mineral grain. (D) Sand grains and pyrite crystals exposed on the surface of
+the pyrite-rich coprolite matrix. (E) Sand grains and pyrite distribution within pyrite-rich coprolite matrix. (F) Pyrite nest in the amorphous organic matter rich coprolite matrix.
+
+Fig. 9. Proﬁles of the EDS analysis from the putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A) Mineral grain from the pyrite-rich coprolite matrix. (B) Organic
+element from the pyrite-rich coprolite matrix. (C) Matrix of the coprolite with rare plant remains and dark amorphous organic matter, small pyrite nests. (D) Pyrite crystals from the
+pyrite-rich coprolite matrix.
+
+10
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+ingredients and could be also inﬂuenced by diagenetic processes. They
+could alter the geochemical conditions in the microenvironment of
+the fecal mass and the organic matter could inﬂuence the mineralization processes, including formation of the pockets of pyrite. Organic
+matter from the coprolite matrix was probably important for early
+diagenetic pyrite production; it can be considered a favorable ‘culture’
+medium for sulfate reducing bacteria in anoxic conditions. Nevertheless,
+it seems that merely the diagenetic processes are not a sufﬁcient explication for the variability of the preserved specimens' content and the
+coprolites can be classiﬁed in at least two distinct groups: wood-less
+and wood-rich types.
+Because there is only one known species of a herbivore at the site,
+both specimens with and without wood fragments are parsimoniously
+assigned to a single producer species and most likely indicate variability
+in the diet, e.g. seasonal. It seems not likely that the coprolites would
+have been produced by multiple herbivore species. Although dicynodonts are known from various Upper Triassic sites in Poland (Dzik
+et al., 2008a,b; Budziszewska-Karwowska et al., 2010; Sulej et al.,
+2011), bones of sauropods, the other group of sizeable herbivores of
+the Late Triassic, remain unknown up to date.
+6.2. Results from REEs studies
+Geochemistry of lanthanides has been studied in marine waters,
+rivers, lakes and groundwater (Elderﬁeld et al., 1990; Johannesson et al.,
+1993; Mőller and Bau, 1993; Johannesson et al., 1996; Johannesson
+and Xiaoping, 1997; Johannesson and Zhou, 1999; Dia et al., 2000;
+Johannesson et al., 2000). Signatures of lanthanides are dependent on
+pH, redox state, the concentration of ligands forming complexes with
+rare earth elements (carbonates and dissolved organic compounds), sorption on iron oxides and hydroxides, and the composition of the source
+rock minerals, which provided REEs to pore waters (Johannesson and
+Xiaoping, 1997; Hannigan and Sholkovitz, 2001; Tang and Johannesson,
+2003). Sea water and alkaline lakes are usually enriched in heavy lanthanides (HREEs; Johannesson et al., 1993; Mőller and Bau, 1993) as carbonate complexes prefer HREE than light rare earth elements (LREEs). Inland
+waters and groundwater, and silico-clastic sediments usually have a ﬂat
+(shale) pattern or the signature enriched in LREEs and middle rare earth
+elements (MREEs). They may also inherit the signature enriched in
+HREEs from the dissolved carbonate rocks present in the drainage
+area (Johannesson and Zhou, 1999; Hannigan and Sholkovitz, 2001).
+Non-carbonate coastal marine sediments and aeolian deposits are usually
+enriched in light lanthanides (Elderﬁeld et al., 1990; Sholkovitz, 1992).
+
+The reduction of iron oxides/oxy-hydroxides or phosphate precipitation
+(Kreamer et al., 1996; Dia et al., 2000; Johannesson et al., 2000; Kocsis
+et al., 2009) by binding of dissolved organic compounds (Tang and
+Johannesson, 2010) can lead to enrichment in medium lanthanides.
+Numerous works have successfully used REEs in paleoenvironmental
+studies (Patrick et al., 2004; Martin et al., 2005), paleooceanographic research (Elderﬁeld and Pagett, 1986; Wright et al., 1987), taphonomy
+and provenance studies (Trueman, 1999; Trueman et al., 2006;
+Grandstaff and Terry, 2009; Rogers et al., 2010) and coprolite analyses
+(Kemp and Trueman, 2003; Owocki et al., 2012).
+Coprolite samples have 50–250 PAAS values at the spider diagram
+with a distinct MREE-enriched pattern and a positive cerium anomaly.
+The geochemical signatures of the samples overlap each other both on
+spider diagram and ternary plot (Fig. 10). The so called “MREE bulge”
+or “bell-shaped” pattern was attributed by Reynard et al. (1999) as
+the pattern indicative for substitution mechanism of REE scavenging
+in phosphatic fossils during the diagenesis. However, the analyzed
+coprolite samples are depleted in phosphate phases and hence the
+characteristic signatures may have been inherited from the original
+diagenetic pore ﬂuid. The REE model for pore waters in the marine sediments (Haley et al., 2004) presents an explanation of the “MREE bulge”
+in the studied coprolites. It is widely acknowledged that MREEs are preferentially scavenged by iron oxides both in the water column and oxidized sediment (Johannesson and Zhou, 1999). However, when the
+iron oxides are reduced, they release the previously accumulated
+MREEs, enriching the pore ﬂuids in the sediment.
+The plot of Bau and Dulski (1996) was used to distinguish “true” cerium anomalies from the non-redox ones induced by the lanthanum
+anomalies, commonly present in the aquatic environments. All coprolite
+samples have redox related positive anomalies paired with negative
+lanthanum anomalies (Fig. 11B) suggesting anoxic conditions in the
+sediment during the feces diagenesis. Cerium and europium are the
+only lanthanides that have more than one oxidation state. Cerium is susceptible to complexation by carbonate groups and dissolved organic
+compounds but it is most notably fractionated from the other lanthanides in oxidizing conditions (Akagi and Masuda, 1998; Haley et al.,
+2004; Seto and Akagi, 2008). Cerium oxidation and fractionation in natural waters is widely used to study redox characteristics of the sediment
+and pore waters (Elderﬁeld et al., 1990; Dia et al., 2000). Positive cerium
+anomalies usually indicate reducing environments, whereas negative
+anomalies indicate oxidizing environments (Wright et al., 1987;
+DeBaar et al., 1988). Seto and Akagi (2008) argue that the cerium anomalies in groundwater are an indicator of redox, provided that these
+
+Fig. 10. Results of REEs analysis from the putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. (A) Spider diagrams of the Rare Earth Elements (REEs) in four
+putative dicynodont coprolites from the Lipie Śląskie clay-pit at Lisowice. REEs signatures of coprolites are similar in each of the coprolites. (B) Ternary diagram of NASC-normalized
+REEs in coprolites. All samples have similar REEs ratios, with overlap, suggesting that coprolites were fossilized at the same place or time and were not reworked from other deposits;
+GdN = Gadolinium, YbN = Ytterbium, NdN = Neodymium.
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Fig. 11. Results of REEs analysis from the putative dicynodont coprolites from the Lipie
+Śląskie clay-pit at Lisowice. Modiﬁed plot of Bau and Dulski (1996) used for distinguishing
+La and Ce anomalies. Samples taken from coprolites group in the distinct ﬁeld 3a-positive
+Ce and negative La anomalies.
+
+waters have a low content of organic compounds that can complex
+cerium. In such conditions, a negative cerium anomaly may appear in
+shallow groundwater when cerium is captured by precipitating iron
+oxides (Akagi and Masuda, 1998), or bound by complexes of carbonates
+in alkaline waters (Pourret et al., 2008).
+In the case of the dicynodont coprolites the positive anomaly in the
+analyzed samples may result both from the preferential scavenging of
+Ce (IV) by humic acids and iron oxide particles in the water column.
+Then, in the anoxic sediment the iron oxide reduction to pyrite and decomposition of the organic particles would have released the previously
+accumulated Ce (IV) to the pore waters and imprint the anomaly in the
+fossilizing feces.
+
+6.3. Inference from isotopic studies
+The δ 13C and δ 15N values of organic matter (dark and amorphous
+organic matter) from three coprolites are presented in Table 4. A plot
+of δ 15N and δ 13C average ratios of dicynodont coprolites from Lisowice
+is given in Fig. 12.
+The majority of present day terrestrial plants fall into two categories
+based on photosynthetic pathways, namely types C3 and C4, which are
+
+Fig. 12. Plot showing the range of δ 13C and δ 15N composition of fossil tissue, coprolites of
+different animals (taken from Bocherens et al., 1999; Ghosh et al., 2003; Codron and
+Codron, 2009) and the putative dicynodont coprolite specimens from the Lipie Śląskie
+clay-pit at Lisowice.
+
+11
+
+characterized by distinct carbon isotopic signatures (Ehleringer, 1989).
+Type C3 plants have a unimodal distribution around a mean of −26‰
+while C4 plants are enriched, having a mean δ 13C value around
+− 12‰. The carbon isotopic ratio of the organic matter within the
+coprolite falls under the category of C3-type vegetation. This result
+is not surprising, because Triassic ecosystems likely only had type C3
+plants.
+The nitrogen in the coprolites is probably derived from the undigested organic tissue (plant remains, collagen or bones etc.) from food, consumed water and bacteria from the gastrointestinal tract (Hollocher
+et al., 2001). In the case of the examined coprolites, direct evidence for
+bone or organic bacterial components was not found.
+We compared the nitrogen isotopic ratio of putative dicynodont
+coprolite organic matter (mixture of plant tissues, palynomorphs and
+dark organic carbon) with feces of present day different species of
+birds and mammals (Ghosh et al., 2003). The δ 13C and δ 15N values
+are signiﬁcantly different for herbivores and carnivores. There is a decrease in 13C and an increase in 15N with a progressive rise in the trophic
+level (Schweizer et al., 2006) and the δ 13C values are lower for herbivore feces such as the deer, supposed sauropod dinosaur, and plant eating birds, compared to carnivores. The putative dicynodont coprolite
+samples from Lisowice fall between the data on bird feces and large carnivorous (tiger and leopard) and occupy the middle level in the plot.
+The δ 13C and δ 15N compositions of the coprolite samples suggest that
+the main food of the producer was plants and if the interpretation of
+these structures is correct, our analysis provides biogeochemical evidence of herbivorous diet in this species.
+6.4. Ecology of dicynodonts
+Dicynodont coprolites described herein seem to be quite common at
+the Lisowice site (more than 100 specimens were collected or observed
+in the ﬁeld) and thanks to their black or dark-brown color are easy to
+ﬁnd and recognize on weathered surfaces of the exposed mudstones.
+Recently, Fiorelli et al. (2013) reported so-called communal latrines of
+dicynodonts from eight massive coprolite accumulations in the Middle–Upper Triassic Chañares Formation, Argentina. Although Fiorelli
+et al. (2013) for the ﬁrst time explicitly interpreted coprolite accumulation as possible non-mammal communal latrines, in fact various accumulations of coprolites of non-mammalian herbivores had already
+been described from numerous localities, as for example from the
+Upper Cretaceous Two Medicine Formation, USA associated with a
+nesting ground of hadrosaurs (Chin, 2007; Chin et al., 2009), or the
+Lameta Formation, India (Ghosh et al., 2003; Ambwani and Dutta,
+2005; Sharma et al., 2005) and the Cerro del Pueblo Formation,
+Mexico (Rodríguez de la Rosa et al., 1998). Triassic deposits also present
+interesting localities abundant with coprolites of herbivores, as for example the Middle Triassic Santa Maria Formation, Brazil (Souto, 2001)
+and the Upper Triassic (Norian-Rhaetian) Maleri Formation, India
+(Vijaya et al., 2009). Defecation of dicynodonts in communal latrines reveals that this gregarious behavior is not unique to mammals (Fiorelli
+et al., 2013). Therefore, it might be more common in the fossil record.
+However, herbivore dungs simply tend to be common around sources
+of drinking water and hence mass occurrences of coprolites in the fossil
+record do not necessarily represent defecation in communal latrines.
+Dung counts are a reliable method in estimations of animal population
+sizes in modern ecosystems (Barnes, 2001). Social lifestyle, signiﬁcant
+time spent in the water and favorable fossilization conditions may
+also be responsible for accumulations of coprolites. In consequence,
+fossil feces are among the most common fossils in many sedimentary
+rocks (Hunt and Lucas, 2005b). Coprolites from carnivorous animals
+can be common in sediments deposited in aquatic environments, but
+coprolites from herbivores and fully terrestrial animals are generally
+quite rare or rarely described (Chin and Kirkland, 1998; Chin, 2007).
+In modern ecosystems, accumulations of feces produced by hippopotamuses are common in water pools. Onyeanusi (1999) discussed
+
+12
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+some aspects of the ecological role of Hippopotamus amphibious in
+African ecosystems. Because hippopotamuses commonly defecate in
+water, their excrements enrich the water in nutrients. Their feces
+are also fed on by detritus consumers, as some herbivorous ﬁshes, and
+hence play a role in water food chains. The swampy environment
+habit of dicynodonts has already been suggested by Hunt et al. (1998,
+2007) based on the fact that dicynodont coprolites are known from
+dark mudstones formed in alternating wet and dry conditions including
+periods of standing water. Dicynodont coprolites described herein come
+from deposits of a low energy environment as well. Everglades-like
+environment record in the Lipie Śląskie site seems to be conﬁrmed by
+geochemical data (Niedźwiedzki, in press). It is noteworthy that several
+massive coprolite associations, determined as a latrine deposit produced by dicynodonts, described by Fiorelli et al. (2013) represent autochthonous biogenic accumulations buried in a short-term ﬂuvial
+deposition event.
+A social life style of the dicynodont is also possible due to the significant amount of coprolites in the sediments. For example, hippopotamus individuals require relatively little space (Onyeanusi, 1999) and
+congregate together in groups averaging ﬁve members, and occasionally up to 45 members (Martin, 2005). This is in accordance with conclusions of other researchers, such as Fiorelli et al. (2013). Moreover,
+among modern mammals to form herds is one of the most common
+protective strategies. Niedźwiedzki et al. (2011) described bite marks
+on bones of juvenile dicynodonts from Lisowice revealing predator–
+prey interactions between a large theropod Smok wawelski and the
+dicynodont. Because coprolites of this theropod in addition to remains
+similar in histology to therapsid bones contain ﬁsh scales and bones
+(Niedźwiedzki, in press), these data on its habit highlight interactions
+between the theropod and dicynodont due to the co-occupied
+environment.
+However, there are obvious differences between the dicynodonts'
+ecosystem and the ecosystem of hippopotamuses. At night hippopotamuses leave the water pools to graze on grasses which compose their
+main food source (Onyeanusi, 1999; Martin, 2005). It is clear that
+grasses were absent in the Triassic ecosystems. Chin (2007) suggested
+that a Late Cretaceous hadrosaurid Maiasaura peeblesorum intentionally
+fed on rotting wood consuming considerable amounts of it, which might
+be justiﬁed by the absence of grasses in the Mesozoic ecosystems. Wood
+fragments have been reported a few times in coprolites of herbivorous dinosaurs and could also be ingested unintentionally while feeding on tree
+branches (Chin and Kirkland, 1998). Nevertheless, most of the dicynodont coprolites at hand from the Lisowice site, contain no remains of
+woody plants, which might suggest a high quality diet composed of few
+ﬁbrous plants, possibly expected in swampy environments and perhaps
+including aquatic plants.
+Again, as in the case of modern hippopotamuses, it may be difﬁcult
+to satisfy such a sizable animal's nutritional requirements only by feeding on aquatic plants, especially with a social life style. Recognized
+palynomorphs and cuticle suggest that the diet of the dicynodont was
+complemented with gymnosperms. However, because it seems that
+all the cuticle fragments found in two coprolites represent a single
+type of gymnosperm plant, it might reveal a selectivity in the feeding
+habit. Nevertheless, it may be caused by poor sampling. Another possibility would be a restricted variability of available plant species as a
+source of forage. A degree of selectivity in feeding habit and a highquality diet are supported by the absence of wood fragments in nearly
+all of the coprolite specimens. Remains of different diet components
+may vary between each other in resistance to decomposition by stomach acids or diagenesis and moreover could have been transported in
+the gastrointestinal tract far from the place where the tissues were originally consumed (Bajdek, 2013). However, because wood tissues seem
+relatively well-resistant for decomposition and diagenesis their absence
+in most of the coprolite specimens is conspicuous. Only two collected
+coprolite specimens are characterized by the high content of wood fragments up to 2 cm in length with rounded terminations (Fig. 6A, B). Their
+
+dimensions, total content (around 40% in comparison to 13%–85% of total
+wood content in the coprolites of Maiasaura) and general appearance are
+similar to those from Maiasaura peeblesorum hadrosaurid coprolites described by Chin (2007). The digestion of wood is extremely hard in a
+bacteria-dominated digestive tract of tetrapods (Chin, 2007) without
+previous activity of fungi (i.e., rotting wood), the Late Triassic dicynodont
+had no teeth (in contrast to hadrosaurids) and as it seems no functional
+gastroliths (see Physiology of dicynodonts below) were detected in the
+coprolites. Thus, it is intriguing if dicynodonts – at least occasionally – indeed complemented the diet with such a high ﬁbrous woody forage. Rotted, initially decomposed wood might be however well-accessible in this
+Everglades-like swampy environment. It might also indicate general implications for feeding strategies in pre-Cenozoic ecosystems, before
+grasses evolved and spread. Chin (2007) described also a second, less
+common type of herbivore coprolite from the Two Medicine Formation.
+Some specimens with a so-called gray coprofabric differ from those of
+the woody coprofabric in being smaller and in a low content of wood. Because they were found in a close proximity to Maiasaura nests and sometimes contain eggshell fragments, Chin (2007) suggested that if they
+were from Maiasaura as well, they might possibly have been produced
+by juvenile individuals which required higher quality diet. However,
+this seems not the case of dicynodont coprolites from Lisowice, because
+there is, for instance, no obvious difference in size between the more
+common dark gray coprolites and the specimens of high woody content,
+although the two woody specimens indeed seem to be of adult individuals. Thus, the most probable explication seems to be temporal differences in access to diet components.
+6.5. Physiology of dicynodonts
+Stool form reﬂects the gastrointestinal transit time and can be easily
+used to monitor changes (as sickness) in the intestinal function in clinical practice or research (Lewis and Heaton, 1997). Because the collected dicynodont coprolite specimens appear to represent feces that were
+likely comparable in consistency, they are all equally interpreted as
+feces of healthy animals, in spite of differences in content or the state
+of preservation. Interestingly, Chin (2007) described the morphological
+variety of Maiasaura peeblesorum coprolites that apparently reﬂected
+different consistencies, ranging from compact blocks to some that had
+a ﬂuid morphology.
+For understanding the physiology of therapsids and consequently
+for better understanding of the Permo-Triassic ecological events and
+evolutionary trends, it is crucial to investigate the food-processing
+mechanisms and efﬁciency. Interestingly, due to the high degree of
+decomposition of the ingested plant remains, the dicynodont coprolites
+at hand seem to reveal effective digestive processes.
+About 30–50% of the mass of the coprolites consists of the HClresistant particles, including clastic mineral material of sand-sized particles. Following the terminology reviewed by Wings (2007) all of
+those mineral clasts with a diameter larger than 0.063 mm and that
+formerly retained in the digestive tract are classiﬁed as gastroliths.
+Gastroliths, when present, can be excreted with feces and have already
+been described in coprolites (Wings, 2012). However, gastroliths
+may be ingested intentionally as well as accidentally and do not
+always play a role e.g. in tritulation or mixing of foodstuff. Wings et al.
+(2008) described a stomach content of a captive pygmy hippopotamus
+(Hexaprotodon liberiensis) containing a large amount of gravel of the
+mean particle diameter of 2–10 mm. It was however deduced that the
+hippopotamus stomach structures acted as simple sedimentation
+traps with no gastric mill function. Because (a) the diet of the dicynodont species at hand seems to be basically composed of very soft tissues,
+(b) mineral clasts present in its coprolites are of very minute sizes and
+(c) such particles could be easily swallowed while foraging in a swampy
+environment, there is a lack of trustworthy evidence for a gastric mill in
+dicynodonts. Most of the species of ruminants and also other animals
+(amphibians, reptiles, birds) consume considerable amounts of soil
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+while feeding. For example, bison (Bison bison) consumes sediments at
+a rate of 7%, while sandpipers (Calidris sp.), which feed on invertebrates
+in mud or shallow water, consume sediments at a rate of 7–30% of their
+diet (Beyer et al., 1994).
+It is commonly known that digestive efﬁciency depends in part on the
+food mean retention time (Fritz et al., 2010, 2011). In herbivores, an increase in food intake causes an acceleration of ingesta passage through
+the digestive tract and when in excess may paradoxically decrease digestive efﬁciency. Clauss et al. (2007) compared feeding strategies and food
+retention mechanisms in two modern megaherbivore groups. In elephants, an increase in food intake is only slightly correlated to a decrease
+in mean food retention time which allows elephants spend a signiﬁcant
+amount of time (75% of the day) on feeding, optimizing the gain of energy. Meanwhile, hippopotamuses are limited by an upper daily intake of
+theoretically 45–50 kg above which the excess of food intake drastically
+reduces mean food retention time and the energy gain. Therefore, hippopotamuses are known to spend only 30% of the day foraging.
+In spite of the huge producer size, the dicynodont coprolites from
+the Lipie Śląskie clay-pit suggest a signiﬁcant degree of selectivity
+while feeding, restricted to high quality non-ﬁbrous diet and when
+not sufﬁcient, occasionally complementing the diet with woody ingredients, meanwhile eating more generally implies eating lower-quality
+more ﬁbrous and hard to process forage. The coprolites of the dicynodont described here supposedly also reveal very effective digestive
+processes (degree of the food ingredients decomposition). Therefore,
+it seems reasonable that the metabolism of the source dicynodont species was much more modern hippopotamus-like than elephant-like.
+This feeding strategy would allow the dicynodont to maximize the energy gain while feeding on limited amounts of higher-quality forage, rather than consuming large amounts of lower-quality ingredients. The long
+forage gastrointestinal pass and limited amounts of consumed food in
+the dicynodont are also supported by the fact that the dicynodont had
+no teeth. Schwarm et al. (2009) have shown that the pygmy hippopotamus (Hexaprotodon liberiensis) has longer food retention time than the
+more effectively forage-chewing bateng (Bos javanicus) and that in
+mammals more effective mastication allows increased food intake.
+The capacity of food retention depends on the gut volume (Fritz et al.,
+2009). Herbivory requires greater complexity of the gastrointestinal
+tract and often favors evolution of larger body size in both mammals
+and reptiles (Fritz et al., 2010, 2011), as exempliﬁed by herbivorous
+liolaemid lizards which are larger relative to their omnivorous and
+insectivorous congeners (O'Grady et al., 2005). Niedźwiedzki et al.
+(2011) suggested that the increase of body size of dicynodonts across
+the Middle–Late Triassic was caused by pressure from early predatory dinosaurs. Not excluding explications of this kind, it seems that the gigantism of the source dicynodont species was a metabolic adaptation that
+allowed increased retention time of limited forage amounts as it is in
+the case of modern hippopotamuses. This interpretation seems to support the analogies to hippopotamuses. Such highly effective foodprocessing would be much more expected in mammalian herbivores
+than in herbivorous reptiles (Fritz et al., 2010); there are however no
+huge extant plant-eating reptiles. On the other hand, the supposed long
+food retention time in the gastrointestinal tract seems to be a strategy
+more typical for reptiles, as opposed to its initial chewing and fast metabolism in mammals (Fritz et al., 2010). Although mastication mechanisms
+were not yet well-developed in therapsid herbivores and hence a long
+food digestion was required in recompense, apparently the digestive
+mechanisms were already highly effective and advanced, as supported
+by the δ 15N values similar to those from feces of modern mammals
+(Ghosh et al., 2003). Later on, development of the mechanism of chewing
+in mammals, would allow the acceleration in metabolism.
+6.6. Binomial nomenclature of coprolites
+One parataxonomical concept of coprotaxonomy has been developed by several researchers who state that it would be useful to apply
+
+13
+
+binomial nomenclature to coprolites with the same type of system commonly used to name other types of trace fossils (e.g. fossil footprints;
+Hunt et al., 2007). Binomial nomenclature has been applied to vertebrate coprolites a number of times (Hunt et al., 1998; Hunt and Lucas,
+2005a,c; Hunt et al., 2005a,b, 2007, 2013) and at least 29 ichnotaxa of
+Paleozoic and Mesozoic vertebrate feces have been established (Hunt
+et al., 2012, 2013) as well as some Cenozoic coprotaxa (Aceñolaza,
+2012). Some suggest that applying binomials to coprolites would
+make scientiﬁc communication easier and that the lack of classiﬁcation
+limits the utility of coprolites in paleobiology (Hunt et al., 1994). The use
+of coprolites in biostratigraphy and correlation has also been discussed
+and experimented for the Permian (Hunt et al., 2005b) and Triassic
+(Hunt et al., 1993, 1998, 2007).
+Nevertheless, this approach to coprotaxonomy is a controversial
+concept and there is disagreement in paleoscatology about applying
+the Linnaean binomial nomenclature to fossil feces' morphotypes
+(Hunt et al., 1994; Verde and Ubilla, 2002). Whereas most authors do
+not name coprolites (Owocki et al., 2012), others suggest that development of a binomial system of coprotaxonomy is one of the basic tasks in
+paleoscatology (Hunt and Lucas, 2005a; Hunt et al., 2012). A. Hunt and
+M. Lockley in Hunt et al. (1994) argued that vertebrate coprolites have
+distinctive and recurring morphologies and that similar morphotypes
+have been recognized from different Triassic formations. Meanwhile K.
+Chin (in Hunt et al., 1994) was skeptical pointing out that feces can
+vary depending on their quality of preservation or changes in diet of
+their producer. She concluded that application of a Linnaean system
+of classiﬁcation to coprolites would imply unsubstantiated taxonomic
+differences (Hunt et al., 1994).
+For a useful and justiﬁable application of coprotaxonomy and
+coprostratigraphy, two criteria are important: (a) recognition of similar
+and recurring coprolite morphotypes from different formations and
+(b) the existence of a trustworthy link between morphology of the
+feces and its source animal species. Ichnotaxonomy is, for instance,
+commonly applied to fossil footprints thanks to the morphological
+restrictions imposed on them by the foot morphology of the given
+tracemaker (Olsen et al., 1998).
+For example, because the scroll valvular intestine implies spiral
+morphology of feces and the spiral valve is absent in teleost ﬁsh and
+tetrapods, spirally coiled coprolites have been assigned to certain
+types of ﬁshes, as for example sharks or lungﬁsh (Jain, 1983; Gilmore,
+1992; Dentzien-Dias et al., 2012). Moreover, Jain (1983) noted that
+modern lungﬁsh spiral feces tend to uncoil after a period in the water.
+However, it may be difﬁcult to distinguish non-spiral ﬁsh coprolites
+from those produced by tetrapods (Hunt et al., 1994).
+Northwood (2005) described longitudinally striated coprolites from
+the Lower Triassic of the Arcadia Formation, Australia. She suggested
+that they were possibly produced by archosauromorphs, because
+(a) such a coprolite morphology is known back to the Early Triassic,
+(b) longitudinal striations have been observed in some extant crocodile
+feces, and (c) some extant reptiles have longitudinal rugae in their
+intestine. Such longitudinally striated coprolites are well known from
+various Mesozoic formations (Ghosh et al., 2003; Northwood, 2005;
+Hunt et al., 2007). Small, typically 2 cm long Triassic longitudinally striated coprolites were named by Hunt et al. (2007) as Alococopros
+triassicus, meanwhile typically more than four times as long specimens
+from the Late Cretaceous of Lameta Formation, India, were named
+A. indicus. However, such longitudinal striations do not seem to be requisite for feces of Archosauromorpha, since they may be absent in some
+coprolites (Niedźwiedzki, in press).
+The identiﬁcation of the coprolite producer based on feces characteristics may be a subject of further research. It must be however noticed
+that these few examples listed above are applicable only for high level
+taxa. As for now, cases of identiﬁcation of the exact producer genera
+or species of pre-Quaternary feces are very few. Usually, it is obtainable
+only if there was just one large enough carnivore or herbivore species to
+produce such sizable fecal masses in a given geological context (Chin
+
+14
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+et al., 1998), or putatively on the preservation of a swallowed tooth fragment in the coprolite (Stone et al., 2000).
+There are numerous factors that limit or completely exclude the utility of the application of binomial nomenclature to classifying coprolites:
+(1) Distinct animal taxa can produce very similar feces. For example,
+feces produced by herbivores are frequently pelletoid, or blocky
+and amorphous (Chin and Gill, 1996; Chin and Kirkland, 1998;
+Ambwani and Dutta, 2005; Chin, 2007). Also, the feces from
+many different carnivores have comparable shape and size.
+(2) The same individual or species can produce a large diversity of
+dung morphologies and/or dung contents depending on changes
+in the food habit, e.g. seasonal, in age or health (Chin, 2007).
+(3) Feces are easily fragmented, deformed or decomposed. Feces are
+also a subject of invertebrate activity (Chin and Gill, 1996; Wahl
+et al., 1998; Chin et al., 2009; Milàn et al., 2012). Moreover,
+the state of preservation of fossil feces depends largely on taphonomic and diagenetic processes (Hunt et al., 1994; Chin and
+Kirkland, 1998).
+Indeed, fresh vertebrate feces can provide some taxonomic information (Chame, 2003), since (a) modern faunas can be studied, (b) direct
+observations linking feces' morphotypes to their producers can be
+made, (c) fresh feces are intact and undamaged and (d) interpretations
+are not skewed by the highly incomplete and complex fossil record and
+geological time. However, even modern mammalian feces' morphotypes
+can be generalized as representing rather higher taxonomic levels, such
+as Orders (Chame, 2003). Moreover, the DNA analyses of modern feces
+(Wasser et al., 1997), are more credible than morphology in identiﬁcation
+of the producer. For example, DNA analyses made by Davison et al.
+(2002) have shown that naturalists commonly mistake pine marten
+(Martes martes) feces for those of foxes (Vulpes vulpes). The taxon of
+the source animal of fossil feces can be extremely difﬁcult to identify
+(Chin, 1997; Chin and Kirkland, 1998; Bajdek, 2013). It is also not easy
+to estimate the size of the producer. Although there is a slight correlation
+between the total fecal mass volume and its producer body mass (Flessa
+et al., 2012), some large animals produce large quantities of small
+pelletoid feces. Thus, as suggested Chin (1997) coprolite volume should
+be primarily used to infer the minimum size of the producer.
+The chemical composition of a coprolite, as well as, animal or plant
+inclusions are useful in the identiﬁcation of the source animal (Hunt
+et al., 1994; Chin, 1997). Nevertheless, most often the producer can
+only be deﬁned as a herbivore/carnivore, possibly with several potential
+producers known from the paleobiological context (Owocki et al.,
+2012). Moreover, recognizable dietary residues can be easily destroyed
+by digestion (Bajdek, 2013) and diagenesis, and the chemical composition can be altered during diagenesis (Chin and Kirkland, 1998). All
+of these difﬁculties can be exempliﬁed by established coprotaxa of
+dicynodonts. Hunt et al. (1998) established Dicynodontocopros maximus
+based on specimens from the Late Triassic Chinle Group, USA, with
+the holotype UMMP 7255 (Hunt et al., 1998, ﬁg. 2A–B, 2007, ﬁg. 2J–K),
+which was incorrectly listed as UMMP 7253. The diagnosis of
+Dicynodontocopros ichnogenus (Hunt et al., 1998, page 228) was described, as: “Differs from other Triassic terrestrial vertebrate coprolites
+in: being large (up to 10 cm long) and dark gray in color; preserving
+up to 4 loose coils; containing large (up to 4 mm in diameter) blebs of
+carbonaceous material; having a slightly arcuate long axis with one
+end being broadly rounded and the other coming to an acute tip; and
+having a maximum width to length ratio of about 45–50% in complete
+specimens.”…
+However, Hunt et al. (2007) admitted that some dicynodont coprolites from the Carnian of the Tecovas Formation, Chinle Group, Texas
+(which also yielded the ichnogenera type) lack a distinct morphology.
+Hunt et al. (2007) also suggested that some coprolites described by
+Rusconi (1947, 1949) from the Triassic of Mendoza area, Argentina are
+likely of dicynodonts, but they are more amorphous and differ in having
+more rounded terminations and more consistent widths. It was
+
+supposed that those differences are of taphonomic origin (Hunt et al.,
+2007). Northwood (2005) also described a possible blocky and elongate
+herbivore coprolite QMF39701-47 (Northwood, 2005, ﬁg. 2J) from
+the Lower Triassic Arcadia Formation, Australia. She noticed, that the
+specimen bears little resemblance to dicynodont coprolites described
+by Hunt (1992). Fiorelli et al. (2013) described dicynodont coprolites
+from the Chañares Formation, Argentina, with a variety of morphologies,
+generally blocky and in some degree amorphous. Hunt et al. (2013) introduced a new ichnogenus of dicynodont coprolite (Santamariacopros
+elongatus) for a slightly elongate morphotype from the Middle Triassic
+Santa Maria Formation, Brasil, which was initially described by Souto
+(2001). Finally, the dicynodont coprolites described herein from the
+Late Triassic of the Lisowice site, Poland, are mostly blocky, or oval forms.
+In summary, possible dicynodont coprolites known from the fossil
+record of various formations are generally blocky, oval, slightly elongate
+or amorphous forms. These characteristics obviously do not exhibit
+any morphological criteria that allow them to be distinguished from
+e.g. many dinosaurian (Chin and Kirkland, 1998) or even modern
+mammalian droppings. Interestingly, Hunt et al. (1998, 2007) states
+that Dicynodontocopros maximus is restricted to the Late Triassic (late
+Carnian) and emphasize its utility in biochronology, among other
+coproichnogenera. In conclusion, feces – especially if fossilized – do
+not have the same morphological constraints imposed on them that
+e.g. footprints do and provide little taxonomic information about the
+source animal. Therefore, the binomial nomenclature should not be
+applied to coprolites, since it implies unjustiﬁed taxonomic differences.
+This renders most coprolites unsuitable for biostratigraphic purposes.
+7. Conclusions
+The enigmatic structures presented here show several similarities
+with coprolites of herbivorous tetrapods (mainly herbivorous dinosaur
+and dicynodont coprolites) and contemporary feces: (1) the overall
+forms and composition (organic remains, microbial structures), (2) the
+presence of micro- and macro-plant remains, and (3) the presence of
+mineral particles (clasts). These coprolites from Lisowice provide rare
+fossil evidence for physiology of large Late Triassic therapsids. It is possible that the gigantism of the source dicynodont species was a metabolic
+adaptation that allowed these animals to maximize food retention time
+and consequently the energy gain. Like some of the present-day mammalian herbivores, the dicynodont left rather medium in size and ovalshaped fecal residues. A wide variety of plant materials, such as pollen
+and spores, cuticles, woody tissues of gymnosperms were observed
+inside the coprolites. The diet of this dicynodont was probably of high
+quality, it was however complemented also with poor-quality ﬁbrous
+food components. This discovery also calls attention to oval-shaped,
+dark, organic-rich herbivore coprolites in the Triassic terrestrial rocks,
+such fossils may be recognized in other sites containing dicynodont
+bones. The described specimens were not assigned in binomial nomenclature. Morphology, composition and size of coprolites can vary depending on their quality of preservation or changes in the diet of their
+producer. The use of the Linnaean nomenclature for coprolites is in our
+opinion a rather controversial concept.
+Acknowledgments
+Fieldwork in the Lipie Śląskie clay-pit at Lisowice was organized by
+the Institute of Paleobiology, Polish Academy of Sciences, Warsaw,
+Poland and the Department of Paleobiology and Evolution, Faculty of
+Biology, University of Warsaw, Poland. The research was supported
+by the Uppsala University. G.N. is currently funded by a Wallenberg
+Scholarship grant awarded to Per Erik Ahlberg (Uppsala University). Editor and two journal reviewers provided very useful remarks and constructive comments that improved much the ﬁnal version of the
+article, which is greatly appreciated. The present research was partially
+supported by the MNiSW grant no. N N307 066040 (to Michał Zatoń).
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+References
+Aceñolaza, F.G., 2012. Neogene coprolites (Upper Miocene–Lower Pliocene) of Entre Rios
+Province, northeastern Argentina. Sci. Interﬂuvius 3 (1), 41–53.
+Aigner, T., Bachmann, G.H., 1992. Sequence-stratigraphic framework of the German Triassic.
+Sediment. Geol. 80, 115–135.
+Akagi, T., Masuda, A., 1998. A simple thermodynamic interpretation of Ce anomaly.
+Geochem. J. 32, 301–314.
+Ambwani, K., Dutta, D., 2005. Seed-like structure in dinosaurian coprolite of Lameta Formation (Upper Cretaceous) at Pisdura, Maharashtra, India. Curr. Sci. India 88,
+352–354.
+Arndt, S., 2002. Morphologie und Systematik ausgewählter Mesozoischer Koniferen.
+Palaeontogr. Abt. B 262, 1–23.
+Bajdek, P., 2013. Coprolite of a durophagous carnivore from the Upper Cretaceous Godula
+Beds, Outer Western Carpathians, Poland. Geol. Q. 57 (2), 361–364. http://dx.doi.org/
+10.7306/gq.1094.
+Barnes, R.F.W., 2001. How reliable are dung counts for estimating elephant numbers? Afr.
+J. Ecol. 39, 1–9.
+Bau, M., Dulski, P., 1996. Distribution of yttrium and rare-earth elements in the Penge and
+Kuruman Iron-Formations, Transvaal Supergroup, South Africa. Precambrian Res. 79,
+37–55.
+Beyer, W.N., Connor, E.E., Gerould, S., 1994. Estimates of soil ingestion by wildlife. J. Wildl.
+Manag. 58 (2), 375–382.
+Bocherens, H., Billiou, D., Mariotti, A., Patou-Mathis, M., Otte, M., Bonjean, D., Toussaint, M.,
+1999. Palaeoenvironmental and palaeodietary implications of isotopic biogeochemistry of last interglacial Neanderthal and mammal bones in Scladina Cave (Belgium). J.
+Archaeol. Sci. 26 (6), 599–607.
+Budziszewska-Karwowska, E., Bujok, A., Sadlok, G., 2010. Bite marks on an Upper Triassic
+dicynodontid tibia from Zawiercie, Kraków-Częstochowa Upland, southern Poland.
+Palaios 25 (6), 415–421.
+Case, E.C., 1922. New reptiles and stegocephalians from the Upper Triassic of western
+Texas. Carnegie Institution of Washington, Publication 321.
+Chame, M., 2003. Terrestrial mammal feces: a morphometric summary and description.
+Mem. Inst. Oswaldo Cruz 98 (Suppl. I), 71–94.
+Chin, K., 1997. Coprolites. In: Currie, P.J., Padian, K. (Eds.), Encyclopedia of Dinosaurs.
+Academic Press, pp. 147–150.
+Chin, K., 2002. Analyses of coprolites produced by carnivorous vertebrates. In:
+Kowalewski, M., Kelley, P.H. (Eds.), The Fossil Record of Predation. Paleontological
+Society Special Papers, 8, pp. 43–49.
+Chin, K., 2007. The paleobiological implications of herbivorous dinosaur coprolites from the
+Upper Cretaceous Two Medicine Formation of Montana: why Eat Wood? Palaios 22,
+554–566.
+Chin, K., Gill, B.D., 1996. Dinosaurs, dung beetles, and conifers: participants in a cretaceous
+food web. Palaios 11, 280–285.
+Chin, K., Kirkland, J.I., 1998. Probable herbivore coprolites from the Upper Jurassic MygattMoore Quarry, Western Colorado. Mod. Geol. 23, 249–275.
+Chin, K., Tokaryk, T.T., Erickon, G.M., Calk, L.C., 1998. A king-sized theropod coprolite.
+Nature 393, 680–682.
+Chin, K., Eberth, D.A., Schweitzer, M.H., Rando, T.A., Sloboda, W.J., Horner, J.R., 2003.
+Remarkable preservation of undigested muscle tissue within a Late Cretaceous tyrannosaurid coprolite from Alberta, Canada. Palaios 18 (3), 286–294.
+Chin, K., Hartman, J.H., Roth, B., 2009. Opportunistic exploitation of dinosaur dung: fossil
+snails in coprolites from the Upper Cretaceous Two Medicine Formation of Montana.
+Lethaia 42, 185–198.
+Clauss, M., Streich, W.J., Schwarm, A., Ortmann, S., Hummel, J., 2007. The relationship of food
+intake and ingesta passage predicts feeding ecology in two different megaherbivore
+groups. Oikos 116, 209–216.
+Clement-Westerhof, J.A., Van Konijnenburg-Van Cittert, J.H.A., 1991. New data on the
+fertile organs leading to a revised concept of the Cheirolepidiaceae. Rev. Palaeobot.
+Palynol. 68, 147–179.
+Codron, D., Codron, J., 2009. Reliability of δ13C and δ15N in faeces for reconstructing savanna
+herbivore diet. Mamm. Biol. 74, 36–48.
+Davison, A., Birks, J.D.S., Brookes, R.C., Braithwaite, T.C., Messenger, J.E., 2002. On the origin
+of faeces: morphological versus molecular methods for surveying rare carnivores
+from their scats. J. Zool. (Lond.) 257, 141–143.
+DeBaar, H.J.W., German, C.R., Elderﬁeld, H., van Gaans, P., 1988. Rare earth element
+distributions in anoxic waters of the Cariaco Trench. Geochim. Cosmochim. Acta 52,
+1203–1219.
+DeNiro, M.J., 1985. Postmortem preservation and alteration of in vivo bone collagen
+isotope ratios in relation to palaeodietary reconstruction. Nature 317, 806–809.
+Dentzien-Dias, P.C., de Figueiredo, A.E.Q., Horn, B., Cisneros, J.C., Schultz, C.L., 2012. Paleobiology of a unique vertebrate coprolites concentration from Rio do Rasto Formation
+(Middle/Upper Permian), Paraná Basin, Brazil. J. S. Am. Earth Sci. http://dx.doi.org/10.
+1016/j.jsames.2012.09.008.
+Dia, A., Gruau, G., Olive–Lauquet, G., Riou, C., Molenat, J., Curmi, P., 2000. The distribution
+of rare earth elements in groundwaters: assessing the role of source-rock composition,
+redox changes, and colloidal particles. Geochim. Cosmochim. Acta 64, 4131–4151.
+Dutta, D., Ambwani, K., 2007. Capers: a food for upper Cretaceous dinosaurs of Pisdura,
+India. Curr. Sci. India 92, 897–899.
+Dzik, J., Niedźwiedzki, G., Sulej, T., 2008a. Zaskakujące uwieńczenie ery gadów
+ssakokształtnych. Ewolucja 3, 2–21.
+Dzik, J., Sulej, T., Niedźwiedzki, G., 2008b. A dicynodont-theropod association in the latest
+Triassic of Poland. Acta Palaeontol. Pol. 53, 733–738.
+Ehleringer, J.R., 1989. Temperature and energy budgets. In: Pearcy., R.W., Ehleringer, J.,
+Mooney, H.A., Rundel, P.W. (Eds.), Plant Physiological Ecology: Field Methods and
+Instrumentation. Chapman and Hall, New York, New York.
+
+15
+
+Elderﬁeld, H., Pagett, R., 1986. Rare earth elements in ichthyoliths: variations with redox
+conditions and depositional environment. Sci. Total Environ. 49, 175–197.
+Elderﬁeld, H.R., Upstill-Goddard, R., Sholkovitz, E.R., 1990. The rare earth elements in
+rivers, estuaries, and coastal seas and their signiﬁcance to the composition of ocean
+waters. Geochim. Cosmochim. Acta 54, 971–991.
+Fiorelli, L.E., Ezcurra, M.D., Hechenleitner, E.M., Argañaraz, E., Taborda, J.R.A., Trotteyn, M.J.,
+Belén von Baczko, M., Desojo, J.B., 2013. The oldest known communal latrines provide
+evidence of gregarism in Triassic megaherbivores. Sci. Rep. 3, 3348. http://dx.doi.org/
+10.1038/srep03348.
+Flessa, K., Struthers, A., Fall, L.M., Dexter, T.A., 2012. Really crappy talk: fecal volume and
+body size in birds, mammals and dinosaurs. GSA Annual Meeting & Exposition 4–7
+November 2012, Charlotte, North Carolina, USA. Paper No. 30774-206053 (https://
+gsa.confex.com/gsa/2012AM/webprogrampreliminary/Paper206053.html).
+Franz, M., 2008. Litho- und Leitﬂächenstratigraphie, Chronostratigraphie, Zyklo- und
+Sequenzstratigraphie des Keupers im östlichen Zentraleuropäischen Becken
+(Deutschland, Polen) und Dänischen Becken (Dänemark, Schweden). Dissertation
+zur Erlangung des akademischen Grades doctor rerum naturalium (Dr. rer. nat.)
+vorgelegt der Naturwissenschaftlichen Fakultät III der Martin-Luther-Universität
+Halle-Wittenberg, verteidigt am 08.12.2008, pp. 1–198.
+Franz, M., Bachmann, G.H., Beutler, G., 2007a. Retyk sensu polonico versus Rhaet sensu
+germanico — new results. Schriftenr. Dtsch. Ges. Geowiss. 53, 99–100.
+Franz, M., Bachmann, G.H., Beutler, G., 2007b. Sedimentology and Facies of the Polish
+Retyk and the German Arnstadt and Exter Formations (Norian, Rhaetian) in the eastern Central European Basin (CEB). Schriftenr. Dtsch. Ges. Geowiss. 53, 101.
+Fritz, J., Hummel, J., Kienzle, E., Arnold, C., Nunn, C., Clauss, M., 2009. Comparative
+chewing efﬁciency in mammalian herbivores. Oikos 118, 1623–1632.
+Fritz, J., Hummel, J., Kienzle, E., Streich, W.J., Clauss, M., 2010. To chew or not to chew:
+fecal particle size in herbivorous reptiles and mammals. J. Exp. Zool. A Ecol. Genet.
+Physiol. 313A (9), 579–586.
+Fritz, J., Hummel, J., Kienzle, E., Wings, O., Streich, W.J., Clauss, M., 2011. Gizzard vs. teeth,
+it's a tie: food processing efﬁciency in herbivorous birds and mammals and implications for dinosaur feeding strategies. Paleobiology 37 (4), 577–586. http://dx.doi.org/
+10.1666/10031.1.
+Fuglewicz, R., 1977. New species of megaspores from the Trias of Poland. Acta Palaeontol.
+Pol. 22, 405–431.
+Ghosh, P., Bhattacharya, S.K., Sahni, A., Kar, R.K., Mohabey, D.M., Ambwani, K., 2003.
+Dinosaur coprolites from the Late Cretaceous (Maastrichtian) Lameta Formation
+of India: isotopic and other markers suggesting a C3 plant diet. Cretaceous Res. 24,
+743–750.
+Gilmore, B., 1992. Scroll coprolites from the Silurian of Ireland and the feeding of early
+vertebrates. Palaeontology 35, 319–333.
+Grandstaff, D.E., Terry, Jr., D.O., 2009. Rare earth element composition of Paleogene
+vertebrate fossils from Toadstool Geologic Park, Nebraska, USA. Appl. Geochem. 24,
+733–745.
+Haley, B.A., Klinkhammer, G.P., McManus, J., 2004. Rare earth elements in pore waters of
+marine sediments. Geochim. Cosmochim. Acta 68, 1265–1279.
+Hannigan, R.E., Sholkovitz, E.R., 2001. The development of middle rare earth element enrichments in freshwaters: weathering of phosphate minerals. Chem. Geol. 175, 495–508.
+Harrell, A.D., Schwimmer, D.R., 2010. Coprolites of Deinosuchus and other crocodylians
+from the Upper Cretaceous of Western Georgia, USA. NMMNH Bull. 51, 209–213.
+Hollocher, T.C., Chin, K., Hollocher, K.T., Kruge, M.A., 2001. Bacterial residues in coprolite of
+herbivorous Dinosaurs: role of bacteria in mineralization of feces. Palaios 16, 547–565.
+Hunt, A.P., 1992. Late Pennsylvanian coprolites from the Kinney Brick Quarry, central
+New Mexico, with notes on the classiﬁcation and utility of coprolites. Bull. New
+Mex. Bur. Min. Mineral Resour. 138, 221–229.
+Hunt, A.P., Lucas, S.G., 2005a. A new coprolite ichnotaxon from the Early Permian of Texas.
+NMMNH Bull. 30, 121–122.
+Hunt, A.P., Lucas, S.G., 2005b. A nonmarine coprolite acme zone in the Permo-Triassic.
+NMMNH Bull. 30, 123–124.
+Hunt, A.P., Lucas, S.G., 2005c. The origin of large vertebrate coprolites from the Early
+Permian of Texas. NMMNH Bull. 30, 125–126.
+Hunt, A.P., Lockley, M.G., Conrad, M.P., Paquette, M., Chure, D.J., 1993. Late Triassic
+vertebrates from the Dinosaur National Monument Area (Utah, USA) with an example of the utility of coprolites for correlation. NMMNH Bull. 3, 197–198.
+Hunt, A.P., Chin, K., Lockley, M.G., 1994. The paleobiology of vertebrate coprolites.
+In: Donovan, S.K. (Ed.), The Paleobiology of Trace Fossils. John Wiley, London,
+pp. 221–240.
+Hunt, A.P., Lucas, S.G., Lockley, M.G., 1998. Taxonomy and stratigraphic and facies significance of vertebrate coprolites of the Upper Triassic, Chinle Group, western United
+States. Ichnos 5, 225–234.
+Hunt, A.P., Lucas, S.G., Spielmann, J.A., 2005a. Early Permian vertebrate coprolites from
+north-central New Mexico with description of a new ichnogenus. NMMNH Bull. 31,
+39–42.
+Hunt, A.P., Lucas, S.G., Spielmann, J.A., 2005b. Biochronology of Early Permian vertebrate
+coprolites of the American Southwest. NMMNH Bull. 31, 43–45.
+Hunt, A.P., Lucas, S.G., Spielmann, J.A., Lerner, A.J., 2007. A review of vertebrate coprolites
+of the Triassic with descriptions of new Mesozoic ichnotaxa. NMMNH Bull. 41,
+88–107.
+Hunt, A.P., Lucas, S.G., Milàn, J., Spielmann, J.A., 2012. Vertebrate coprolite studies: status
+and prospectus. NMMNH Bull. 57, 5–24.
+Hunt, A.P., Lucas, S.G., Spielmann, J.A., 2013. Triassic vertebrate coprolite ichnofaunas.
+NMMNH Bull. 61, 237–258.
+Jain, S.L., 1983. Spirally coiled “coprolites” from the Upper Triassic Maleri Formation,
+India. Palaeontology 26, 813–829.
+Johannesson, K.H., Xiaoping, Z., 1997. Geochemistry of the Rare Earth Elements in natural
+terrestrial waters: a review of what is currently known. Chin. J. Geochem. 16, 20–42.
+
+16
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+
+Johannesson, K.H., Zhou, X., 1999. Origin of middle rare earth elements in acid waters of a
+Canadian high arctic lake. Geochim. Cosmochim. Acta 63, 153–165.
+Johannesson, K.H., Lyons, W.B., Bird, D.A., 1993. Rare earth element concentrations
+and speciation in alkaline lakes from the Western U.S.A. Geophys. Res. Lett. 21,
+773–776.
+Johannesson, K.H., Lyons, W.B., Yelken, M.A., Gaudette, H.E., Stetzenbach, K.J., 1996. Geochemistry of the rare-earth elements in hypersaline and dilute acidic natural terrestrial waters: complexation behavior and middle rare-earth element enrichments.
+Chem. Geol. 133, 125–144.
+Johannesson, K.H., Zhou, X., Guo, C., Stetzenbach, K.J., Hodge, V.F., 2000. Origin of
+rare earth element signatures in groundwaters of circumneutral pH from southern
+Nevada and eastern California USA. Chem. Geol. 164, 239–257.
+Kar, R.K., Sharma, N., Kar, R., 2004. Occurrence of fossil fungi in dinosaur dung and its
+implication on food habit. Curr. Sci. India 87, 1053–1056.
+Kemp, R.A., Trueman, C., 2003. Rare earth elements in Solnhofen biogenic apatite:
+geochemical clues to the paleoenvironment. Sediment. Geol. 155, 109–127.
+Kocsis, L., Osi, A., Vennemann, T., Trueman, C.N., Palmer, M.R., 2009. Geochemical study of
+vertebrate fossils from the Upper Cretaceous (Santonian) Csehbanya Formation
+(Hungary): evidence for a freshwater habitat of mosasaurs and pycnodont ﬁsh.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 280, 532–542.
+Kozur, H.W., Weems, R.E., 2005. Conchostracan evidence for a late Rhaetian to early
+Hettangian age for the CAMP volcanic event in the Newark Supergroup, and a
+Sevatian (late Norian) age for the immediately underlying beds. Hallesches Jahrb.
+Geowiss. B 27, 21–51.
+Kozur, H.W., Weems, R.E., 2007. Upper Triassic conchostracan biostratigraphy of the continental basins of eastern North America: its importance for correlating Newark Supergroup events with the Germanic Basin and the International Geologic Time
+Scale. NMMNH Bull. 41, 137–188.
+Kozur, H.W., Weems, R.E., 2010. The biostratigraphic importance of conchostracans in the
+continental Triassic of the northern hemisphere. In: Lucas, S.G. (Ed.), The Triassic
+Timescale. Geological Society of London Special Publications, 334, pp. 315–417.
+Kreamer, D.K., Hodge, V.F., Rabinowitz, I., Johannesson, K.H., Stetzenbach, K.J., 1996. Trace
+element geochemistry in water from selected springs in Death Valley National Park,
+California. Ground Water 34, 95–103.
+Lee-Thorp, J., Sealy, J., van der Merwe, N.J., 1989. Stable carbon isotopic ratios differences
+between bone collagen and bone apatite, and their relationship to diet. J. Archaeol.
+Sci. 16, 585–599.
+Lewis, S.J., Heaton, K.W., 1997. Stool form as a useful guide to intestinal transit time.
+Scand. J. Gastroenterol. 32, 920–924.
+Martin, R.B., 2005. Transboundary Species Project. Background Study: Hippopotamus.
+Namibia Nature Foundation, Windhoek.
+Martin, J.E., Patrick, D., Kihm, A.J., Foit, Jr., F.F., Grandstaff, D.E., 2005. Lithostratigraphy,
+tephrochronology, and rare earth element geochemistry of fossils at the classical
+Pleistocene Fossil Lake area South Central Oregon. J. Geol. 119, 139–155.
+Masters, P.M., 1987. Preferential preservation of noncollagenous protein during bone diagenesis: Implications for chronometric and stable isotopic measurements. Geochim.
+Cosmochim. Ac. 51 (12), 3209–3214.
+Milàn, J., Rasmussen, B., Bonde, N., 2012. Coprolites with prey remains and traces from
+coprophagous organisms from the Lower Cretaceous (late Berriasian) Jydegaard
+Formation of Bornholm, Denmark. NMMN Bull. 57, 235–240.
+Mőller, P., Bau, M., 1993. Rare-earth patterns with positive cerium anomaly in alkaline
+waters from Lake Van, Turkey. Earth Planet. Sci. Lett. 117, 671–676.
+Niedźwiedzki, G., 2014. The large predatory archosaur Smok wawelski from the latest
+Triassic of Poland. Palaeontol. Pol. 67 (in press).
+Niedźwiedzki, G., Gorzelak, P., Sulej, T., 2011. Bite traces on dicynodont bones and the
+early evolution of large terrestrial predators. Lethaia 44, 87–92.
+Niedźwiedzki, G., Sulej, T., Dzik, J., 2012. A large predatory archosaur from the Late Triassic
+of Poland. Acta Palaeontol. Pol. 57, 267–276.
+Northwood, C., 2005. Early Triassic coprolites from Australia and their palaeobiological
+signiﬁcance. Palaeontology 48, 49–68.
+Ochev, V.G., 1974. Some remarks on coprolites of Triassic vertebrates. Paleontol. J. 1974,
+253–255.
+O'Grady, S.P., Morando, M., Avila, L., Dearing, M.D., 2005. Correlating diet and digestive tract
+specialization: examples from the lizard family Liolaemidae. Zoology 108, 201–210.
+Olsen, P.E., Smith, J.B., McDonald, N.G., 1998. The material of the species of the classic
+theropod footprint genera Eubrontes, Anchisauripus and Grallator (Early Jurassic,
+Hartford and Deerﬁeld basins, Connecticut and Massachusetts, U.S.A.). J. Vertebr.
+Paleontol. 18, 586–601.
+Onyeanusi, A.E., 1999. Some ecological roles of Hippopotamus (Hippopotamus amphibious
+Linn. 1758) in ﬁsh production: possibilities for integrated ﬁsh-cum-agric production system. 13th Annual Conference of the Fisheries Society of Nigeria, 3–8 November 1996,
+New Bussa, Nigeria, pp. 282–285 (http://aquaticcommons.org/3869/1/13P282.pdf).
+Owocki, K., Niedźwiedzki, G., Sennikov, A.G., Golubev, V.K., Janiszewska, K., Sulej, T., 2012.
+Upper Permian vertebrate coprolites from Vyazniki and Gorokhovets, Vyatkian
+regional stage, Russian Platform. Palaios 27, 867–877.
+Patrick, D., Martin, J.E., Parris, D.C., Grandstaff, D.E., 2004. Palaeoenvironmental interpretations of rare earth element signatures in mosasaurs (Reptilia) from the Upper Cretaceous Pierre Shale, Central South Dakota USA. Palaeogeogr. Palaeoclimatol. Palaeoecol.
+212, 277–294.
+Pourret, O., Davranche, M., Gruau, G., Dia, A., 2008. New insights into cerium anomalies in
+organic-rich alkaline waters. Chem. Geol. 251, 120–127.
+Prasad, V., Strömberg, C.A.E., Alimohammadian, H., Sahni, A., 2005. Dinosaur coprolites
+and the early evolution of grasses and grazers. Science 310, 1177–1180.
+Reynard, B., Lécuyer, Ch., Grandjean, P., 1999. Crystal-chemical controls on rare-earth element concentrations in fossil biogenic apatites and implications for paleoenvironmental
+reconstructions. Chem. Geol. 155, 233–241.
+
+Rodríguez de la Rosa, R.A., Cevallos-Ferriz, S.R.S., Silva-Pineda, A., 1998. Paleobiological
+implications of Campanian coprolites. Palaeogeogr. Palaeoclimatol. Palaeoecol. 142,
+231–254.
+Rogers, R., Fricke, H.C., Addona, V., Canavan, R.R., Dwyer, C.N., Harwood, C.L., Koenig, A.E.,
+Murray, R., Thole, J.T., Williams, J., 2010. Using laser ablation inductively coupled
+plasma mass spectrometry (LA-ICP-MS) to explore geochemical taphonomy of vertebrate fossils in the Upper Cretaceous Two Medicine and Judith River Formations of
+Montana. Palaios 25, 183–195.
+Rusconi, C., 1947. Primeros hallazgos de coprolitos de reptiles en el triásico de El Challao
+Mendoza. Rev. Ciencia Investig. 10, 521–523.
+Rusconi, C., 1949. Coprolitos triássicos de Mendoza. Rev. Museo Hist. Natur. Mendoza 3,
+241–251.
+Schwarm, A., Ortmann, S., Wolf, C., Streich, W.J., Clauss, M., 2009. More efﬁcient
+mastication allows increasing intake without compromising digestibility or necessitating a larger gut: comparative feeding trials in banteng (Bos javanicus) and pygmy
+hippopotamus (Hexaprotodon liberiensis). Comp. Biochem. Physiol. A 152 (4),
+504–512.
+Schweizer, M.K., Wooller, M.W., Toporski, J.K.W., Fogel, M.L., Steele, A., 2006. Examination
+of an Oligocene lacustrine ecosystem using C and N isotopes. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 230, 335–351.
+Seto, M., Akagi, T., 2008. Chemical condition for the appearance of a negative Ce anomaly
+in stream waters and groundwater. Geochem. J. 42, 371–380.
+Sharma, N., Kar, R.K., Agarwal, A., Kar, R., 2005. Fungi in dinosaurian (Isisaurus) coprolites
+from the Lameta Formation (Maastrichtian) and its reﬂection on food habit and environment. Micropaleontology 51 (1), 73–82.
+Sholkovitz, E.R., 1992. Chemical evolution of rare earth elements: fractionation between
+colloidal and solution phases of ﬁltered river water. Earth Planet. Sci. Lett. 114, 77–84.
+Skawina, A., Dzik, J., 2011. Umbonal musculature and relationships of the Late Triassic
+ﬁlibranch unionoid bivalves. Zool. J. Linnean Soc. Lond. 163, 863–883.
+Smith, R.M.H., Botha-Brink, J., 2011. Morphology and composition of bone-bearing coprolites from the Late Permian Beaufort Group, Karoo Basin, South Africa. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 312, 40–53.
+Souto, P.R.F., 2001. Tetrapod coprolites from the Middle Triassic of southern Brazil. Gaia
+16, 51–57.
+Staneczko, K., 2007. Nowe dane paleobotaniczne na temat górnego triasu z Lipia Śląskiego
+koło Lublińca (południowa Polska). Geo Sympozjum Młodych Badaczy Silesia 2007,
+pp. 155–168.
+Stone, D.D., Crisp, E.L., Bishop, J.T., 2000. A large meat-eating dinosaur coprolite from
+the Jurassic Morrison Formation of Utah. Geol. Soc. Am. Abstr. Programs 32 (7), 220
+(http://rock.geosociety.org/absindex/annual/2000/50526.htm).
+Sulej, T., Bronowicz, R., Tałanda, M., Niedźwiedzki, G., 2011. A new dicynodont–archosaur
+assemblage from the Late Triassic (Carnian) of Poland. Earth Environ. Sci. Trans. R.
+Soc. 101, 261–269.
+Świło, M., 2010a. Znaleziska szczątków rekinów ze stanowiska Lipie Śląskie. Materiały do
+II Konferencji “Młodzi w Paleontologii”, Warszawa.
+Świło, M., 2010b. Szczątki rekinów triasowych na Śląsku, ich uzytecznosc w stratygraﬁi i
+paleoekologii(MSc Thesis) Wydział Nauk o Ziemi i Kształtowania Środowiska,
+Uniwersytet Wrocławski, Wrocław (59 pp.).
+Świło, M., 2010c. Znaleziska szczątków rekinów z Lipia Śląskiego. Materiały z XXI
+Konferencji Naukowej Sekcji Paleontologicznej PTG “Kopalne biocenozy w czasie i
+przestrzeni”, Żarki-Letnisko, p. 84.
+Świło, M., Kowalski, J., 2011. Mikroskamieniałości kręgowców z Lipia Śląskiego. Materiały
+do III Konferencji “Młodzi w Paleontologii”, Kraków.
+Świło, M., Niedźwiedzki, G., Sulej, T., 2014. Mammal-like tooth from the Upper Triassic of
+Poland. Acta Palaeontol. Pol. http://dx.doi.org/10.4202/app.00016.2013 (in press).
+Szulc, J., Gradziński, M., Lewandowska, A., Heunisch, C., 2006. The Upper Triassic crenogenic
+limestones in Upper Silesia (southern Poland) and their paleoenvironmental context. In:
+Alonso-Zarza, A.M., Tanner, L.H. (Eds.), Paleoenvironmental Record and Applications of
+Calcretes and Palustrine Carbonates. Geol. S. Am. S, 416, pp. 133–151.
+Tang, J., Johannesson, K.H., 2003. Speciation of rare earth elements in natural terrestrial
+waters: assessing the role of dissolved organic matter from the modeling approach.
+Geochim. Cosmochim. Acta 67, 2321–2339.
+Tang, J., Johannesson, K.H., 2010. Ligand extraction of rare earth elements from aquifer
+sediments: implications for rare earth element complexation with organic matter
+in natural waters. Geochim. Cosmochim. Acta 74, 6690–6705.
+Taylor, S.R., McLennan, S.M., 1985. The Continental Crust: Its Composition and Evolution:
+An Examination of the Geochemical Record Preserved in Sedimentary Rocks. Blackwell
+Scientiﬁc, Oxford.
+Thulborn, R.A., 1991. Morphology, preservation and palaeobiological signiﬁcance of
+dinosaur coprolites. Palaeogeogr. Palaeoclimatol. Palaeoecol. 83, 341–366.
+Trueman, C.N., 1999. Rare earth element geochemistry and taphonomy of terrestrial
+vertebrate assemblages. Palaios 14, 555–568.
+Trueman, C.N., Behrensmeyer, A.K., Potts, R., Tuross, N., 2006. High-resolution records of
+location and stratigraphic provenance from the rare earth element composition of
+fossil bones. Geochim. Cosmochim. Acta 70, 4343–4355.
+Verde, M., Ubilla, M., 2002. Mammalian carnivore coprolites from the Sopas Formation
+(Upper Pleistocene, Lujanian Stage), Uruguay. Ichnos 9 (1), 77–80.
+Vijaya, G., Prasad, V.R., Singh, K., 2009. Late Triassic palynoﬂora from the Pranhita–Godavari
+Valley, India: evidence from vertebrate coprolites. Alcheringa 33 (2), 91–111.
+Vogel, J.C., 1978. Isotopic assessment of the dietary habits of ungulates. S. Afr. J. Sci. 74,
+298–301.
+Wahl, A.M., Martin, A.J., Hasiotis, S., 1998. Vertebrate coprolites and coprophagy traces,
+Chinle Formation (Late Triassic), Petriﬁed Forest National Park, Arizona. In:
+Santucci, V.L., McClelland, L. (Eds.), National Park Service Paleontological Research.
+National Park Service Geological Resources Division Technical Report NPS/NRGRD/
+GRDTR-98/01, pp. 144–148.
+
+P. Bajdek et al. / Palaeogeography, Palaeoclimatology, Palaeoecology 411 (2014) 1–17
+Wasser, S.K., Houston, C.S., Koehler, G.M., Cadd, G.G., Fain, S.R., 1997. Techniques for application of faecal DNA methods to ﬁeld studies of Ursids. Mol. Ecol. 6, 1091–1097.
+Wawrzyniak, Z., 2010a. Tafonomia późnotriasowej ﬂory z Lipia Śląskiego. Materiały do II
+Konferencji “Młodzi w Paleontologii”, Warszawa.
+Wawrzyniak, Z., 2010b. Późnotriasowa ﬂora z Lipia Śląskiego(MSc Thesis) Wydział Nauk
+o Ziemi, Uniwersytet Śląski, Sosnowiec (76 pp.).
+Wawrzyniak, Z., 2010c. Późnotriasowe kutykule z Lipia Śląskiego k. Lublińca. Materiały z
+XXI Konferencji Naukowej Sekcji Paleontologicznej PTG “Kopalne biocenozy w czasie
+i przestrzeni”, Żarki-Letnisko, p. 85.
+Wawrzyniak, Z., 2011. The Upper Triassic cuticles from Lipie Śląskie (South Poland).
+In: Bąk, M., Kaminski, M.A., Waśkowska, A. (Eds.), Integrating Microfossil Records
+from the Oceans and Epicontinental Seas. Grzybowski Foundation Special Publication,
+17, pp. 140–141.
+
+17
+
+Wawrzyniak, Z., Ziaja, J., 2009. Wstępne wyniki badań górnotriasowej makroﬂory Lipia
+Śląskiego, Polska. Geologia 35, 105–106.
+Wings, O., 2007. A review of gastrolith function with implications for fossil vertebrates
+and a revised classiﬁcation. Acta Palaeontol. Pol. 52 (1), 1–16.
+Wings, O., 2012. Gastroliths in coprolites — a call to search! NMMNH Bull. 57, 73–77.
+Wings, O., Hatt, J.M., Schwarm, A., Clauss, M., 2008. Gastroliths in a pygmy hippopotamus
+(Hexaprotodon liberiensis Morton 1844) (Mammalia, Hippopotamidae). Senckenberg.
+Biol. 88 (2), 345–348.
+Wright, J., Schrader, H., Holser, W.T., 1987. Paleoredox variations in ancient oceans
+recorded by rare earth elements in fossil apatite. Geochim. Cosmochim. Acta 51,
+631–644.
+
+

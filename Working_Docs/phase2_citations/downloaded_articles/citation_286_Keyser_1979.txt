@@ -1,0 +1,2706 @@
+Trans. geol. Soc. S. Afr.. 82 (1979), 81-108
+
+THE ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+by
+A. W. KEYSER and A. R. I. CRUICKSHANK
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+ABSTRACT
+The problem of the classification of the Triassic Dicynodontia, a notoriously difficult group of fossil
+Theraspida, is reviewed in depth and Cox's classification is revised accordingly. From this a suite of
+characters emerges which serves to define the unified character of the larger Triassic genera, the Kannemeyeridae Huene, typified by Kannemeyeria Seeley. These characters are: large size, with skulls normally exceeding 25 cm in overall length and often being more than 50 cm; possession of a long snout and
+palatal region, with concomitant shortening of the temporal openings; short fenestra medio-palatinalis,
+which migrates out with the limits of the choanal depression in some late forms, and mayor may not
+have raised flap-like margins; dorsally deepened intertemporal bar; fused anterior elements in the braincase; a reflected lamina of the angular which is close to or contacts the lateral condyle of the articular;
+(associated with the latter case, the quadrate foramen is seen to disappear); the forward growth of a
+pterygoid process of the quadrate; the epipterygoid with a dorsal process on the anterior footplate; an
+intertemporal region always narrower than the interorbital; highly reduced postfrontals; absence or
+extreme reduction of the ectopterygoid; a short "x"- or "v"-shaped interclavicle; a separately ossified
+olecranon ulnae.
+Using these characters, Triassic dicynodonts can be seen to be derived from a form similar to Rhachiocephalus dubius Boonstra, which is shown to be close to the genera Daptocephalus and Dinanomodon of
+Daptocephalus zone age (uppermost Permian). Because of this relationship, a new genus is created for
+Rhachiocephalus dubius, viz. Odontocyc!ops, which is of Cistecephalus zone age (Upper Permian). Daptocephalus is believed to be ancestral to the newly defined, broad-snouted, subfamily Dinodontosaurinae and
+Dinanomodon is believed to be ancestral to the narrow-snouted, subfamily Kannemeyerinae Lehman
+emend. The very large Upper Triassic genera are classified in the su bfamily, Stahleckerinae non sensu
+Lehman. The very late Triassic subfamily, Jachelerinae Keyser, is retained. Lystrosaurus. Myosaurus and
+Kombiusia are included in the final revised classification of Triassic dicynodonts which is seen to be
+made up of 26 genera and 47 species.
+CONTENTS
+I. INTRODUCTION . . . . . .
+. . . . . . . . . . . . . . . . . . . . ..
+II. THE ORIGIN OF TRIASSIC DICYNODONTS . . . . . . . . . . . . . . . . . . .
+A. General . . . . . . . . . . . . . . , . . . . . . . . . . . . . . . . . . .
+B. Odontocyc!ops dubius (Boonstra) gen. nov. formerly Rhachiocephalus dubius Boonstra, 1938
+C. Genus Daptocephalus Van Hoepen, 1934 .
+D. Genus Dinanomodon Broom, 1938
+E. Genus Dinodontosaurus Romer, 1943
+F. Genus Kannemeyeria Seeley .
+G. The Origin of Kannemeyeria . . . .
+H. The Origin of Dinodontosaurus . . .
+III. PREVIOUS CLASSIFICATIONS
+A. General Review
+.....................
+B. The Status of the Families Kannemeyeridae and Stahleckeridae Cox .
+IV. A REVISED CLASSIFICATION OF TRIASSIC DICYNODONTS
+A. The Family Kannemeyeridae Huene, 1948 . . . . . .
+I. Subfamily I Kannemeyerinae Lehman, 1961 Emend
+2. Subfamily II Dinodontosaurinae Subfam. Nov. . . .
+3. Subfamily III Stahleckerinae non sensu Lehman, 1961
+4. Subfamily lachelerinae Keyser, 1974
+B. Triassic Dicynodontia Incertae Sedis
+C. Other Dicynodontia of Triassic Age
+ACKNOWLEDGMENTS
+REFERENCES . . . . . . . . .
+
+I. INTRODUCTION
+The last decade or so has seen a virtual "explosion" in
+the number of genera and species of Triassic Dicynodontia. New forms have come from all the Gondwana fragments, except Australia, as well as Russia and China.
+In many ways there is great morphological similarity between the various species and a broad subdivision into
+"blunt-nosed" and "narrow-nosed" forms was demonstrated by Cox (1965). Some of the more specialised Late
+Triassic forms do not appear to fit into such a broad classification, however, and these, e.g. Ischigualastia. Stahleckeria and Placerias are in retrospect difficult to place in
+either of these two groups. In this paper they are regarded
+as forming a distinct group separate from the others.
+Most of the newly discovered species more or' less coincide with the Shansiodontidae as understood by Cox
+(1965), e.g. Shansiodon Yeh, Tetragonias Cruickshank,
+
+Page
+81
+82
+82
+82
+85
+86
+86
+88
+90
+91
+91
+91
+93
+97
+98
+98
+99
+102
+106
+106
+106
+107
+108
+
+Dolichuranus Keyser and Vinceria Bonaparte. Dinodontosaurus von Huene also appears to fall into this group which
+certainly no longer deserves to be called "primitive" as
+was done by Cox (1965) in his classic paper on the Triassic
+Dicynodontia. This "shansiodont" group then actually
+constitutes a distinct "natural" group of broad-snouted
+Triassic Dicynodontia, separate from the Stahleckeridae
+as defined by Cox (op. cit.). In the authors' opinion there
+are far too many generic names in the "shansiodonts" and
+it is possible that only two genera with many species will
+be ultimately used as research progresses. These are Shansiodon and Dinodontosaurus. It is most unfortunate that so
+little is known about the detailed morphology of Shansiodon. Thus we do not propose to base any higher taxon on
+this latter genus.
+The narrow-snouted forms constitute a smaller group of
+Triassic Dicynodontia, the genus Kannemeyeria occupying
+
+82
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+a possible central position in this group. The familial name
+Kannemeyeridae has been proposed for this group by Cox
+(1965) in a different sense to that of Von Huene (1948). In
+the authors' opinion, far too many generic names also exist
+in this group.
+The greater number of Triassic Dicynodontia seem now
+to be better placed in either one of these two groups. The
+genus lacheleria Bonaparte is regarded as being the type
+of a quite distinct fourth grouping of very specialised late
+Triassic forms.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+II. THE ORIGIN OF TRIASSIC DICYNODONTS
+A. General
+The Triassic Dicynodontia have a number of features in
+common which are not found in most of the Permian genera. They are characterised by a shortening of the postorbital part of the skull (as has been noted by many
+authors, e.g. Crompton and Hotton, 1967; Cox, 1965;
+Cruickshank, 1967; Keyser, 1974), which probably resulted from a more dorsal origin of the jaw musculature as
+an adaptation to a diet dominated by the plant genus Dicroidium and various cycads (Keyser, 1974).
+A shortening of the back half of the skull with a concomitant increase in the length of the snout is not found in
+any of the Permian genera except Daptocephalus and Dinanomodon, which occur in the uppermost Permian Daptocephalus Zone of the Beaufort Group of South Africa.
+Concomitant with the shortening of the rear of the skull,
+several other characters appear in Triassic Dicynodontia
+which are not found in most of their Permian counterparts. These are, among others, the marked shortening of
+the fenestra medio-palatinalis (interpterygoid vacuity or
+space) and the development of a dorsal process on the
+pterygoid ramus of the epipterygoid.
+It was, therefore, decided that Permian dicynodonts
+which display these advanced features should be re-examined as possible ancestors of the Triassic forms; as most of
+the Lower Triassic genera are tusked, only tusked Permian
+genera need to be considered.
+Several large dicynodont skulls in the collection of the
+Bernard Price Institute for Palaeontological Research display reduced fenestrae medio-palatinales and are tusked.
+These specimens are from the Madumabisa Mudstone
+Formation in the Luangwa Valley, Zambia. They were all
+collected at Locality 4 (Kitching, 1963) at which the genus
+Cistecephalus also occurs. In these, several features can be
+demonstrated which could indicate that the species they
+represented is possibly ancestral to the genus Daptocephalus.
+All these specimens can be referred to Rhachiocephalus dub ius
+Boonstra. Among the advanced features to be seen in this
+dicynodont are a shortened fenestra medio-palatinalis and an
+epipterygoid with an incipient dorsal process on the pterygoid
+ramus.
+However, as this species shows few of the characters
+seen in combination in the genus Rhachiocephalus (Keyser,
+1969, 1974) it is necessary to reassess its taxonomic position and to redescribe its cranial anatomy in more detail
+than did Boonstra in 1938.
+B. Odontocyclops dubius (Boonstra) gen. nov. formerly
+Rhachiocephalus dubius Boonstra, 1938
+
+Diagnosis
+Large Dicynodontia (skull length often more than
+60 cm) with canine tusks in most specimens. Nostril placed
+high up in the snout far from alveolar border. Intertemporal region about the same length as the distance from
+the postorbital arches to the tip of the snout. The nasal
+bosses well-developed and elongate: completely confluent
+with the pre-frontal bosses and give the dorsal surface of
+the snout a concave appearance. Intertemporal region
+broad with a wide portion of the parietals visible between
+the postorbitals which extend back to meet the squam-
+
+osals. Palatal structure similar to that of Daptocephalus
+with extensive contact between the palatines and the premaxilla. Fenestra medio-palatinalis placed far back in the
+choanal depression and is about one third th~ length .of the
+choanal depression. The footplate of the eplpterygOid has
+a long anterior extension.
+H olotype: Specimen 11313, South African Museum, Cape
+Town.
+Type Locality: "Luangwa Valley", Zambia. Locality 4
+(Drysdall and Kitching, 1963) is probably the type locality.
+.
+Horizon: Upper Madumabisa Mudstone (Upper Permian:
+Cistecephalus Zone)
+Referred Material: 4 Skulls in the collection of the Bernard
+Price Institute for Palaeontological Research. Collector, J. W. Kitching.
+This species was first described by the late Dr L. D.
+Boonstra in 1938. The holotype consists of a large tusked
+skull that was badly damaged during excavation and preparation. The greater part of the specimen is embedded in a
+block of plaster of Paris. The only features that can be
+identified and used in the identification of the species are
+the presence of tusks, the elongate nasal bosses and the
+broad intertemporal region. Since the original description,
+no other specimens have been referred to this species in
+the literature. Boonstra referred his original material to
+the genus Rachiocephalus.
+Eighteen species of large tuskless dicynodonts are
+known from the Beaufort Group of South Africa. These
+were reviewed by Keyser (1975) who concluded that it was
+impossible to distinguish the various species on the
+material that is available at present and that only the name
+Rhachiocephalus magnus (Owen) should be used.
+It has since then come to light that the type of Platycyclops crassus Broom has a pterygoid process of the
+quadrate which serves to remove it from the genus Rhachiocephalus (Keyser, 1974).
+Rhachiocephalus dubius Boonstra (1938) displays a number of features that serve to distinguish it from the other
+species of the genus Rhachiocephalus. The species dubius
+has large tusks, labial fossae and peculiar nasal bosses. It
+lacks the prominent ridges on the caniniform processes as
+well as the median longitudinal ridge that is so characteristic of Rhachiocephalus.
+Unfortunately, most of the fossil vertebrates from the
+Madumabisa Mudstone are preserved in an extremely refractory ferruginous mudstone that mainly consists of haematite. This matrix defies ordinary mechanical and chemical methods of preparation. This accounts for the fact that
+so little is known about the rich and varied theraspid fauna
+from the Luangwa Valley.
+
+Measurements in mm
+Specimen
+No.
+
+Total
+length
+
+Basal
+length
+
+Interorbital
+width
+
+Intertemporal
+width
+
+BPI 3585
+BPI 3419
+BPI 3586
+BPI 3589
+
+561
+
+392
+382
+421
+27
+
+III
+119
+III
+83
+
+100
+80
+83
+56
+
+589
+424
+
+The specimens show a wide variation in proportions,
+size of tusks and many other features. These differences
+must be considered to be due to individual variation and
+post-mortem deformation. The four specimens are regarded as a sample of a fossil population because they
+were ~ound close to one another at the same stratigraphic
+level In the Upper Madumabisa Mudstone and have a
+number of features in common that are of rare occurrence
+
+83
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+in other dicynodont species. These are:
+(a) The possession of elongate nasal bosses.
+(b) The concave dorsal surface of the snout.
+(c) The occurrence of a small boss on the lateral surface
+of the lacrimal.
+(d) Wide intertemporal region that widens posteriorly.
+(e) Short fenestrae medio-palatinales with raised margins.
+The authors, therefore, feel justified in considering the
+four specimens as belonging to the same species. The
+material was prepared by mechanical methods.
+
+The Skull
+Dorsal and Lateral views (Figs. 1 and 2)
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+The general shape of the skull is very similar to that of
+
+Oudellodon and Rhachiocephalus. Sutures are difficult. to
+trace because of the massive nature of the bones; the anterior.. and dorsal surfaces of the premaxilla are concave
+medially. There is no medial longitudinal ridge on the dorsal surface of the premaxilla as is found in many other anomodonts. The concave dorsal surface of the premaxilla is
+continued posteriorly on to the dorsal surface of the nasalso Posterior to the nares externi the nasals form large
+elongate nasal bosses which are continued posteriorly on
+to the prefrontals. The entire dorsal surface of the snout
+therefore appears to be concave. It can be expected that
+this feature will be exaggerated by post-mortem deformation because of the mechanical strength of the elongate
+nasal bosses, which will be more resistant to compression
+than the thinner bones along the midline of the snout.
+
+.'\
+
+~~1
+(
+
+\
+
+/'"
+
+~
+>
+
+"m ...
+
+..------. . .\.J/ ._ ----
+
+. ., . , 7"---(
+
+~
+;/
+
+.
+
+~., '
+
+~f
+
+'
+
+s
+Iq
+
+(
+
+\
+
+sq
+
+\~"- /
+
+)
+
+..
+I
+
+,/
+
+Odon(QCYclop.~ dubius (Boonstra) gen.
+
+approximately)
+
+p.
+
+/
+Figures 1-4
+nov. B.P.I.F. No. 3589. Viewed in dorsal. lateral, palatal and occipital aspects respectively. (Scale 0.25
+
+84
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+The lacrimals form a small part of the side of the snout
+but do not reach the posterior margins of the nares externi, and the septomaxillae are firmly sutured to the
+maxillae.
+The occurrence of canine tusks is highly variable in the
+four specimens that were studied. Specimen BPI 3585,
+which is the second largest specimen in the series, has no
+erupted tusks and this has small caniniform processes as
+are found in Rhachiocephalus. One of the caniniform processes was broken off accidentally and showed an unerupted canine in the maxilla. Specimen BPI 3589 has a
+small erupted canine on one side only. Both the other
+specimens are tusked. Specimen 3586, the largest in the
+series, has caniniform processes that are much larger than
+those of specimens with smaller tusks. The caniniform
+processes are relatively much smaller than those of later
+genera such as Daptocephalus and Kannemeyeria.
+The interorbital region is slightly wider than the intertemporal region, and widens posteriorly. A wide strip of
+the parietals is exposed between the postorbitals posterior
+to the parietal foramen.
+The parietal foramen is placed fairly far forward on the
+intertemporal bar close to a line drawn between the postorbital arches. The parietal foramen is elongate. A low
+boss is formed on the preparietal which forms the anterior
+margin of the parietal foramen.
+The zygomatic arches bow out laterally to give the skull
+a similar shape to that of Rhachiocephalus.
+It is difficult to determine whether the skull was as flat
+as that of Rhachiocephalus or higher, like that of Daptocephalus, as all specimens are deformed. The general
+impression is that the skull was slightly higher than that of
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Oudenodon baini.
+Ventral view (Fig. 3)
+The anterior part of the palate is not as deep as in many
+other dicynodont genera such as Diictodon and Daptocephalus. This feature is, however, highly variable in this
+series of skulls because of the great variability encountered in the size of the caniniform processes.
+The relationships of the bones in the palatal region are
+very similar to that found in Daptocephalus.
+The premaxilla displays the two anterior palatal ridges
+with a deep groove between them as is found in most Dicynodontia. The posterior median palatal ridge is continuous
+with the vomer posteriorly and is highest at the level of the
+anterior choanal slits. The premaxilla forms the greater
+part of the secondary palate. The palatines do not constitute as great a part of the secondary palate as is the case in
+forms such as Oudenodon and Rhachiocephalus. There is extensive contact between the premaxilla and the palatines.
+The palatines have a similar configuration to the condition found in Daptocephalus. They form the lateral walls
+of the anterior choanal slits and constitute part of the dorsal wall of the choanal depression.
+The margins of the fenestra medio-palatinalis (interpterygoid vacuity) are very variable in the series of
+specimens. In specimen BPI 3585 the fenestra is nearly
+half as long as the choanal depression. In the other three
+specimens the fenestra is about one third the length of the
+choanal depression and placed far back in it. The fenestra
+is laterally bounded by the divided posterior plates of the
+vomer, which project ventrally below the roof of the choanal depression, thus bringing the opening of the fenestra to the level of the pterygoids. A similar condition is
+found in Daptocephalus.
+The condition of the fenestra in Odontocyclops and Daptocephalus closely approximates that found in Triassic
+Dicynodontia and contrasts sharply with the long fenestra
+without raised margins encountered in most other Permian Dicynodontia.
+The pterygoids meet the maxilla at a point midway
+along the choanae. The ectopterygoids separate the ptery-
+
+goids from the maxilla on the external sides ~mly. of th.e
+palatine rami of the pterygoids. The pterygoId gIrder IS
+much narrower than is found in Daptocephalus.
+In general it can. be said that the relationship.s ?f the
+bones on the ventral side of the skull are very slmtiar to
+those found in Daptocephalus and that the differences
+found can mostly be related to the relatively larger inter.
+temporal region of Odontocyclops.
+The epipterygoid has an unusual feature that. IS ~ot encountered in many other Permian DicynodontIa, In that
+the footplate has a long anterior extension that extends
+forward and meets the presphenoid part of the sphenethmoid. This part of the epipterygoid differs from the condition found in Daptocephalus where an additional dorsal
+process is formed on the anterior ramus of the epipterygoid. In most Permian dicynodonts the anterior ramus of
+the epipterygoid is very short.
+
+Remarks
+In Zambia, the genus Odontocyclops nov. is found associated with the zone fossil Cistecephalus microrhinus Owen.
+Cistecephalus is never associated with specimens of Daptocephalus in the Karoo Basin. It can, therefore, be as~umed
+that locality 4 in the Madumabisa Mudstone is older than
+the Daptocephalus zone of South Africa. This can be substantiated too by the presence there of a large number of
+small endothiodonts which are rare in the Daptocephalus
+zone.
+The genus Odontocyclops has many features in common
+with Daptocephalus and can, therefore, be considered as a
+possible ancestor to that genus. These are:
+(a) The small posteriorly placed fenestra medio-palatinalis of which the vomers form the raised margins.
+(b) The anterior process of the footplate of the epipterygoid.
+(c) The large posterior extension of the premaxilla in the
+secondary palate.
+(d) Reduction of the ectopterygoid.
+(e) The high placement of the external nares in the snout
+and the sutural contact of the septomaxilla with the
+maxilla.
+(f) The small size of the parietal foramen and the lack of a
+large bony boss surrounding the foramen.
+In the above features, Odontocyclops shows agreement
+with the genera Daptocephalus, Dinanomodon and the Triassic dicynodonts. The features in the above list are shared
+with very few other Permian Dicynodontia. In some respects Odontocyclops retains a number of primitive characters that are more typical of Permian Dicynodontia. These
+features may be termed primitive as they are of rare occurrence in the more advanced Triassic Dicynodontia. Those
+particularly relate to the general proportions of the skull.
+The intertemporal region is long and the snout is short,
+which indicates that the temporalis musculature still functioned like that in typical Permian genera, such as Rhachiocephalus and Oudenodon. The intertemporal region is
+relatively very broad when compared with the Triassic
+genera.
+Notwithstanding the many characters possessed by
+Odontocyclops which make it an attractive ancestor to Daptocephalus, the following features show it to be, in fact,
+too specialised to be the actual ancestor, viz. the concavity
+of the dorsal surface of the snout, the broad intertemporal
+region and the very large size of the forms presently
+known. The ancestor of Daptocephalus must, therefore,
+have been a form similar to Odontocyclops dubius but without the above specialisations.
+In general it can be said that Triassic Dicynodontia are
+characterised by having long snouts and short crested intertemporal regions. Functionally this means that the main
+mass of the adductor musculature was more dorsally
+placed (Crompton and Hotton, 1967). A large number of
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+other specialisations that occur in few of the Permian dicyn~
+odonts also occur, many of which are already found in
+two genera from the Daptocephalus zone of the Beaufort
+group - Daptocephalus and Dinanomodon.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+C. Genus Daptocephalus Van Hoepen, 1934
+Type Species: Daptocephalus leoniceps (Owen), 1876
+The cranial morphology of the genus Daptocephalus has
+been well described by Ewer (1961) and redescription of
+
+85
+
+the morphology would entail needless repetition. Only the
+more salient features need be pointed out here as Daptocephalus is in many ways morphologically intermediate
+between Odontocyc!ops and many of the dinodontosaurine
+dicynodonts of the Triassic (see below). The specimen
+described by Ewer was laterally compressed. The figures
+given here are of a less distorted specimen of the Geological Survey collection, No. R31.
+The stratigraphic occurrence of the genus also fits in
+
+Figures S--8
+Daprocephalus leolliceps (Owen). Geo!. Survey No. R.31. Viewed on dorsal, lateral, palatal and occipital aspects respectively. (Scale 0,25 approximately)
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+86
+
+with this interpretation as the Daptocephalus zone occurs
+above the strata that contain Cistecephalus (age of Odontocyclops) and immediately below the lowermost Triassic
+strata of the Lystrosaurus zone (Kitching, 1971, 1977). Features of Daptocephalus that can be regarded as advanced
+with respect to the Permian, and leading on to the Triassic
+dicynodonts, are the following:
+1. Relatively long snout with large caniniform processes.
+2. Long secondary palate formed mainly by the premaxilla with the palatines contributing very little to the
+secondary palate.
+3. Pterygoids meet the maxillae anteriorly. The ectopterygoids are small, thin elements separating the pterygoids
+from the maxillae on the lateral sides of the palatine
+rami of the pterygoids.
+4. The fenestra medio-palatinalis is relatively small
+(smaller than that of Odontocyclops) and placed far back
+in the choanal depression. The lateral margins of the
+fenestra consist of raised plates of the vomer that extend ventrally to the level of the ventral surface of the
+pterygoids.
+5. The "pterygoid girder" is much wider than in Odontocyclops and almost as wide as the girder in Kannemeyeria.
+6. The temporal fossae are much shorter than those of
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Odontocyclops.
+7. The intertemporal region of Daptocephalus is narrow
+and forms a sharp crest with the postorbitals meeting in
+the midline behind the parietal foramen. The postorbitals are long and meet the squamosal posteriorly.
+8. There is no boss surrounding the parietal foramen which is
+relatively small.
+9. There is no medial longitudinal ridge on the dorsal surface of the premaxilla as is seen in many Permian dicynodonts, e.g. Oudenodon and Rhachiocephalus or the
+Triassic kannemeyerines.
+Some broad-snouted specimens of Daptocephalus from
+the northern part of the Karoo Basin in the Orange Free
+State and Natal (Daptocephalus zone) that are being studied by Dr J. W. Kitching of the Bernard Price Institute for
+Palaeontological Research, may prove to be a new species
+of Daptocephalus which could be intermediate between
+Daptocephalus leoniceps and Odontocyclops.
+Casts of Dicynodon annae that have been received from
+Russia without any locality data, in the British Museum
+(Natural History) and the Palaeontological Institute in
+Tubingen, closely resemble Daptocephalus leoniceps. The
+genus limusaria from Shansi, People's Republic of China,
+also appears to have the same level of organisation as Daptocephalus. Small specimens of a very Daptocephalus-like
+anomodont occur in the Cistecephalus zone of the Lower
+Beaufort near Pearston in the Cape Province, but their
+true identity has not yet been elucidated (Kitching, pers.
+comm.).
+It is also possible that the generic name Daptocephalus
+could become a junior synonym of the genus Dicynodon.
+There can, however, be no certainty about this until such
+time as the generotype of the genus Dicynodon, Dicynodon
+lacerticeps, has been studied adequately. It is possible that
+it could be a young individual of the species that is currently known as Daptocephalus leoniceps.
+D. Genus Dinanomodon Broom, 1938
+Type species: Dinanomodon rubidgei Broom, 1938
+This genus differs from Daptocephalus principally in the
+very peculiar specialisation of the tip of the snout. In Dinanomodon the tip of the snout is pointed, with a prominent
+ridge on the dorsal surface of the premaxilla, so that it
+looks very much like the inverted bow of a boat. If only
+the type of Dinanomodon rubidgei had been known this
+peculiarity could have been considered to be due to lateral
+compression of the tip of the snout in a Daptocephalus-like
+skull. However, several other specimens are known from
+
+the Daptocephalus zone in the Graaff-Reinet district and
+along the Orange River in the Orange Free State, which
+are now housed in the National Museum, Bloemfontein.
+There can, therefore, be no reasonable doubt that the condition of the snout in Dinanomodon rubidgei is, in fact,
+natural.
+The relationships of the various elements on the ventral
+surface of the skull are so similar to those found in Daptocephalus that description would be mere repetition.
+Despite the beak-like anterior tip of the premaxilla, the
+anterior palatal ridges are developed in exactly the same
+way as in Daptocephalus. The fenestra medio-palatinalis is
+also very small. The anterior ramus of the footplate of the
+epiterygoid also has a dorsal process as is found in Dapto-
+
+cephalus.
+The intertemporal region is very narrow and the postorbitals meet in the midline. The intertemporal region is
+relatively longer than that of Daptocephalus.
+The more pointed snout found in Dinanomodon with the
+prominent medial ridge on its dorsal surface, indicates
+closer relationship with the younger genus Kannemeyeria
+rather than with the Dinodontosaurus group of Triassic
+Dicynodontia.
+It has proved almost impossible to provide a view of the
+occiput of Dinanomodon rubidgei owing to the very damaged state of the type and the fact that it is embedded in
+plaster of Paris. A subjective assessment of the occiput of
+this species indicates that it may have some resemblance to
+that of the Upper Triassic form Ischigualastia.
+
+E. Genus Dinodontosaurus Romer, 1943
+Type species: Dinodontosaurus turpior (Huene)
+Four species of this genus have been described and the
+genus Chanaria Cox (1968) is possibly a junior synonym of
+Dinodontosaurus (see Keyser, 1974).
+Dinodontosaurus resembles Daptocephalus in many
+respects. The sutural relationships of the bones on the
+palatal surface are essentially the same as in this genus.
+The relative length of the snout and, consequently, the
+length of the secondary palate is much longer in Dinodontosaurus. Both genera have much reduced, laterally
+placed ectopterygoids.
+The skull of Dinodontosaurus is much higher than that of
+Daptocephalus, but the most noticeable feature that distinguishes the two genera is, however, the very short intertempo:oal region and temporal fossae of Dinodontosaurus.
+The great relative length of the snout in this genus is concomitant with the shortening of the interpterygoid region.
+The high skull with short intertemporal fossae was certainly developed to achieve a more vertical placement of
+the adductor musculature and led to a greater reduction in
+the length of the postorbitals which do not extend farther
+posteriorly than the parietal foramen, in contrast to the
+condition in Daptocephalus where the postorbitals meet the
+squamosals above the occipital plate.
+The fenestra medio-palatinalis is even further reduced
+in Dinodontosaurus. The development of very large canine
+tusks, from. which the genus derives its name, has led to
+the formatIOn of very deep caniniform processes with
+sharp anterior edges. This trend seems associated with the
+shortening of the temporal fenestrae as these features are
+all intimately linked with mastication.
+!h~ do.rsal process of the anterior ramus of the epipterygOld IS thickened and is developed into a small boss.
+Thu.s t~e g~nus Dinodontosaurus can be regarded as typical .Tnassl~ dlcynodonts which possess all the characters associated. With the advanced types of the Upper Triassic. It
+occ~rs In the Santa Maria Formation of Brazil and the
+Ischlchuca and Ischigualasto Formations of the IschiguaI~sto Basin of Argentina (Bonaparte, 1971). These formations are generally considered to be Upper Triassic in age.
+
+87
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+...
+
+'
+
+)/'
+
+I'
+
+/
+
+II
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+}
+j
+
+~
+sq
+
+\
+
+.I
+/
+
+./
+
+\
+
+./
+
+\ ., ---_.---
+
+i
+
+-
+
+,.,.~,
+
+... ~
+
+,/
+
+Figures 9-11
+Dinanomodon rubidgei Broom. Rubidge Collection No.9. Viewed in dorsal. lateral and palalal aspects respeclively. (Scale 0,25 approximately)
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+88
+
+Figures 12-15
+Dinodontosaurus turpior (Huene). Reconstructed from various sources. Viewed in dorsal, lateral, palatal and occipital aspects respectively.
+
+(Scale 0,166 approximately)
+
+F. Genus Kannemeyer;a Seeley
+Tvpe species: Kannemeyeria simocephala (Weithofer), 1888
+Kannemeyeria was the first Triassic dicynodont to become known to science. The osteology of the genus is well
+known through the work of Pearson (1924). This genus can
+be regarded as typical of a large group of Triassic Dicynodontia and, as reviewed above, has been variously referred
+to either the Family Kannemeyeridae von Huene or Cox,
+or Subfamily "Kannemeyeroinae" Lehman.
+The most notable features of the skull in this genus are
+the high, crested intertemporal region and the pointed anterior tip of the snout.
+The intertemporal region is relatively short and the
+occiput fairly low and wide when compared to a form like
+
+Dinodonrosaurus. The postorbitals extend behind the
+parietal foramen and barely meet the squamosals. The high
+intertemporal crest indicates that at least the adductor
+externus medialis muscles functioned in a more vertical
+direction than was the case in most other dicynodonts.
+As is found in all of the Triassic genera the fenestra
+medio-palatinalis is very small and placed far back in the
+choanal depression. The footplate of the epipterygoid is
+expanded in an anterior direction and has a prominent
+dorsal process.
+The anterior tip of the premaxilla is pointed almost as
+much as that of Dinanomodon. This stands in sharp contrast to the condition seen in Dinodontosaurus and Dolichuranus and in the latter two genera there is no prominent
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+medial ridge on the dorsal surface of the premaxilla. In
+Kannemeyeria. as in Dinanomodon, this ridge is very
+strongly developed, with the function of adding mechanical strength to the sharp point of the premaxilla. This adaptation is not necessary for a broad square snout like that
+of Dinodontosaurus.
+The bone on the surface of the snout has an irregularly
+pitted surface which could indicate that the horny covering of the upper jaws extended on to this part of the skull,
+and the caniniform processes are very large in this genus.
+This latter results in a very deep palate. The palatine bones
+are relatively small and the premaxilla extends far back,
+forming most of the secondary palate.
+
+89
+
+The external nares are placed high up in the snout, far
+above the alveolar margin. The septomaxilla is fused to the
+maxilla.
+
+Discussion
+The Triassic Dicynodontia, exclusive of the Lystrosauridae and other, minor, groups are a diverse group of
+specialised herbivores which have been divided into three
+broad categories to which Cox (1965) accorded familial
+status. These were:
+(a) Kannemeyeridae - genera with pointed snouts and
+high crested intertemporal regions and high, relatively
+
+(
+
+\\.
+
+Figures 1~19
+Kannemeveria cn~~/Qrhvnchus (R.C). Geol. Survey No. R313. Viewed in dorsal. lateral, palatal and occipital aspects respectively. (Scale 0.25
+
+approximalely)
+
+.
+
+TRANSA(TIONS OF THF GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+90
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+narrow, occiputs, e.g. Kannemeyeria. Sinokannemeyeria.
+Parakannemeyeria. Ischigualastia and PlaceriaL
+(b) Stahleckeridae - genera with low, wide, occipital surfaces, short intertemporal regions and broad squaretipped snouts, e.g. Dinodonlosaurus and Stahleckeria.
+(c) Shansiodontidae
+more primitive Triassic dicynodonts which do not clearly belong in one of the two
+other families.
+This was interpreted as two separate lineages descended
+from a primitive, more generalised, group (Cox. 1965).
+In an earlier paper (Keyser, 1974) one of the authors
+pointed out eight evolutionary trends encountered in the
+Triassic dicynodonts, which have been reviewed on pp. 84 and
+89 above. The' evaluation of the features that are involved in
+these trends naturally leads to a search for some of the above
+advanced characters among the large variety of more
+primitive Permian dicynodonts.
+As most Triassic dicynodonts are tusked, only tusked
+forms from the Cistecephalus zone can be considered as
+likely ancestors. As discussed above, Odonlocyc/opS has
+several features that are found in Triassic dicynodonts; it
+has canine tusks, the fenestra medio-palatinalis is small
+and has raised margins within the choanal depression, the
+
+septomaxilla is fused to the maxilla. the external nares a.re
+situated high in the snout far above the alveola.r margl~,
+and the anterior ramus of the footplate of the epJpterygOid
+has characters indicative of an amnity with the Triassic
+Dicynodontia. Odontocyclops has more features in common with the genus Daptocephalus and Dinanomodon of
+the succeeding DaplOcephalus zone than any other known
+dicynodont from the Cistecephalus zone. It is. therefore,
+likely that Odonlocyclops must be closely related to the dicynodont stock that gave rise to the genera DaplOcephalLL~
+and Dinanomodon. The large elongate nasal bosses that
+occur in Odontocyc/ops are not found in the two later genera where the bosses are small and only developed above
+the external nares. The occurrence of these large elongate
+bosses in Odonlocyc/opS are indicative of specialisation and
+excludes it from direct ancestry to either DaptocephalLL~ or
+Dinanomodon. However. substantial bosses occur in
+several broad-snouted Triassic genera, e.g. Dolichuranlls,
+Rhinodicynodon and Tetragonias.
+G. The Origirl of Kannemeyeria
+Dinanomodon has a sharply pointed snout, and a similar
+structure is encountered in Kannemeyeria. A prominent
+ridge is formed on the dorsal surface of the premaxilla to
+strengthen the pointed tip. The palate of Dinanomodon
+does not differ very much from that of Odon/ocyc/ops except that the premaxilla is very much longer because of
+the longer snout. The fenestra medio-palatinalis is even
+smaller in Dinanomodon than in Daptocephalus and is
+placed far back in the choanal depression, the floor of
+
+. 1. . '
+'-./ I ~.,
+
+Figure 20
+
+Antero-lateral views of skulls of ischfgualaslia (a) and Stahleckeria
+(b) in the Instituto Lillo, Tucuman and the Paleozoologie
+Museum. Tubingen. respectively.
+
+.
+.
+Figure 21
+Famll.Y Tree of dlcynodonts discussed in this paper. (A) D/cynodol/
+lacerllceps <;>We.n; (8) DapLOcephalus leoniceps (Owen); (C) Dinancr
+modon ,:,bldge,. B~oom~ (0) Kannemeyeria cristarhYllchus (R.C);
+(E) IschlguaJas,tta je'!-f~nJ Cox; (F) Dolichuranus primaevus Keyser;
+(G) Tetragomas IljaJllus (Huene); (H) DinodontOSOUnLs fllrpior
+(Huene); (I) Odontocydops dub/us (Boonstra) gen. nov.
+
+See Table III for stratigraphic distribution of the larger Triassic
+genera.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+which gradually becomes shallower in a posterior direction, thus bringing the opening of the fenestra medio-palatinalis to the level of the ventral surface of the pterygoid
+girder. Dinanomodon differs from Kannemeyeria mainly in
+the much longer temporal region of the former genus. The
+intertemporal bar of Dinanomodon forms a high dorsal
+crest as is the case in Kannemeyeria. Kannemeyeria can be
+derived from Dinanomodon by shortening the intertemporal region (Fig. 21).
+Dinanomodon is separated from Kannemeyeria by a considerable gap in time. Dinanomodon occurs in the Daptocephalus zone, which is separated from the Cynognathus zone
+by the Lystrosaurus zone. No large Dicynodontia other than
+Lystrosaurus are known from this zone.
+Kannemeyeria-like dicynodonts were extremely successful and achieved wide geographical distributions. The
+genus Kannemeyeria itself is known from the Beaufort
+Group of South Africa, the Omingonde Formation of
+South West Africa, the Ntawere Formation of Zambia, the
+Yerrapalli Formation of India, the Manda Beds of Tanzania and the Puesto Viejo Formation of Argentina. Dicynodonts that are very similar to Kannemeyeria are also known
+from China and Russia. Many of the genera that have
+been described from these countries are so similar to Kannemeyeria that it is likely that many of them will be included in the same genus (see below).
+The highly specialised Upper Triassic genera Ischigualastia from the Ischigualasto and Santa Maria Beds of
+South America, and the genus Placerias from the Chinle
+Formation of the United States of America, resemble the
+kannemeyerids in having narrow and/or crested intertemporal regions and pointed snouts. No intermediate forms
+between them and Kannemeyeria have yet been found and
+their inclusion in a separate family is merely a matter of
+convenience (see below).
+
+H. The Origin of Dinodontosaurus
+The genus Daptocephalus can be derived from an Odontocyclops-like form by reduction of the intertemporal bar
+and concomitant elongation of the snout. Daptocephalus
+retains the square tip of the premaxilla as found in Odonto-
+
+cyclops.
+Several authors have stated that Daptocephalus could be
+ancestral to many of the Triassic Dicynodonia, e.g. Camp
+(1956), Ewer (1961), Cruickshank (1967), Crompton and
+Hotton (1967) and Cluver (1971). These authors based this
+view on the relative proportions of the skull, which in
+many ways resembles the skull of Kannemeyeria.
+It is here thought that Daptocephalus is already advanced
+on a line leading to the dinodontosaurid dicynodonts and
+is not on the lineage leading to Kannemeyeria, because of
+its broad square-tipped snout which contrasts sharply with
+the snout of the kannemeyerids where a pointed tip of the
+premaxilla with a prominent ridge on the dorsal surface
+of the bone is developed. No ridge is developed on the anterior and dorsal surfaces of the premaxilla in Dapto-
+
+cephalus.
+A series of genera leading from Daptocephalus through
+the shansiodonts Dolichuranus and Tetragonias to Dinodontosaurus (Fig. 21) can be arranged as an evolutionary lineage. The relative ages of the strata from which the fossils
+were collected is in agreement with the serial arrangement. In Fig. 21 it can be seen that the main trend in this
+group is the shortening of the intertemporal region. During this development the posterior ramus of the postorbital
+in the intertemporal region becomes very short. In Daptocephalus the postorbital extends back to meet the occipital part of the squamosal. In Dolichuranus (Keyser, 1973)
+and Tetragonias (Cruickshank, 1967) the postorbital extends back to a level behind the parietal foramen while in
+Dinodontosaurus the postorbitals hardly take part in the
+formation of the intertemporal bar.
+
+91
+
+The relationships of the various bones in the palate and
+choanal region had already been established in Daptocephalus and underwent very little change during the evolution of the group. In this lineage the palatal portion of
+the skull increases with the increase in snout length. The
+size of the fenestra medio-palatinalis is progressively reduced.
+There are a large number of other dinodontosaurid dicynodonts which could possibly have been included in this
+lineage but of which too little is known for certainty. The
+genus Vinceria (Bonaparte, 1971) which seems very similar
+to both Shansiodon and Tetragonias, lived contemporaneously with Kannemeyeria in the Puesto Viejo Formation
+of Argentina. It is morphologically intermediate between
+Daptocephalus and Dolichuranus. However, the available
+descriptions and drawings of the genus Shansiodon Yeh are
+adequate to place it within the lineage with certainty but
+it appears to occupy the same level of organisation as
+
+Tetragonias.
+The various dinodontosaurid genera are very similar to
+one another and it would be very difficult to distinguish
+the anterior half of a skull of anyone of them from
+another, had only these been preserved.
+
+III. PREVIOUS CLASSIFICATIONS
+A. General Review
+Depending on the amount of information available and
+the predelictions of individual palaeontologists, among
+other variables, the Triassic anomodonts have been assigned to anything from one to four families. The only
+family of these fossils which has not been subject to much
+doubt is the Lower Triassic Lystrosauridae (Cluver, 1971),
+anomodonts of a peculiar and distinct specialisation which
+can be regarded for these purposes as representing the
+most highly specialised lineage of dicynodonts. They must
+trace their ancestry into the Permian and do not give rise
+to any other group.
+The most common way of treating the large Triassic
+anomodonts, in the days when but a few were known, was
+to include them all in one family. Thus Von Huene (1948,
+pp. 79-80), in his suborder Anomodontia, has six families
+(Endothiodontidae, Dicynodontidae, Cistecephalidae,
+Geikiidae, Lystrosauridae and Kannemeyeridae). The distinction between the families Dicynodontidae and Kannemeyeridae in this scheme would be seen to rest on the
+presence in the latter, of a high, narrow parietal region,
+nasals longer than frontals, up to eight sacral ribs and a
+high olecranon ulnae. The presence in most of strong
+tusks, weak hind legs and flat digging claws could not be
+considered distinctive for this family, as they occur in
+others, according to Von Huene (op. cit., p. 80).
+Furthermore, high, narrow parietal crests are almost
+solely the prerogative of Kannemeyeria itself, and on this
+basis several genera (e.g. Stahleckeria and Dinodontosaurus
+would have had to be excluded.
+Romer (1956), on the other hand, retained Kannemeye-
+
+ria. Dinodontosaurus. Placerias. Rhadiodromus. Sinokannemeyeria and Stahleckeria as genera of equal standing, with
+Permian dicynodonts in the single family Dicynodontidae,
+which he noted (op. cit., p. 706) as being characterised in
+the following way:
+"Molar teeth absent, post-frontal frequently absent.
+Probably including several independent lines developed from a primitive endothiodont stock."
+In the same year, Camp (1956, pp. 305-341) compared
+most of the then known Triassic anomodonts in a diffuse
+and complicated analysis and in the abstract (p. 305) noted
+that:
+"Detailed morphological evidence indicates that the
+large Middle and Upper Triassic dicynodonts of
+North and South America, as well as the genus Kannemeyeria ... may belong to a single group: the family
+
+92
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Kannemeyeridae ... the South American stahleckerians have diverged in one direction and the North
+American Placerias in another, although in some
+"conservative" features Placerias lies between the
+African and South American forms ... "
+Camp makes two further statements which are worth recording. On page 325:
+"If it can be granted that the genera of "kannemeyerids" form a natural group, it remains to be
+shown to what degree they are related."
+This is followed on page 327 by:
+"The interrelationships of these three genera within
+the family are less certain than their unity."
+But the implication throughout this work is that the Triassic anomodonts are all members of the family Kannemeyeridae, but showing trends in two directions.
+Lehman (in Piveteau, 1961, pp. 271-322) reviewed the
+Anomodontia and on pp. 321-322 deals specifically with
+the family Kannemeyeridae. He clearly follows Camp's
+suggestions as to relationship, but goes one step further
+and formally erects two subfamilies to accommodate the
+trends noted by Camp.
+I. The "Kannemeyeroinae" to accommodate those forms
+with ... "Antero-postero elongation of the squamosals
+with elevation of the parietal crest"
+i.e. Kannemeyeria and Placerias
+2. The "Stahleckeroinae" to accommodate those forms
+with ... "an apparent lateral expansion of the squamosals on the occipital surface"
+i.e. Stahleckeria
+However, the distinction of occipital proportions seems to
+be no longer valid (Table I).
+TABLE I
+Occipital Width : Height Indices for Triassic Dicynodonts
+Category I. Very wide occiput of width : height index > 1,5 : I
+Kannemeyeria simocephala
+1,6 : I Cruickshank, 1965
+K annemeyeria simocephala
+1,64 : I Cruickshank, 1970
+Dinodontosaurus turpior
+1,64 : I Cox, 1965
+Dinodontosaurus turpior
+1,75 : I Cox, 1965
+Zambiasaurus submersus
+1,81 : I Cox, 1969
+Stahleckeria potens
+1,92 : I Cox, 1969
+TetraRonias nialilu~
+1,82 : I Cruickshank, 1967
+TetraRonias nialilus
+1,61 : I Von Huene, 1942
+S inokannemeyeria vin[?chiaoensis
+2,15 : I Sun, 1963
+Parakannemeyeria ningwuensis
+1,66 : I Sun, 1963
+Shansiodon wangi
+1,55 : I Sun, 1959
+D inodontosaurus platyceps
+I ,71 : I Cox, 1968
+Kannemeyeria crL~tarhynchus
+1,66 : I Crozier, 1970
+Dolichuranus latirostris
+1,51 : I Crozier, 1970
+Category 2. Occiputs of width : height index < 1,5 : I but > 1,2 : I
+Ischigualastia jenseni
+1,22 : I Cox, 1965
+Parakannemeyeria youngi
+1,48 : I Sun, 1963
+Parakannemeyeria dolichocephala
+1,29 : I Sun, 1963
+Wadiasaurus indicus
+1,42 : I Roy Chowdhury, 1970
+Shansiodon wuhsiangensis
+1,45 : I Sun, 1959
+Dinodontosaurus brevirostris
+1,5 : 1 Cox, 1968
+Dinodontosaurus brevirostris
+1,46 : 1 Cox, 1968
+Category 3. Very high occiputs of width: height index < 1,2 : 1
+Placerias gigas
+I ,18 : I Cox, 1965
+Dolichuranus primaevus
+1,08 : 1 Keyser, 1973
+K ennemeyeria argentinensis
+1,17 : I Bonaparte, 1966
+
+These trends or adaptations were linked to masticatory
+processes, a thought that was elaborated by Cox (1965, pp.
+502-506) who raised the status of Lehman's subfamilies to
+that of familial level, creating the Kannemeyeridae and
+Stahleckeridae to accommodate these forms. By this date
+the number and variety of described Triassic anomodonts
+had grown considerably beyond those known by Camp,
+and Cox was thus able to add another family, the Shansiodontidae, for those forms with neither of the specialisations recorded for the previous families.
+Other reasons which Cox (1965, p. 502) used to link the
+Triassic Dicynodontia were:
+" ... the presence of a separately ossified olecranon
+process on the ulna ... " ("a notable feature") and "a
+well developed pubic tubercle ... land] '" the inturning of the dorsal edge of the ischium."
+
+Cox summarised his analysis of the postcranial features of
+these animals thus:
+"As can be seen, this comparison .,. does not
+provide any immediately apparent pattern. of
+relationships between the genera except that Smokannemeyeria, Parakannemeyeria, Kannemeyeria and
+Placerias all have similar scapulae ... "
+For cranial features Cox noted:
+"In Kannemeyeria the snout tapers anteriorly to a
+blunt point. The jaw muscles originate from the front
+face of an occipital plate which has been greatly
+heightened postero-dorsally. As a result, the tempo~al
+vacuity appears quite long in dorsal view and the Intertemporal bar in lateral view projects above the
+level of the rest of the skull as a high median crest.
+The occiput is as high as it is broad.
+"In Stahleckeria the snout is extremely wide and
+blunt. The jaw muscles originate from the front face
+of an occipital plate which has been greatly widened
+by the lateral extension of the squamosals. As a result
+the temporal opening appears comparatively short in
+dorsal view and the intertemporal bar in lateral view
+hardly projects above the level of the rest of the skull.
+The occiput is wide and low."
+Using these summaries of characters, Cox nevertheless
+did not formally define the three families he proposed,
+only saying:
+"Having recognised the divergent adaptations of Kannemeyeria and Stahleckeria ... " (p. 502) "these must
+surely be correlated with differences in their diet and
+mode of feeding" (p. 505).
+In summary we accept that the presence of a separately
+ossified olecranon process of the ulna in most of the larger
+Triassic dicynodonts is an important character. We do not
+accept that the characters of the scapulae help in understanding relationships within the group as a whole and thus
+the one feature which can be applied universally within
+the larger Triassic dicynodonts is the contrast in snout
+shape between the Kannemeyeria-like genera and those
+with broad snouts, which seem to be in the majority.
+Romer (1966) followed Cox's classification, noting
+within the Infra-order Dicynodontia the families Endothiodontidae, Dicynodontidae, Lystrosauridae, Kannemeyeridae, Stahleckeridae and Shansiodontidae. In this
+sense, the first two are Permian in age and the last four
+Triassic.
+Much at the same time as Cox published his proposals,
+Cruickshank (1964, 1967 and 1968) suggested another approach to the problem, which tacitly assumed a close relationship of all the larger Triassic dicynodonts. In these
+papers it was proposed that the ancestral Triassic dicynodont was one of the less specialised members of the genus
+Lystrosaurus, and that the large Triassic dicynodonts
+evolved from a Daptocephalus-like form, through an
+aquatic stage represented by Lystrosaurus, to emerge
+eventually as fully terrestrial forms by the end of the
+Lower Triassic. It is clear that Lystrosaurus shows several
+of the features possessed by the more typical Triassic
+dicynodonts (e.g. very short fenestra medio-palatinales;
+"X"-shaped interclavicle; reduced ectopterygoids and
+postfrontals), but it is now equally clear that this genus
+represents the most specialised lineage of dicynodonts and
+that it is a sterile offshoot of some Late Permian relative of
+
+Daptocephalus.
+Earlier than Cox, Sun (1963) summarised a set of views
+on the relationships among the kannemeyerids following
+Camp's scheme. Some of her points are important (p. 107),
+e.g. Placerias is thought to represent a branch which was
+derived early from the kannemeyerid ancestor and
+evolved along a different line from the others. In doing
+this, certain primitive characters were retained, e.g. small
+nasal, relatively large lacrimal, retention of postfrontal
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+ORIGINS AND CLASS I FICATION OF TRIASSIC DICYNODONTS
+
+and tabular. Specialisations included the reduction of the
+tusks, thickening of the posterior border of the squamosal
+and the upward extension of the ilium.
+The Chinese genera described by Sun are thought, by
+Sun, to have a closer relationship to Kannemeyeria than
+does Placerias, a thought not out of keeping, considering
+their relative ages. Sun lists several characters which are
+held in common between Kannemeyeria and the Chinese
+kannemeyerids, viz. moderate expansion of the squamosal, without thickened rim; rather extended basicranial
+axis; postorbital and squamosals meet; developed maxillary process and tusk. It was also thought, by Sun, that
+Kannemeyeria, Sinokannemeyeria and Parakannemeyeria
+were at approximately the same level of evolution.
+Sun's opinion was that Sinokannemeyeria was perhaps
+even less evolved than Kannemeyeria, though not significantly so. In her view (and she followed Camp in this) the
+low, broad skull with relatively broad temporal region and
+snout and the round maxillary process all indicated a more
+primitive stage of evolution than the condition in Kannemeyeria. To the above features were added notochordal
+pits in the vertebrae, a "c1eithral groove" (Cruickshank,
+1964, 1967) on the scapula and a shorter and more compact humerus. Kannemeyeria itself was considered specialised in its long, high parietal crest and Parakannemeyeria
+by a high curved skull with its unique parietal crest characters.
+Stahleckeria was thought to be an early derivative of the
+Kannemeyeria--Sinokannemeyeria line, sharing with the latter a broad, low skull, laterally expanded squamosal and a
+low, broad occipital plate. The presence in Stahleckeria of
+a small maxillary process, without a tusk, was not thought
+significant enough to separate it from the line as envisaged
+by Sun. The broad, thick nasal with a thin, occipital rim of
+the squamosal was thought sufficient to separate Stahleckeria from Placerias and was used by Sun to indicate a
+closer relationship between Stahleckeria and Kannemeyeria
+than between Placerias and Kannemeyeria. In conclusion,
+Dinodontosaurus was recognised as being more closely related to the Chinese kannemeyerid genera than to Stahleck-
+
+eria.
+In retrospect, Sun's analysis of the relationships of the
+larger Triassic dicynodont genera suffered from her not
+apparently being aware of Lehman's work. The Chinese
+Triassic dicynodonts do not seem to have a "narrow,
+rounded snout" of the same type as Kannemeyeria itself, as
+is implied by Cox in his classification (op. cit., p. 508) and
+thus we prefer to link them to such broad-snouted forms as
+Dinodontosaurus, as Sun suggested in her original description. The similarities she recognised between the various
+Triassic dicynodont lineages, we regard as reinforcing the
+concept of a single, unified family, with two or three main
+co-evolving lines or subfamilies.
+Cruickshank (1967) also recognised the great similarity
+of the Chinese genera and Dinodontosaurus. In a later
+paper this author summarised many of the points enumerated above in a "family tree" (Cruickshank, 1970, Fig. 4).
+This summary, following on a review of the genus Kannemeyeria, was the best available at the time, but was inadequate in several respects, particularly in the misinterpretation of the structure of the skull of the animal assigned to
+the genus Proplacerias nov. (Cruickshank, 1972).
+This scheme distinguished four colateral branches of
+large Triassic dicynodonts, leading ultimately to (a) Placerias, (b) Kannemeyeria, (c) Tetragonias and (d) the stahleckerid'i. Without making a formal assessment on the
+status of Kannemeyeria and Placerias, Cruickshank (1972) was
+nevertheless able to say that " ... although Kannemeyeria and
+Placerias are closely allied they represent two different
+evolutionary trends ... "
+Notwithstanding Sun's statement (op. cit., p. 107), Placerias may well represent the end point of the Kanne-
+
+93
+
+meyeria evolutionary line, where the caniniform processes
+and reduced tusks could be undergoing a late reduction
+from the condition seen in forms such as K. cristarhynchus
+(Roy Chowdhury). We do not believe that Sinokannemeyeria, with many characters comparable to those of Dinodontosaurus, represents the basic stock from which the
+other larger Triassic genera could evolve. In fact this scepticism is inherent in the belief that the two main Triassic
+lineages can be traced to such genera as Daptocephalus and
+Dinanomodon. Sinokannemeyeria represents part of the
+broad-snouted evolutionary line, and is so treated in the
+classification which follows.
+Finally, Keyser (1974) discussed the overall evolutionary trends to be seen in Triassic dicynodonts. These
+are (op. cit., p. 65):
+I. Increase in total body size.
+2. Increase in relative length of snout and secondary palate by backward growth of the premaxilla.
+3. Reduction in the fenestra medio-palatinalis (interpterygoid space) and its posterior migration out of the
+choanal depression.
+4. Shortening and dorsal expansion of the intertemporal
+bar with concomitant shortening of the temporal fossae.
+5. Fusion of elements in the front part of the brain case.
+6. Posterior migration of the lamina reflecta of the mandible.
+7. Development of an anterior process on the quadrate,
+which lies along the quadrate ramus of the pterygoid.
+8. Disappearance of the quadrate foramen.
+The first trend was recognised by several of the early
+authors, and the second had been noted in part by Toerien
+(1953). The third trend was noted by Camp (1956) and
+elaborated on by Cruickshank (1967, 1968). One of the
+most important trends commented on by Keyser (op. cit.),
+is the fourth where the temporal fossae are noted as becoming shorter with time, in association with the shortening and dorsal expansion of the intertemporal bar. The
+fusion of the anterior elements in the brain case can be associated with the change in direction of the "temporalis"
+muscle stresses (Crompton and Hotton, 1967) and, Keyser
+remarked, the backward migration of the reflected lamina
+is associated with the elimination of the quadrate foramen.
+Of all these trends, that concerning the development of an
+anterior process on the quadrate (no. 7) seems to stand
+alone. Keyser used the last character to help define the
+subfamily lachelerinae nov. within the Family Kannemeyeridae Lehman, and concluded that because of the
+many discoveries made subsequent to 1965
+" ... major rethinking on the taxonomy of the group
+has become necessary." (Keyser, 1974, p. 66).
+B. The Status of the Families Kannemeyeridae
+and Stahleckeridae Cox
+Before discussing the overall classification of the Triassic dicynodonts, the first necessity is to look at the two
+main families defined by Cox in 1965, as they seem to represent the clearest divergence of characters seen in the
+Triassic. This classification is basically sound but needs reassessment. This has been done in part by Cruickshank
+(1978), who has discussed the palaeoecology of Triassic dicynodonts. However, several instances will be cited here
+of confusion which has arisen in referring specimens to the
+families Stahleckeridae and Kannemeyeridae in particular, and to a lesser extent to the family Shansiodontidae
+Cox.
+It is coincidental that in 1970, Roy Chowdhury and Crozier both described specimens, from India and Zambia respectively, which were placed into the taxon Rechnisaurus
+cristarhynchus Roy Chowdhury, a stachleckeriid, and
+which was originally described from the Yerrapalli Formation. This is of approximately Anisian age (Anderson and
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+94
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+Anderson, 1970) and, because another specimen was described later in the same year from the Zambian N'tawere
+Formation (Locality 16: Crozier, 1970), both these geological horizons are thought to be of equivalent age. It is
+thought that the N'tawere Formation in general is slightly
+younger than the (?Scythian) Cynognathus zone of South
+Africa, but older than the (?u. Anisian) Manda Formation
+of Tanzania (Anderson and Anderson, 1970).
+The genus Rechnisaurus is defined from the type and
+only species, R. cristarhynchus, as being of moderately
+large size (about 380 mm skull overall length) with large
+canine teeth (?44 mm in diameter), wide interorbital
+region and blunt snout with a strong median ridge on the
+anterior and dorsal surfaces of premaxilla which continues
+on to dorsal surfaces of nasal. This ridge is bounded by a
+pair of deep depressions. The maxillae are produced into
+powerful antero-ventrally directed caniniform processes
+bearing rugose rounded Jlanges postero-ventrally. The
+postorbital region is short, with short, wide temporal openings. The intertemporal bar is fairly narrow and dorsally
+concave in section. The parietal crest is described as not
+being high (but see below), with a low boss immediately
+behind the pineal foramen. The parietals form most of the
+intertemporal bar, and there is a sharp transition between
+dorsal and occipital surfaces.
+In comparing the Zambian specimen with the type, Crozier (1970, p. 39) concluded that:
+"This specimen agrees in all particulars with the type
+except for its size (465 mm) and the shape of the
+snout." (which is pointed as opposed to blunt in the
+type.)
+Keyser (1973) described a fauna of approximately A nisian age from South West Africa and which contained a
+specimen (1973, Fig. 3, R313) assigned tentatively to Kannemeyeria simocephala (Weit). The genus Kannemeyeria
+Seeley is defined (Cruickshank, 1970) as follows:
+"Medium to large sized skulls, tusked in both sexes.
+Zygomatic arches parallel or sub-parallel in dorsal
+view. Parietal crest high and narrow with no extensive exposure of interparietal on dorsal surface.
+A large orbit dominating the facial region and a
+relatively short precanine region of the snout.
+
+Interpterygoid space
+x 100 = 23-28 per cent.
+distance between nostrils
+Labial fossae may be universally present."
+(The latter character is in fact the case.) Additionally K.
+simocephala (Weit) has the following characters:
+"Large skull (about 450 mm overall length) with horizontal Jlanges on maxillae and a prominent mid-nasal
+ridge. Tusks run in line with jugal arch, though the
+tips on emerging may turn sharply downward. Lower
+jaw with normal up-turned tip. Prespinous fossa of
+scapula large and anterior blade of ilium small."
+(Cruickshank, 1970, pp. 50-51).
+A close comparison of specimen R313 (Figs. 16-19) and
+the Zambian specimen of R. cristarhynchus is effected
+partly qualitatively and partly quantitatively in Table I I.
+Bearing in mind the vastly different states of preservation
+and the necessity of having to rely on reconstruction to obtain some values from the Zambian specimen, it is clear
+that there is a great quantitative resemblance between
+R313 and B.P.I. 3638. This confirms Keyser's opinion
+(1974, p. 58) that:
+" ... this genus (Rechnisaurus) had best be placed in
+the family Kannemeyeridae and is probably a descendant of the genus Kannemeyeria. It is even doubtful
+that a generic distinction can be upheld."
+Qualitatively R313 and B.P.I. 3638 agree on the presence of the strong mid-nasal ridge flanked by depressions,
+the strong caniniform processes and in their temporal
+openings being shorter and their parietal crests not being
+as high as might be expected in a typical K. simocephala.
+The interpterygoid space : internal narial ratio for R313 is
+anomalously high in comparison with all other Kannemeyeria specimens which are described, with the sole exception of the juvenile B.P.I. 2092. That of B.P.I. 3638 is
+on the low side. In addition to the specific points enumerated above, it must be noted that they are both of approximately the same size in almost all dimensions, there only
+being minor points of difference.
+Taking the comparisons further and investigating the relationship of R313 and B.P.I.3638, using Kannemeyeria
+specimens from the Beaufort series as a standard, it is seen
+
+TABLE II
+Some Characters of Kannemeyeria Specimens, in Millimetres
+
+Geol. Surv.
+
+Length: a. palatal midline
+b. dorsal midline
+c. over sq uamosal
+wings
+Width over squamosals
+Interorbital distance
+Internasal distance
+Width of parietal crest at
+level of pineal
+Length behind postorbital
+or dorsal midline
+Length in front of postorbital or dorsal midline
+Length of internal nares
+Length of fenestra mediopalatinalis
+Diameter of tusks
+Horizontal diameter: orbit
+Horizontal diameter: nares
+Depth: caniniform process
+Ipt. space
+100
+lnt. nares x
+Preorbital len~th
+100
+Total mlalme engtll x
+
+Univ. Calif.
+
+Average adults
+(excl. BPI 2092)
+SWA &
+Zambia
+Beaufort
+
+BPI 3638
+
+R313
+
+BPI 4523
+
+42916
+
+BPI 1168
+
+BPI 2092
+
+365
+450*
+
+355
+409
+
+359
+436
+
+371*
+413*
+
+346*
+427
+
+230
+293
+
+360
+429,5
+
+358,6
+425,3
+
+465*
+454*
+150
+160
+
+444
+406
+140
+150
+
+477
+322
+147
+110
+
+452*
+388
+170
+100
+
+449
+360*
+155
+85*
+
+315*
+100
+50*
+
+454,5
+430
+145
+155
+
+459,3
+356,6
+157,3
+98,3
+
+53*
+
+59
+
+50
+
+61
+
+55
+
+29*
+
+56
+
+55,3
+
+140*
+
+130
+
+165
+
+130*
+
+175
+
+113
+
+135
+
+156,6
+
+310*
+105
+
+279
+82
+
+271
+96
+
+283*
+77*
+
+252
+
+180
+54
+
+194,5
+93,5
+
+268,6
+86,5
+
+18
+36,5 x 31
+95
+55
+145
+
+29
+40 x 29
+68
+55
+150
+
+16
+29 x 27
+72
+63
+72
+
+19*
+22,5 x 18
+78
+46
+104*
+
+18
+18 x 16
+68*
+37,5
+61
+
+23,5
+38,25 x 30
+81,5
+55
+147,5
+
+17,5
+26,8 x 23,6
+78,3
+52,3
+95,3
+
+17,6 %
+
+35 %
+
+16,7 %
+
+24,5 %
+
+33,5 t
+
+26,3 %
+
+20,6 %
+
+69%
+
+69 %
+
+62,5 %
+
+68 %
+
+61,3 %
+
+69%
+
+63,2 %
+
+* Estimate on damaged or distorted region
+
+29 x 26
+85
+48
+110
+
+59%
+
+95
+
+ORIGINS AND CLASSI FICATION OF TRIASSIC DICYNODONTS
+
+TABLE III
+Stratigraphic Distribution of Triassic Dicynodonts
+
+z
+
+~
+
+~
+Z
+
+«
+Z
+«
+
+:r:
+
+GENERA
+
+z
+
+Z
+
+Ci5
+
+~
+
+u
+CI:l
+
+l
+f
+Kannemeyeria
+l
+Dolichuranus f
+Kannemeyeria
+
+0
+
+«
+
+-l
+
+z
+
+z
+
+«
+Z
+cG
+«
+U
+
+z
+«
+02
+
+0
+
+Z
+
+«
+~
+
+II)
+
+00
+
+«
+
+C
+II)
+.S
+C
+
+~
+
+«
+
+:r:
+
+cG
+
+0
+
+U
+
+Manda Fm
+
+Tetragonias
+
+Omingonde Fm
+
+I
+
+l
+
+Kannemeyeria
+Dolichuranus
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+«
+
+U. Beaufort
+
+Kannemeyeria
+
+Jacheleria -
+
+~
+
+I
+
+J
+
+Sanguasaurus
+
+02
+
+N'tawere Fm
+
+r
+
+Zambiasaurus
+
+«
+
+u
+
+-- - -
+
+---"
+
+- -
+
+- - - 1 - - - - - - - - - - - ---
+
+Los Colorados
+
+f-- - -
+
+[
+l -- - - - - - - - - - -- - - - - - - - Santa Maria
+Dinodontosaurus f I
+Barysoma
+l - - - - - - - - - - - - - - - - - - - - Ischigualasto
+Ischigualastia
+f
+Ischichuca
+---Dinodontosaurus _
+- - --- -
+
+Stahleckeria
+
+-
+
+I
+
+I--
+
+Kannemeyeria
+Vinceria
+Kannemeyeria
+Wadiasaurus
+
+}---
+
+Yerrapalli
+Fm.
+
+:r:
+
+~
+
+0
+
+CI:l
+
+INDIA
+
+J
+
+«
+
+Er-ma- Ying Fm
+
+~
+
+-
+
+:r:
+U
+
+Chinle Fm.
+
+Placerias
+Uralokannemeyeria
+Rabidosaurus
+Rhinodicynodon
+Rhadiodromus
+Rhinocerocephalus
+
+G
+
+«
+
+Puesto Viejo
+
+Shansiodon
+
+GEOL 82/1 -
+
+~
+
+~
+
+I
+
+Parakannemeyeria
+
+Elephantosaurus
+
+02
+
+t- - -
+
+l
+f
+
+Sinokannemeyeria
+
+«
+
+U
+
+N. AMERICA
+
+r-
+
+I
+
+J
+J
+
+«
+
+Ci5
+
+CI:l
+
+I
+
+:;
+cG
+
+-
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+96
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+that certain differences do, in fact, exist between the Zambian and South West African specimens on the one hand,
+and the Beaufort specimens on the other. This comparison
+allows several explanations. The most obvious is that
+the Beaufort Series specimens represent a true sample of
+K. simocephalus (Weit) and the Zambian and South West
+African specimens represent a sample of a population of an
+entirely separate species. Supporting this explanation is
+the markedly different pre-orbital proportions of the two
+groups (with the exception of Specimen 42916) viz. 60 per
+cent v. 69 per cent, allied with the markedly deeper caniniform processes in the later pair (average of 147 mm
+compared with III mm average). Likewise the interorbital
+distance of the Beaufort adults averages 158 mm and the
+same measurement averages 145 mm in the others. There
+is an inverse relationship with the internasal distance: the
+Zambian and South West African pair have broader nasal
+regions (average 155 mm) than the Beaufort (average
+95 mm). The tusks of all the measured specimens have suffered damage of one kind or another, but it is clear that
+while the Beaufort specimens have fully cylindrical tusks
+of moderate diameter, the Zambian and South West
+African specimens have tusks oval in section and much
+heavier in structure. In the Zambian specimen, the reflected lamina of the angular touches the lateral condyle
+of the articular, a progressive character (Keyser, 1974),
+which is not preserved in the South West African specimen, because there is no lower jaw associated with it.
+On the other hand, the heavy nose and tusks could indicate that these are male characters in very much the same
+way as Cox (1965, p. 494) distinguished his "Old Bull" Dinodontosaurus turpior from other specimens of that species,
+and as was done in a similar exercise by Cruickshank in
+1967 for Tetragonias. However, in this study it is remarkable that the specimens fall into two groups, separable on
+sexual dimorphism and at the same time by some hundreds
+of kilometres! Therefore, we retain the two species K. simocephalus and K. cristarhynchus and have used this to reinforce our scepticism as to the usefulness of the Family
+Stahleckeridae Cox.
+It is possible that the Upper Beaufort, N'tawere and
+Omigonde are, in fact, a group of horizons spanning the
+Scythian-Anisian boundary and the facts then could be interpreted thus: that the basal Kannemeyeria stock is represented by K. simocephalus which is a long ranging
+species, and that in the Cynognathus zone of the Beaufort
+it gave rise to a separate lineage of Kannemeyeria-like
+animals represented by the specimens from Zambia and
+South West Africa. K. simocephalus is also known from the
+Manda Formation (Cruickshank, 1965), the latest known
+true Kannemeyeria, later even than those specimens under
+discussion here.
+Crompton and Hotton (MS.) have indicated that there
+is a general shift in the orientation of the jaw adductor
+muscles in Triassic anomodonts, leading from Kannemeyeria simocephalus (where the angle of insertion of these
+muscles is acute to horizontal) to the late-Middle and
+Upper Triassic anomodonts (Dinodontosaurus, Ischigualasfia, Stahleckeria and Placerias), where the angie of insertion is much nearer the vertical. This trend is reflected in a
+shortening of the temporal openings, a deepening of the
+caniniform processes, where the tusks are retained, a
+broadening of the snout and reinforcing of the brain case
+(Keyser, 1974).
+At this stage, therefore, and in context of the overview
+of the study as presented here, the following conclusions
+can be maintained:
+I. The genus Rechnisaurus Roy Chowdhury is indistinguishable from the genus Kannemeyeria Seeley.
+2. The characters of R. cristarhynchus R. C. are seen in a
+less elaborated fashion in K. simocephalus (Weit).
+3. It is, therefore, possible that R. cristarhynchus R. C. rep-
+
+resents an offshoot lineage from the K. simocephalus
+(Weit) stock which evolved a shorter postorbital region,
+heavier snout and deeper caniniform processes.
+4. If the above is true, then the two families, Stahleckeridae Cox and Kannemeyeridae Cox, are not distinguishable and are hence no longer valid. All the large
+Triassic anomodonts are then likely to be members of
+the one family, viz. Kannemeyeridae Huene, which, in
+turn, can be sub-divided into a number of subfamilies.
+A similar exercise in discriminating between Cox's taxa
+can be done on the other dicynodonts from South West
+Africa, the genera Dolichuranus and Rhopalorhinus. The
+former has a snout of Shansiodont type, and was classified
+as such by Keyser (1973) in his original diagnosis of the
+material. The latter has a snout of very robust appearance,
+and the occiput was apparently very wide. From these
+characters, Keyser placed the genus in the Stahleckeridae
+Cox.
+Subsequently a further collection of dicynodont material was made from the same localities which yielded the
+types of these two genera (Keyser and Cruickshank, in
+prep.). It is now clear that Dolichuranus and Rhopalorhinus
+represent the extremes of a morphological series and that
+the two genera are synonymous. The genus Dolichuranus
+has page priority. This serves to point out that the criteria
+defined by Cox for the Families Shansiodontidae and
+Stahleckeridae are not discriminative and that the status
+of these two families requires reassessment.
+In the paper describing Dolichuranus, Keyser also
+pointed out that the specimen Crozier (1970) had called
+Kannemeyeria latirostris was in fact a member of the genus
+Dolichuranus. At the same time that K. latirostris was described, Crozier noted that it was not typical of the genus
+Kannemeyeria in several respects. However, the decision
+was taken to include it in that taxon, even though it was
+recognised as being slightly aberrant.
+The reassessment of the genus Dolichuranus emphasises
+two points of Triassic dicyondont taxonomy. One is to reinforce the idea of the over-all great similarity of the family as represented in the Triassic and concomitantly, the
+extreme difficulty of applying Cox's criteria to effect objective taxonomic decisions.
+A reassessment of Stahleckeria itself, based on the skull of
+the mounted skeleton in the Palaeozoology Museum in
+Tubingen, and a comparison of this specimen with skulls
+of Ischigualastia in the Museum of the Instituto Lillo, Tucuman, shows that these two genera are suprisingly similar
+(Figs. 20, 33, 34). The Stahleckeria skull has a much narrower snout than that normally illustrated (Camp, 1956,
+Fig. 45) and possesses a low dorsal ridge running on to the
+naso-frontal region.
+The skull of Stahleckeria has much wider occipital
+flanges than does Ischigualastia, and in the latter genus
+there is no quadrate foramen and the reflected lamina of
+the angular contacts the lateral condyle of the lower jaw
+(Keyser, 1974). Apart from these facts, the differences between the two are hardly more than those used by Cox
+(1965) and Cruickshank (1967) to demonstrate possible
+sexual dimorphism in Dinodontosaurus and Tetragonias respectively. Both Stahleckeria and Ischigualastia are of
+course tuskless and "large". We therefore believe that
+there are insufficient grounds to separate them except at
+generic level, and will use this information to link all the
+large Late Triassic forms together as advanced Kannemeyeria descendants in a subfamily of their own (see
+below).
+Ischigualast.ia occurs in the Santa Maria and Ischigualas~o Formations (Barbarena, pers. comm.). Stahleckeria is
+unique to the Santa Maria and no material has been reported since Von Huene's discoveries.
+Therefore, we recognise two main colateral lines of descent ~i.thin the Tri~ssic dicynodonts, to which we assign
+subfamilIaI status, VIZ. Kannemeyerinae and Dinodonto-
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+saurinae, and a third representing the very large specialised Upper Triassic end-forms which could be descended
+from either or both of the other subfamilies, to which we
+a'pply the name Stahleckerinae. A fourth subfamily is included to accommodate some poorly known specimens of
+the genus Jacheleria Bonaparte.
+Thus the unifying characters of the larger Triassic
+dicynodonts are as follows:
+I. Large body size, with skulls concomitantly rarely less
+than 25 cm overall. Typically they are 40 cm or more
+and tusked, but exceptions exist.
+2. The snout is always as long or longer than the postorbital region of the skull. The palatal region is elongated. The temporal fenestra may be very short (see 4
+below).
+3. The fenestra medio-palatinalis (interpterygoid space)
+is always less than 60 per cent of the length of the internal nares and less than 8 per cent of the total basal
+length of the skull. In late forms it lies outside the
+choanal depression and may at all stages of evolution
+have raised margins.
+4. The interpterygoid bar becomes dorsally expanded in
+association with its shortening (see 2 above).
+5. Elements in the front part of the brain case become
+fused.
+6. The reflected lamina of the angular grows close to or
+contacts the lateral condyle of the articular.
+
+7. The quadrate foramen disappears in those forms with
+firm contact of the reflected lamina and lateral condyle.
+8. In some late specialised forms there is an anterior process of the quadrate which lies along the quadrate
+ramus of the pterygoid.
+9. The epipterygoid develops an anterior ramus which
+has a dorsal process.
+10. The intertemporal region is always narrower than the
+interorbital region.
+11. The postfrontals are no longer seen on the dorsal surface of the skull.
+12. The ectopterygoid is severely reduced or absent altogether.
+13. The interclavicle is short and "X" shaped.
+14. In all cases, except one, the ulna has a separately ossified olecranon process.
+All the basic characters (i.e. 1--6, 9-13) are seen in the
+genus Kannemeyeria. The other characters we regard as
+derived. Hence as Kannemeyeria is the oldest known true
+Triassic dicynodont and the genus with which all other
+forms are compared, we propose to use it to derive the
+name for the principal family of Triassic dicynodonts in
+much the same sense as did Von Huene in 1948.
+Table III summarises the occurrence of the genera m
+time and space.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+IV. A REVISED CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+Order Therapsida
+Suborder Anomodontia
+Infraorder Dicynodontia
+Family Kannemeyeridae
+1. Subfamily Kannemeyerinae
+Kannemeyeria simocephala
+
+Kannemeyeria wiIsoni
+Kannemeyeria argentinens is
+Kannemeyeria chrystarhynchus
+Uralokannemeyeria ~iuschkovi
+Rabidosaurus cristatus
+? Rhadiodromus klimovi
+? R hinocerocephalus cisuralensis
+? Sangausaurus edentatus
+? Wadiasaurus indicus
+2. Subfamily Dinodontosaurinae
+Dinodontosaurus turpior
+Dinodontosaurus tener
+Dinodontosaurus platyceps
+Dinodontosaurus brevirostris
+S inokannemeyeria pearsoni
+S inokannemeyeria yingchiaoensis
+Parakannemeyeria dolichocephala
+Parakannemeyeria youngi
+Parakannemeyeria ninglVUensis
+Dolichuranus primaevus
+Dolichuranus latirostris
+Dolichuranus etionensis
+Shansiodon wangi
+Shansiodon lVUhsiangensis
+Tetragonias njalilus
+Vinceria andina
+Rhinodicynodon gracile
+? Zambiasaurus submersus
+
+97
+
+Syn. Dicynodon simocephalus
+D.icynodon lati/rons
+Kannemeyeria proboscoides
+Kannemeyeria erithrea
+Sagecephalus pachyrhynchus
+Syn. Kannameyeria vanhoepeni
+
+Syn. Lystrosaurus klimovi
+
+Syn. Dicynodon turpior
+Dinodontosaurus oliveirai
+Syn. Dicynodon tener
+Syn. Chanaria platyceps
+
+Syn. Rhopalorhinus
+Syn. Dicynodon njalilus
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+98
+
+3. Subfamily Stahleckerinae
+
+Stahleckeria potens
+Ischigualastia jenseni
+Placerias hesternus
+Placerias gigas
+Barysoma lenzii
+
+Syn. Stahleckeria lenzii
+
+4. Subfamily Jachelerinae
+
+J acheleria colorata
+Jacheleria platygnathus
+
+Syn. Dinodontosaurus platygnathus
+
+A. The Family Kannemeyeridae Huene, 1948
+
+Revised diagnosis
+Medium- to large-sized Triassic anomodonts with labial
+fossae and small fenestrae medio-palatinales; long snouts
+and pterygoid rami of epipterygoids with dorsal processes;
+tusked or tuskless; narrow intertemporal region; much reduced postfrontals and ectopterygoids; reflected lamina of
+angular approaches very close to, or contacts, lateral condyle of the articular; interclavicles short, "X"- or "V"shaped, with ventral peg; ulna with separately ossified
+olecranon ulnae except in Kannemeyeria; descendants of
+Dicynodontidae s.s. through a form like Odontocyc/ops or
+some species of the genus Dicynodon.
+
+1. Subfamily I Kannemeyerinae Lehman, 1961 Emend
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Diagnosis
+Large universally tusked forms with pronounced parietal crest; narrow pointed snout with well-developed
+single median ridge on the premaxilla and nasals; nasals
+have pronounced sculpture; no nasal bosses; postorbitals reach to, but do not overlap, the squamosals; perhaps descendants of a form like Dinanomodon.
+(a) Genus Kannemeyeria Seeley, 1908 (Figs. 16-20).
+Diagnosis: Skulls with zygomatic arches parallel or
+sub-parallel; orbit large and dominates facial
+region; precanine region short.
+
+Figure 22
+
+(i) Kannemeyeria simocephala (Weithofer) 1888 Type species.
+Synonyms - Dicynodon simocephalus Weit,
+
+1888.
+Dicynodon latifrons Broom, 1898.
+Kannemeyeria proboscoides Seeley, 1908.
+Sagecephalus pachyrhynchus Jaekel, 1911.
+Kannemeyeria erithrea Haughton,
+1915.
+(ii) Kannemeyeria wilsoni Broom, 1937.
+Synonym -? Kannemeyeria vanhoepeni Camp
+1956.
+(iii) Kannemeyeria argentinensis Bonaparte, 1966.
+(iv) Kannemeyeria cristarhynchus (Roy Chowdhury),
+1970.
+Synonym - Rechnisaurus cristarhynchus Roy
+Chowdhury, 1970.
+Diagnoses: Species (i)--(iii) are discussed by Cruickshank (1970, pp. 5~51). Species (iv) is discussed
+above (pp. 93-96).
+(b) Genus Uralokannemeyeria Danilov, 1971 (Fig. 22).
+Diagnosis (after Danilov, 1971): A kannemeyerine
+with broad, low parietal crest. (Otherwise indistinguishable from Kannameyeria and is probably the
+same as Kannemeyeria cristarhynchus.)
+(i) Uralokannemeyeria vjuschkovi Danilov, 1971.
+
+Uralakannemeyeria skull in two views. Scale is 5 em.
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+99
+
+Figure 24
+
+Rhinocerocepha/us skull in lateral view. Scale is 5 cm.
+Figure 23
+
+Rabidosaurus skull in lateral view. Scale is 5 cm.
+
+(c) Genus Rabidosaurus Kalandadze, 1970 (Fig. 23).
+Diagnosis: A kannemeyerine which differs from the
+type genus only in its excessively developed
+parietal crest. (It may be congeneric with Kanne-
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+meyeria.)
+(i) Rabidosaurus cristatus Kalandadze, 1970.
+(d) Kannemeyerinae incertae sedis.
+(i) Rhadiodromus klimovi (Efremov), 1938.
+Synonym - Lystrosaurus klimovi Efremov,
+1938.
+(ii) Rhinocerocephalus cisuralensis Vjuschkov, 1969
+(Fig. 24).
+(iii) ? Sanguasaurus edentatus Cox, 1969.
+(iv) ? Wadiasaurus indicus Roy Chowdhury, 1970
+(Fig. 25).
+
+Diagnoses: The last two forms - (iii) and (iv) - are
+tuskless, and although exhibiting other features in
+common with Kannemeyeria, may form the basis of
+a new subfamily. Rhinocerocephalus (ii) is also very
+probably closely related to Kannemeyeria, but the
+available figures and descriptions are inadequate
+for a definite conclusion.
+2. Subfamily II Dinodontosaurinae Subfam. Nov.
+
+Diagnosis
+Small to large dicynodonts, all prominently tusked;
+parietal region never elevated; parietal processes of
+postorbitals short, or very short, rarely reaching the
+squamosals; nasal bosses present in some; wide square
+snout with one or more low ridges on the snout; perhaps descendants of Daptocephalus.
+(a) Genus Dinodontosaurus Romer, 1943 (Figs. 12-15).
+Synonym - Chanaria Cox, 1968.
+
+Figure 25
+
+Wadiasaurus skull in two views. Scale is 5 cm.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+100
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+Diagnosis: Moderately large form with short postorbital region of the skull; snout rectangular in section with markedly blunt anterior margin; no nasal
+bosses; tabular absent; ectopterygoid much reduced, lying on dorso-Iateral surface of pterygoid;
+parietal process of postorbital very short, extending
+barely to the level of the pineal foramen.
+(i) Dinodontosaurus turpior (Huene), 1935 - Type
+species.
+Synonyms - Dicynodon turpior Huene, 1935.
+Dinodontosaurus oliveirai Romer,
+1943.
+(ii) Dinodontosaurus tener (Huene), 1935.
+Synonym - Dicynodon tener Huene, 1935.
+(iii) Dinodontosaurus platyceps (Cox), 1968.
+Synonym - Chanaria platyceps Cox, 1968.
+(iv) Dinodontosaurus brevirostris Cox, 1968.
+Diagnoses: Differences between these species are
+pointed out in the main body of this contribution.
+The species Dinodontosaurus platygnathus is transferred to the genus Jacheleria (see below).
+(b) Genus Sinokannemeyeria Young, 1937 (Fig. 26).
+Diagnosis: Moderately large skull with short postorbital region; blunt snout with low mid-nasal ridge
+and small nasal bosses; anterior tip of premaxilla
+hollow; very prominent caniniform processes;
+roughened area on dorsal surface of skull; parietal
+crest wide, flat-topped or grooved; postorbitals run
+far round temporal openings towards squamosals;
+preparietal may be absent; very long dentary symphysis; humerus and femur broad and flat.
+(i) Sinokannemeyeria pearsoni Young, 1937 - Type
+species.
+(ii) Sinokannemeyeria yingchiaoensis Sun, 1963.
+Diagnoses: Differences between these two species
+are pointed out in the main body of this contribution.
+(c) Genus Parakannemeyeria Sun, 1960 (Fig. 27)
+Diagnosis: Large, narrow skull with arched nasal
+region and very short postorbital region; dorsal surface of skull less rugose than in Sinokannemeyeria,
+
+and nasal ridges and bosses are absent; blunt snout
+with premaxillary excavation; caninifor~ pr~cesses
+prominent; parietal crest narrower than In Smokannemeyeri; postorbitals shorter, pre parietal may. be
+absent· shorter dentary symphysis; longer forelImb
+and ~ore slender propodials than in Sinokannemeyeria.
+(i) Parakannemeyeria dolichocephala Sun, 1960 Type species.
+Oi) Parakannemeyeria youngi Sun, 1963.
+(iii) Parakannemeyeria ningwuensis Sun, 1963.
+Diagnoses: Sinokannemeyeria and Parakannemeyeria are
+very similar and may prove to be congeneric when a
+larger range of morphological variations are known.
+The former genus is apparently from a lower horizon in
+the succession than the latter (Zones I and II, as opposed to Zones IV and V of the Er-ma-ying Formation).
+(d) Genus Dolichuranus Keyser, 1973 (Fig. 28)
+Synonym - Rhopalorhinus Keyser, 1973-.
+Diagnosis: Medium-sized skull with moderately
+blunt snout and nasal bosses variably developed; indistinct mid-nasal ridge; preorbital and postorbital
+regions sub-equal in length; caniniform processes
+only moderately developed; premaxillary excavations variably developed; premaxilla reaches to
+level of orbits dorsally; postorbitals reach only to
+the back of the temporal openings; roughened area
+on skull extends only over nasal bosses; preparietal
+always present; very short mandibular symphysis.
+(i) Dolichuranus primaevus Keyser, 1973 - Type
+species.
+(ii) Dolichuranus latirostris (Crozier), 1970.
+Synonym - Kannemeyeria latirostris.
+(iii) Dolichuranus etionensis (Keyser), 1973.
+Synonym - Rhopalorhinus etionensis Keyser,
+1973.
+Diagnoses: Differences between these species are
+pointed out in the main body of this contribution.
+
+Figure 26
+
+Sinokannemeyeria skull in two views. Scale is 5 em.
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Figure 27
+Parakannameyeria skull in two views. Scale is 5 em.
+
+Figure 28
+Dolichuranus skull in two views. Scale is 5 em.
+
+IO!
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+102
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+(e) Genus Shamiodon Yeh, 1973 (Fig. 29).
+Diagnosis: Skull small, preorbital and postorbital
+regions equal in length; snout blunt; nasal ridges
+and bosses present; caniniform processes moderately developed; femur with a very mammalian-like
+caput.
+(i) Shansiodon wangi Yeh, 1959 - Type species.
+(ii) Shansiodon wuhsiangensis Yeh, 1959.
+Diagnoses: Differences between these two species
+are pointed out in the main body of this contribution.
+(f) Genus Tetragonias Cruickshank, 1967 (Fig. 30).
+Diagnosis: Small, square skull; preorbital and postorbital regions equal in length; snout markedly
+square, mid-nasal ridge ends in frontal boss; nasal
+bosses end in nasal overhangs; postorbitals withdrawn from squamosals; males with cylindrical caniniform processes, more triangular in cross section
+in females.
+(i) Tetragonias njalilus (Huene), 1942.
+Synonym - Dicynodon njalilus.
+(g) Genus Vinceria Bonaparte, 1967 (Fig. 31).
+Diagnosis: Small, square skull; snout not very blunt;
+pre orbital and postorbital regions equal in length;
+maxillaries expanded around canines; postorbitals
+approach close to squamosals. (Shamiodon, Tetragonias and Vinceria are probably very closely related. The type specimens should be brought together for close comparison. We believe that they
+may prove to be congeneric.)
+(i) Vinceria andina Bonaparte, 1967.
+(h) Genus Rhinodicynodon Kalandadze, 1970 (Fig. 32).
+Diagnosis: (From illustrations only.) Very small
+skull, rectangular in dorsal aspect, with no midnasal ridge, but very prominent nasal bosses; postorbitals very short; caniniform processes enlarged
+and cylindrical.
+(i) Rhinodicynodon gracile Kalandadze, 1970.
+
+(i)
+
+Dinodontosauridae incertae sedis.
+(i) Zambiasaurus submersus Cox, 1969.
+.
+Diagnosis: This taxon was established on some Immature skull fragments which show it to be tusk less,
+but with a blunt snout and low, broad parietal crest;
+short postorbitals and no preparietal or mid-nasal
+ridge. Its final placing will depend on the recovery
+of better material.
+3. Subfamily HI Stahleckerinae non sensu Lehman, 1961
+Diagnosis
+Large skulls of advanced morphology and of Upper
+Triassic age; tuskless, or with reduced tusks and small
+caniniform processes; usually a single low ridge on
+snout, which may be pointed, though less so than in
+Kannemeyeria; parietal crest variably developed; postorbital processes short; preparietal may be absent; as
+far as our knowledge stands at present, they could be
+either kannemeyerine or dinodontosaurine descendants.
+(a) Genus Stahleckeria Huene, 1935 (Figs. 20, 33).
+Diagnosis: Very large square skull with very short
+temporal fenestrae; no preparietal; no tusks; small
+caniniform processes; snout not markedly blunt;
+low mid-nasal ridge; reflected lamina of angular approaches lateral articular condyle very closely;
+postorbital processes only moderately short.
+(i) Stahleckeria potens Huene, 1935.
+(b) Genus Ischigualastia Cox, 1962 (Fig. 34).
+Diagnosis: Large tuskless skull with slightly raised,
+broad parietal crest; substantial mid-nasal ridge,
+narrow rounded snout; postorbitals well separated
+from squamosals; occiput semi-cirular in outline;
+tabulars probably absent; quadrate foramen absent;
+reflected lamina of angular contacts lateral condyle
+of articular; acromial process apparently absent
+from scapula; coracoid foramen on dorsal edge of
+precoracoid; femur with markedly offset caput.
+(i) Ischigualastia jenseni Cox, 1962.
+
+Figure 29
+Shansiodon skull in two views. Scale is 5 em.
+
+ORIGINS AN D CLASSIFICATION 0 F TRIASSIC DICYNO DONTS
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Tetragonias skull In
+.Figure
+30 . Seal e .IS 5 em.
+two views
+
+Vinceria skull'In Figure
+31 s. Seale is 5 em.
+two view
+
+103
+
+104
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Figure 32
+Rhinodicynodon skull in two views. Scale is 5 em.
+
+Figure 33
+Stahleckeria skull in two views. Scale is 5 em.
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Figure 34
+Ischigualastia skull in two views. Scale is 5 em.
+
+Figure 35
+Placerias skull in two views. Scale is 5 em.
+
+\05
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+106
+
+(c) Genus Placerias Lucas, 1904 (Fig. 35).
+Diagnosis: Large skull with sharp snout running into
+nasals of inverted "V" shape in cross section;
+prominent blade-like caniniform processes containing very reduced canines; parietal crest moderately
+high and convex dorsally; parietal processes of
+postorbitals short, reaching only to the level of the
+pineal foramen.
+(i) Placerias hesternus Lucas, 1904 - Type species.
+(ii) Placerias gigas Camp and Welles, 1956.
+Diagnosis: Differences between these two species
+are pointed out in the main body of this contribution.
+(d) Genus Barysoma Cox, 1965.
+Diagnosis: Large skull, incompletely known, but believed to be closely related to Ischigualastia; occiput
+semi-circular in outline with similar parietal crest;
+acromial process present on scapula; limb bones
+much larger than in Ischigualastia.
+(i) Barysoma lenzii (Romer and Price), 1944.
+Synonym - Stahleckeria lenzii Romer and
+Price, 1944.
+4. Subfamily IV Jachelerinae Keyser, 1974
+
+Figure 36
+Jache/eria skull in lateral view. Scale is 5 cm.
+
+Ius?) crassus Broom (Keyser, 1974), which could indicate that these rare forms may represent a separate lineage of familial status, descended from the
+Cryptodontia of the Beaufort Group.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Diagnosis
+Large forms with lower jaw symphysis having a very
+long flat profile; quadrate has a pterygoid process; not
+yet well enough known for any further diagnostic observations.
+(a) Genus lacheleria Bonaparte, 1971 (Fig. 36).
+Diagnosis: Posterior region of temporal arches
+higher than the very long narrow parietal bar which
+does not form a high crest; temporal arches very
+slender.
+(i) 1 acheleria colorata Bonaparte, 1971.
+(ii) lacheleria platygnathus (Cox), 1968.
+Synonym - Dinodontosaurus platygnathus
+Cox, 1968.
+Diagnoses: Differences between these two species
+are pointed out in the main body of this contribution. This poorly known group is erected to accommodated Triassic dicynodonts with a pronounced pterygoid process of the quadrate. Such a
+process is also found in Platycyc!ops (Rhachiocepha-
+
+B. Triassic Dicynodontia I ncertae Sedis
+(a) Genus Elephantosaurus Vjuschkov, 1969.
+. Diagnosis: Large skull represented by a fragment of
+the interorbital region, distinguishable from all Kannemeyerids by the exceptional thickness of the skull
+bones; believed by Vjuschkov to be closest to Stahleck-
+
+eria.
+(i) Elephantosaurus jachimovitschi Vjuschkov, 1968.
+
+C. Other Dicynodontia of Triassic Age
+(a) Genus Lystrosaurus Cope, 1870 (Fig. 37).
+Diagnosis: Smaller, earlier, evidently amphibious
+form, highly specialised with a ventrally prolonged
+snout inclined virtually at right angles to the skull; terminal phalanges broadly flattened; ilia peculiarly
+notched. A total of 32 species had thus far been des-
+
+Figure 37
+
+Lystrosaurus skull in two views. Scale is 5 cm.
+
+ORIGINS AND CLASSIFICATION OF TRIASSIC DICYNODONTS
+
+107
+
+Figure 38
+
+Myosaurus skull in two views. Scale is 5 cm.
+cribed under this genus (two under the junior synonym
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+Prolystrosaurus), some species having originally been
+introduced under preoccupied or superfluous generic
+names like Ptychognathus, Ptychosiagum and Mochlorhinus. Five of these 32 species occur outside the
+Karoo basin of South Africa in South and East Asia.
+After earlier attempts at synonymising some of the 27
+South African species, C1uver (1971) succeeded in reducing them to nine. Possibly these nine species can be
+reduced even further to only four, bearing growth
+stages and sexual dimorphism in mind. The nine
+species recognised by C1uver could then possibly be
+synonymised as follows (A. S. Brink, pers. comm.):
+(i) Lystrosaurus curvatus (Owen), 1876.
+Synonyms - Lystrosaurus bothai Broom, 1941.
+Lystrosaurus oviceps Haughton, 1915.
+Lystrosaurus rubidgei Broom, 1940.
+(ii) Lystrosaurus declivis (Owen), 1860.
+(iii) Lystrosaurus murrayi (Huxley), 1895.
+(iv) Lystrosaurus platyceps (Seeley), 1898.
+Synonyms - Lystrosaurus maccaigi (Seeley), 1898.
+Lystrosaurus putterilli (Van Hoepen),
+1915.
+To these can be added the Asian species:
+(v) Lystrosaurus broomi Young, 1939.
+(vi) Lystrosaurus hedini Young, 1935.
+(vii) Lystrosaurus incicivum (Repelin), 1932.
+(viii) Lystrosaurus orientalis (Huxley), 1865.
+(ix) Lystrosaurus weidenreichi Young, 1939.
+Lystrosaurus and Geikiea belong to the Family
+Lystrosauridae Romer, 1966.
+(b) Gen us Myosaurus Haughton, 1917.
+Diagnosis: Very small form known from one locality in
+the South African Lystrosaurus zone.
+(i) Myosaurus gracilis Haughton, 1917 (Fig. 38).
+Myosaurus (along with some other earlier forms) belongs to the Family Myosauridae Kitching, 1977.
+(c) Genus Kombuisia Hotton, 1974.
+Diagnosis: A small form from the Cynognathus zone
+(uppermost Scythian) of South Africa.
+(i) Kombuisia frerensis Hotton, 1974 (Fig. 39).
+Kombuisia is a member of the family Dicynodontia
+Romer, 1966.
+
+Figure 39
+
+Kombuisia skull in two views. Scale is 5 cm.
+
+ACKNOWLEDGMENTS
+We are greatly indebted to the following for access to
+specimens and for critically reading various drafts of this contribution: Dr S. H. Haughton, Mr P. 1. Rossouw, Dr 1. W.
+Kitching and Dr A. S. Brink.
+Mrs Enid Cruickshank typed the manuscript and the illustrations were prepared at the Geological Survey of South
+Africa by Dr A. S. Brink, Mrs P. Prowse and Mrs R. Fregona.
+We are also grateful to several students of the University of
+the Witwatersrand who provided technical assistance: Miss
+Sara Barnes, Miss Julie Bunt and Mr Glynn Balkwill.
+
+Reproduced by Sabinet Gateway under licence granted by the Publisher (dated 2010)
+
+108
+
+TRANSACTIONS OF THE GEOLOGICAL SOCIETY OF SOUTH AFRICA
+
+REFERENCES
+Anderson, H. M., and Anderson, J. M. (1970). A prelil!linary.review of the biostratigraphy of the Uppermost Permian, Tnassic and Lowermost Jurassic of Gondwanaland. Palaeont. afr ..
+13, (supplement), 1-22.
+.
+Bonaparte, J. F. (1966). Una nueva "fau~a" Triasi.ca de .Argentlna
+(Therapsida: Cynodontia Dicynodontla); conslderaclOnes filogeneticas. Ameghiniana. 4, 243-296.
+- - - - (1967). Dos nuevas "faunas" de reptiles Triassico~ de
+Argentina. Proceedings LU.G.S. First Gondwana SymposIUm,
+Mar del Plata, UNESCO. Amsterdam, 283-302.
+.
+.
+- - - - (1971). Annotated check list ~f the South Amencan Tnassic Tetrapods, 665~82. Proceedings I.U.G.S. 2~d Gondwana Symposium, South Africa. C.S.I.R., Pretona, S. H.
+Haughton, Ed.
+Boonstra, L. D. (1938). Report on some Karroo reptiles from the
+Luangwa Valley, Northern Rhodesia. Q. JI. geol. Soc. Lond..
+94, 371-384.
+Broom, R. (1898). On two new species of dicynodonts. Ann. S. Afr.
+Mus .. 1, 452-459.
+- - - - (1937). A further contribution to our knowledge of the
+fossil reptiles of the Karroo. Proc. zool. Soc. Lond.. (B) 1937,
+299-318.
+- - - - (1938). On two new anomodont genera. Ann. Transv.
+Mus .. 19,247.
+Camp, C. L. (1956). Triassic dicynodont reptiles, Part II. Triassic
+dicynodonts compared. Mem. Univ. Calif.. 13, 305-34\.
+- - - - , and Welles, S. P. (1956). Triassic dicynodont reptiles,
+Part I. The North American genus Placerias. Mem. Univ. Calif..
+13, 255-304.
+Chowdhury, T. R. (1970). The new dicynodonts from the Triassic
+Verrapalli Formation of Central India. Palaeontology. 13,
+132-144.
+CIuver, M. A. (1971). The cranial morphology of the dicynodont
+genus Lystrosaurus. Ann. S. Afr. Mus .. 56, 155-274.
+- - - - (1974). The cranial morphology of the Lower Triassic
+dicynodont Myosaurus gracilis. Ann. S. Afr. Mus .. 66, 35-54.
+Cope, E. D. (1870). On the skull of dicynodont Reptilia. Lystrosaurus frontosus from Cape Colony. Proc. Am. phil. Soc.. 11,
+419.
+.
+Cox, C. B. (1965). New Triassic dicynodonts from South Amenca,
+their origins and relationships. Phil. Trans. roy. Soc. Lond.. (B)
+248, 457-516.
+- - - - (1962). (See Romer and Cox, 1962.)
+- - - - (1968). The Chafiares (Argentina) Triassic fauna. IV.
+The dicynodont fauna. Breviora. 205, 1-27.
+..,
+- - - - (1969). Two new dicynodonts from the Tnasslc N tawere formation, Zambia. Bull. Brit. Mus. nat. Hist. (Geol.). 17,
+255-294.
+Crompton, A. W., and Hotton, N. (1967). F~nctional morphol?~y
+of the masticatory apparatus of two dlcynodonts (Reptilia,
+Theraspida). Postil/a. 109, 1-5\.
+- - - - , and - - - - (MS). A functional study of the masticatory apparatus of dicynodonts (published in part as Crompton
+and Hotton, 1967).
+Crozier, E. A. (1970). Preliminary report on two Triassic dicynodonts from Zambia. Palaeont. afr.. 13, 39-45.
+Cruickshank, A. R. I. (1964). The origin of the Triassic dicynodonts (Reptilia: Synapsida). Nature. Lond.. 201, 733. .
+- - - - (l96~). On a specimen of the Anomodont reptile Kannemeyeria lati/rons (Broom) from the Manda FormatIOn of Tanganyika Tanzania. Proc. Linn. Soc. Lond.. 176, 149-157.
+- - - - (1967). A new dicynodont genus from the Manda Formation of Tanzania (Tanganyika). J. Zoo/. Lond.. 153,
+163-208.
+.
+.
+- - - - (1968). A comparison of the palates of Permian and Tnassic dicynodonts. Palaeont. afr.. 11, 23-31.
+- - - - (1970). The taxonomy of the anomodont genus Kannemeyeria Seeley 1908. Palaeont. afr.. 13,47-55.
+- - - - (1972). A note on the genus Proplacerias Cruickshank
+1970. Palaeont. afr.. 14, 17.
+.
+.
+..
+.
+- - - - (1978). Feeding adaptatIOns In Tnasslc dlcynodonts.
+Palaeont. aJr.. 21, 121-132.
+Danilov, A. I. (1971). A new dicynodont from the Middle Triassic
+of Southern Osuralia. Palaeont. zhur.. 1971. 132-135.
+Drysdal\, A. R., and Kitching, J. W. (1963). A re-examination of
+the Karroo succession and fossil localities of part of the Upper
+Luangwa Valley. Mem. geol. Surv. N. Rhod.. I, 1~2.
+Efremov, J. A. (1938). The recovery of a Triassic anomodont in
+the Orenburg Province. Dokl. Akad. Nauk. SSSR. (n.s.), 20,
+227-229.
+- - - - (1940). Preliminary description of the new Permian and
+Triassic Tetrapoda from USSR. Trudy palaeont. Inst.. 10,
+1-139.
+- - - - (1951). On the structure of the knee joint in the higher
+Dicynodontidae. Dokl. Akad. Nauk. SSSR. (n.s.), 77, 483-485
+(in Russian).
+Ewer, R. F. (1961). The anatomy of the Anomodont DaptocephaIus leoniceps (Owen). Proc. zool. Soc. Lond., 136, 375-402.
+
+Haughton, S. H. (1915). On a skull of the genus Kannemeyeria.
+Ann S Afr. MIL~ .. 12,91-97.
+.
+.
+f R tT
+. . dB' k A S (1954). Bibliographical list 0
+- - - - , an
+nn, . .
+I
+ifi 2 I 187 ep Iia
+from the Karroo Beds of Africa. Pa aeon~. ~ r.. , - .' f m
+Hotton, N. (1974). A new dicynodont (Rep~tlla: TherasPldljia) ';~s
+Cynognathus zone deposits of South Afnca. Ann. S. A r.
+..
+64, 157-165.
+.
+Jaekel O. (1911). Die Wirbeltiere. Berlin.
+. .
+'d
+Kalandadze, N. H. (1970). The new. Tnasslc K~nnemeyen s2
+South Ural region, ?1-~7. In: ~atenals of evolutIOn of Terres
+trial Vertebrates. SCientific Publishers, Moscow.
+.
+Keyser, A. W. (1969). A re-evaulation of the systemati~s (and ~f)­
+phology of certain Anomodont therasplda. Ph. D. thesIs unpu .,
+Univ. Witwatersrand..
+f
+S th
+____ (1973). A new TriassIc vertebrate fauna rom ou
+West Africa. Palaeont. afr .. 16, 1-15. .
+..,
+.
+____ (1974). Evolutionary trends In Tnasslc DlcynodontIa.
+Palaeont. afr.. 17, 57~8.
+.
+..
+I J'k
+Kitching, J. W. (1963). The fossil localities and mam":1 a - I e reptiles of the Upper Luanga Valley, Northern Rhodesia. S. Afr. J.
+Sci.. 59, 259-264.
+.
+. S th
+- - - - (1971). A short review of the Beaufort zoning In ou
+Africa, 309-312. Proceedings l.u.q.S. 2nd Gondwana Symposium, South Africa. C.S.I.R., Pretona. S. H. Haughton, Ed.
+- - - - (1977). The distr.ibution ?f the Karroo vertebra~e fauna.
+Mem. 1, Bernard Price Institute for Palaeontological Research, Univ. Witwatersrand, Johannesburg.
+.
+Lehman, J.-P. (1961). Dicynodontia, 287-351. I,,;: Plv~teau, J.,
+Ed., Traite de Paleontologie, VI(i). Masson et Oe, ~ans.
+Lucas, F. A. (1904). A new batrachian and a new reptile from the
+Trias of Arizona. Proc. U.S. nat. Mus .. 27, 193-195.
+.
+Owen, R. (1876). Descriptive and illustrated catalogu~ .of the fosstl
+reptilia of South Africa in t~e Collection of the Bfltish Museum.
+British Museum (Natural History), London.
+.
+Pearson, H. S. (1924). The skull of the dicynodont reptile Kanne.
+meyeria Proc. zool. Soc. Lond.. 1924, 783-826.
+Romer, A.' S. (1943). Recent mounts .of fossil reptiles and amphibians in the Museum of Comparative Zoology. Bull. Mus. compo
+Zool. Harv.. 42,331-338.
+.
+- - - - (1956). Osteology of the Reptiles. University of Chicago
+Press, Chicago.
+.
+- - - - (1966). Vertebrate Paleontology. University of Chicago
+Press, Chicago. Third edition.
+- - - - , and Cox, C. B. (1962). The fossilifen:)U~ Triassic ~e­
+posits of Ischigualasto, Argentina, and a preliminary descnption of Ischigualastia. a new genus of dlcynodont. Brevofla.
+156, 1-9.
+.
+.
+- - - - , and Price, L. I. (1944). Stahleckeria lenzii. a giant Tnassic Brazilian dicynodont. Bull. Mus. compo Zool. Harv.. 93,
+465-491.
+Seeley, H. G. (1908). On a fossil reptile with a trunk from Upper
+Karroo rocks of Cape Colony. Rep. Brit. Assoc. Dublin, 78,
+713.
+Sun, A.-L. (1960). On a new genus of Kannemeyerids from Ningwu,
+Shansi. Vertebr. palasiat.• 4, 67-80.
+- - - - (1963). The Chinese Kannemeyerids. Palaeont. sinica,
+147, (N. Ser. 17), 73-109.
+Toerien, M. J. (1953). The evolution of the palate in South African Anomodontia and its classificatory significance. Palaeont.
+afr .. 1, 49-115.
+Van Hoepen, E. C. N. (1934). Oor die indeling van die Dicynodontidae na aanleiding van nuwe vorme. Paleont. Navors. nas.
+Mus. Bloemfontein. 2, 67-101. .
+. .
+Vjuschev, V. R. (1969). New dlcynodonts from the Tnasslc of
+Southern Cisuralia. Palaeont. Zh.. 2, 237-242.
+Von Huene, F. (1935-1942). Die fossilen Reptilien des Siidamerikanischen Gondwanalandes an der Zeitenwende. Tlibingen.
+- - - - (1942). Die Anomodontia der Ruhuhu-Gebeites in der
+Tlibinger Sammlung. Palaeontographica (A), 94, 155-184.
+- - - - (1948). Short review of the lower tetrapods. R. Broom
+Commemorative volume. Spec. PubI. roy. Soc. S. Afr., 65-105
+Weithofer, A. (1888). Uber einen neuen Dicynodonten (Dicynodon simocephalus) aus der Karrooformation, Slidafrika. Annln.
+naturh. Mus. Wien .• 3, I~.
+Yeh, H. K. (1959). New dicynodont from Sinokannemeyeria-fauna
+from Shansi. Vertebr. palasiat.. 3, 187-204.
+Young, C. C. (1937). On the Triassic dicynodonts from Shansi.
+Bull. geol. Soc. China. 17, 393-411.
+
+A. W. Keyser,
+Geological Survey,
+P.B. X112,
+0001 Pretoria.
+A. R. I. Cruickshank,
+Bernard Price Institute for Palaeontological Research,
+University of the Witwatersrand,
+2001 Johannesburg.
+Accepted for publication on 30.4.1979.
+
+

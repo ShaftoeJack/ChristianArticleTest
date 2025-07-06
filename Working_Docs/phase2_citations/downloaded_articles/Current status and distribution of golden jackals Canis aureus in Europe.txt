@@ -1,0 +1,627 @@
+Mammal Rev. 2012, Volume 42, No. 1, 1–11. Printed in Singapore.
+
+REVIEW
+
+Current status and distribution of golden jackals Canis
+aureus in Europe
+mam_185
+
+1..11
+
+Janosch ARNOLD* University of Natural Resources and Life Sciences, Vienna,
+Gregor-Mendel-Straße 33, 1180, Vienna, Austria.
+E-mail: janosch.arnold@wwf.de
+Anna HUMER University of Natural Resources and Life Sciences, Vienna,
+Gregor-Mendel-Straße 33, 1180, Vienna, Austria.
+E-mail: anna_humer@hotmail.com
+Miklós HELTAI Institute for Wildife Conservation, Szent István University, Pater K.
+Street 1, 2100 Gödöllő, Hungary. E-mail: heltai.miklos@vvt.gau.hu
+Dumitru MURARIU Grigore Antipa National Museum of Natural History, Sos.
+Kiseleff 1, 011341 Bucharest, Romania. E-mail: dmurariu@antipa.ro
+Nikolai SPASSOV National Museum of Natural History, 1, Tsar Osvoboditel Blvd,
+1000 Sofia, Bulgaria. E-mail: nspassov@nmnhs.com
+Klaus HACKLÄNDER University of Natural Resources and Life Sciences, Vienna,
+Gregor-Mendel-Straße 33, 1180, Vienna, Austria.
+E-mail: klaus.hacklaender@boku.ac.at
+ABSTRACT
+1. The golden jackal Canis aureus is one of the most widespread canid species with
+a range covering areas of central, eastern and southern Europe, northern Africa and
+parts of Asia. Distribution of the golden jackal in Europe has been dynamic, including
+dramatic declines (until the 1960s), recovery (1960s and 1970s) and expansion (from
+the early 1980s onwards).
+2. We present up-to-date information on golden jackal status in Europe and range
+expansion.
+3. For data collection we reviewed the scientific literature and contacted scientists
+from the relevant countries. We distinguished between vagrant animals and established populations.
+4. In the last decade, there has been an increase in jackal records in areas where the
+species has not been reported before. Increased presence is recorded northwards and
+westwards of the distribution range of the golden jackal, specifically in Hungary,
+Serbia and Slovakia. In Austria, the first case of reproduction was confirmed in 2007;
+reproduction has also recently been reported in Italy.
+5. Results indicate an ongoing expansion in Europe’s jackal population, with a
+particular spread of the Balkan populations towards central Europe. Although there
+are numerous reports of sightings, only few originate from confirmed sources and in
+many areas status is unknown or vague. There is a general lack of ecological data and
+almost no information on ecological consequences associated with the golden jackal
+expansion.
+
+*Correspondence author.
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+Keywords: abundance, Canidae, carnivores, range expansion
+Mammal Review (2012), 42, 1–11
+doi: 10.1111/j.1365-2907.2011.00185.x
+
+INTRODUCTION
+The golden jackal Canis aureus is one of the most widely distributed canid species
+and is found in many areas of Europe, Asia and Africa (Moehlman 1983, Sillero-Zubiri
+et al. 2004). Despite its widespread distribution, there is little quantitative information on jackal densities or distribution (Sillero-Zubiri et al. 2004). In Europe, jackal
+populations have undergone significant populations changes in the past decades
+(Kryštufek et al. 1997), including changes in distribution and abundance. However,
+assessing the actual distribution of golden jackals is difficult as reports are often
+anecdotal, are published in local hunting magazines and are prone to remaining
+unverified by the scientific community (Kryštufek et al. 1997). In such reports, it is
+also difficult to differentiate between vagrant animals and established populations
+(Zachos et al. 2009).
+In Europe, the golden jackal has typically been distributed in the Balkan region
+(Demeter & Spassov 1993, Kryštufek et al. 1997). Here golden jackals nearly became
+extinct in many areas during the 1960s due to habitat loss and persecution with
+poisoned baits (Spassov 1989). Core populations were found only in some scattered
+regions, for example, Strandja (Bulgaria and Turkey), the Dalmatian coast, Aegean
+Macedonia and the Peloponnesus (Spassov 1993, Giannatos 2004, Spassov 2007).
+Following legislative protection in 1962, the golden jackal initially re-colonized its
+former territories in Bulgaria (Spassov 1989) and became established in Romania and
+Serbia (Kryštufek et al. 1997). More recently, during the 1980s, individuals appeared
+in Italy, Slovenia, Austria, Hungary and Slovakia (Demeter 1984, Lapini & Perco 1988,
+Hoi-Leitner & Kraus 1989, Kryštufek & Tvrtkovič 1990, Lapini et al. 1993, Bauer &
+Suchentrunk 1995, Hell & Rajský 2000, Heltai et al. 2000). Current changes in distribution and population sizes are presumably a result of protected status and reduced
+persecution. Golden jackals are of particular interest to both conservationists (directive 92/43/EEC, Annex V, Anonymous 2007a) and game managers (as generalist
+predators), and are often regarded as invasive species. The species is not yet included
+in the Large Carnivore Initiative for Europe, showing a lack of attention for this
+adaptive colonizer. As populations of jackals appear to be spreading in Europe, we
+present a timely update on past reviews of jackal status in Europe (Demeter &
+Spassov 1993, Kryštufek et al. 1997, Mitchell-Jones et al. 1999), which will be a useful
+tool for both planning future conservation efforts and mitigation of human–wildlife
+conflicts.
+METHODS
+Our area of focus spreads from the Atlantic coast of Portugal westwards to Greece
+and the Bosporus and northwards along the Black Sea coastline, to the Ukraine,
+Belarus and Baltic states in the east and along a north-south axis from Norway to
+Spain.
+An intensive literature search was performed using search engines such as Web of
+Science and Google Scholar; golden jackal populations and occurrence of vagrant
+animals were compiled for European countries (Fig. 1).
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2 J. Arnold et al.
+
+Fig. 1. Approximate distribution of golden jackal populations in Europe. Dark shaded areas show
+established populations with reproduction. White dots indicate confirmed vagrant specimens,
+which represent the most north-western and north-eastern distribution areas of the golden jackal.
+
+Where information was missing from peer reviewed literature, colleagues from
+scientific departments, federal agencies and non-governmental organisations from
+the relevant countries were contacted for detailed information.
+We distinguished between vagrant animals (single confirmed records of jackal
+presence) and established populations (defined as clusters of reproducing animals
+independent of population size). For each country section we give recent information on jackal distribution in the context of the published accounts in the reviews of
+the 1990s (Demeter & Spassov 1993, Kryštufek et al. 1997, Mitchell-Jones et al. 1999).
+For countries where reliable current information is missing, we summarize status as
+last documented in the literature.
+RESULTS
+European countries with golden jackal presence and recent appearance are given
+in alphabetical order (see also Table 1). Results are also shown in the maps (Figs 1
+and 2).
+Albania
+Golden jackal distribution in Albania remains cryptic. Published accounts dating back
+to the 1950s and 1960s report a distribution mainly along the coastline (Atanassov
+1953, Heptner & Naumov 1974, Kryštufek et al. 1997). There are no recent accounts
+of jackal distribution in Albania, and the species seems to be close to extinction in
+this region (Giannatos 2004).
+Austria
+Since the late 1980s, immigrating individuals appeared in Austria, but there was no
+evidence of an established population. The first confirmed specimen in Austria was
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+European status and distribution of the golden jackal 3
+
+Table 1. Status of golden jackal in European countries, classed as Vagrant animals (V)/Established
+population independent of population size but with confirmed reproducing animals (ES)/
+Unknown (U)
+
+Country
+
+Status
+
+Location within country
+
+First reported
+appearance
+
+Population
+trend
+
+Albania
+Austria
+Bosnia
+Bulgaria
+Croatia
+Czech Republic
+Germany
+Greece
+Hungary
+Italy
+Republic of Macedonia
+Montenegro
+Romania
+Serbia
+Slovakia
+Slovenia
+Turkey (European part)
+Ukraine
+
+U
+ES
+U
+ES
+ES
+V
+V
+ES
+ES
+ES
+U
+U
+ES
+ES
+V
+ES
+ES
+ES
+
+West coast†
+East
+Unknown
+Nearly whole country
+West (coast)
+Southwest
+East
+Coastlines south and west
+South, northeast and northwest
+Northwest
+Unknown
+Unknown
+South
+Northwest
+Southwest
+Northeast and northwest
+West
+South
+
+Unknown
+1987
+Unknown
+Autochthon
+2007
+2006
+1996
+Unknown
+1980*
+1985
+End of 1980s*
+Unknown
+1931
+1983*
+1989
+1952
+Unknown
+1998
+
+Unknown
+Increase
+Unknown
+Increase
+Increase
+Increase
+Unknown
+Decrease
+Increase
+Increase
+Unknown
+Unknown
+Increase
+Increase
+Increase
+Increase
+Unknown
+Increase
+
+*Re-colonization after extirpation.
+†Last known appearances.
+
+Fig. 2. Recent distribution of golden jackal in Bulgaria (after Spassov 2007 with additions by
+authors, unpublished data). Shaded areas denote moderate to low density; crossed areas indicate
+high density, patches to the west show isolated population clusters.
+
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4 J. Arnold et al.
+
+found in 1987 in Styria (Humer 2006). During the following years (1989–98), vagrants
+were sighted, shot or found dead in six of nine Austrian provinces: Carinthia, Styria,
+Burgenland, Upper and Lower Austria (Hoi-Leitner & Kraus 1989, Bauer & Suchentrunk 1995, Petrakovics 1996, Spitzenberger 2002). In 2006, a questionnaire of
+hunters was conducted which provided four unconfirmed records between 2004 and
+2005 (Styria, Burgenland, Upper Austria), and a record of a shot specimen in 1996
+(Upper Austria; Humer 2006). Furthermore, one confirmed specimen was found dead
+on the freeway A2 in Upper Austria in 2006 (Franz Suchentrunk & Theodora Steineck,
+pers. comm.). Plass (2007) reports three more records from 2003–05 which probably
+include two of the unconfirmed specimens from the questionnaire mentioned
+above, but also one shot golden jackal from the Wienerwald (Upper Austria) in
+2003 (F. Spitzenberger in Plass 2007). Accordingly, a total of 17 confirmed and three
+unconfirmed golden jackal records exist for Austria between 1987 and 2007. In 2007,
+the first evidence of reproduction by golden jackals in Austria was reported in the
+Austrian-Hungarian border area near Lake Neusiedl (Anonymous 2007b). The presence of golden jackals in this area was also confirmed via a camera trap in spring
+2009. However, it is not known what happened to the offspring born in 2007, or
+whether further reproduction occurred (Viktor Reinprecht, pers. comm.).
+Bosnia and Herzegovina
+As the country is surrounded by countries holding jackal populations, at least vagrant
+animals are likely. However, we lack current information on the status of the species
+in this area. The IUCN lists Bosnia and Herzegovina as an area of jackal presence
+(Jhala & Moehlman 2008).
+Bulgaria
+The core European population of the golden jackal is in Bulgaria. High densities of
+populations are situated in three main regions: (1) southeastern Bulgaria – from the
+Kamchia river basin and the Gulf of Burgas to the Turkish border to the south and
+from the Black Sea Coast to the Stara Zagora region to the west; (2) northeastern
+Bulgaria – in the region between Dobrudja and Tutrakan and (3) the central part of
+northern Bulgaria (the central region of the Bulgarian Danubian plain). There are
+no records of golden jackals from the mountainous regions of south-western and
+central Bulgaria, and populations are thought to be contiguous with the population
+of Greek Macedonia through the corridor of the Struma valley (Spassov 2007).
+Furthermore, the low and scarcely forested territories of the Eastern Rhodopes with
+low winter snow cover holds jackal populations (Evgenii Raychev unpublished data,
+Spassov & Markov 2004, Spassov 2007). Current populations of jackals are believed
+to be stable in Bulgaria. Based on analysis of hunting data, the total population
+in Bulgaria has been estimated as approximately 10000 (Spassov & Markov 2004,
+Spassov 2007). The expansion of the jackal in the late 1970s and the 1980s was
+related to the official protection of the species in the 1960s (Genov & Vassilev 1989),
+to the further prohibition of killing by poison, and to the development of game
+farming in this period, leading to increased food availability for this carnivore
+species. The recent human depopulation of the Bulgarian countryside is probably
+one of the main factors for the maintenance of the high density of the golden jackals
+today (Spassov 1989, 2007).
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+European status and distribution of the golden jackal 5
+
+Croatia
+Information on current distribution is scarce. Golden jackals have been confirmed in
+Dalmatia and Istria (Kryštufek et al. 1997, Krofel 2007, 2008). However, there are no
+current data on density or specific distribution.
+Czech Republic
+The first confirmed male golden jackal was reported in 2006 (Koubek & Červenŷ
+2007). The animal was found dead close to a road in southern Moravia, near the
+Austrian and Slovakian border region.
+Germany
+Möckel (2000) reported the first evidence of golden jackals in Germany. A male
+golden jackal had been confirmed in southern Brandenburg from 1996 until it was
+shot in 1998. There are no further confirmed records of golden jackal.
+Greece
+Jackal populations declined between the early 1970s and 1980s, due to poisoning
+campaigns and intensive hunting (Giannatos et al. 2005). As a result, in 2010 the
+distribution of golden jackal remains discontinuous and fragmented in Greece (Giannatos 2004), and populations occur in seven split subareas located in Evros, VistonidaNestos, Serres, Halkidiki, Fokida, Peloponnesus and Samos (Giannatos 2004). Each
+subarea contains one to nine jackal population clusters and each population consists
+of one to 42 territories. The estimated number of golden jackals in Greece according
+to survey data from 2000–01 was 1000 individuals (Giannatos et al. 2005); the highest
+density was estimated to occur in Vistonida-Nestos: 30 individuals per 1000ha (Heltai
+et al. 2007). Kryštufek et al. (1997) documented in their review the presence of
+golden jackals on the Ionian Islands, particularly Leukas and Kephallina. However,
+presence of golden jackals on the Ionian islands cannot be confirmed in 2010
+(Giorgos Giannatos, pers. comm.).
+Hungary
+Until it became extinct in the country in the first half of the 20th century, the golden
+jackal was indigenous to Hungary. Beginning in the early 1980s, immigrating individuals re-appeared in former territories, and this led to the re-establishment of a
+viable population in 1991–92 (Szabó et al. 2009). Since then, golden jackals have
+formed three distinct subpopulations in three counties (Bács-Kiskun, Baranya,
+Somogy) in the southern region of Hungary (Heltai et al. 2000). Heltai et al. (2000,
+2004) report a significant increase of killed jackals in hunting bags from 1997 (11
+shot) to 2004 (95 shot). Populations have continued to increase (Szabó et al. 2009),
+and the core of jackal distribution is still located in the south; dispersing individuals
+are found spreading out to the west, north and east. As there are no apparent
+limiting habitat factors, it is likely that this expansion will continue (Szabó et al.
+2009). In the core areas, the highest density (estimated by acoustic survey) was 13.3
+individuals per 1000ha (Szabó et al. 2008). In 2007, the population in Hungary was
+estimated to be 1510 individuals, indicating a doubling of the population since 2004
+(Tóth et al. 2009) and 16 years after the first breeding pair was observed in the
+southern border of the country close to Croatia.
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6 J. Arnold et al.
+
+Italy
+In Italy, the species has been present at least from 1985 (in the Pozzuolo del Friuli
+area, Udine; Lapini et al. 2009). However, instead of a fragmented population, the
+golden jackals occurred as vagrant individuals, presumably originating from Slovenia
+and from the Istrian peninsula (Kryštufek et al. 1997). In 2010, range expansion is
+detectable in the Julian Pre-Alps. A vagrant animal has been confirmed in the area
+of Venice (Lapini et al. 2009). New data from 2009 confirmed the golden jackal in the
+north, specifically in the Bolzano-Bozen province and South Tyrol; moreover, reproducing family groups have been reported (Lapini et al. 2009).
+Republic of Macedonia
+Kryštufek et al. (1997) reported that the golden jackal became extinct in Macedonia
+during the first half of the 1960s. There is only one account of a vagrant animal since
+that time (Kryštufek & Petkovski 1990). The location of the country next to Bulgaria,
+which has an expanding golden jackal population, makes records of jackals in the
+near future likely.
+Moldova
+In 2010, the golden jackal was not regarded as part of the Moldavian carnivore fauna
+(Munteanu & Lozanu 2004). However, as the population in Romania is spreading it
+can be expected that vagrant animals will appear in near future.
+Montenegro
+Golden jackals have been confirmed in the south, near the Albanian boarder at the
+coast (Ada island, Schneider-Jacoby 2004). Sackl et al. (2006) report three jackals
+killed on the main road (E-65) between the airport of Tivat and the village of Dub in
+2002 and 2003.
+Romania
+According to Almasan (1995) and Murariu and Munteanu (2005), stable populations
+of golden jackals have been found since 1984 in the area of Niculitel (southeast of
+Dobrogea), as well as in the Danube Plain located in the southern part of the country.
+Irregular presence was also reported for Brasov
+, in the centre of the country. Further
+spreading along the rivers Pruth and Siret is possible (see also Kryštufek et al. 1997).
+Small groups of golden jackals roam in the Danube Delta. We estimate a total
+population size of approximately 600 golden jackals all over Romania (authors,
+unpublished data 2010).
+Serbia
+In Serbia, the north-eastern border with Bulgaria, and the Lower Srem are the main
+areas of the golden jackal’s distribution. Large populations are located in the vicinity
+of Negotin and Bela Palanka in the northeast of the country. Since 2000, 500
+specimens were shot in the vicinity of Negotin alone. From this area, jackals have
+spread into the Velika Morava river valley. The second population in Lower Srem has
+expanded along the banks of river Sava to the slopes of Fruška Gora (Milenkovic &
+Paunovic 2003). Recent findings indicate that both jackal populations are genetically
+very similar and suggest strong founder effects (Zachos et al. 2009).
+Slovakia
+Four jackals were shot between 1989 and 2001, near Cierna, near Tisou and Lucenec,
+not far from the Hungarian border. In 2008, there were unconfirmed sightings from
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+European status and distribution of the golden jackal 7
+
+Banska Bystrica. If these can be confirmed, they are the first jackal records from
+central Slovakia (Robin Rigg, pers. comm.).
+Slovenia
+In 2005, a female jackal was shot in Northern Slovenia, in the Upper Savinja Valley
+(Krofel & Potočnik 2008). Jackals had been reported since 1952 (Brelih 1955) and
+some were observed or shot since then, mostly on the border with Croatia (Krofel
+2008).
+Turkey (European part)
+Golden jackals are present along the coasts of the Black Sea and Aegean Sea, but not
+in the central steppe plateau (Kryštufek et al. 1997).
+Ukraine
+There have been reports of golden jackals in southern Ukraine (Rozhenko & Volokh
+2000). In 2010, approximately 70 jackals roamed in the Odessa region (Alina Mishta,
+pers. comm.). Recent accounts suggest that jackals occur up to the reserve
+Biletskivsky Plavni (Poltava region, Ruzhilenko 2008).
+DISCUSSION
+Our review shows that expansion of golden jackals in eastern and central Europe is
+ongoing. Recent confirmation of vagrant animals indicates expansion from the
+Balkan population northwards and westwards. The expanding populations in Bulgaria, Serbia and Hungary suggest a further spreading towards central Europe.
+Confirmed specimens from adjacent countries in the north of the Balkan population
+confirm this trend. It is possible that animals form Istria are also spreading northwards, as golden jackals have appeared in Italy and Slovenia and have formed
+reproducing family groups (Lapini et al. 2009). Recent findings show that a vagrant
+animal from Austria was genetically indistinguishable from Serbian jackals (Zachos
+et al. 2009). This example shows that genetic comparison of vagrant animals with
+animals from established populations can help to identify routes of expansion.
+However, such comparison has, unfortunately, not been done so far, and in many
+cases routes of expansion of golden jackals in Europe are not clear. We therefore
+suggest that populations of golden jackals should be monitored genetically, in order
+to identify source populations (Veit et al. 2005) and routes of expansion (Manel et al.
+2003).
+Abundance of jackals in southern Europe is not clear for many areas. The golden
+jackal population in Greece is relatively well documented. Threats are mainly linked
+to fragmentation of habitats and persecution (Giannatos 2004), and management
+measures are needed to secure the long-term survival of jackals in Greece (see
+Giannatos 2004). Outside Greece, golden jackal abundance in the Adriatic region
+remains largely unclear. There is a general lack of current information on density and
+population trends, especially for Bosnia and Macedonia.
+It is likely that climatic changes due to global warming will reduce barriers to the
+dispersal of jackals, such as long winters with severe snow cover (Giannatos 2004).
+Migration along water bodies (Szabó et al. 2006) allows long-distance spreading
+(Demeter & Spassov 1993), and the absence of the natural predator of golden jackals,
+the wolf Canis lupus, is likely to influence expansion positively (Kryštufek & Tvrtkovič
+1990, Giannatos 2004).
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8 J. Arnold et al.
+
+Recent developments in golden jackal distribution show that this species finds
+favourable habitat in eastern and central Europe. It is therefore likely that the
+golden jackal will return to areas where it formerly became extinct. The golden
+jackal has great colonising potential, and it is foreseeable that it will continue to
+spread in Europe; it may even appear in regions where it has not been native before.
+It is of concern, that background data remain poor. With the exception of Greece,
+golden jackal distribution in south-eastern Europe is unclear. This lack of knowledge
+makes it hard to assess population dynamics and future range development, particularly as golden jackal populations in southeastern Europe are supposed to be a
+source for populations in central Europe.
+Surprisingly, despite its success and spread during the last years, the golden jackal
+has not been of great interest for carnivore researchers or for non-governmental
+organisations in central Europe. Hence, our ecological background knowledge
+remains restricted (Giannatos 2004). There is a need to investigate the development
+of golden jackal distribution, as it provides a unique opportunity to observe the
+reaction of communities to a novel generalist predator under the influence of
+different types of habitat. The golden jackal occurs in a wide range of different
+habitats covering a variety of ecosystems (Mitchell-Jones et al. 1999). We have
+recently started to discover details of jackal ecology in Europe (e.g. Lanszki & Heltai
+2002), and it is important to establish basic background data on behavioural and
+ecological plasticity displayed in newly colonized habitats. With our current knowledge, identifying and applying suitable conservation and management actions is
+hardly possible. We therefore strongly suggest that monitoring and research activity
+should be intensified for this species, and that results should be published in peerreviewed journals.
+
+REFERENCES
+Almasan H (1995) Şacalul în fauna României (The jackal in the Romanian fauna). Vânătorul si
+pescarul român 1: 18–19.
+Anonymous (2007a) Canis aureus. In: IUCN 2007. European Mammal Assessment IUCN http://
+ec.europa.eu/environment/nature/conservation/species/ema/
+Anonymous (2007b) Die Rückkehr des ‘Rohrwolfs’. Der Goldschakal (Canis Aureus). Nationalpark
+Neusiedler See-Seewinkel. Geschnatter 3: 3.
+Atanassov N (1953) Untersuchungen über die Schakale (Canis aureus L.) in Bulgarien. Izvestia na
+Zoologicheskia institute. Bulgarska Akademia na naukite 2: 189–273.
+Bauer K, Suchentrunk F (1995) Weitere Ausbreitung des Goldschakals Canis aureus L., 1758 in
+Österreich. Zeitschrift für Säugetierkunde 60: 307–309.
+Brelih S (1955) Šakali (Canis aureus L.) na ozemlju Slovenije. Biološki Vestnik 4: 56–58.
+Demeter A (1984) Recent records of rare or non-resident large carnivores in Hungary. Vertebrata
+Hungarica 22: 65–71.
+Demeter A, Spassov N (1993) Canis aureus L. 1758–Schakal, Goldschakal. In: Stubbe M, Krapp F (eds)
+Handbuch Der Säugetiere Europas, Vol. 3: 107–138. Aula-Verlag, Wiesbaden, Germany.
+Genov P, Vassilev S (1989) Der Schakal (Canis aureus L.) in Bulgarien. Ein Beitrag zu seiner Verbreitung und Biologie. Zeitschrift für Jagdwissenschaft 35: 145–150.
+Giannatos G (2004) Conservation Action Plan for the Golden Jackal (Canis Aureus L. 1758) in Greece.
+WWF Greece, Athens, Greece.
+Giannatos G, Marinos Y, Maragou P, Catsasorakis G (2005) The golden jackal (Canis aureaus L.) in
+Greece. Belgian Journal of Zoology 135: 145–149.
+Hell P, Rajský D (2000) Immigrationen des Goldschakals in die Slowakei im 20. Jahrhundert. Beiträge
+zur Jagd- und Wildforschung 25: 143–147.
+Heltai M, Szemethy L, Lansky J, Csanyi S (2000) Returning and new mammal predators in Hungary:
+the status and distribution of the golden jackal (Canis aureus), racoon dog (Nyctereutes
+
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+European status and distribution of the golden jackal 9
+
+procyonoides) and racoon (Procyon lotor) in 1997–2000. Beiträge zur Jagd- und Wildforschung 26:
+95–102.
+Heltai M, Szucs E, Lanszki J, Szabó L (2004) Az aranysakál (Canis aureus Linnaeus, 1758) új előfordulásai Magyarországon (The golden jackal’s new occurances in Hungary). Állattani Közlemények
+89: 43–52.
+Heltai M, Giannatos G, Szabó L, Lanszki J (2007) Golden jackal (Canis aureus) past-present distribution and current status in northern (Hungary) and southern (Greece) limits of its European range.
+In: Billinis C, Kostoulas P (eds) Proceedings of the 5th International Congress on Wild Fauna, The
+Wild Animal Vigilance Euromediterranean Society, Calkidiki, Greece.
+Heptner VG, Naumov NP (eds) (1974) Die Säugetiere Der Sowjetunion. Gustav Fischer Verlag,
+Stuttgart, Germany.
+Hoi-Leitner M, Kraus E (1989) Der Goldschakal, Canis aureus (Linnaeus 1758), in Österreich
+(Mammalia austriaca 17). Bonner Zoologische Beiträge 40: 197–204.
+Humer A (2006) Goldschakale in Österreich. Aktueller Status und Managementstrategien unter
+besonderer Berücksichtigung der Einstellung und des Wissens zum Thema Goldschakal bei
+österreichischen Bezirksjägermeistern. Diploma Thesis, Institute of Wildlife Biology and Game
+Management, University of Natural Resources and Life Sciences, Vienna, Austria.
+Jhala YV, Moehlman PD (2008) Canis Aureus. In: IUCN 2010. IUCN Red List of Threatened Species.
+Version 2010.2. http://www.iucnredlist.org
+Koubek P, Červený J (2007) The Golden Jackal (Canis aureus) – a new mammal species in the Czech
+Republic. Lynx (Praha) 38: 103–106.
+Krofel M (2007) Golden jackal (Canis aureus, L.) on the Pelješac peninsula (southern Dalmatian,
+Croatia). Natura Croatica 16: 201–204.
+Krofel M (2008) Survey of golden jackals (Canis aureus) in Northern Dalmatia, Croatia: preliminary
+results. Natura Croatica 17: 259–264.
+Krofel M, Potočnik H (2008) First record of a golden jackal (Canis aureus) in Savinja Valley (Northern
+Slovenia). Natura Slovenia 10: 57–62.
+Kryštufek B, Petkovski S (1990) New record of the jackal Canis aureus Linnaeus, 1758 in Macedonia
+(Mammalia, Carnivora). Fragmenta Balcanica Musei Macedonici Scientarum Naturalium 14: 131–
+138.
+Kryštufek B, Tvrtkovič N (1990) Range expansion by Dalmatian jackal population in the 20th century
+(Canis aureus L., 1758). Folia Zoologica 39: 291–296.
+Kryštufek B, Murariu D, Kurtonur C (1997) Present distribution of the Golden Jackal Canis aureus in
+the Balkans and adjacent regions. Mammal Review 27: 109–114.
+Lanszki J, Heltai M (2002) Feeding habits of golden jackal and red fox in south-western Hungary
+during winter and spring. Mammalian Biology 67: 129–136.
+Lapini L, Paolo M, Dorigo L, Are G, Beraldo P (2009) Reproduction of the golden jackal (Canis Aureus
+Moreoticus i. Geoffroy Saint Hilaire, 1835) in Julian Pre-Alps, with new data on its range expansion in the high-adriatic hinterland (Mammalia, Carnivora, Canidae). Bollettinio del Museo Civico
+di Storia naturale di Venezia 60: 169–186.
+Lapini L, Perco F (1988) Lo sciacallo dorato (Canis aureus, L. 1758) specie nuova per la fauna
+Italiana (Mammalia, Carnivora, Canidae). Gortania – Atti Museo Friuli Storia Naturale 10: 213–
+228.
+Lapini L, Perco F, Benussi E (1993) Nuovi dati sullo sciacallo dorato (Canis aureus L. 1758) in Italia
+(Mammalia, Carnivora, Canidae). Gortania – Atti Museo Friuli Storia Naturale 14: 231–238.
+Manel S, Schwartz MK, Luikart G, Taberlet P (2003) Landscape genetics: combining landscape ecology
+and population genetics. Trends in Ecology and Evolution 18: 189–197.
+Milenkovic M, Paunovic M (2003) Phenomenon of Golden Jackal (Canis aureus L., 1758) Expansion in
+Serbia. Meeting Report of the Carpathian Workshop on Large Carnivore Conservation. Brasov
+, ,
+Romania.
+Mitchell-Jones AJ, Amori G, Bogdanowiecz W, Kryštufek B, Reijnders PJH, Spitzenberger F, Stubbe M,
+Thissen JBM, Vohralík V, Zima J (eds; 1999) The Atlas of European Mammals. Academic Press, San
+Diego, USA.
+Möckel R (2000) Ein Goldschakal (Canis aureus) in Südbrundenburg – Erstnachweis für Deutschland.
+Säugetierkundliche Informationen 4: 477–481.
+Moehlman PD (1983) Socioecology of silver-backed and golden jackals, Canis mesomelas and C.
+aureus. In: Eisenberg JF, Kleiman DG (eds) Recent Advances in the Study of Mammalian Behavior,
+5: 423–453. American Society of Mammalogists, Lawrence, Kansas, USA.
+Munteanu A, Lozanu M (2004) Lumea animala a Moldovei. Mamifere, Vol. 4. Stiinta, Moldova.
+
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+10 J. Arnold et al.
+
+Murariu D, Munteanu D (2005) Fauna României. Vol. XVI. Fascicula 5. Mammalia, Carnivora. Editura
+Academiei Române, Bucharest, Romania.
+Petrakovics G (1996) Goldschakal im Burgenland erlegt. Anblick 5: 22–23.
+Plass J (2007) Dokumentation einer zweiten Einwanderungswelle des Goldschakals Canis aureus
+Linnaeus, 1758 in Österreich aus den Jahren 2003–06. Beiträge zur Naturkunde Oberösterreichs
+17: 55–68.
+Rozhenko NV, Volokh AM (2000) Appearance of the golden jackal (Canis aureus) in the south of
+Ukraine. Vestnik Zoologi 34: 125–129.
+Ruzhilenko NS (2008) Trends of species composition, spatial distribution and abundance changes in
+carnivorous mammals of Middle Pridnieprovja in XX – beginning XXI century//Environment XXI.
+Proceedings of IV international conference, 9–10 October 2008, Dnipropetrovsk, Ukraine.
+Sackl P, Schneider-Jacoby M, Stumberger B (2006) The importance of the Tivat Salina (Montenegro)
+for migrating and wintering waterbirds, including some notes on passerines. Annales–Series
+Historia Naturalis 16: 267- 278.
+Schneider-Jacoby M (2004) Basic Ideas for the Development of Sustainable Tourism on the Ada Island
+Ulcinjska Primorje – Montenegro. Euronatur, Radolfzell, Germany.
+Sillero-Zubiri C, Hoffmann M, Macdonald DW (2004) Canids: Foxes, Wolves, Jackals and Dogs: Status
+Survey and Conservation Action Plan, 2nd ed. IUCN Canid Specialist Group, Gland, Switzerland
+and Cambridge, UK.
+Spassov N (1989) The position of Jackals in the Canis genus and life-history of the Golden Jackal
+(Canis aureus L.) in Bulgaria and on the Balkans. Historia Naturalis Bulgarica 1: 44–56.
+Spassov N (1993) The jackal. Ecocurrier 3: 40–41.
+Spassov N (2007) The Jackal, Canis aureus (Linnaeus 1758). In: Miteva S, Mihova B, Georgiev K, Petrov
+B, Vansink D (eds) The Mammals, Important for Conservation in Bulgaria, 6: 234–238. Dutch
+Mammal Society VZZ, Arnhem, the Netherlands.
+Spassov N, Markov G (2004) Biodiversity of large mammals (Macromammalia) in the Eastern
+Rhodopes (Bulgaria). In: Beron P, Popov A (eds) Biodiversity of Bulgaria, 2. Biodiversity of Eastern
+Rhodopes (Bulgaria and Greece). Pensoft & Nat. Mus. Natur. Hist, Sofia, Bulgaria.
+Spitzenberger F (2002) Die Säugetierfauna Österreichs (Grüne Reihe des Bundesministeriums für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft). Austria Medienservice, Graz, Austria.
+Szabó L, Heltai M, Lanszki J (2006) A Tisza, mint zöld folyosó szerepe az aranysakál magyarországi
+terjedésében.(The role of the River Tiscia as a green corridor in to the spreading of golden jackal
+in Hungary). Vadbiológia 12: 47–54.
+Szabó L, Heltai M, Lanszki J (2008) Factors that influence the Golden jackal’s (Canis aureus L. 1758)
+spreading in Hungary. 92nd Annual Meeting of the German Society of Mammalogy. Vienna.
+Abstracts of Oral Communications and Poster Presentations. Mammalian Biology Special Issue 73:
+41.
+Szabó L, Heltai M, Szucs E, Lanski J, Lehoczki R (2009) Expansion range of the golden jackal in
+Hungary between 1997 and 2006. Mammalia 73: 307–311.
+Tóth T, Krecsák L, Szücs E, Heltai M, Huszár G (2009) Records of the golden jackal (Canis aureus
+Linnaeus, 1758) in Hungary from 1800th until 2007, based on literature survey. North-West
+Journal of Zoology 5: 386–405.
+Veit ML, Robertson RJ, Hamel PB, Friesen VL (2005) Population genetic structure and dispersal across
+a fragmented landscape in cerulean warblers (Dendroica cerulea). Conservation Genetics 6:
+759–174.
+Zachos FE, Cirovic D, Kirschning J, Otto M, Hartl GB, Petersen B, Honnen AC (2009) Genetic variability,
+differentiation, and founder effect in golden jackals (Canis aureus) from Serbia as revealed by
+mitochondrial DNA and nuclear microsatellite loci. Biochemical Genetics 47: 241–250.
+Submitted 23 March 2010; returned for revision 6 May 2010; revision accepted 26 July 2010
+Editor: NJ
+
+© 2011 The Authors. Mammal Review © 2011 Mammal Society, Mammal Review, 42, 1–11
+
+13652907, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+European status and distribution of the golden jackal 11
+
+

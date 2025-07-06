@@ -1,0 +1,556 @@
+第53卷
+
+第1期
+
+2015年1月
+
+古 脊 椎 动 物 学 报
+
+pp. 16-28
+
+VERTEBRATA PALASIATICA
+
+figs. 1-6
+
+New discoveries from the Sinokannemeyeria-Shansisuchus
+Assemblage Zone: 1. Kannemeyeriiformes from
+Shanxi, China
+LIU Jun
+(Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate
+Paleontology and Paleoanthropology, Chinese Academy of Sciences Beijing 100044 liujun@ivpp.ac.cn)
+
+Abstract Recently, some new tetrapod fossils were collected along the Yellow River in Shanxi
+Province. From the Member I of the Tongchuan Formation at Baidaoyu in Liulin County, at least
+one species of Parakannemeyeria, and one new species of Sinokannemeyeria, S. baidaoyuensis,
+are identified. The new species is characterized by prefrontal anterior extension level to posterior
+margin of postnarial excavation. From the Ermaying Formation in Liulin County, a third
+kannemeyeriid genus is identified for the Sinokannemeyeria-Shansisuchus Assemblage. The
+new findings increase the content and time extension of the Sinokannemeyeria-Shansisuchus
+Assemblage.
+Key words Shanxi, Middle Triassic, Ermaying Formation, Tongchuan Formation,
+Sinokannemeyeria, Parakannemeyeria
+
+1
+
+Introduction
+
+In North China, terrestrial Triassic deposits are widely distributed, but the tetrapod fossils
+have only been discovered from the Heshanggou, Ermaying and Tongchuan formations (Li
+et al., 2008). The Ermaying Formation is the richest source of Triassic tetrapods of China,
+with the lower part having yielded the Shaanbeikannemeyeria-Fugusuchus assemblage and
+the upper part having yielded the Sinokannemeyeria-Shansisuchus assemblage (or Shansidon
+assemblage) (Li and Cheng, 1995; Sun, 1980). In contrast, the Tongchuan Formation was
+long considered barren of fossil tetrapods, with the sole exception of the archosauriform
+Yonghesuchus from Member II of the formation (Liu et al., 2001; Wu et al., 2001). In
+2010, several new fossil localities were discovered from both the Ermaying and Tongchuan
+formations. These localities lie in two small areas in Shanxi Province, along the Yellow river:
+one lies within Sanjiao Town, Liulin County; another is close to Baidaoyu, Quyu Town,
+Linxian County. They produced many tetrapod bones: mostly kannemeyeriiformes, some
+archosauriform, and few therocephalian. Among them, some are identified as new taxa. In
+this paper, I will report the discovery of kannemeyeriiformes. Because no tetrapods have
+
+国家重点基础研究发展计划项目(编号：2012CB821902)和全国陆相地层划分对比及海相地层阶完善项目资
+助。
+收稿日期：2014-03-19
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+17
+
+been reported from the Member I of the Tongchuan Formation, all new kannemeyeriiformes
+materials from this layer will be described. For materials from the Ermaying Formation, only a
+new form from locality SX/D will be described.
+Abbreviations IVPP, Institute of Vertebrate Paleontology and Paleoanthropology,
+Chinese Academy of Sciences; cn.c, cnemial crest; ect, ectepicondyle; ent, entepicondyle; ent.
+f, entepicondyle foramen; ipp, iliac posterior process; L, lacrimal; mc, metacarpal; M, maxilla;
+n.s, neural spine; N, nasal; od, odontoid; pap, parapophysis; przp, prezagapophysis; pzp,
+postzagapophysis; Pf, prefrontal; Pm, premaxilla; s.n, sigmoid notch; Sm, septomaxilla; tr.p,
+transverse process.
+
+2
+
+Geological settings
+
+At the Sanjiao area, the fossils are produced from the purple, celadon mudstone or
+siltstone layers which are interbedded with the thick-bedded reddish arkose. These layers were
+referred to the Tongchuan Formation following Shilou 1:200000 geological map previously,
+but are regarded as upper part of the Ermaying Formation here. The thickness of these layers
+is less than 100 m. One tuff layer within these layers was dating as (243.1±3.9) Ma recently
+using Sensitive High Resolution Ion Microprobe (SHRIMP) U-Pb method (Liu et al., 2013).
+At the Baidaoyu locality, disarticulated bones are widely exposed along the road-cut
+for around 50 m in a celadon muddy siltstone layer around two meters thick sandwiched into
+reddish sandstone (Fig. 1). This layer was assigned to Member I of the Tongchuan Formation.
+
+Fig. 1 Photo of Baidaoyu locality in Liulin, Shanxi
+All tetrapod fossils from this locality come from the siltstone, author’s left hand pointed to the locality Ff-g,
+and there are fossil plants within the red sandstone just below
+
+古
+
+18
+
+3
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+Materials
+
+The identified bones are listed here under each locality. In the field, the Baidaoyu initially
+included seven localities (Fa−Fg), but later works showed that the bones are continuous from
+Fa to Fb, from Ff to Fg, and some bones are collected on the dumped stones below the road (Fl).
+Locality SX/D: an incomplete skull, vertebrae, an incomplete hand and some bone
+fragments (IVPP V 19366).
+Locality SX/Fa-b: a braincase, quadrate with quadratojugal; right caniniform process
+with tusk, five vertebrate neural arches, fragmentary ribs, a left radius, left and right tibiae, and
+one claw (IVPP V 19364).
+Locality SX/Fc: four sacral vertebrae with ribs, three fused (2-5); one poorly preserved
+vertebra, lower portion of a right ilium, and an incomplete right radius (IVPP V 19364).
+Locality SX/Fd: a left radius and a left tibia (IVPP V 19363).
+Locality SX/Fe: distal part of a left humerus, a partially right ilium, and a rib (IVPP V
+19363).
+Locality SX/Ff-g: an incomplete skull, a lower jaw, a cervical, a left femur and some
+fragment bones (IVPP V 19363).
+Locality SX/Fl: an axis and some other vertebrae, a left precoracoid, proximal part of a
+left ulna, a left tibia from one block; and some incomplete well-ossified postcranial elements
+(IVPP V 19365).
+The kannemeyeriiformes from Fc is regarded as the same individual from Fa-b, because
+Fc is not too far from Fa-b, and the right radius from Fc is the same size and shape as the left
+radius of Fa-b, and no same bone is present within them. The positions of Fd and Fe are close
+to Ff-g, and the sizes of the bones are consistent and their color are similar, and these indicate
+that they represent one individual although the tibia is better ossified than the humerus and
+femur. The fossils from Ff-g are disarticulated, although the postcranial bones are assigned the
+same specimen number as the skull, the possibility that they belong to different individuals
+cannot be excluded. The bones collected from dumped stones are hard to be assigned to the
+specimens mentioned above. The ulna is different in color with most other bones from the
+same block and could belong to a different individual although they are given same specimen
+number.
+
+4
+
+Systematic paleontology
+		
+		
+		
+
+Dicynodontia Owen, 1860
+Dicynodontoidea Cluver & King, 1983
+Kannemeyeriiformes von Huene, 1948
+Sinokannemeyeria Young, 1937
+Sinokannemeyeria baidaoyuensis sp. nov.
+(Figs. 2, 3)
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+19
+
+Diagnosis A species referred to Sinokannemeyeria for skull wide and low, anterior end
+of the premaxilla short, with a shallow depression, long dentary symphysis, and wide femur;
+it is characterized by prefrontal anterior extension level to posterior margin of postnarial
+excavation.
+Etymology Baidaoyu, the name of fossil locality.
+Holotype IVPP V 19363, an anterior portion of skull with lower jaw, a cervical, a rib, a
+left humerus, a left radius, an incomplete right ilium, a left femur, and a left tibia.
+Locality and horizon SX/Fd-g, Baidaoyu, Quyu town, Linxian County, Shanxi
+Province, China (37°49′46.9″ N, 110°39′41.6″E); Tongchuan Formation, Middle Triassic.
+Description The snout is quite large, with maximum preserved length and width of
+approximately 20 cm (Fig. 2). If the skull has a similar outline with other kannemeyeriiformes
+species, the complete skull length should be close to 50 cm, roughly the skull size of the
+holotype of Sinokannemeyeria yingchiaoensis or Parakannemeyeria ningwuensis (Sun, 1963).
+The dorsal surface is relatively smooth, without distinct pit or striation; and most sutures can
+be traced.
+The short anterior end of the premaxilla turns downwards and forms a blunt tip, bearing
+a shallow depression on the anterior surface as the holotype of S. yingchiaoensis (Fig. 2C).
+Lateral to this depression, the anterolateral ridge of premaxilla forms small fossa with the
+anterior rim of external naris. On palatal surface, the premaxilla sends two ridges posteriorly,
+which forms a deep groove at the midline. The premaxilla decreases in width posteriorly,
+forming a V-shaped suture with the nasals. The nasal extends laterally and downwards as a
+flange above the external naris, and its anterior end forms a notch on anterodorsal border of
+the naris with the premaxilla. No boss or ridge is observed on the nasals. The oval external
+naris is quite large, approximately 10 cm in length and 5 cm in height. Posteroventrally,
+it is continuous by an elongate excavation above the thin, small caniniform process. This
+excavation is mostly formed by the maxilla medially, but the septomaxilla still nearly occupies
+the dorsal half. The tusk is quite robust, deeply roots in the caniniform process but the exposed
+distal tip is quite short. The caniniform process does not completely wrap the tooth, unknown
+in other Triassic dicynodonts. A shallow, wide groove extends posteriorly from the postnarial
+excavation on the lateral surface of the maxilla, and its dorsal rim is defined by the suture with
+the lacrimal. The lacrimal is sutured with the nasal anteriorly, the prefrontal dorsally, and the
+maxilla ventrally. It also contacts the septomaxilla by its narrow anteroventral corner. The left
+prefrontal is preserved and exposed almost in dorsal view, and its anterior extension is roughly
+leveled with the posterior margin of the postnarial excavation.
+Only the dentaries is preserved for the mandibles (Fig. 2E-G). It has a normal appearance
+of kannemeyerid dentary except a robust symphysis, whose width (6 cm) is slightly less than
+the length (~8 cm), and the width is correlated with the wide snout. The lower-medial side is
+depressed, which is the place for the splenial. It indicates two rami of splenial meet anteriorly
+as in Sinokannemeyeria and Parakannemeyeria (Sun, 1963).
+
+20
+
+古
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+A cervical vertebra is almost complete (Fig. 3A). The incomplete neural spine directs
+slightly posteriorly. The transverse processes direct laterally, with two processes forming a
+nearly straight line on dorsal edge.
+Although the left humerus is incomplete, the preserved part shows it is smaller and
+relatively slender than that of S. yingchiaoensis (Fig. 3B). The distal end is poorly ossified,
+
+Fig. 2 Holotype of Sinokannemeyeria baidaoyuensis sp. nov. (IVPP V 19363)
+Skull in dorsal (A), ventral (B), anterior (C), and lateral (D) views;
+lower jaws in dorsal (E), lateral (F) and ventral (G) views
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+21
+
+Fig. 3 Holotype of Sinokannemeyeria baidaoyuensis sp. nov. (IVPP V 19363)
+A. a cervical vertebra in anterior view; B. distal portion of left humerus in ventral (B1) and dorsal (B2) views;
+C. left radius in anterior (C1) and posterior (C2) views; D. partially right ilium in lateral (D1) and medial (D2)
+views; E. left femur in posteroventral (E1) and anterodorsal (E2) views;
+F. left tibia in proximal (F1), anterior (F2) and posterior (F3) views
+
+especially the trochlea, and the posterior margin of the entepicondyle is nearly straight. The
+radius is flattened anteroposteriorly (Fig. 3C). Although the distal portion of the left radius is
+broken, the bone still shows that the proximal and distal ends are wider than the shaft. The
+proximal surface is concave. On the thicker side of the proximal end, near the lateral face,
+there is a well-marked notch. In the lateral region, near the distal border, a dorsoventrally
+elongated scar is observed as in Jachaleria (Vega-Dias and Schultz, 2004). A less distinct scar
+also develops on the same side, near the proximal border.
+The right ilium is preserved only the posterior portion and the margin is incomplete. The
+medial surface has concave fossa for connection with the corresponding sacral ribs (Fig. 3D).
+The femur also has a poorly ossified distal end (Fig. 3E). This bone is wide, and the relative
+width of the shaft and the distal end compared to the height are larger than that of S. pearsoni
+(Young, 1937). The tibia is preserved only the proximal part, and nearly 1/3 of the margin
+of the proximal surface is broken (Fig. 3F). On the proximal surface, a ridge separates two
+concave facets, which are the articulation facets for the medial and the lateral condyles of the
+femur. Anterior to theses facets, lies a rugose area, where the cnemial crest begins. The cnemial
+crest is wide, and directs anterolaterally. Lateroposteriorly to the cnemial crest, a deep furrow,
+for the passage of the extensor iliotibialis and femorotibialis muscles, exists. A triangular fossa
+
+22
+
+古
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+lies on the middle of the posterior side, just ventral to the proximal extremity.
+Discussion This specimen is quite unusual in its caniniform not completely wrapped by
+the caniniform process which seems unlikely due to incomplete preservation. It will decrease
+the endurance of the tooth and could be mal-functional. This morphology is possibly related to
+pathological and will not be used as a diagnostic character. The clear sutures on the skull and
+the poorly ossified extremities of the humerus and the femur may indicate the subadult stage of
+the specimen.
+This specimen has large external naris and deep postnarial excavation, same to Russian
+Rabidosaurus (Kalandadze, 1970) and Chinese Sinokannemeyeria and Parakannemeyeria
+(Sun, 1963). However, in this specimen the premaxillary anterior tip is short and blunt, and the
+premaxilla is laterally extended as a short ridge anterior to the naris and bears fossa anterior
+to this ridge, and the caniniform process nearly extends ventrally. These features are only
+observed in Sinokannemeyeria and Parakannemeyeria. It shows one autopomorphy among
+the species of Sinokannemeyeria and Parakannemeyeria: prefrontal anterior extension level to
+the posterior margin of the postnarial excavation. This character could be ontogenetic variable
+and related to the subadult stage of a specimen, e.g., the prefrontal is not far from the level
+of the postnarial excavation in the holotype of S. sanchuanheenis, a juvenile (Cheng, 1980).
+However, this specimen is quite large in size, and does not like to be a juvenile, so a new
+species is named here.
+The skull is similar to S. yingchiaoensis and P. ningwuensis in skull wide and low,
+anterior end of the premaxilla short and with a shallow depression (Li et al., 2008; Sun, 1963)
+(Fig. 2). Although based only the known skull, it is more similar to P. ningwuensis because its
+caniniform process is thin and small (Sun, 1963), this species is referred to Sinokannemeyeria
+rather than Parakannemeyeria for its long dentary symphysis and wide femur; and its big
+differences with the type species of Parakannemeyeria, P. dolichocephala, whose skull is
+narrow and high (Sun, 1960, 1963) (Fig. 2).
+				Parakannemeyeria Sun, 1960
+Parakannemeyeria sp.
+Referred specimens IVPP V 19364, occiput, quadrate, quadratojugal; right caniniform
+process with tusk, one centrum, five neural arches, four sacral vertebrae with ribs; right ilium,
+left and right radius, left and right tibiae, one claw (Fig. 4).
+Locality and horizon SX/Fa-c, Baidaoyu, Quyu town, Linxian County, Shanxi
+Province, China (37°49′46.9″N, 110°39′41.6″E); Tongchuan Formation, Middle Triassic.
+Description The tusk is oval in cross-section, measuring 44 mm in long diameter on
+proximal end, 26 cm in length, but with a short exposure (2 cm) outside of the process (Fig.
+4A). The maxilla is nearly complete except the broken anterior margin of the caniniform
+process. Its posterodorsal side has two processes, of which the lateral one joins the jugal as the
+suborbital rim, while the medial one joins the palatine and pterygoid. The caniniform process
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+23
+
+Fig. 4 Parakannemeyeria sp., IVPP V 19364 (Field number: SX/Fa-b, Fc)
+A. right caniniform process with tusk in lateral (A1) and medial (A2) views; B. right quadrate and quadratojugal
+in anterior (B1) and posterior (B2) views; C. occiput in anterior (C1) and posterior (C2) views; D. neural arch of
+axis in anterior (D1) and posterior (D2) views; E. neural arch of a cervical in anterior (E1) and posterior (E2)
+views; F. four sacral vertebrae with ribs in dorsal (F1) and ventral (F2) views; G. ventral portion of right ilium
+in lateral (G1) and medial (G2) views; H. left radius in anterior (H1) and posterior (H2) views;
+I. left tibia in anterior (I1) and posterior (I2) views; J. a claw in dorsal (J1) and ventral (J2) views
+
+24
+
+古
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+is thin and tall as in some species of Parakannemeyeria, but different from the stout and robust
+caniniform process of Sinokannemeyeria yingchiaoensis (Sun, 1963).
+The incomplete right quadrate and nearly complete right quadratojugal are preserved (Fig.
+4B). Two quadrate condyles are stout, of which the medial condyle is anteroposteriorly longer
+but mediolaetrally narrower than the lateral condyle.
+The occiput is slightly distorted, and the foramen magnum could be compressed mediolaterally, but it still should be oval with a long diameter in dorsoventral direction naturally
+(Fig. 4C). The preserved part shows the skull is relatively high compared to S. yingchiaoensis ,
+similar to other known specimens of Parakannemeyeria.
+The five vertebrae all miss the centra, their transverse processes are almost directed
+laterally rather than dorsally in two of them, which are identified as cervicals. One cervical has
+widened, hollowed posterior surface, and the prezygapophysis is nearly horizon (Fig. 4D). It is
+identified as the axis.
+Of four sacral vertebrae, three are fused together (Fig. 4F). All the upper part of
+neural spines are broken. The sacral rib is not rod-like but expands vertically and twists
+anteroposteriorly with its broadened fan-like base firmly attached to the inner side of ilium.
+The first sacral rib is long, more rod-like than the following ones. The last one is the shortest,
+and in the form of a flattened plate. The ventral side of sacral centra is flattened, no keel is
+observed.
+Only distal end of the right ilium is preserved (Fig. 4G). The acetabulum is deep and
+wide, its neck is short but not constricted. The almost complete left radius is flat, and the distal
+end is wider than the proximal end (Fig. 4H). The left tibia is well-preserved and has wellossified articular facets. The cnemial crest is well-developed (Fig. 4I).
+The terminal phalange is spatulate, with thickened, ellipsoid, concave proximal glenoid
+surface (Fig. 4J). It is relatively wide as in P. youngi, differing from the long phalange of S.
+yingchiaoensis (Sun, 1963).
+Discussion This specimen is easily assigned to Parakannemeyeria based on the shape of
+caniniform process and occiput, but the skull is so poorly preserved that no specific assignment
+can be done.
+Unidentified species of Sinokannemeyeria or Parakannemeyeria
+Material IVPP V 19365, some vertebrae including an axis, a tibia and some bone
+fragments (Fig. 5).
+Locality and horizon SX/Fl, Sanjiao, Liulin County, Shanxi Province, China;
+Tongchuan Formation, Anisian, Middle Triassic.
+Description The axis is nearly complete except the left transverse process (Fig. 5A). Its
+shape is the same as the axis of Sinokannemeyeria. The nearly complete dorsal are also similar
+to the dorsal of S. yingchiaoensis except the narrower centrum (Fig. 5B).
+The precoracoid is incomplete, and shows a thick coracoid margin (Fig.5C). The margins
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+25
+
+Fig. 5 Unidentified kannemeyeriid (IVPP V 19365) (Field number: SX/Fl)
+A. axis in anterior (A1), lateral (A2) and posterior (A3) views; B. a dorsal vertebra in lateral (B1)
+and posterior (B2) views; C. incomplete left precoracoid in medial view; D. proximal portion of left ulna
+in anterior (D1) and posterior (D2) views; E. left tibia in anterior view. Scale bars equal 2 cm
+
+are broken, and it is unsure that the original shape is triangular or quadrate.
+The proximal portion of the ulna is well ossified and preserved (Fig.5D). The olecranon
+is well-developed and co-ossified with the shaft. A low ridge separates the anterior side of the
+olecranon with the slanting lateral side. The sigmoid notch for the humerus is deeply concave,
+and it is divided to two facets by a dorsoventral ridge. On the medial side, below the sigmoid
+notch, lies the articulation surface for the contact with the radius. On the anterior side, lateral
+to the sigmoid notch, lies a rounded fossa. Below the fossa is a depression. This portion
+accommodates the muscle of forelimb.
+The size of the tibia is smaller than that from Fd but greater than those from Fa-b (Fig. 5E).
+It is quite different from them in that the cnemial crest lies more medially and directs anteriorly
+rather than anterolaterally and the furrow on the lateral side is quite shallow. It is similar to the
+tibia of P. youngi (IVPP V 972).
+Comparison It is hard to identify this specimen. The known bones are similar to the
+corresponding bones of Sinokannemeyeria and Parakannemeyeria. Based on the narrow
+centrum, it could belong to Parakannemeyeria (Sun, 1963).
+The tibia is different in shape from other similar size tibiae from same horizon and place.
+However, these two types of tibia are both present in two specimens of P. youngi (IVPP V 972,
+V 979) from same place. It is possible that the tibia of V 19365 represents dimorph of one of
+the previous species. Since the cranial portion of V 972 is poorly preserved, it is possible that
+
+26
+
+古
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+it may represent a close related species of P. youngi rather than P. youngi itself; and V 19365
+could represent the third species at this place.
+Undetermined genera and species
+Material IVPP V 19366, an incomplete skull, an axial neural arch, a cervical, one
+incomplete hand and some bone fragments (Fig. 6).
+Locality and horizon SX/D (N 37°17′18″, E 110°42′06″), Sanjiao, Liulin County,
+Shanxi Province, China; Ermaying Formation, Anisian, Middle Triassic.
+Description Although the skull is poorly preserved (Fig. 6A), the right side of the snout
+is characteristic. The lateral surface of premaxilla is smooth anterior to the external naris,
+without lateral extension as in Sinokannemeyeria or Parakannemeyeria (Sun, 1963). The nasal
+only extends laterally but not downwards at the dorsal border of the naris. The external naris
+is a relatively small opening, there is no postnarial excavation. The caniniform process mainly
+extends laterally rather than ventrally. All these features are similar to those of Rhadiodromus,
+Kannemeyeria and Shaanbeikannemeyeria (Cheng, 1980; Kalandadze, 1970; Surkov, 2003)
+but different from Sinokannemeyeria and Parakannemeyeria. Its size is much larger than the
+holotype of Shaanbeikannemeyeria based on the size of the snout.
+The left half of the axial neural arch is available (Fig. 6D). Anteriorly, a concave facet
+lies on the proximal side of the transverse process, for the articulation of the odontoid. This
+indicates the atlas was not fused to the axis. Above it, the prezygapophysis is distinct. The
+transverse process has a convex ventral margin and a concave dorsal margin, and shows no
+
+Fig. 6 Unidentified kannemeyeriid (IVPP V 19366) (Field number: SX/D)
+A. incomplete skull in lateral (A1) and ventral (A2) views; B. one metacarpal and two manual phalanges
+(possible same digit) in dorsal (B1) and ventral (B2) views; C. a cervical in posterior (C1), lateral (C2) and
+anterior (C3) views; D. left half of axial neural arch in anterior view; E. an incomplete hand in dorsal view
+
+1期
+
+Liu: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone
+
+27
+
+facet to articulate to the rib.
+A nearly complete vertebra is identified as cervical (Fig. 6C). The transverse process is
+directed dorsolaterally, and the diapophysis is rather high, while the parapophysis is located at
+the upper part of the centrum. So the associated rib should be two-headed.
+Digits II to V of the right hand are available, they include nine phalanges and two
+metacarpals (Fig. 6B, E). The hand is similar to that of Parakannemeyeria youngi (Sun, 1963).
+Discussion Although only partial skull is available, it shows clear difference from that
+of Sinokannemeyeria and Parakannemeyeria; so this specimen shows the presence of the third
+kannemeyeriiform genus in this assemblage.
+
+5
+
+Conclusions
+
+These new findings show that the generic and specific diversity of kannemeyeriiforms in
+Sinokannemeyeria-Shansisuchus Assemblage Zone are greater than previous recognition and
+this assemblage at least extends into the Member I of the Tongchuan Formation. They also
+show that more works need to be done on the detailed morphology and the interrelationships
+of the species of Sinokannemeyeria and Parakannemeyeria.
+Acknowledgements The studied fossils were collected by Wang Yu, Xu Xu, Jia Zhen-Yan,
+prepared by Wu Yong, Xu Xu, Liu Yu-Dong and Jia Zhen-Yan. Christian F. Kammerer read an
+early version of the manuscript; Kenneth Angielczyk and Andrey Kurkin reviewed the paper
+and gave constructive suggestions.
+
+中国肯氏兽－山西鳄组合带的新发现之一：山西的肯氏兽类
+刘 俊
+(中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室 北京 100044)
+
+摘要：近年来在山西省境内沿黄河一带采集到一些新的四足动物化石。在临县白道峪铜川
+组一段产出的化石中，至少有一种副肯氏兽和一种新的中国肯氏兽——白道峪中国肯氏兽
+(Sinokannemeyeria baidaoyuensis sp. nov.)。新种以其前额骨向前延伸到达鼻孔后凹一线的
+特征区别于其他中国肯氏兽。这一材料的长牙未被前颌骨完全包裹，可能是不正常发育所
+致。在柳林的二马营组地层中识别出不同于中国肯氏兽和副肯氏兽的第三个肯氏兽属。这
+些新发现增加了中国肯氏兽－山西鳄组合带的组分以及时代延限。
+关键词：山西，中三叠统，二马营组，铜川组，中国肯氏兽，副肯氏兽
+中图法分类号：Q915.864
+
+文献标识码：A
+
+文章编号：1000-3118(2015)01-0016-13
+
+古
+
+28
+
+脊
+
+椎
+
+动
+
+物
+
+学
+
+报
+
+53卷
+
+References
+Cheng Z W, 1980. Vertebrate fossils. In: IGCAGS ed. Mesozoic Stratigraphy and Palaeontology of Shaanxi-Gansu-Ningxia
+Basin. Beijing: Geological Publishing House. 115–188
+Cluver M A, King G M, 1983. A reassessment of the relationships of Permian Dicynodontia (Reptilia, Therapsida) and a
+new classification of dicynodonts. Ann S Afr Mus, 91: 195–273
+Huene von F, 1948. Short review of the lower tetrapods. In: Du Toit A L ed. Special Publication of the Royal Society of
+South Africa: Robert Broom Commemorative Volume. Cape Town: Royal Society of South Africa. 65–106
+Kalandadze N N, 1970. New Triassic kannemeyeriids from South Cisuralia. In: Flerov K K ed. Materials on the Evolution
+of Terrestrial Vertebrates. Moscow: Nauka. 51–57
+Li J L, Cheng Z W, 1995. A new Late Permian vertebrate fauna from Dashankou, Gansu, with comments on Permian and
+Triassic vertebrate assemblage zones of China. In: Sun A L, Wang Y Q eds. Sixth Symposium on Mesozoic Terrestrial
+Ecosystems and Biota, Short Papers. Beijing: China Ocean Press. 33–37
+Li J L, Wu X C, Zhang F C, 2008. The Chinese Fossil Reptiles and Their Kin. 2nd ed. Beijing: Science Press. 473
+Liu J, Wu X C, Li J L, 2001. The first reptile from the Tongchuan Formation and its stratigraphical significance. Vert
+PalAsiat, 39: 67–71
+Liu J, Li L, Li X W, 2013. SHRIMP U-Pb zircon dating of the Triassic Ermaying and Tongchuang formations in Shanxi,
+China and its stratigraphic implications. Vert PalAsiat, 51: 162–168
+Owen R, 1860. On the orders of fossil and recent Reptilia, and their distribution in time. Report of the Twenty-Ninth
+Meeting of the British Association for the Advancement of Science, 1859. 153–166
+Sun A L, 1960. On a new genus of kannemeyerids from Ningwu, Shanxi. Vert Palasiat, 4: 67–80
+Sun A L, 1963. The Chinese kannemeyerids. Palaeont Sin, 17: 1–109
+Sun A L, 1980. Late Permian and Triassic terrestrial tetrapods of North China. Vert PalAsiat, 18: 100–111
+Surkov M V, 2003. A new anomodont (Therapsida) from the Middle Triassic of the southern Fore-Urals. Paleont J, 37:
+425–431
+Vega-Dias C, Schultz C L, 2004. Postcranial material of Jachaleria candelariensis Araújo and Gonzaga 1980 (Therapsida,
+Dicynodontia), Upper Triassic of Rio Grande do Sul, Brazil. PaleoBios, 24: 7–31
+Wu X C, Liu J, Li J L, 2001. The anatomy of the first archosauriform (Diapsida) from the terrestrial Upper Triassic of China.
+Vert PalAsiat, 39: 251–265
+Young C C, 1937. On the Triassic dicynodonts from Shansi. Bull Geol Soc China, 17: 393–411
+
+

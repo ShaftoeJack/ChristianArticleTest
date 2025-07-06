@@ -1,0 +1,297 @@
+{
+  "search_session": {
+    "timestamp": "2025-07-04",
+    "purpose": "Strategic citation collection for Top 15 priority citations",
+    "methodology": "Systematic search using DOI resolution, PubMed/PMC, Google Scholar, publisher websites, and preprint servers"
+  },
+  "citations_attempted": [
+    {
+      "id": 11,
+      "authors": "Angielczyk K. D., Steyer J.-S., Sidor C. A., Smith R. M. H., Whatley R. L. & Tolan S.",
+      "title": "Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy",
+      "doi": "10.1007/978-94-007-6841-3_7",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "successful",
+          "url": "https://hal.science/hal-02107892v1/preview/Angielczyk%20et%20al%202014%20Permian%20and%20Triassic%20Dicynodont%20Zambia.pdf",
+          "source": "HAL Open Archive",
+          "filename": "citation_11_Angielczyk_2014.pdf"
+        }
+      ],
+      "final_status": "downloaded"
+    },
+    {
+      "id": 2,
+      "authors": "Abdala F., Marsicano C. A., Smith R. M. H. & Swart R.",
+      "title": "Strengthening Western Gondwanan correlations: A Brazilian dicynodont (Synapsida, Anomodontia) in the Middle Triassic of Namibia",
+      "doi": "10.1016/j.gr.2012.07.011",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1342937X12002523",
+          "source": "ScienceDirect",
+          "reason": "Paywall - abstract only"
+        },
+        {
+          "method": "Academia.edu",
+          "status": "failed",
+          "url": "https://www.academia.edu/31325425/Strengthening_Western_Gondwanan_correlations_A_Brazilian_Dicynodont_Synapsida_Anomodontia_in_the_Middle_Triassic_of_Namibia",
+          "source": "Academia.edu",
+          "reason": "Requires registration/login"
+        },
+        {
+          "method": "Google Scholar PDF search",
+          "status": "failed",
+          "reason": "No freely accessible PDF found"
+        }
+      ],
+      "final_status": "unavailable"
+    }
+  ],
+    },
+    {
+      "id": 10,
+      "authors": "Angielczyk K. D. & Kammerer C. F.",
+      "title": "The cranial morphology, phylogenetic position and biogeography of the upper Permian dicynodont Compsodon helmoedi van Hoepen (Therapsida, Anomodontia)",
+      "doi": "10.1002/spp2.1087",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spp2.1087",
+          "source": "Wiley Online Library",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 12,
+      "authors": "Angielczyk K. D., Hancox P. J. & Nabavizadeh A.",
+      "title": "A redescription of the Triassic kannemeyeriiform dicynodont Sangusaurus (Therapsida, Anomodontia), with an analysis of its feeding system",
+      "doi": "10.1080/02724634.2017.1395885",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/02724634.2017.1395885",
+          "source": "Taylor & Francis Online",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 19,
+      "authors": "Attridge J., Ball H. W., Charig A. J. & Cox C. B.",
+      "title": "The British Museum (Natural History)-University of London joint palaeontological expedition to northern Rhodesia and Tanganyika, 1963",
+      "doi": "10.1038/201445a0",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.nature.com/articles/201445a0",
+          "source": "Nature",
+          "reason": "Paywall - subscription required"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 13,
+      "authors": "Angielczyk K. D., Liu J. & Yang W.",
+      "title": "A redescription of Kunpania scopulusa, a bidentalian dicynodont (Therapsida, Anomodontia) from the ?Guadalupian of northwestern China",
+      "doi": "10.1080/02724634.2021.1922428",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/02724634.2021.1922428",
+          "source": "Taylor & Francis Online",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 25,
+      "authors": "Bajdek P., Szczygielski T., KapuŚciŃska A. & Sulej T.",
+      "title": "Bromalites from a turtle-dominated fossil assemblage from the Triassic of Poland",
+      "doi": "10.1016/j.palaeo.2019.02.002",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031018219300306",
+          "source": "ScienceDirect",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 36,
+      "authors": "Benoit J., Angielczyk K. D., Miyamae J. A., Manger P., Fernandez V. & Rubidge B. S.",
+      "title": "Evolution of facial innervation in anomodont therapsids (Synapsida): Insights from X-ray computerized microtomography",
+      "doi": "10.1002/jmor.20804",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.researchgate.net/publication/323329412_Evolution_of_facial_innervation_in_anomodont_therapsids_Synapsida_Insights_from_X-ray_computerized_microtomography",
+          "source": "ResearchGate",
+          "reason": "Requires login/authentication"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 39,
+      "authors": "Benton M. J., Dunhill A. M., Lloyd G. T. & Marx F. G.",
+      "title": "Assessing the quality of the fossil record: Insights from vertebrates",
+      "doi": "10.1144/SP358.6",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.lyellcollection.org/doi/abs/10.1144/SP358.6",
+          "source": "Geological Society of London",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 3,
+      "authors": "Allen B. J., Wignall P. B., Hill D. J., Saupe E. E. & Dunhill A. M.",
+      "title": "The latitudinal diversity gradient of tetrapods across the Permo-Triassic mass extinction and recovery interval: Permo-Triassic tetrapod biogeography",
+      "doi": "10.1098/rspb.2020.1125",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1125",
+          "source": "Royal Society Publishing",
+          "reason": "Paywall - abstract only"
+        },
+        {
+          "method": "White Rose Research Online",
+          "status": "successful",
+          "url": "https://eprints.whiterose.ac.uk/161099/1/Tetrapod%20LDG%20Final_numbered.pdf",
+          "source": "University of Leeds Repository",
+          "filename": "citation_3_Allen_2020.pdf"
+        }
+      ],
+      "final_status": "downloaded"
+    },
+    {
+      "id": 21,
+      "authors": "Avanzini M., Bernardi M. & Nicosia U.",
+      "title": "The Permo-Triassic tetrapod faunal diversity in the Italian Southern Alps",
+      "doi": null,
+      "search_methods_tried": [
+        {
+          "method": "Web Search + Title search",
+          "status": "failed",
+          "url": "https://www.researchgate.net/publication/221920734_The_Permo-Triassic_Tetrapod_Faunal_Diversity_in_the_Italian_Southern_Alps",
+          "source": "ResearchGate",
+          "reason": "Requires login/authentication"
+        },
+        {
+          "method": "IntechOpen",
+          "status": "failed",
+          "url": "https://www.intechopen.com/chapters/24572",
+          "source": "IntechOpen",
+          "reason": "Could not access download link"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 31,
+      "authors": "Barrett P. M., McGowan A. J. & Page V.",
+      "title": "Dinosaur diversity and the rock record",
+      "doi": "10.1098/rspb.2009.0352",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2009.0352",
+          "source": "Royal Society Publishing",
+          "reason": "Paywall - abstract only"
+        },
+        {
+          "method": "PMC (PubMed Central)",
+          "status": "failed",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2686664/",
+          "source": "PMC",
+          "reason": "PDF download failed - authentication required"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 18,
+      "authors": "Arnold J., Humer A., Heltai M., Murariu D., Spassov N. & Hackländer K.",
+      "title": "Current status and distribution of golden jackals Canis aureus in Europe",
+      "doi": "10.1111/j.1365-2907.2011.00185.x",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2907.2011.00185.x",
+          "source": "Wiley Online Library",
+          "reason": "Paywall - abstract only"
+        },
+        {
+          "method": "ResearchGate",
+          "status": "failed",
+          "url": "https://www.researchgate.net/publication/236000973_Current_status_and_distribution_of_golden_jackals_Canis_aureus_in_Europe",
+          "source": "ResearchGate",
+          "reason": "Requires login/authentication"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 24,
+      "authors": "Bajdek P., Owocki K. & NiedŹwiedzki G.",
+      "title": "Putative dicynodont coprolites from the Upper Triassic of Poland",
+      "doi": "10.1016/j.palaeo.2014.06.013",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031018214003253",
+          "source": "ScienceDirect",
+          "reason": "Paywall - abstract only"
+        }
+      ],
+      "final_status": "unavailable"
+    },
+    {
+      "id": 29,
+      "authors": "Bandyopadhyay S. & Ray S.",
+      "title": "Gondwana vertebrate faunas of India: their diversity and intercontinental relationships",
+      "doi": "10.18814/epiiugs/2020/020028",
+      "search_methods_tried": [
+        {
+          "method": "Web Search + DOI resolution",
+          "status": "failed",
+          "url": "https://www.episodes.org/journal/view.html?doi=10.18814/epiiugs/2020/020028",
+          "source": "Episodes Journal",
+          "reason": "Could not locate direct PDF access"
+        }
+      ],
+      "final_status": "unavailable"
+    }
+  ],
+  "summary_statistics": {
+    "total_citations": 15,
+    "successful_downloads": 2,
+    "failed_attempts": 13,
+    "search_methods_used": ["Web Search + DOI resolution", "HAL Open Archive", "Academia.edu", "Google Scholar PDF search", "ResearchGate", "White Rose Research Online", "IntechOpen", "PMC (PubMed Central)", "Episodes Journal"]
+  }
+}

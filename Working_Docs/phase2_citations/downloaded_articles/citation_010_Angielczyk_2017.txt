@@ -1,0 +1,2474 @@
+[Papers in Palaeontology, Vol. 3, Part 4, 2017, pp. 513–545]
+
+THE CRANIAL MORPHOLOGY, PHYLOGENETIC
+POSITION AND BIOGEOGRAPHY OF THE UPPER
+PERMIAN DICYNODONT COMPSODON HELMOEDI
+VAN HOEPEN (THERAPSIDA, ANOMODONTIA)
+by KENNETH D. ANGIELCZYK 1 and CHRISTIAN F. KAMMERER 2
+1
+
+Integrative Research Center, Field Museum of Natural History, 1400 South Lake Shore Drive, Chicago, IL 60605, USA; kangielczyk@fieldmuseum.org
+Museum f€
+ur Naturkunde, Leibniz-Institut f€
+ur Evolutions- und Biodiversit€atsforschung, Invalidenstraße 43, Berlin, 10115, Germany;
+christian.kammerer@mfn-berlin.de
+2
+
+Typescript received 4 May 2017; accepted in revised form 10 July 2017
+
+Abstract: Compsodon helmoedi is an obscure dicynodont
+originally described based on a single specimen from the
+upper Permian of the Karoo Basin. The discovery of three
+new specimens of Compsodon from the Luangwa Basin of
+Zambia and two additional specimens from South African
+museum collections facilitates a reassessment of its cranial
+morphology and phylogenetic position. Compsodon is diagnosed by an autapomorphic secondary palate morphology:
+medial depression at anterior end of premaxillary secondary
+palate; medial anterior palatal ridges absent; lateral anterior
+palatal ridges prominent and extend to posterior end of
+secondary palate; Y-shaped anterior end of posterior median palatal ridge; embayment of palatal rim anterior to
+caniniform process divided into two depressions by a posteromedially-trending ridge. Other important characters
+include the presence of maxillary ‘postcanines’ and a postcaniniform keel; long interpterygoid vacuity; palatine pad
+smooth and pierced by a foramen; pineal foramen flanked
+
+by swollen eminences of parietals; parietals fused and narrowly exposed between broad postorbitals on dorsal surface
+of skull; and pocket-like depression on lateral surface of
+maxilla. Phylogenetic analysis demonstrates that Compsodon
+is a member of Emydopoidea, but underscores major outstanding problems in our understanding of Permian dicynodont phylogeny that require further attention. The cranial
+morphology of Compsodon converges on that of cryptodonts like Tropidostoma, and as such represents a unique
+emydopoid morphotype. The stratigraphic range of Compsodon probably spans the upper Cistecephalus and lower
+Daptocephalus assemblage zones, and its presence in South
+Africa and Zambia reinforces a pattern of small Permian
+dicynodonts with wide geographical ranges in southern
+Gondwana.
+
+E M Y D O P O I D E A (sensu Kammerer et al. 2015a) is one of
+the most interesting of the major clades of dicynodont
+therapsids, and has a long history of study beginning with
+Owen’s (1876) description of species now contained in
+the genera Emydops and Cistecephalus. Consisting of
+mostly small-bodied species, they are morphologically disparate (Ruta et al. 2013) including species with unusually
+mammal-like pelvis and hindlimb morphologies (Cox
+1959; King 1985) as well as a radiation of highly specialized fossorial species (Cox 1972; Keyser 1973; Cluver
+1974a, 1978; Nasterlack et al. 2012; Laaß 2015; Kammerer
+et al. 2016). Emydopoids also were geographically widespread, occurring in most major fossiliferous PermoTriassic basins in Gondwana (Fr€
+obisch 2009), and they
+are one of only two major clades of dicynodonts to survive the Permo-Triassic mass extinction (Cluver 1974b;
+
+Hotton 1974; Fr€
+obisch 2007; Fr€
+obisch et al. 2010). Within
+the current framework of dicynodont taxonomy, Emydopoidea is less diverse than the two primary bidentalian
+higher taxa (Cryptodontia and Dicynodontoidea). However, as broad-scale taxonomic revisions of dicynodonts
+have proceeded, rigorous reconsideration of previously
+marginal, poorly known dicynodonts has become easier
+(e.g. Angielczyk & Rubidge 2013; Angielczyk et al. 2016).
+Emydopoidea is no exception to this trend, leading to a
+slow but continuous increase in the clade’s species richness in recent years (Fr€
+obisch & Reisz 2008; Fr€
+obisch
+et al. 2010; Kammerer et al. 2015a, 2016).
+Compsodon helmoedi numbers among the enigmatic
+dicynodont species that still require reassessment in a
+modern taxonomic and phylogenetic framework. First
+described by South African palaeontologist E. C. N. van
+
+© The Palaeontological Association
+
+Key words: Synapsida, Therapsida, Anomodontia, Dicynodontia, Karoo Basin, Luangwa Basin.
+
+doi: 10.1002/spp2.1087
+
+513
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+Hoepen in 1934, C. helmoedi played an important role in
+van Hoepen’s (1934) foresightful phylogeny of dicynodonts, although he considered it most closely related to
+the cryptodont Tropidostoma. Toerien (1954) proposed
+emydopoid affinities for C. helmoedi, but Cluver & King
+(1983) and King (1988) listed it as incertae sedis in their
+taxonomies of dicynodonts. Most recently, Angielczyk
+et al. (2014a; also see Kammerer et al. 2015a) revived the
+hypothesis of C. helmoedi as an emydopoid, based on
+newly collected specimens from the Luangwa Basin of
+Zambia, which were only partially prepared at the time.
+Here we present a detailed description of the cranial
+morphology of C. helmoedi, based on a combination of
+new and historic specimens from South Africa and Zambia, and confirm that it is a distinct, valid taxon. We also
+demonstrate that it is an emydopoid, as proposed by Toerien (1954), and discuss its implications for biostratigraphy, biogeography, and morphological disparity within
+Emydopoidea.
+
+resulting in an isotropic voxel size of 87.04 lm. CT scan
+data are available on request from the NHCC or the Field
+Museum of Natural History.
+
+SYSTEMATIC PALAEONTOLOGY
+ANOMODONTIA Owen, 1860
+DICYNODONTIA Owen, 1860
+THEROCHELONIA Seeley, 1894
+EMYDOPOIDEA van Hoepen, 1934
+Genus COMPSODON van Hoepen, 1934
+
+Type species. Compsodon helmoedi van Hoepen, 1934
+Diagnosis. As for the type and only species.
+
+Compsodon helmoedi van Hoepen, 1934
+
+Institutional abbreviations. CGS, Council for Geoscience, Pretoria, South Africa; NHCC, National Heritage Conservation Commission, Lusaka, Zambia; NMQR, National Museum,
+Bloemfontein, South Africa; PIN, Paleontological Institute of the
+Russian Academy of Sciences, Moscow, Russia; RC, Rubidge
+Collection, Graaff-Reinet, South Africa; SAM, Iziko Museums of
+South Africa, Cape Town, South Africa; TSK, T. S. Kemp Collection, Natural History Museum, London, UK.
+
+METHOD
+We referred to x-ray lCT data for two specimens, NHCC
+LB14 (Compsodon helmoedi) and NHCC LB631 (Oudenodon bainii), in the course of this study. The data for
+both specimens were acquired at the University of Chicago PaleoCT facility using a GE v|tome|x s 240 scanner.
+Data for NHCC LB14 were acquired using an acceleration
+voltage of 200 kV, an e-beam current of 210 lA, and a
+0.5 mm tin filter. A total of 2694 images were produced,
+resulting in an isotropic voxel size of 64.9 lm. The scan
+of NHCC LB631 covers only the posterior two-thirds of
+the specimen. Data were acquired using an acceleration
+voltage of 220 kV, and e-beam current of 260 lA, and a
+0.5 mm tin filter. A total of 2021 images were produced,
+
+Figures 1–5
+
+1983 Tropidostoma microtrema (partim) Brink & Keyser,
+J212A231B1
+
+Holotype. NMQR 1460, a nearly complete but laterally
+compressed skull (Fig. 1).
+Referred material. NHCC LB13, a skull missing the postorbital
+bars and zygomatic arches (Fig. 3); NHCC LB14, a complete and
+undistorted skull (Fig. 2); NHCC LB116, a skull missing the right
+postorbital bar and zygomatic arch (Fig. 4); RC 641, a partially
+prepared skull with damaged zygomatic arches (Fig. 5A, B); RC
+736, a damaged skull and partial mandible (Fig. 5C, D).
+
+Revised diagnosis. A large emydopoid dicynodont (maximum known basal skull length about 112 mm) distinguished by the following autapomorphic morphology of
+the secondary palate: medial depression at the anterior
+end of the premaxillary secondary palate; medial anterior
+palatal ridges absent, but lateral anterior palatal ridges
+prominent and extend to posterior end of secondary
+palate; Y-shaped anterior end of the posterior median
+palatal ridge; embayment of the palatal rim anterior to
+the caniniform process divided into two depressions by a
+
+Compsodon helmoedi van Hoepen 1934, holotype NMQR 1460. Photographs (A, C, E, G) and interpretive drawings (B, D, F,
+H) in right lateral (A, B), dorsal (C, D), ventral (E, F), and posterior (G, H) views. I, closeup of left ‘postcanine’ in labial view. Abbreviations: ap, anterior plate; bo, basioccipital; cp, cultriform process; ec, ectopterygoid; eo, exoccipital; epi, epipterygoid; f, fossa; fr,
+frontal; ic, internal carotid canal; ip, interparietal; ipv, interpterygoid vacuity; ju, jugal; la, lacrimal; mx, maxilla; na, nasal; pa, parietal;
+pbs, parabasisphenoid; pc, ‘postcanine’ tooth; pe, periotic; pf, postfrontal; pif, pineal foramen; pl, palatine; plf, palatine foramen; pm,
+premaxilla; po, postorbital; pp, preparietal; pr, prefrontal; pt, pterygoid; ptf, posttemporal fenestra; qd, quadrate; qj, quadratojugal;
+smx, septomaxilla; so, supraoccipital; sq, squamosal; tb, tabular. Upper scale bar (A–H) represents 2 cm; lower scale bar (I) represents
+1 mm.
+
+FIG. 1.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+514
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+515
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+516
+
+posteromedially-trending ridge. In addition, the following
+combination of primitive and derived characters is diagnostic for the species: diamond-shaped nasal boss with
+continuous posterior margin; prefrontal boss absent; orbital margins slightly raised above level of skull roof;
+depressions near posterior end of dorsal surface of frontal
+give postfrontals a raised appearance; pineal foramen
+flanked laterally by swollen ‘lip’-like eminences of parietals; parietals fused and narrowly exposed between broad
+postorbitals on dorsal surface of temporal bar; interparietal does not contribute to dorsal surface of temporal
+bar; pocket-like depression on lateral surface of maxilla
+between external naris, caniniform process, and anterior
+orbital margin; caniniform process short; caniniform
+tusks present; postcaniniform keel present; small number
+of maxillary ‘postcanines’ present posterior to tusk; maxillary ‘postcanine’ crowns conical with pointed tips and
+no serrations; palatine pad lacks rugosity and is pierced
+by a foramen near its medial margin; groove on ventral
+surface of midventral vomerine plate; anterior pterygoid
+rami with straight lateral edges; interpterygoid vacuity
+long (c. 22% of basal skull length), narrow; crista oesophagea tall, blade-like with shallow groove on anterior
+edge; parabasisphenoid with raised eminence between
+crista oesophagea and basitubera; intertuberal ridge
+absent; temporal and zygomatic rami of squamosal meet
+at obtuse angle in posterior view; zygomatic and quadrate
+rami have notched lateral profile in posterior view.
+
+517
+
+Assemblage Zone (AZ) of Viglietti et al. (2016), which is Lopingian in age.
+The two other specimens of C. helmoedi from the Karoo
+Basin, RC 641 and RC 736, were collected at Ferndale (GraaffReinet District) and Boskraal (Graaff-Reinet District), respectively (Kammerer et al. 2015a). Strata exposed on the environs
+of the farm Ferndale exclusively represent the Daptocephalus AZ
+of Viglietti et al. (2016) (Kammerer et al. 2015b), whereas
+Boskraal includes parts of the upper Cistecephalus AZ as well as
+the lower Daptocephalus AZ. Lithostratigraphically, strata on
+both farms correspond to the Balfour Formation.
+NHCC LB13 and LB14 were collected near the southern border of North Luangwa National Park (Northern Province, Zambia), about 40 m apart from one another in parallel erosional
+gullies leading to a seasonal tributary of the Musina River, which
+in turn is a tributary of the Luangwa River. NHCC LB116 was
+collected approximately 3.6 km north-east of these localities,
+along the banks of a seasonal tributary of the Mulondoshi River
+(another tributary of the Luangwa River). Detailed locality information is available from the NHCC or KDA. These localities are
+located in the Mid-Luangwa Basin of Barbolini et al. (2016),
+and all expose strata of the Upper Madumabisa Mudstone Formation. Angielczyk et al. (2014a) correlated the tetrapod assemblage of the Upper Madumabisa Mudstone with the
+Cistecephalus AZ of South Africa. Taking the revised biostratigraphy of Viglietti et al. (2016) into account, it is probable that the
+Upper Madumabisa Mudstone overlaps parts of the Cistecephalus and Daptocephalus AZs.
+
+Description
+Occurrence. Van Hoepen (1934) stated that NMQR 1460 was
+collected in a friable, calcareous, clayey, green sandstone near
+Mazelspoort, about 15 miles (sic) from Bloemfontein. He suggested that the rocks were referable to the Cistecephalus zone
+(sensu Watson 1914). Toerien (1954, p. 131) provided more
+detailed information: ‘a donga [erosional gully] running into the
+Modder River on the eastern side of the Modder River Bridge
+on the farm Kranskraal [Bloemfontein District], on the Bloemfontein–Verkeerdevlei road, beyond Mocke’s dam.’ Haughton &
+Brink (1954) and King (1988) repeated van Hoepen’s original
+locality of Mazelspoort. Kitching (1977) listed the type of C. helmoedi in his entry for Kranskraal, and stated that the stratigraphic section on the farm is highly attenuated with the rocks
+exposed referable to his Cistecephalus and/or Daptocephalus
+zones. In current terms, this would correspond to the Normandien Formation, and would represent the lower Daptocephalus
+
+Although relatively large compared to most emydopoids,
+Compsodon is a small dicynodont. The best preserved specimens (NMQR 1460, NHCC LB13, NHCC LB14, NHCC
+LB116) have basal skull lengths that range from 95.7 to
+111.6 mm. Angielczyk et al. (2014a) provided a brief description of C. helmoedi, but the focus of that work was primarily
+to provide justification for the assignment of NHCC LB13 and
+LB14 to the species. Here we present a complete redescription
+of the species.
+The premaxillae (Figs 1–4) are fused, and the resulting median element forms the anterior portion of the snout. An ascending process of the premaxilla extends between the nasals and
+tapers to a rounded point, but it does not closely approach the
+nasofrontal suture. There is no longitudinal ridge on the anterior
+surface of the premaxilla, but a number of small nutritive
+
+Compsodon helmoedi van Hoepen 1934, referred specimen NHCC LB14. Photographs (A, C, E, G) and interpretive drawings
+(B, D, F, H) in right lateral (A, B), dorsal (C, D), ventral (E, F), and posterior (G, H) views. Abbreviations: bo, basioccipital; ec,
+ectopterygoid; eo, exoccipital; epi, epipterygoid; f, fossa; fo, fenestra ovalis; fr, frontal; ic, internal carotid canal; ip, interparietal; ipv,
+interpterygoid vacuity; jf, jugular foramen; ju, jugal; la, lacrimal; lf, lacrimal foramen; lpf, lateral palatal foramen; mx, maxilla; na,
+nasal; nc, ‘nutrient channel’; pa, parietal; pbs, parabasisphenoid; pc, ‘postcanine’ tooth; pe, periotic; pf, postfrontal; pif, pineal foramen;
+pl, palatine; plf, palatine foramen; pm, premaxilla; po, postorbital; pp, preparietal; pr, prefrontal; pt, pterygoid; ptf, posttemporal fenestra; qd, quadrate; qj, quadratojugal; smx, septomaxilla; so, supraoccipital; sq, squamosal; st, stapes; tb, tabular; vo, vomer. Scale bar
+represents 2 cm.
+
+FIG. 2.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+518
+
+foramina are visible in NHCC LB14 (Fig. 4E), which presumably
+supplied the keratinous beak in this area. The premaxilla also
+forms the anterior margin of the external naris, and it meets the
+septomaxilla along an anteriorly convex suture on the floor of
+the naris. A point contact between the premaxilla and maxilla is
+present on the palatal rim, close to the midpoint of the ventral
+edge of the naris.
+On the ventral surface of the skull, the premaxilla forms the
+anteromedial portion of the secondary palate. Many of the
+details of the secondary palate of NMQR 1460 are obscured due
+to lateral compression and somewhat rough preparation
+(Fig. 1E), but the area is extremely well preserved in NHCC
+LB13, LB14, and LB116 (Figs 2E, 3E, 4D). Anterior median palatal ridges are absent. Instead, the anterior portion of the secondary palate bears a deep, rounded depression along its
+midline. The depression is flanked by a pair of well-developed
+lateral anterior palatal ridges that parallel the maxilla–premaxilla
+suture and extend posteriorly to the level of the anterior edge of
+the choana. A posterior median palatal ridge also is present. It is
+tallest posteriorly and its anterior end expands into a flattened
+Y-shaped platform whose surface merges smoothly with the
+anterior median depression. The shape of this platform is most
+similar to that of the pylaecephalid Eosimops (Angielczyk &
+Rubidge 2013) although it differs in lacking the anterior median
+palatal ridges seen in the latter taxon. Posterior to the flattened,
+expanded area, a pair of rounded, groove-like depressions is
+located between the posterior median ridge and the lateral anterior ridges. The ventral surface of the posterior median ridge
+slightly overhangs its lateral walls, forming a narrow, deeply
+incised channel on each side between the ridge and the larger
+depression lateral to it. The channel appears to communicate
+with a small foramen located between the flattened, expanded
+area of the median ridge and the lateral anterior palatal ridge
+(best seen on the left side of NHCC LB14). Comparable channels have been described in Brachyprosopus, Myosaurus and Lystrosaurus (Cluver 1971, 1974b; Angielczyk et al. 2016) with the
+morphology in Compsodon showing the most similarity to that
+reported in Myosaurus, although Compsodon lacks the distinct
+ridges that bound the groove laterally in that taxon. The vomer
+contacts the premaxilla along an interdigitated suture at the back
+of the posterior median palatal ridge, and the palatine contacts
+the premaxilla near the anterior edge of the choana. Premaxillary
+teeth are absent in Compsodon.
+The septomaxilla is best preserved in the three Zambian specimens, especially NHCC LB14 (Fig. 4E). The base of the septomaxilla is a broad, rounded plate that rests upon the
+premaxilla and maxilla. This plate is extremely thin and it forms
+about half the external surface of the floor of the external naris.
+
+519
+
+It also makes a small contribution to the facial surface of the
+skull just above the palatal rim. A short, plate-like intranarial
+process arises from the posteromedial corner of the base and
+extends dorsally to contact the nasal. The intranarial process
+forms the medial wall of the large, round septomaxillary foramen; the maxilla contributes to the lateral wall of the foramen.
+A septomaxillary canal appears to be present medial to the intranarial process (best seen in NHCC LB13 and LB14). A similar
+septomaxillary canal has been reported in other emydopoids
+(Cox 1959; Keyser 1973; Fourie 1993) although the septomaxilla
+of Compsodon lacks the other small foramina noted in Dicynodontoides by Cox (1959).
+The maxillae contribute to the facial and palatal portions of
+the skull. On the facial surface (Figs 1B, 2B, 3B, 4A) the maxilla
+forms parts of the posterior and ventral margins of the external
+naris and contacts the septomaxilla. It also has an anterior point
+contact with the premaxilla along the palatal rim, which contrasts with the more extensive, approximately vertical premaxilla–maxilla facial suture found in many dicynodonts, often
+within an associated groove that extends ventrally from the naris
+(e.g. Keyser 1975). Similar to the case in Digalodon (Kammerer
+et al. 2015a), the palatal rim anterior to the caniniform process
+(formed by contributions from the maxilla and premaxilla) in
+Compsodon is comparatively long for an emydopoid (best seen
+in NHCC LB14 and NMQR 1460, which have the most completely preserved snouts). The morphology of the palatal rim in
+Compsodon differs from that in Digalodon, however, by being
+gently convex dorsally instead of straight. Behind the naris, a
+dorsal process of the maxilla contacts the nasal. In the van Hoepen (1934) figures of the holotype, this process also contacts the
+lacrimal, but not the prefrontal, and at some point in its history
+lines were drawn onto the specimen to reflect this, which now
+obscure the underlying sutural configuration. The sutures in this
+area are visible in NHCC LB14 and LB116, and they confirm
+that the facial portion of the lacrimal separated the maxilla from
+the prefrontal. Angielczyk et al. (2014a) noted that a distinctive
+pocket-like depression was present on the lateral surface of the
+maxilla, between the external naris, caniniform process, and
+anterior orbital margin. This depression has a raised posterior
+and ventral rim, but anteriorly and dorsally it grades smoothly
+into the surrounding surface of the bone. The pocket is clearly
+seen in all three Zambian specimens and in the holotype,
+although rough preparation of the latter specimen has resulted
+in the raised rim being less prominent. Posteriorly, the facial
+portion of the maxilla tapers into a short zygomatic process that
+contacts the jugal and squamosal.
+The caniniform process is quite short, barely extending past
+the level of the palatal rim. Its anterior edge merges smoothly
+
+Compsodon helmoedi van Hoepen 1934, referred specimen NHCC LB13. Photographs (A, C, E, G) and interpretive drawings
+(B, D, F, H) in left lateral (A, B), dorsal (C, D), ventral (E, F), and posterior (G, H) views. Abbreviations: bo, basioccipital; cp, cultriform process; ec, ectopterygoid; eo, exoccipital; epi, epipterygoid; f, fossa; fa, facet; fo, fenestra ovalis; fr, frontal; hy, hyoid element; ic,
+internal carotid canal; ip, interparietal; jf, jugular foramen; ju, jugal; la, lacrimal; lf, lacrimal foramen; lpf, lateral palatal foramen; mx,
+maxilla; na, nasal; nc, ‘nutrient channel’; pa, parietal; pbs, parabasisphenoid; pc, ‘postcanine’ tooth; pe, periotic; pf, postfrontal; pif,
+pineal foramen; pl, palatine; plf, palatine foramen; pm, premaxilla; po, postorbital; pp, preparietal; pr, prefrontal; pt, pterygoid; ptf,
+posttemporal fenestra; qd, quadrate; qj, quadratojugal; smx, septomaxilla; so, supraoccipital; sq, squamosal; VII, foramen for facial
+nerve; vo, vomer. Scale bar represents 2 cm.
+FIG. 3.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+520
+
+with the palatal rim; a notch in the rim similar to that in Eodicynodon and Colobodectes (Rubidge 1990; Angielczyk & Rubidge
+2009) is absent, and the anterior edge of the caniniform process
+is not offset as in pylaecephalids (e.g. Cluver & King 1983;
+Angielczyk & Rubidge 2013). An embayment is present on the
+medial surface of the palatal rim anterior to the caniniform process (see below) and a postcaniniform keel is present posterior
+to the caniniform process (see Angielczyk (2001) for a discussion
+of the distinction between this character state and the postcaniniform crest of cryptodonts). A strong lateral caniniform
+buttress is absent. Angielczyk et al. (2005) described the presence
+of a distinctive small foramen on the posterior surface of the
+caniniform process in Emydops, which was larger than and separated from the vascular foramina associated with the keratinous
+beak. Fr€
+obisch & Reisz (2008) further refined this observation by
+noting that the foramen is present in E. arctatus but not in
+E. oweni. A foramen in this precise position is absent in Compsodon. However, in all three Zambian specimens and the holotype a very similar foramen is present in a slightly more anterior
+position, such that it is on the lateral surface of the face just
+below the base of the zygomatic process of the maxilla and at
+about the level of the posterior edge of the tusk (Fig. 2B). The
+anterior, posterior and dorsal edges of the foramen form a
+slightly raised rim and, as in Emydops, the foramen is larger than
+the vascular foramina associated with the beak. Given its generally similar position and morphology, we posit that this foramen
+is homologous with that of Emydops, although its function is
+uncertain.
+The palatal portion of the maxilla forms the lateral edge of
+the secondary palate and much of the rim of the palate (Figs 1F,
+2F, 3F, 4D). The maxilla contacts the premaxilla medially along
+a straight suture that parallels the lateral anterior palatal ridge.
+Posteriorly, the maxilla contacts the palatine and the ectopterygoid. A strong embayment of the medial surface of the palatal
+rim is present anterior to the caniniform process, a character
+that is typical of emydopoids (see review in Kammerer & Angielczyk 2009). In contrast to the case in other emydopoids, however, a strong posteromedially-directed ridge divides the
+embayment into anterior and posterior depressions in the holotype and all three Zambian specimens. Combined with the medial depression at the anterior end of the premaxillary secondary
+palate, the prominent lateral anterior palatal ridges, and the Yshaped anterior end of the posterior median palatal ridge, the
+
+521
+
+division of the embayment of the palatal rim by a ridge gives
+the secondary palate of C. helmoedi an extremely distinctive
+appearance that is autapomorphic for the species.
+All known specimens of Compsodon are tusked (Figs 1F, 2F,
+3F, 4D), although the left alveolus of NHCC LB14 is empty and
+CT scan data reveal that there is no replacement tusk in the
+maxillary antrum. Dicynodont tusks generally are considered to
+have grown throughout life without replacement (although see
+Camp 1956 and Reisz et al. 2015), and this fact combined with
+the absence of any sign of a replacement tusk lead us to conclude that the ‘missing’ tusk is a taphonomic artefact, not evidence of replacement. Van Hoepen (1934) figured a denticulated
+tooth fragment that was found during preparation of the holotype of C. helmoedi, and because that specimen preserves an
+unserrated maxillary ‘postcanine’ (see below), he hypothesized
+that the fragment was part of an originally serrated tusk. Serrated tusks are otherwise unknown in dicynodonts, so their presence in Compsodon would be highly surprising, particularly
+considering that the portions of the tusks preserved in the alveoli of the holotype lack serrations. The coarse denticles shown
+in the figure of van Hoepen (1934) bear a close resemblance to
+the denticles found on the dentary teeth of many dicynodonts
+(e.g. compare van Hoepen’s fig. 3 to the dentary teeth shown in
+Angielczyk et al. 2014b, fig. 3) and we think it is most likely that
+the figured fragment was part of a dentary tooth. Unfortunately,
+the tooth fragment has been lost in the time since van Hoepen’s
+(1934) description, so we cannot confirm this hypothesis by
+direct observation.
+Several maxillary ‘postcanines’ are present in Compsodon
+(Figs 1F, 2F, 3F, 4D). Van Hoepen (1934) reported a single
+complete ‘postcanine’ in the left maxilla of the holotype and the
+broken bases of two ‘postcanines’ on the right side, and we have
+been able to confirm this in our observations of the specimen.
+In NHCC LB13 the alveoli are best preserved on the right side
+of the specimen. There, the base of one ‘postcanine’ is preserved
+and two empty alveoli are visible. Interestingly the preserved
+tooth is located in between the alveoli and slightly lateral to
+them, suggesting that it might be a replacement tooth. A single
+large alveolar space containing the base of one tooth is present
+on the left side of NHCC LB14. On the right side of this specimen one empty alveolus is present, and posterior to it is a second containing the base of a tooth. Slightly lateral to the tooth
+are the remains of two smaller teeth. Only the left tooth-bearing
+
+Skulls of Compsodon helmoedi van Hoepen 1934. A–D, photographs of referred specimen NHCC LB116 in left lateral (A),
+posterior (B), dorsal (C), and ventral (D) views. E, photograph of right snout of referred specimen NHCC LB14 in anterolateral view.
+Anterior is to the lower right. F, photograph of right orbit of holotype NMQR 1460 in anterolateral view; anterior is to the lower
+right. G, photograph of right anterior braincase elements of holotype NMQR 1460 in ventrolateral view; anterior is to the upper right.
+H, photograph of right posterior braincase elements of holotype NMQR 1460 in ventrolateral view; anterior is to the right. I, photograph of basicranium of referred specimen NHCC LB116 in posteroventral view; anterior is to the top. Abbreviations: ap, anterior
+plate; alp, alar process; bo, basioccipital; cp, cultriform process; ec, ectopterygoid; eo, exoccipital; epi, epipterygoid; f, fossa; fa, facet;
+fr, frontal; ic, internal carotid canal; ip, interparietal; ipv, interpterygoid vacuity; jf, jugular foramen; ju, jugal; la, lacrimal; lf, lacrimal
+foramen; mx, maxilla; na, nasal; oc, occipital condyle; pa, parietal; pbs, parabasisphenoid; pc, ‘postcanine’ tooth; pe, periotic; pf, postfrontal; pif, pineal foramen; pl, palatine; pla, pila antotica; plf, palatine foramen; pm, premaxilla; po, postorbital; pp, preparietal; pr,
+prefrontal; prs, presphenoid; pt, pterygoid; ptf, posttemporal fenestra; qd, quadrate; qj, quadratojugal; smf, septomaxillary foramen;
+smx, septomaxilla; so, supraoccipital; sq, squamosal; st, stapes; VII, foramen for facial nerve; vo, vomer. Upper scale bar (A–D) represents 2 cm; lower scale bar (E–I) represents 1 cm.
+
+FIG. 4.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+region is preserved in NHCC LB116. There is an empty alveolus
+anteriorly, followed by the remains of two ‘postcanines.’ From
+this it appears that Compsodon typically had two to four erupted
+‘postcanines’ at a given time. The tooth rows trend slightly
+
+anteromedially to posterolaterally, but they are always more or
+less at the level of the tusk. This is similar to the condition in
+Emydops but contrasts with the more medially placed tooth rows
+of taxa such as Pristerodon or Brachyprosopus. The complete
+‘postcanine’ in the holotype (Fig. 1I) has a simple conical crown
+that lacks serrations or denticles, similar to the maxillary ‘postcanines’ of most other toothed dicynodonts (e.g. Angielczyk
+et al. 2014b).
+The nasals form most of the dorsal surface of the anterior portion of the snout, surrounding the ascending process of the premaxilla and contributing to the dorsal margin of the external naris
+(Figs 1B, D; 2B, D; 3B, D; 4A, C). A prominent, diamond-shaped
+nasal boss is present. The boss has a continuous posterior border,
+and does not bifurcate anteriorly as in Brachyprosopus, resulting in
+it forming a single swelling on the snout. The surface of the boss
+is slightly rugose and bears nutritive foramina similar to those
+present on the maxilla and premaxilla. The nasal contacts the
+maxilla and lacrimal on the facial surface of the skull, and it has a
+small contact with the septomaxilla along the rim of the external
+naris. On the dorsal surface of the skull, the nasal contacts the prefrontal and frontal. The nasofrontal suture is interdigitated and
+gently concave anteriorly; it does not closely approach the premaxilla as in some dicynodontoids (Kammerer et al. 2011).
+The prefrontal is crescentic and forms parts of the dorsal and
+anterior walls of the orbit (Figs 1B, D; 2B, D; 3B, D; 4A, C). On
+the external surface of the skull, the prefrontal contacts the nasal
+and lacrimal anteriorly and the frontal posteriorly. The anterior
+portion of the orbital rim formed by the prefrontal is flush with
+the surrounding skull roof, but the rim becomes slightly raised
+near the contact between the prefontal and frontal. Within the
+orbit, the prefontal shares a relatively straight suture with the
+lacrimal just above the lacrimal foramen. More posteriorly, the
+prefrontal meets the frontal along an interdigitated suture that is
+angled anteroventrally. As in other emydopoids (e.g. Cluver
+1974b), the prefrontal extends medially to partially close off the
+nasal cavity. A prefrontal boss is absent.
+The lacrimal forms parts of the anterior and anteroventral
+margins of the orbit, and also has a small facial process that
+extends anteriorly to contact the prefrontal, nasal, and maxilla
+(Figs 1B, D; 2B, D; 3B, D; 4A, C). Within the orbit, the lacrimal
+contacts the prefrontal dorsally and the jugal posteriorly. Like
+the prefrontal, the lacrimal extends medially to partially close off
+the nasal cavity. A large, oval lacrimal foramen is present at the
+anteroventral corner of the orbit.
+The jugal forms the posterior portion of the floor of the orbit,
+where it contacts the lacrimal and maxilla (Figs 1B, D, F;
+2B, D, F; 3B, D, F; 4A, C). Posteriorly, the jugal slopes ventrally
+to meet the ectopterygoid and palatine just above the posterior
+end of the postcaniniform keel. A labial fossa is absent. The jugal
+also bears a posterior process that meets the squamosal along a
+long scarf joint and forms most of the medial surface of the zygomatic arch. A short process that arises from the zygomatic
+Skulls of Compsodon helmoedi van Hoepen 1934.
+Referred specimen RC 641 in: A, dorsal; and B, left lateral view.
+Referred specimen RC 736 in dorsal (C) and right lateral (D)
+views. Abbreviations: mf, mandibular fenestra; sr?, possible sclerotic ring. Scale bar represents 2 cm.
+
+FIG. 5.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+522
+
+portion of the jugal extends dorsally along the posterior surface
+of the postorbital bar for about one-third of the bar’s length.
+A ring of dark red staining is present on the matrix that fills the
+orbit of RC 736 (Fig. 5D). Given that sclerotic ossicles are known
+to occur in many synapsid clades, including dicynodonts (e.g.
+Angielczyk & Schmitz 2014), we consider it likely that the red
+staining represents the remains of sclerotic ossicles in this specimen. We do not think the ring is a cosmetic alteration of the specimen because similar red staining occurs in seemingly random
+locations elsewhere on the specimen (e.g. near the rim of the
+palate, on the lateral surface of the mandible). The external diameter of the ring (measured anteroposteriorly) is approximately
+19 mm, and the internal diameter (measured anteroposteriorly) is
+approximately 11 mm. The maximum anteroposterior length of
+the orbit is approximately 28 mm.
+The frontals form most of the interorbital portion of the skull
+roof, contacting the nasals and prefrontals anteriorly (Figs 1D,
+2D, 3D, 4C). Along the midline of the skull, the mid-frontal
+suture is located on a rounded ridge. The lateral edge of the
+frontals curves dorsally to form a slightly raised orbital rim, continuing the rim that begins on the posterior part of the prefrontals. Posteriorly, the lateral edge of the frontal is more
+strongly raised to meet the postfrontal. Just anterior to its suture
+with the preparietal, a depression is present on the dorsal surface
+of the frontal that is bounded by the raised lateral rim of the
+bone, the midline ridge bearing the mid-frontal suture, and the
+raised surface of the preparietal. Posteriorly, the frontal bears a
+long, tapering process that wedges between two narrow anterior
+processes of the parietal. The interorbital skull roof is only
+slightly narrower than the temporal bar. Laterally, the frontal
+contributes to the dorsolateral rim of the orbit, where it meets
+the prefrontal along an anteroventrally-sloping suture and the
+postfrontal along a posteromedially-directed suture (Figs 1B, 2B,
+3B, 4A).
+The postfrontal is a narrow, strap-like bone that wedges
+between the frontal, postorbital, and parietal (Figs 1D, 2D, 3D,
+4C). It is widest anteriorly, where it forms the posterodorsal corner of the orbital rim, and tapers posteriorly. The postfrontal is
+raised above the level of the frontal, such that the lateral edge of
+the frontal curves dorsally to meet the postfrontal. However, the
+suture between these elements is flat and flush; it is not on a
+distinct raised ridge as in some Eosimops specimens (Angielczyk
+& Rubidge 2013). The dorsal surface of the postfrontal is flat in
+the holotype, but it is slightly concave dorsally in the better preserved Zambian specimens. The retention of the postfrontal as a
+distinct element is unusual in emydopoids. A postfrontal also is
+present in Emydops (Fr€
+obisch & Reisz 2008) but it is absent in
+Digalodon, Dicynodontoides, Kombuisia, Myosaurus, Cistecephalus,
+Cistecephaloides, Sauroscaptor and Kawingasaurus (Cox 1959,
+1972; Keyser 1973; Cluver 1974a, b; Fr€
+obisch 2007; Kammerer
+et al. 2015a, 2016).
+The preparietal is triangular, with its apex directed posteriorly
+(Figs 1D, 2D, 3D, 4C). Anteriorly, it contacts the frontals along
+a suture that is slightly convex anteriorly, and posteriorly it
+abuts the posterior processes of the frontals and the anterior
+processes of the parietals. The preparietal seems to have made a
+variable contribution to the pineal foramen. In the holotype, the
+posterior-most tip of the element appears to just reach the edge
+
+523
+
+of the foramen, whereas in the Zambian specimens it is just
+excluded from the foramen (best seen in NHCC LB13). The
+edges of the element are raised, particularly the posterior portions of the lateral edges, which are developed into distinct
+ridges that are contiguous with the ‘lips’ that surround the
+pineal foramen. The raised edges also contribute to the margins
+of the frontal depressions described above, and also give the dorsal surface of the preparietal a somewhat depressed appearance.
+The pineal foramen is round to oval and is surrounded completely or nearly completely by the parietals (Figs 1D, 2D, 3D,
+4C). A true pineal boss is absent, but in the Zambian specimens
+the foramen is flanked laterally by swollen, ‘lip’-like eminences
+of the parietals that are similar to those described in Digalodon
+(Kammerer et al. 2015a). The ‘lips’ are most weakly developed
+at the anterior and posterior edges of the foramen, but unlike in
+Digalodon, they are not completely separated. Posteriorly, the
+‘lips’ merge with a ridge that extends along the midline of the
+parietals. The pineal ‘lips’ and associated parietal ridge are
+absent in the holotype. On the left side of that specimen, the
+bone surface of the edge of the pineal foramen is clearly damaged, but the right side is seemingly well-preserved. Instead of a
+swollen ‘lip’, the edge of the foramen is drawn into a slightly
+raised, sharp edge. The significance of this variation is uncertain.
+Kammerer et al. (2015a) raised the possibility that similar variation might have been an expression of sexual dimorphism in
+Digalodon, but as in that case, additional specimens of Compsodon will be needed to test this hypothesis.
+Compared to most emydopoids, the parietals of Compsodon
+are quite narrowly exposed on the dorsal surface of skull
+(Figs 1D, 2D, 3D, 4C). This morphology has been exaggerated
+by lateral compression in the holotype, but the Zambian specimens show that this was the case even in undeformed skulls. A
+distinct midline suture between the parietals is not evident in
+the holotype or the Zambian specimens, including in the CT
+data for NHCC LB14 (Fig. 7E), raising the possibility that the
+parietals formed a single fused element (the bones of the skull
+roof are highly cracked in RC 461 and RC 736, obscuring possible sutures).
+Anteriorly, the parietals surround the pineal foramen and
+contact the preparietal. They also send a pair of narrow, tapered
+processes anteriorly, which wedge between the frontal and postfrontal. The surface morphology of the parietals posterior to the
+pineal foramen is complex. As noted above, a rounded midline
+ridge extends posteriorly from the ‘lips’ surrounding the pineal
+foramen. The ridge tapers posteriorly and closely approaches the
+suture with the interparietal. A shallow groove parallels the ridge
+on either side, and lateral to the groove is a slightly raised surface. This surface is flat anteriorly, but bears a weak rounded
+ridge posteriorly (best seen in NHCC LB14). Finally, the lateral
+edge of the parietal sweeps dorsally to meet the raised medial
+edge of the postorbital. At its anterior end, the suture between
+the parietal and postorbital is located medial to the raised edge
+of the postorbital, at the level of the dorsal surface of the parietal. Moving posteriorly, the suture shifts laterally and dorsally,
+such that it runs along the top of the raised edge near the posterior end of the skull roof. The parietal–interparietal suture is
+interdigitated and located near the posterior edge of the skull
+roof, such that the interparietal does not strongly contribute to
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+the dorsal surface of the skull. A slender, tapering process of the
+parietal extends posteriorly beyond the level of the occipital
+plate, wedging between the postorbital, interparietal, tabular,
+and squamosal (best seen in NHCC LB14; Fig. 2H).
+Ventrally, a relatively large adductor fossa is present (see discussion of this character in Angielczyk & Kurkin 2003a and
+Maisch 2003). The medial wall of the fossa is formed by the
+sheet-like descending flange of the parietal and it is roofed by
+the postorbital. The dorsal end of the epipterygoid contacts the
+ventral edge of the descending flange. Unfortunately, sutures on
+the lateral surface of the braincase are not sufficiently well preserved to determine the relationships between the parietal, interparietal and periotic, but given the close approach of the alar
+process of the periotic and the descending flange of the parietal,
+there may have been some contact between the parietal and
+periotic.
+The postorbital is a large element that forms the postorbital
+bar and contributes to the lateral portion of the skull roof. The
+postorbital bar is best preserved in the holotype and NHCC
+LB14, and in those specimens it is narrow and rod-like (Figs 1B,
+2B). It is not anteroposteriorly expanded as in Eosimops or Lanthanostegus (Angielczyk & Rubidge 2013), and it lacks the bosses
+or other ornamentation found in some dicynodonts (e.g. geikiids; Kammerer et al. 2015b). The footplate of the postorbital bar
+contacts the squamosal and jugal, and a short process of the
+jugal extends up the posterior surface of the bar.
+At the junction of the postorbital bar and the skull roof, the
+postorbital abuts the postfrontal along a smooth, laterally-concave suture (Figs 1D, 2D, 3D, 4C). From there, the postorbital
+curves posteriorly along the lateral surface of the temporal bar,
+where it contacts the parietal. The temporal portion of the
+postorbital overlaps the parietals more extensively than is typical in most emydopoids (although less than in Dicynodontoides
+and Kombuisia; Cox 1959; Fr€
+obisch 2007). The postorbitals are
+widest and approach each other most closely near the posterior
+edge of the skull roof, giving the temporal portion of the postorbital a somewhat triangular appearance in dorsal view (best
+seen in NHCC LB13, NCHH LB116 and RC 641). The medial
+edge of the postorbital is drawn into a vertical ridge that separates most of the dorsal surface of the postorbital from the
+dorsal surface of the parietal. Lateral to the ridge, the dorsal
+surface slopes gently ventrolaterally until near its lateral edge,
+where it curls sharply ventrally. This sharp ventral curl probably represents a remnant of the bi-planar configuration of the
+postorbital that has been described in many emydopoids (e.g.
+Kammerer et al. 2015a). The postorbital roofs the adductor
+fossa on the ventral surface of the skull roof, and its ventrallycurled lateral edge forms the lateral margin of the fossa.
+Posteriorly, the postorbital contacts the squamosal. When the
+morphology of the skull roof is considered as a whole, it
+differs strongly from the ‘typical’ emydopoid configuration of
+broadly exposed parietals and strongly biplanar postorbitals
+seen in taxa such as Emydops, Myosaurus or Digalodon (Cluver
+1974b; Fr€
+obisch & Reisz 2008; Kammerer et al. 2015a), as well
+as the narrow, crest-like temporal bars of Dicynodontoides and
+Kombuisia (Cox 1959; Fr€
+obisch 2007). Instead, the appearance
+is more reminiscent of cryptodonts (Fig. 7) such as Oudenodon, Tropidostoma, Odontocyclops or Idelesaurus (e.g. Keyser
+
+1975; Cluver & King 1983; Angielczyk 2002a; Angielczyk &
+Kurkin 2003a; Kurkin 2006).
+The squamosal consists of temporal, zygomatic, and quadrate
+rami. The temporal ramus is mediolaterally-flattened and forms
+the posterior margin of the temporal fenestra (Figs 1B, D;
+2B, D; 3B, D; 4A, C). Anteriorly, it contacts the parietal and
+postorbital near the posterior edge of the skull roof. Medially,
+the temporal ramus contacts the tabular and possibly the squamosal, but the sutures for these elements are difficult to discern
+in the available specimens. The temporal and zygomatic rami
+form an obtuse angle in posterior view (Figs 2H, 3H, 4B) in
+contrast to the more perpendicular arrangement of the processes
+in Emydops (Angielczyk et al. 2005). The zygomatic ramus itself
+is mediolaterally expanded and bows laterally along its length
+(Figs 1B, D, F; 2B, D, F; 4A, C, D). Unlike that of many cryptodonts (e.g. Kammerer et al. 2015b) it is unornamented. Its anterior tip tapers to a fine point that wedges between the jugal
+and maxilla just anterior to the postorbital bar. The zygomatic
+ramus of the squamosal also has a long contact with the jugal
+along its medial surface. It is uncertain whether the footplate of
+the postorbital bar also contacts the squamosal. A contact
+between the elements is present in the holotype and NHCC
+LB14, but the postorbital bar appears to be somewhat displaced
+in each of those specimens. NHCC LB116 appears to be more
+pristinely preserved, and a thin sliver of the jugal wedges
+between the postorbital bar and the squamosal in that specimen,
+which we suspect represents the original morphology.
+The quadrate ramus of the squamosal extends ventrally from
+its junction with the zygomatic and temporal processes (Figs 1H,
+2H, 3H, 4B). The quadrate–quadratojugal complex rests in a
+fossa on the anterior surface of the quadrate process. A vertical
+ridge divided this fossa into a larger lateral area that accommodated the quadratojugal and a smaller, ventrolaterally-facing
+medial facet for the quadrate. In posterior view, the squamosal
+almost completely covers the quadrate–quadratojugal, such that
+only the articular surfaces of the jaw joint are visible. Medially,
+the quadrate process contacts the supraoccipital, and paroccipital
+process of the periotic, and also contributes to the lateral and
+dorsal margins of the posttemporal fenestra. The lateral edge of
+the quadrate process is convex laterally, giving the junction
+between it and the zygomatic process the notched shape that
+common in many dicynodonts. The lateral surface of the quadrate process (Figs 1B, 2B, 3B, 4A) bears a well-developed fossa
+for the inferred attachment of M. adductor mandibulae externus
+lateralis (e.g. Crompton & Hotton 1967; King et al. 1989;
+Angielczyk 2004). The more ventral portion of this fossa is nearvertically oriented, but about halfway along its height, the fossa
+angles sharply posteriorly such that its upper portion is nearly
+horizontal. The lateral edge of the more vertical portion of the
+fossa curls anteriorly in a manner somewhat reminiscent of that
+observed in Brachyprosopus (Angielczyk et al. 2016), albeit to a
+less extreme degree.
+The vomer is a single fused element (Figs 1F, 2F, 3B, 3F, 4D).
+Anteriorly it contacts the premaxilla at the posterior end of the
+posterior median palatal ridge. The vomer contacts the palatines
+laterally and forms the medial portion of the roof of the choana.
+The midventral vomerine plate is relatively narrow, but it bears
+a groove with thin lateral edges on its ventral surface. The width
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+524
+
+of the plate is constant along its length: there is no expanded
+anterior area as is observed in pylaecephalids (Angielczyk &
+Rubidge 2013). The posterior end of the midventral vomerine
+plate bifurcates to form the anterior margins of the interpterygoid vacuity. Posteriorly, the vomer contacts the pterygoids.
+The general morphology of the palatine is typical of dicynodonts, consisting of a flattened pad that contacts the secondary
+palate and a posterior plate-like portion that curves dorsally to
+form the lateral portion of the choanal roof (Figs 1F; 2F; 3B F;
+4D). The palatine pad is square to sub-triangular in shape and
+its ventral surface is smooth, lacking the rugosity seen in most
+dicynodontoids. The medial surface of the pad is horizontal, but
+its lateral margin slopes ventrally to merge with the posterior
+surface of the caniniform process. A circular foramen pierces the
+surface of the pad near its medial edge, as in most other emydopoids (e.g. Angielczyk 2001; Angielczyk & Kurkin 2003a). A
+thin, L-shaped ridge separates the edge of the foramen from the
+choana. Anteriorly, the palatine contacts the premaxilla and
+maxilla. Laterally, it contacts the ectopterygoid and forms the
+median wall of the lateral palatal foramen. Posterior to the foramen, the palatine contacts the pterygoid, and it abuts the vomer
+near the midline of the skull. The lateral palatal foramen is slitlike and is located slightly posterior to the main portion of the
+palatine pad, although it is at the same height as the pad, in
+contrast to the case in taxa such as Brachyprosopus or Endothiodon (Cox & Angielczyk 2015; Angielczyk et al. 2016).
+The ectopterygoid is a short, plate-like element (Figs 1B, F;
+2B, F; 3B, F; 4A, D). The medial portion of its anterior end contacts the maxilla and the palatine, and it curves laterally to contact the jugal at the posterior end of the floor of the orbit.
+Posteriorly, the ectopterygoid bifurcates into lateral and medial
+rami that clasp the pterygoid and form the anterior portion of
+the pterygoid girder. The medial part of the ramus comes to a
+blunt edge at the level of the posterior end of the lateral palatal
+foramen. The lateral ramus is longer and tapers to a pointed or
+slightly interdigitated end on the lateral surface of the anterior
+pterygoid ramus. The ectopterygoid forms the lateral wall of the
+lateral palatal foramen.
+The pterygoids are X-shaped in ventral view and extend
+between the secondary palate and the basicranium (Figs 1B, F;
+2B, F; 3B, F; 4A, D). The anterior pterygoid rami are very
+straight, similar to the condition in Dicynodontoides (Cox 1959;
+Angielczyk et al. 2009) but differing from most dicynodonts in
+which they are gently convex laterally. The anterior end of the
+anterior pterygoid ramus bifurcates into dorsal and ventral rami
+that clasp the ectopterygoid, but it is excluded from the margin
+of the lateral palatal foramen (best seen in NHCC LB14 and
+LB116). A prominent triangular keel is present on the ventral
+surface of the anterior ramus in the holotype and NHCC LB13,
+but this is more weakly developed in NHCC LB14 and LB116.
+The ventral surface of the anterior pterygoid ramus is smooth
+and unridged.
+The median pterygoid plate lies just posterior to the
+interpterygoid vacuity, and the pterygoids appear to be fused
+here; there is no evidence of a suture between them. The crista
+oesophagea is not preserved well in the holotype or NHCC
+LB13, but NHCC LB14 and LB116 show that it is tall and very
+narrow, with an anterodorsally-sloping anterior edge. The
+
+525
+
+anterior surface of the crista in NHCC LB14 bears a very fine
+longitudinal groove that widens slightly as it reaches the posterior end of the interpterygoid vacuity. Posteriorly, the median
+pterygoid plate meets the parabasisphenoid along an interdigitated suture.
+The posterior, or quadrate, rami of the pterygoids arise from
+the posterolateral corners of the median pterygoid plate. They
+are mediolaterally compressed, extremely gracile, and are slightly
+dorsoventrally taller at their distal ends than at the median
+pterygoid plate. The footplate of the epipterygoid rests on the
+dorsal surface of the posterior pterygoid ramus and extends onto
+the median pterygoid plate.
+The interpterygoid vacuity is narrow and elongate (Figs 2F,
+4D). Its posterior end is more rounded and the vacuity tapers
+towards the point at which it reaches the midventral vomerine
+plate. Compsodon has the longest interpterygoid vacuity relative
+to basal skull length (BSL) of any of the 63 anomodont species
+for which we have measurement data, averaging 22% of BSL.
+Anteriorly, the lateral margins of the interpterygoid vacuity are
+slightly raised ridges that are continuous with the edges of the
+midventral vomerine plate, but posteriorly the edges of the vacuity are flush with the surrounding bone surfaces.
+In NHCC LB13, a thin, rod-like element is displaced across
+the posterior end of the interpterygoid vacuity (Fig. 3F). The
+shaft of the rod is relatively straight, and the end closest to the
+interpterygoid vacuity is slightly expanded. It resembles hyoid
+elements that have been reported in other dicynodonts, particularly ceratohyals (e.g. Cox 1959; Ewer 1961; Barry 1967, 1968;
+Cluver 1971). However, the shaft of the element in NHCC LB13
+is straighter than is usually the case for known dicynodont ceratohyals.
+The morphology of the epipterygoid is best shown by NHCC
+LB14 and LB116 (Figs 2B, 4A). The footplate of the epipterygoid
+is anteroposteriorly elongate and rests on the dorsal surface of
+the median pterygoid plate and posterior ramus of the pterygoid. The anterior portion of the footplate is longer than the
+posterior, and it lacks the dorsal process seen in many bidentalians (e.g. Angielczyk 2002a). The ascending process is extremely
+delicate and angles anterodorsally. Its dorsal end is anteroposteriorly expanded where it meets the descending flange of the
+parietals.
+The fused parabasisphenoid complex lies posterior to the
+median pterygoid plate and contributes to the posterior portion
+of the crista oesophagea (Figs 1F, 2F, 3F, 4D). Typically in basal
+dicynodonts, including most emydopoids, a pair of rounded,
+well-separated ridges run along the ventral surface of the parabasisphenoid, connecting the median pterygoid plate and the
+basitubera. In contrast, the ventral surface of the parabasisphenoid in Compsodon forms a single raised eminence between the
+crista oesophagea and the basitubera. The small, oval internal
+carotid foramina are located on either side of the midline of this
+eminence, just posterior to the crista oesophagea. They are on
+the ventral surface of the parabasisphenoid, not in the more dorsal position seen in taxa such as Colobodectes, Brachyprosopus or
+Eosimops (Angielczyk & Rubidge 2009, 2013; Angielczyk et al.
+2016). A low, thin ridge extends posterolaterally from the posterior edge of each internal carotid foramen towards the anterolateral corner of the corresponding basituber (best seen in NHCC
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+LB13). Posteriorly, the parabasisphenoid contacts the basioccipital. It contributes to the anterior margins of the basitubera, but
+forms less than half of the rim of the fenestra ovalis and stapedial facet.
+Anteriorly, the ventral edge of the cultriform process can be
+seen when looking dorsally through the interpterygoid vacuity.
+In lateral view, the lateral surface of the process is plate-like
+(Figs 1B, 3B, 4G). The posterior portion of the process angles
+anterodorsally, but it bends ventrally near the midpoint of its
+length to take on a more horizontal orientation. A sub-triangular dorsal projection at the level of the bend (best seen in the
+holotype; Fig. 4G) probably represents the presphenoid (Cluver
+1971). The anterior portion of the cultriform process is clasped
+ventrally by the vomer.
+The anterior plate, formed by the mesethmoid and
+orbitosphenoid (Cluver 1971; Sullivan & Reisz 2005) is well
+exposed in the holotype and NHCC LB14 (Figs 1B, 4F). It is
+separated from the cultriform process by a narrow gap. In lateral
+view it has the form of a sub-rectangular plate, and its posterior
+edge bears a prominent notch. Near its dorsal contact with the
+frontals, the plate bifurcates to form the lateral walls of a
+rounded tube that presumably served to transmit the olfactory
+nerves.
+The basioccipital forms the posterior end of the basicranium
+and extends onto the occipital plate (Figs 1F, H; 2F, H; 3F, H;
+4B, D). The basisphenoid–basioccipital tubera (basitubera) are
+the most prominent feature of its ventral surface. They are
+round, with a near-vertical anterior surface because of the raised
+eminence on the parabasisphenoid. The fenestra ovalis is completely surrounded by the basicoccipital, which also forms the
+majority of the ventrolaterally-angled stapedial facet. An intertuberal ridge is absent. However, a raised round facet is present
+near the posterior edge of the ventral surface of the basioccipital
+in NHCC LB13 and LB116 (Fig. 4I). Posteriorly, the basioccipital forms the medial portion of the floor of the occipital plate
+and contributes to the ventral margin of the prominent jugular
+foramen. It also forms the ventral lobe of the trilobate occipital
+condyle (the two dorsal lobes are formed by the exoccipitals).
+Laterally the basioccipital contacts the paroccipital process of the
+periotic. Internally, the basioccipital forms the posterior floor of
+the braincase. It bears a narrow ridge on its surface, which is
+flanked by shallow depressions that lead into the vestibular
+space. There is no sign of the unossified zone in the floor of the
+braincase described for some dicynodonts (Olson 1944; Cluver
+1971) in the CT data for NHCC LB14.
+Well preserved stapes are present in NHCC LB14 and LB116
+(Figs 2F, 4B, D, I). As is typical of dicynodonts, it is a robust
+rod of bone (about 14 mm long, minimum crus thickness about
+3 mm in NHCC LB14) with expanded proximal and distal ends.
+The footplate is subcircular and fits snugly in the stapedial facet
+of the basioccipital tuber. The crus is gently concave dorsally,
+and rounded in cross-section near its junction with the footplate, becoming dorsoventrally flattened distally. A true stapedial
+foramen is absent, because there is no upper crus to form the
+dorsal margin of the foramen. Instead, the stapedial artery
+passed through an opening bounded ventrally by the stapes and
+dorsally by the paroccipital process. The distal end is anteroposteriorly expanded but dorsoventrally flattened, such that it has
+
+the shape of a flattened oval in cross-section. A distinct dorsal
+process, such as that described for Kombuisia (Fr€
+obisch 2007),
+appears to be absent. Laterally, the stapes contacts the medial
+surface of the quadrate.
+The stapes of NHCC LB14 is somewhat displaced from its
+original position, but those of NHCC LB116 appear to be in
+correct articulation (Fig. 4B, I). The more complete left stapes
+of NHCC LB116 slopes ventrolaterally at angle of about 15°.
+Recently, Laaß (2015, 2016) contrasted the ventrolaterally-angled
+stapes of the cistecephalid Kawingasaurus with the more horizontal stapes of Pristerodon, suggesting that the former was specialized for transmitting ground-borne vibrations whereas the
+latter was optimized for the transmission of airborne sound. The
+angulation of the stapes in Compsodon is intermediate between
+that of Pristerodon and Kawingasaurus, and if Laaß’s hypothesis
+is correct, this could imply that the hearing function of Compsodon was similarly intermediate. Given that the overall skull
+morphology of Compsodon does not show obvious specializations for a fossorial lifestyle, it might also indicate that experimentation with sensitivity to ground-borne vibrations began
+among emydopoids before other adaptations for fossoriality
+evolved, or that Laaß (2015) overstated the strength of correlation between these characters.
+As is typical of dicynodonts, the quadrate and quadratojugal
+are fused to form a single element (Figs 1B, 2B, 4A). Dorsally,
+the quadrate possesses a rounded, plate-like process that rests in
+a fossa on the anterior surface of the squamosal. It also contacts
+the pterygoid and periotic medially. On the external surface of
+this process, a low ridge runs from near the centre of the process
+to the dorsal edge of the lateral quadrate condyle. A shallow
+fossa is present just medial to this ridge. The anterior edge of
+the process is convex anteriorly, but a distinct process that projects along the posterior pterygoid ramus is absent. Ventrally,
+the quadrate expands to form the trochleated articular surface
+that is characteristic of dicynodonts (e.g. Watson 1948; Crompton & Hotton 1967, King et al. 1989; Angielczyk 2004; Figs 1F,
+2F, 3F, 4D). The articular condyles are of approximately the
+same anteroposterior length, and are close to the same height.
+However, the lateral condyle is broadly expanded laterally,
+whereas the medial condyle is sub-rectangular, with its long axis
+oriented anteroposteriorly. The articular surface of the lateral
+condyle is smoothly convex. The medial condyle bears a sharp
+ridge along the lateral edge of its articular surface, and the
+remainder of the relatively flat articular surface slopes dorsomedially away from this ridge. In life position, the articular surface
+faces anteroventrally. The quadrate forms the medial wall of the
+quadrate foramen.
+The quadratojugal is a plate-like element that forms the external surface of the ventral portion of the external lateral adductor
+fossa (Figs 1B, 2B, 4A). It is widest dorsally, and forms the lateral wall of the quadrate foramen. The quadratojugal rests in a
+shallow fossa on the lateral surface of the squamosal, and its
+dorsal edge forms a weakly interdigitated suture with the raised
+edge of this fossa. Ventrally, it is fused with the lateral surface of
+the quadrate. The left quadrate–quadratojugal complex of
+NHCC LB13 was lost during fossilization. When combined with
+the smooth bone texture of the quadrate–quadratojugal fossa on
+the squamosal, this suggests that the quadrate–quadratojugal
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+526
+
+complex was only loosely attached to the skull, as proposed in
+other dicynodonts (e.g. King 1981a). However, the complex
+shape of the squamosal fossa, and the tight fit of the quadrate–
+quadratojugal complex within the fossa, make the quadrate kinesis proposed for Endothiodon tolani (Cox & Angielczyk 2015)
+unlikely in Compsodon.
+The sutures bounding the interparietal are most visible in
+NHCC LB14 (Figs 1H, 2H). Its occipital surface is roughly rectangular in shape, and dorsally it contacts the parietal along an
+interdigitated suture located at the posterior edge of the temporal bar. Near its ventral contact with the supraoccipital, the surface of the interparietal is flat, but more dorsally it bears a
+prominent, sharp, vertical nuchal crest, which is flanked by shallow vertical depressions. Laterally, the interparietal contacts the
+tabular, and a very small contact with the squamosal may be
+present at its dorsolateral corner. The interparietal almost certainly extends anteriorly above the periotic within the thickness
+of the occipital plate, but poor sutural preservation prevents us
+from stating this with certainty.
+The tabular is a triangular element that fills the space on the
+occiput between the squamosal, interparietal and supraoccipital
+(Figs 1H, 2H). Its medial portion is smooth and flush with the
+interparietal and supraoccipital, but the lateral portion of the
+bone curls posteriorly to lie against the medial surface of the
+temporal process of the squamosal, which extends posteriorly
+beyond the level of the occipital plate. The sutures between the
+supraoccipital and tabular are difficult to trace on the lateral
+portion of the occiput in the available specimens.
+The supraoccipital forms the central portion of the occiput
+(Figs 1H, 2H, 3H, 4B). Dorsally, it contacts the interparietal
+and tabular. It also forms the dorsal margin and parts of the
+lateral margins of the oval foramen magnum. The lateral
+sutures of the supraoccipital are very difficult to trace in the
+available specimens, and its exact relationship with the tabular
+and squamosal is uncertain. The tabular may separate the
+supraoccipital from the squamosal. Ventrally, the supraoccipital
+contacts the exoccipital and the periotic. In NHCC LB14, a
+shallow groove extends dorsolaterally on the supraoccipital
+from just lateral of the foramen magnum to a small foramen
+located above the posttemporal fenestra (Fig. 2H). The position
+of the foramen is similar to the ‘nutrient channel’ described in
+Myosaurus and Lystrosaurus (Cluver 1971, 1974b) and the
+groove and foramen are bilaterally symmetric, suggesting that
+they are real features. A somewhat comparable structure is present on the left side of NHCC LB13 (Fig. 3H), but this character is not apparent in the other specimens. The supraoccipital
+extends anteriorly to form part of the roof of the otic region,
+but poor sutural preservation on the lateral sides of the braincase obscures its exact configuration relative to other bones in
+this area.
+The sutures delimiting the exoccipitals are difficult to discern
+on the available specimens (Figs 1H, 2H, 3H, 4B). NHCC LB13
+is the most informative specimen, and there the occipital portion of the exoccipital seems to consist of a rectangular plate
+that extends between the supraoccipital and paroccipital process,
+and forms the lower part of the lateral wall of the occipital condyle. This plate is at the level of the posttemporal fenestra, but
+the exoccipital seems to be excluded from the margin of the
+
+527
+
+fenestra. A sub-rounded to crescentic facet for the proatlas
+(Ewer 1961; Kemp 1969; Cluver 1971) is present midway up the
+lateral wall of the foramen magnum. The exoccipitals form
+the dorsal margins of the jugular foramina, and they contribute the
+dorsal lobes of the trilobate occipital condyle. A prominent circular
+depression is present in the centre of the occipital condyle.
+The periotic is composed of the fused prootic and opisthotic.
+The opisthotic portion of the element is best seem on the occipital surface of the skull, where it forms the robust paroccipital
+process (Figs 1H, 2H, 3H, 4B). As is typical in dicynodonts, the
+paroccipital process is widest laterally, where it contacts the
+squamosal, and narrows medially. Near its ventrolateral corner,
+the lateral edge of the process also has a small contact with the
+medial surface of the quadrate and the posterior ramus of the
+pterygoid. Dorsally, the paroccipital process forms the ventral,
+medial, and part of the dorsal margins of the posttemporal fenestra and contacts the supraoccipital and exoccipital. Medially,
+the process forms the lateral margin of the jugular foramen and
+contacts the exoccipital and basioccipital. A prominent, spikelike ‘tympanic process’ (sensu Cox 1959) is present at the lateral
+margin of the paroccipital process.
+The lateral surface of the prootic portion of the periotic is
+well exposed in the holotype and the three Zambian specimens
+(Figs 1B, 2B, 3B, 4H). A long, narrow pila antotica projects
+anterodorsally from the anterior edge of the prootic, and a welldeveloped trigeminal notch is present posterior to the pila. Ventral to the notch, the lateral surface of the prootic bears a welldefined crescentic fossa. A small, round foramen (best seen in
+NHCC LB13) for the facial nerve (cranial nerve VII) is present
+just below the raised ventral rim of the fossa, close to the junction between the prootic and the parabasisphenoid (Figs 3F,
+4D). Dorsal and posterior to the fossa, a prominent rectangular
+to trapezoidal alar process is present (Fig. 4H). The alar process
+projects posterolaterally, and a well-developed pocket is present
+behind it, which is contiguous with the slit-like internal manifestation of the posttemporal fenestra. An interdigitated suture
+between the prootic and the supraoccipital is visible just above
+the posttemporal fenestra in NHCC LB116, but sutures between
+the prootic, the interparietal, and possibly the parietal are not
+clearly preserved in any of the available specimens. The state of
+preservation and preparation of the available specimens prevents
+us from being able to determine whether a floccular fossa was
+present.
+RC 736 includes a highly weathered and damaged mandible
+(Fig. 5D), but all other available specimens lack a mandible. Little useful information can be gleaned from RC 736, but the right
+side of the specimen clearly shows the remains of a mandibular
+fenestra on the lateral surface of the jaw. This strongly suggests
+that the fenestra was not mostly or completely occluded by a
+lamina of the dentary, as in Dicynodontoides or Kombuisia.
+Angielczyk & Cox (2015) recently described two toothed emydopoid jaws from the Ruhuhu Basin of Tanzania, and in their
+discussion of the identification of these specimens noted the
+possibility, among others, that they represented the previously
+unknown mandible of Compsodon. However, a dentary lamina
+that occludes the mandibular fenestra is present in those specimens, allowing us to eliminate Compsodon as a potential identification.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+PHYLOGENETIC ANALYSIS
+Method
+The phylogenetic relationships of Compsodon helmoedi
+have received very little attention in the dicynodont literature. Van Hoepen (1934) provided the most detailed
+consideration in his description of the species, suggesting that it was closely related to Tropidostoma, and that
+both taxa were probably close to the ancestry of Dicynodon sensu lato. Toerien (1954) suggested a close relationship with Emydops in the context of his work on
+the phylogenetic significance of dicynodont palatal
+structure (Toerien 1953). Cluver & King (1983) and
+King (1988) listed it as incertae sedis in their classifications of dicynodonts, and Angielczyk et al. (2014a) suggested that it was likely to be an emydopoid, but the
+latter conclusion was based on a superficial consideration of a few characters, not a formal phylogenetic analysis. Indeed, Compsodon has never been included in a
+cladistic analysis, so we will investigate its relationships
+here for the first time.
+Our phylogenetic data matrix includes the same list of
+characters as that of Angielczyk et al. (in press), but taxon
+sampling has been modified here. Besides C. helmoedi, we
+added three recently described Permian dicynodont species as operational taxonomic units (OTUs): Rastodon
+procurvidens, Sauroscaptor tharavati and Bulbasaurus phylloxyron. We removed one OTU, the putative lystrosaurid
+species represented by TSK 2 (e.g. Kammerer et al. 2011;
+Angielczyk et al. 2014a) because ongoing research suggests that it may not be a distinct taxon (CFK, pers.
+obs.). The finished dataset included 103 OTUs and 194
+characters (the character list and data matrix are archived
+in the Dryad Digital Data Repository: Angielczyk & Kammerer 2017). Of these characters, 171 are discrete binary
+or multistate characters, of which 7 characters were
+ordered and 164 were treated as unordered. All discretestate characters were weighted equally. The remaining 23
+characters are continuous. We treated the continuous
+characters as additive using the method of Goloboff et al.
+(2006), with mean values used as the codings for the
+OTUs except in cases when only a single measurement
+was available for an OTU. Unknown and inapplicable discrete state and continuous characters were coded as ‘?’
+(Strong & Lipscomb 2000).
+We analysed the dataset using TNT 1.1 (October 2010
+version) (Goloboff et al. 2008), and two search strategies
+were employed. The first search used the new technology
+methods of TNT. We utilized a driven search with the initial search level set at 65, which was checked every three
+hits. The initial number of addition sequence replicates was
+500, and the search was required to find the shortest length
+trees 20 times. The analysis started with default settings for
+
+sectorial searching, tree drifting, parsimony ratchet and tree
+fusing. In the second analysis, we used the traditional
+search method of TBR branch swapping with 10 000 replicates and 10 trees held per replicate. Biarmosuchus served
+as the outgroup to root the most parsimonious cladograms
+from both analyses.
+We utilized symmetric resampling (Goloboff et al.
+2003), jackknife analysis (Mueller & Ayala 1982; Farris
+et al. 1996) and decay analysis (Bremer 1988, 1994) to
+measure support for the most parsimonious cladograms.
+The symmetric resampling results are based on 10 000
+replicates; each replicate included a new technology
+search with default settings for tree drifting, parsimony
+ratchet and tree fusing, and 10 random addition sequence
+replicates. Absolute frequency values were used to summarize the results (Kopuchian & Ramırez 2010). Recent
+research (e.g. Kopuchian & Ramırez 2010; Simmons &
+Freudenstein 2011) suggests that jackknife-based resampling approaches produce fewer spurious groups than
+bootstrap-based methods, so we also conducted a jackknife analysis as an additional measure of clade support.
+We utilized 10 000 resampling replicates, with a 36%
+probability of character removal, and the same search
+parameters as for the symmetric resampling analysis. The
+decay analysis results are based on a sample of 997 860
+suboptimal cladograms with lengths up to six steps longer
+than the most parsimonious cladograms. Following the
+recommendations of Goloboff et al. (2008), the suboptimal trees were generated through a series of traditional
+searches in which the length of suboptimal cladograms
+retained as well as the number of suboptimal cladograms
+were incrementally increased. The resulting cladograms
+were filtered to remove duplicates before the decay analysis, so all 997 860 cladograms in the sample are unique.
+Finally, a 50% majority-rule consensus of the 997 860
+cladograms was calculated to gain insight into how frequently the clades recovered in the most parsimonious
+cladograms are represented in suboptimal trees.
+Compsodon was reconstructed as a member of Emydopoidea in the primary phylogenetic analysis (see
+below). As noted above, van Hoepen (1934) considered
+Compsodon to be closely related to Tropidostoma, so we
+conducted a constrained analysis to evaluate this hypothesis. We constrained Tropidostoma, Australobarbarus and
+Compsodon to form a clade; because Australobarbarus and
+Tropidostoma have been reconstructed as closely related in
+all recent phylogenetic analyses, our constraint tree is
+essentially a modern restatement of van Hoepen’s (1934)
+hypothesis. A somewhat related recent problem in studies
+of dicynodont phylogeny concerns the monophyly of the
+clade Cryptodontia. Although a monophyletic Cryptodontia has been part of the results of many phylogenetic analyses of dicynodonts (e.g. also see review in Kammerer &
+Angielczyk 2009; Fr€
+obisch et al. 2010; Kammerer et al.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+528
+
+2011, 2013; Castanhinha et al. 2013; Cox & Angielczyk
+2015; Kammerer & Smith 2017), it has been recovered as
+a grade in some recent studies (Angielczyk et al. 2016;
+Boos et al. 2016). Because our most parsimonious cladograms included a paraphyletic Cryptodontia, and also differed in certain other ways from the results of most
+recent analyses (e.g. placement of Lystrosauridae near the
+base of Dicynodontoidea; see below), we ran a constrained analysis in which we required Cryptodontia to be
+monophyletic. Our composition of Cryptodontia followed
+that of Kammerer & Smith (2017): Aulacephalodon,
+Australobarbarus, Bulbasaurus, Daqingshanodon, Geikia
+elginensis, G. locusticeps, Idelesaurus, Keyseria, Kitchinganomodon,
+Odontocyclops,
+Oudenodon,
+Pelanomodon,
+Rhachiocephalus, Syops and Tropidostoma. The detailed
+topologies of the constraint trees are archived in the
+Dryad Digital Data Repository (Angielczyk & Kammerer
+2017). We used the same search parameters in the constrained searches as we did for the primary new technology search.
+
+RESULTS
+The new technology traditional searches recovered two most
+parsimonious cladograms (length = 1131.746 steps; consistency index = 0.241; retention index = 0.718); a strict consensus of the cladograms is shown in Figure 6. The topology
+shows a mixture of similarities to and differences from other
+recent analyses of anomodont phylogeny. For example,
+among non-dicynodont anomodonts, Venyukovioidea occupies a more rootward position and Anomocephaloidea a
+more derived position than in the analyses of Angielczyk
+et al. (2016) and Boos et al. (2016). The topology for
+non-bidentalian dicynodonts is more similar to that of
+Angielczyk et al. (2016) and Boos et al. (2016) than Cox &
+Angielczyk (2015) in the separation of pylaecephalids and
+emydopoids, and it particularly resembles the tree of Boos
+et al. (2016) in its paraphyly of Cryptodontia, although the
+arrangement of taxa within this grade is somewhat different.
+The relationships of Kannemeyeriiformes also differ from
+those of most recent analyses in the paraphyly of Shansiodontidae, the monophyly of Kannemeyeriidae, and the
+placement of Angonisaurus and Dinodontosaurus on the
+branch leading to Stahleckeriidae. These changes are treated
+in more detail by Angielczyk et al. (in press).
+Compsodon helmoedi was recovered as a member of
+Emydopoidea, specifically as the sister taxon of Emydops.
+Eight discrete-state synapomorphies support Emydopoidea in this analysis: lateral anterior palatal ridges
+present (character (ch.) 3, state 1); palatal surface of premaxilla with well-defined depressions with curved sides
+lateral to median ridge (ch. 6, state 0); caniniform depression has the form of an embayment bounded by a ridge
+
+529
+
+medially of palatal rim anterior to caniniform process or
+tusk (ch. 28, state 1); anterior pterygoid keel restricted to
+anterior tip of anterior ramus of pterygoid (ch. 89, state
+1); dentary table absent (ch. 124, state 0); anterodorsal
+edge of lateral dentary shelf with a groove (ch. 128, state
+1); three sacral vertebrae (ch. 142, state 0); ectepicondylar
+foramen on humerus present (ch. 154, state 0). Compsodon can only be coded for the first four of these characters with the available specimens, but in each of those
+four cases it displays the expected character state. The
+Compsodon–Emydops clade is supported by four discretestate synapomorphies: posterior median ridge present
+with a flattened, expanded anterior area (ch. 5 state 1);
+maxillary non-caniniform teeth located near lateral margin of maxilla (ch. 23, state 0); ventral edge of caniniform
+process at the same level to slightly posterior to anterior
+orbital margin (ch. 32, state 1); and lateral edge of paroccipital process drawn into sharp posteriorly-directed process that is distinctly offset from the surface of the
+occipital plate present (ch. 112, state 1). The constrained
+analysis shows that a close relationship between C. helmoedi, Tropidostoma and Australobarbarus is not well supported by the available character data. The two most
+parsimonious cladograms from that analysis have a length
+of 1153.063 steps, 21.317 steps longer than the cladograms from the unconstrained analysis. However, topologies consistent with a monophyletic Cryptodontia (sensu
+Kammerer & Smith 2017; Angielczyk & Kammerer 2017)
+are only 1.5 steps longer (i.e. 1133.246 steps) than the
+most parsimonious cladograms from the unconstrained
+analysis. The position of C. helmoedi as the sister taxon
+of Emydops within Emydopoidea is unchanged in the two
+most parsimonious cladograms in which Cryptodontia is
+constrained to be monophyletic.
+The results of the symmetric resampling, jackknife, and
+decay analyses indicate that the most parsimonious cladograms from the unconstrained analysis are characterized by
+overall weak branch support (Fig. 6, results from the jackknife analysis are archived in the Dryad Digital Data Repository; Angielczyk & Kammerer 2017). However, the
+placement of C. helmoedi as the sister taxon of Emydops is
+moderately well-supported, decaying in 1.553 steps and
+receiving symmetric resampling and jackknife percentages
+of 65 and 67, respectively. This relationship also is present
+in 99% of the sample of 997 860 cladograms used in the
+decay analysis.
+
+DISCUSSION
+Validity of Compsodon helmoedi
+Considering that Compsodon largely has been ignored in
+the dicynodont literature since the 1950s, and the
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+Strict consensus of two most parsimonious cladograms from the phylogenetic analysis. Scores: 1131.746 steps; consistency
+index = 0.241; retention index = 0.718. The cladogram has been subdivided to show the relationships of: A, outgroup taxa and nonbidentalian anomodonts; B, Kannemeyeriiformes; C, non-kannemeyeriiform bidentalians. Numbers at nodes represent decay index
+(left/top), symmetric resampling (middle), and the percentage of the 997 860 suboptimal trees in which the node is resolved (right/
+bottom). Results of the jackknife analysis are similar to those of the symmetric resampling analysis, and are archived in the Dryad Digital Data Repository (Angielczyk & Kammerer 2017).
+
+FIG. 6.
+
+extensive changes in dicynodont alpha taxonomy that
+have taken place since that time, an important question
+to address is whether C. helmoedi is a valid species. In the
+phylogenetic analysis, C. helmoedi is recovered as an emydopoid, and it can be distinguished easily from other
+members of the clade. It is clearly not a synonym of any
+
+of the cistecephalid species, since it lacks features such as
+the highly roofed-over, box-like skull and closed-off
+interpterygoid vacuity that are typical of that clade. The
+exposure of the parietals on the dorsal surface of the skull
+is much narrower in C. helmoedi than in taxa such as
+Emydops, Digalodon and Myosaurus, and the presence of
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+530
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Continued
+
+FIG. 6.
+
+531
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+maxillary ‘postcanines’ further differentiates it from the
+latter two taxa. The presence of ‘postcanine’ teeth also
+distinguishes C. helmoedi from Dicynodontoides and Kombuisia, as do other characters such as the less crest-like
+temporal bar, the presence of postfrontals, the presence of
+strong depressions on the dorsal surface of the frontals,
+and lateral exposure of the mandibular foramen. Some
+recent papers have suggested that Cryptocynodon and
+Niassodon are members of Emydopoidea (Castanhinha
+et al. 2013; Angielczyk et al. 2016) but these taxa also
+show clear differences from C. helmoedi. Both Cryptocynodon and Niassodon possess longer, more medially-placed
+maxillary tooth rows and more anteroposteriorly-elongate
+palatine pads than Compsodon, and they are further differentiated by characters such as their broader exposure
+of the parietals on the dorsal surface of the skull roof.
+Finally, Angielczyk & Cox (2015) described an emydopoid
+mandible morphotype from the Ruhuhu Basin, which
+they suggested could represent the jaw of Compsodon,
+among other hypotheses. As noted above, the prominent
+mandibular fenestra of RC 736 is not present in the jaws
+described by Angielczyk & Cox (2015), leading us to conclude that those specimens are unlikely to represent
+C. helmoedi.
+Besides the emydopoids, three other dicynodont taxa,
+Eosimops, Tropidostoma and Australobarbarus, require close
+comparison with Compsodon. Like C. helmoedi, the anterior
+end of the posterior median palatal ridge of Eosimops
+expands into a Y-shaped platform, a morphology that is
+unique to these two taxa. However, a number of other
+characters differentiate Eosimops and C. helmoedi, such as
+the anteroposteriorly expanded postorbital bar, wide dorsal
+exposure of the parietals, block-like crista oesophagea, and
+more laterally-placed internal carotid canals of Eosimops.
+Even the expanded area of the posterior median ridge differs in its details: in Eosimops it bears the anterior median
+palatal ridges, whereas in Compsodon it merges with a
+rounded depression at the front of the secondary palate.
+Comparisons between C. helmoedi, Tropidostoma and
+Australobarbarus deserve special attention for two reasons.
+First, the three taxa are superficially very similar (Fig. 7)
+and Brink & Keyser (1983) even considered C. helmoedi
+to be a junior synonym of Tropidostoma microtrema (now
+T. dubium; see Kammerer et al. 2011). Second, in his discussion of dicynodont phylogeny, van Hoepen (1934)
+emphasized the similarities of the palates of Tropidostoma
+and Compsodon (Australobarbarus had yet to be described;
+Kurkin 2000) to those of ‘advanced’ dicynodonts such as
+Dicynodon, as well as how they differed from the palates
+of other dicynodonts that retained ‘postcanine’ teeth.
+These similarities led van Hoepen to conclude that Compsodon and Tropidostoma were the closest of the toothed
+dicynodonts to the ancestral stock of ‘Dicynodon-like’
+taxa.
+
+Despite this suggested similarity, a detailed comparison
+of C. helmoedi with Tropidostoma (and Australobarbarus)
+reveals numerous differences, particularly (and ironically)
+in the palate. For example, Australobarbarus and Tropidostoma display a secondary palate morphology similar to
+most other bidentalians, including paired anterior median
+palatal ridges, a median posterior ridge, and the absence
+of lateral anterior ridges and an embayment on the medial surface of the palatal rim. In contrast, C. helmoedi
+lacks anterior median palatal ridges, has very prominent
+lateral anterior palatal ridges, and has a well-developed
+embayment of the palatal rim anterior to the caniniform
+process. The palatine pads of Australobarbarus and Tropidostoma have a raised, rugose posterior area and a
+smoother anterior area that is flush with the surface of
+the premaxillary secondary palate, and a palatine foramen
+is absent, whereas the palatine pads of C. helmoedi are
+pierced by a palatine foramen and are smooth and of a
+constant height for their entire length. The anterior pterygoid ramus of C. helmoedi bears a prominent triangular
+keel, but those of Australobarbarus and Tropidostoma lack
+a keel. Elsewhere in the skull, C. helmoedi has a single
+nasal boss, swollen ‘lips’ partially surrounding the pineal
+foramen, and a prominently raised alar process of the
+prootic, whereas Australobarbarus and Tropidostoma possess paired nasal bosses, unornamented pineal foramina,
+and lower, rounded alar processes. In the context of our
+phylogenetic analysis, we interpret the similarities in the
+general construction of the palate and the location of the
+‘postcanine’ teeth observed by van Hoepen (1934) to
+reflect the ancestral therochelonian Bauplan, instead of
+synapomorphies that would unite C. helmoedi with Tropidostoma or Australobarbarus. The convergence in the
+overall shape of the skull may have a functional explanation, perhaps indicating that the ecology of C. helmoedi
+was similar to that of Australobarbarus and Tropidostoma
+(also see below).
+Based on these observations, we consider C. helmoedi
+to represent a distinctive, well-defined morphotype, and
+therefore a valid species. The discovery of the well-preserved Zambian specimens was key to the delineation of
+this morphotype, providing a new search image when
+assessing specimens in museum collections. Indeed, we
+have already identified two previously unrecognized specimens of C. helmoedi from South Africa (i.e. RC 641, RC
+736; see Kammerer et al. 2015a) and there may be others.
+
+Stratigraphical and geographical ranges of Compsodon
+The holotype of C. helmoedi was collected in rocks of the
+Normandien Formation, near the city of Bloemfontein,
+South Africa. Kitching (1977) expressed uncertainty about
+the exact age of the type locality, suggesting that the
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+532
+
+533
+
+Skulls of Compsodon helmoedi van Hoepen 1934 and cryptodont dicynodonts showing convergences in skull shape and construction. A, skull of C. helmoedi (NHCC LB14) in dorsal view. B, skull of Tropidostoma dubium (CGS CM 86-573) in dorsal view. C,
+skull of Australobarbarus kotelnitschi (PIN 4678/2) in dorsal view. D, skull of Oudenodon bainii (SAM-PK-K10418) in dorsal view. E,
+transverse section through the skull of C. helmoedi (NHCC LB14) slightly posterior to the pineal foramen. F, transverse section
+through the skull of O. bainii (NHCC LB631) slightly posterior to the pineal foramen. Anterior is into the page in panels E and F,
+and the suture between the left postorbital and the parietal has been highlighted in each panel. Abbreviations: epi, epipterygoid; pa,
+parietal; po, postorbital. Scale bars (A–D) represent 2 cm; E and F are not to scale.
+FIG. 7.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+strata exposed could represent parts of his Cistecephalus
+and/or Daptocephalus zones. Currently, the Normandien
+Formation in this area is assigned to the Daptocephalus
+AZ of Viglietti et al. (2016) (e.g. see maps in van der
+Walt et al. 2010; Rubidge et al. 2016). The other two
+Karoo Basin specimens of C. helmoedi (RC 641, RC 736)
+were collected about 400 km to the south-west on farms
+in the Graaff-Reinet District. These farms expose strata of
+the Balfour Formation that can be assigned to the lower
+Daptocephalus AZ (for RC 641) (Kammerer et al. 2015b;
+also see Systematic Palaeontology above) and/or the
+uppermost Cistecephalus AZ (for RC 736; available locality information does not include sufficient detail to localize this specimen to a specific stratigraphic horizon).
+Given this information, it can be stated with a good
+degree of certainty that C. helmoedi occurs in the Daptocephalus AZ in the Karoo Basin, but it is unclear how
+much of the zone it ranges through and whether its range
+extends down into the Cistecephalus AZ. Additional collecting of specimens from measured stratigraphic sections
+will be necessary to resolve this issue. Even with the limited number of specimens available, however, it is clear
+that C. helmoedi was a widespread, if apparently rare,
+member of the late Permian Karoo dicynodont fauna.
+Compsodon helmoedi seems to be more common in the
+Luangwa Basin of Zambia. Far less collecting effort has
+been expended there than in the Karoo, but three wellpreserved specimens already are known. The Luangwa
+Basin specimens originated in a much smaller geographical area within North Luangwa National Park, but this
+reflects in part the distribution of known fossiliferous
+outcrops in the Luangwa Basin. Interestingly, no specimens of C. helmoedi are known from the ‘classic’ Upper
+Luangwa Basin localities (e.g. Boonstra 1938; Drysdall &
+Kitching 1963; Angielczyk et al. 2014a). This may partially reflect the different preservation style of specimens
+from the Upper Luangwa Basin: specimens typically are
+preserved in hematitic nodules, and even though many
+such nodules have been collected, a much smaller number
+have been prepared or are identifiable in unprepared
+form. Reassessment of these unprepared specimens, now
+that a detailed diagnosis for C. helmoedi exists, would be
+a practical starting point for determining whether the species is present in the Upper Luangwa Basin.
+The age of the Upper Madumabisa Mudstone Formation
+in the Luangwa Basin has been a source of uncertainty (see
+review in Angielczyk et al. 2014a). Based on the dicynodont
+fauna of the Upper Madumabisa Mudstone, Angielczyk
+et al. (2014a) suggested a correlation with the Cistecephalus
+AZ of the South African Karoo Basin. Despite being represented in the Karoo at the time by a single specimen collected at a locality with a somewhat uncertain stratigraphic
+position, C. helmoedi played an important role in that
+correlation. Because specimens of Oudenodon and
+
+Rhachiocephalus also were collected at the type locality
+(Kitching 1977), Angielczyk et al. (2014a) treated the
+stratigraphical range of C. helmoedi in the Karoo as if it
+encompassed the overlap of the ranges of Oudenodon and
+Rhachiocephalus, which at the time was considered to end
+near the top of the Cistecephalus AZ (Smith & Keyser
+1995). More recent research has revised the stratigraphical
+range of Rhachiocephalus so that it is now considered to
+extend up into the lower Daptocephalus AZ (Viglietti et al.
+2016). Viglietti et al. (2016; also see Smith et al. 2012) presented a similar revision to the range of the other known
+rhachiocephalid genus, Kitchinganomodon. When combined with the revised occurrence information presented
+here for Compsodon, three of the five main dicynodonts
+that Angielczyk et al. (2014a) used in their correlation now
+have ranges that include the lower Daptocephalus AZ as well
+as the Cistecephalus AZ. Only Odontocyclops and Endothiodon are still considered to be present in the Cistecephalus
+AZ but not the lower Daptocephalus AZ (e.g. Angielczyk
+2002a; Smith et al. 2012; Boos et al. 2013). We continue to
+favour a correlation between the Upper Madumabisa Mudstone Formation in the Luangwa Basin with the Cistecephalus AZ because of the presence of Odontocyclops and
+Endothiodon in the former unit, but this correlation would
+clearly benefit from better chronostratigraphic control on
+the age of the Madumabisa Mudstone. Indeed, such data
+would provide important insight into whether the seemingly disjunct stratigraphical ranges noted for some taxa in
+the Luangwa and Ruhuhu basins compared to the Karoo
+Basin (Sidor et al. 2010; Angielczyk et al. 2014a, b) stem
+from diachroneity among the deposits or differences in the
+real temporal ranges of taxa in the various basins.
+Angielczyk et al. (2014a) noted that the dicynodont
+fauna of the Luangwa Basin was more similar to that of
+the Karoo Basin than to that of the Ruhuhu Basin,
+despite the much greater geographical proximity of the
+Luangwa and Ruhuhu basins both now and in the Permian. Compsodon helmoedi contributes to this pattern
+with its presence in the Karoo and Luangwa basins and
+its apparent absence in the Ruhuhu Basin, particularly
+now that the potential record noted by Angielczyk & Cox
+(2015) appears unlikely to truly represent Compsodon.
+The reason why C. helmoedi seemingly failed to disperse
+into the Ruhuhu Basin is unclear, particularly since the
+closely-related and similarly-sized taxon Dicynodontoides
+did accomplish this feat (Angielczyk et al. 2009; Fr€
+obisch
+2009).
+Curiously, small Permian dicynodonts seem to have
+been more effective dispersers than many of their larger
+relatives (Angielczyk et al. 2014a; Kammerer et al. 2016)
+and among small dicynodonts, emydopoids are particularly noteworthy for their broad geographical ranges. For
+example, the emydopoid genera Compsodon, Dicynodontoides, Emydops, Kombuisia and Myosaurus are all known
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+534
+
+to occur in multiple geographically-separated basins (e.g.
+Fr€
+obisch 2009; Angielczyk et al. 2009, 2014a; Fr€
+obisch
+et al., 2010). Each known cistecephalid species is a basinal
+endemic (Fr€
+obisch 2009; Angielczyk et al. 2014a; Kammerer et al. 2016), but the clade as a whole is widely distributed across Gondwana despite comprising small
+fossorial animals. Given their apparent cosmopolitanism,
+the absence of emydopoids in Laurasia and in South
+America is noteworthy, but it is hard to rule out that this
+is a sampling artifact, since Permian dicynodont fossils
+are rarer in these areas and they have not been subject to
+the same collecting effort as many of the main Gondwanan basins, particularly those of southern Africa. It also
+is possible that ecological roles played by emydopoids in
+Gondwana were filled by other dicynodonts in the northern hemisphere. For example, the Russian species Elph
+borealis (Kurkin 1999; Angielczyk & Kurkin 2003a) and
+the Chinese species Daqingshanodon limbus (Zhu 1989;
+Kammerer et al. 2011), which are both members of
+Bidentalia, fall within the size range typical of at least the
+larger emydopoids.
+
+Phylogenetic relationships
+Compsodon is strongly supported as an emydopoid in our
+analyses (see Results above). Within Emydopoidea, relationships are generally similar to those of previous analyses, although Kingoriidae falls in a more basal position
+within Kistecephalia (sensu Kammerer & Angielczyk 2009)
+than Digalodon, in contrast to the more basal position for
+Digalodon recovered by Kammerer et al. (2015a). Our
+analysis corroborates Kammerer et al.’s (2016) finding
+that Sauroscaptor is the most basal cistecephalid.
+In all of our analyses Compsodon was recovered as the
+sister-taxon of Emydops, in which case it would be a
+member of Emydopidae sensu Kammerer & Angielczyk
+(2009) (although under Art. 24.1 of the ICZN, the senior
+name for this family would then be Compsodontidae).
+However, there is reason to be skeptical of this relationship, considering the characters supporting it. The state
+present in Compsodon and Emydops for character 5 (state
+1: posterior median ridge present with a flattened,
+expanded anterior area) has a complex history near the
+base of Therochelonia: it is also found immediately outside of Emydopoidea in taxa such as Brachyprosopus, Pristerodon, pylaecephalids and at least some specimens of
+Endothiodon bathystoma. The presence of the derived state
+in both Niassodon and kistecephalians causes this state to
+be reconstructed as a Compsodon + Emydops synapomorphy, but its widespread distribution in more basal dicynodonts means that its potential status as a therochelonian
+symplesiomorphy cannot be dismissed out of hand. The
+optimization of character 23 (state 0: maxillary non-
+
+535
+
+caniniform teeth located near lateral margin of maxilla)
+as a synapomorphy of the Compsodon + Emydops clade,
+and also a reversal from a hypothetical toothless therochelonian ancestor, is suspect for two reasons. First, the
+inferred (toothless) ancestral state for the common ancestor of Therochelonia is an artefact of Emydops and Compsodon being coded with a different character state than
+most non-therochelonians, because of the more lateral
+placement of their maxillary postcanines. If a single state
+is used for all dicynodonts with maxillary ‘postcanines,’ a
+toothed therochelonian ancestor is equally parsimonious
+as a toothless one. Second, the current topology and optimization implies that Compsodon + Emydops re-evolved
+teeth from a toothless ancestor, yet this is biologically
+improbable. Not only is independent tooth loss one of
+the most pervasive evolutionary trends in Dicynodontia,
+there are very few examples of vertebrate taxa re-evolving
+teeth in an edentulous lineage. Character 32 is highly
+homoplastic in emydopoids; the state present in Compsodon and Emydops (state 1: ventral edge of caniniform
+process at the same level to slightly posterior to anterior
+orbital margin) is also present in Kombuisia (but not
+Dicynodontoides), Cistecephalus (but not the other cistecephalids) and Myosaurus. Finally, character 112 (state 1:
+lateral edge of paroccipital process drawn into sharp posteriorly-directed process that is distinctly offset from the
+surface of the occipital plate present) may be more
+broadly distributed in emydopoids than our current
+matrix (in which it is only coded for Compsodon and
+Emydops) indicates. A distinct, albeit more weakly-developed, eminence on the paroccipital process is also present
+in Dicynodontoides (Cox 1959) and Digalodon (Kammerer
+et al. 2015a). The same morphology is present in Emydorhinus (CFK, pers. obs.), a Permian taxon that requires
+redescription and is not included in our current analysis,
+but which shows numerous similarities to the kistecephalian genus Myosaurus. Indeed, several superficially
+Emydops-like emydopoid genera (e.g. Emydorhinus, Palemydops) have, like Compsodon, not been seriously reconsidered in a modern phylogenetic framework and require
+further study. These taxa will hopefully prove useful in
+resolving the topology within Emydopoidea, as they show
+a combination of plesiomorphic emydopoid and derived
+kistecephalian features.
+As regards anomodont phylogeny in general, the results
+of our phylogenetic analyses broadly mirror recent studies
+(e.g. Kammerer et al. 2011, 2013, 2015a, 2016; Castanhinha et al. 2013; Angielczyk & Rubidge 2013; Angielczyk
+& Cox 2015; Cox & Angielczyk 2015; Angielczyk et al.
+2016; Boos et al. 2016; Kammerer & Smith 2017; Olroyd
+et al. in press) but also underline important areas of continuing uncertainty. In particular, the base of Therochelonia remains one of the most problematic portions of the
+anomodont tree. While there are many individual points
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+of disagreement between published topologies for Therochelonia, four major issues underlie much of the instability in this part of the tree: (1) are endothiodonts
+therochelonians? (2) do pylaecephalids and emydopoids
+form a clade to the exclusion of other dicynodonts? (3) is
+Cryptodontia monophyletic? and (4) do the ‘elphids’
+(Elph, Interpresosaurus and Katumbia) represent dicynodontoids or basal bidentalians? It is worth examining
+each of these issues in further detail to highlight areas of
+dicynodont phylogeny in particular need of additional
+research attention.
+Endothiodon has, since its initial description (Owen
+1876), been a problematic outlier among dicynodonts.
+Seeley (1892) did not consider Endothiodon to be a dicynodont at all, but instead a member of a separate group of
+herbivorous therapsids more closely related to theriodonts. Seeley’s conclusion is somewhat understandable
+given the lack of knowledge on basal anomodonts at the
+time: the absence of tusks, extensive maxillary, premaxillary and dentary dentition, and relatively short secondary
+palate all make Endothiodon superficially appear more like
+a ‘typical’ early therapsid than a dicynodont. Pre-cladistic
+treatments of dicynodont phylogeny (e.g. Broom 1905;
+van Hoepen 1934; Toerien 1953) tended to regard
+Endothiodon as one of the most ‘primitive’ dicynodonts,
+largely on the basis of the features mentioned above
+(although even as early as Broom (1905), the absence of
+the tusk in Endothiodon was regarded as a loss from a
+tusked ancestor). The earliest cladistic treatments of
+dicynodonts generally reflected these older ideas: Cluver
+& King (1983; see also King 1988, 1990) reconstructed
+Endothiodontoidea (in their usage, consisting of Endothiodon, Pachytegos and Chelydontops) as the secondearliest-diverging clade of dicynodonts, with only Eodicynodon in a more basal position, and Angielczyk (2002b)
+discussed some topologies in which Endothiodon was
+basal to Eodicynodon. A number of computer-assisted
+phylogenetic analyses of dicynodonts have recovered a
+roughly similar position for Endothiodon, albeit with
+more recently-described basal taxa (e.g. Colobodectes, Lanthanostegus) intervening between it and Eodicynodon (e.g.
+Kammerer et al. 2011, 2013; Castanhinha et al. 2013;
+although in some analyses Pylaecephalidae is recovered in
+a more basal position as well, see Discussion below).
+However, several lines of evidence now indicate that the
+seemingly ‘primitive’ features of Endothiodon represent
+reversals from a more typical dicynodont ancestor (Nehls
+et al. 2014; Angielczyk & Cox 2015; Cox & Angielczyk
+2015; Olroyd et al. in press). Some of these have been suspected for some time; as mentioned above, the absence of
+tusks in Endothiodon bathystoma has long been regarded as
+a secondary loss, a suspicion confirmed by the recent discovery of a new, possibly stratigraphically earlier species of
+Endothiodon (E. tolani) that retains tusks (Cox &
+
+Angielczyk 2015). Additional discoveries of small, tusked
+dicynodonts exhibiting some of the features previously
+regarded as autapomorphic for Endothiodon have further
+helped to break up the morphological ‘long branch’ for that
+genus. As an important example, Olroyd et al. (in press)
+provided a redescription of the problematic middle Permian dicynodont Abajudon kaayai from Tanzania and
+Zambia, demonstrating that this taxon had Endothiodonlike cranial morphology and arguing that Abajudon represents a true endothiodont sensu Kammerer & Angielczyk
+(2009). Olroyd et al. (in press) also showed that this basal
+endothiodont exhibits a number of characters previously
+considered to be synapomorphies of Emydopoidea and,
+indeed, their analysis placed Endothiodontia on the stem of
+Emydopoidea. Our current topology places Endothiodontia outside of Therochelonia, but we did not include Abajudon in our analysis. This rapid advancement in our
+knowledge of Endothiodon and its allies is exciting, but
+indicative that their relationships are far from settled (also
+see Angielczyk et al. 2016). Support values in both the current analysis and that of Olroyd et al. (in press) are very
+weak, with only ~1 step required to pull Endothiodon and
+Niassodon (and Abajudon in the latter analysis) into or out
+of Therochelonia. And while Brachyprosopus and Abajudon
+have been subject to recent redescriptions, Pristerodon
+(usually considered to be one of the best-known Permian
+dicynodonts) needs revision. This taxon is probably overlumped, and its current codings may be chimaerical to
+some extent. Additionally, postcranial anatomy in both
+Pristerodon and Endothiodon remains poorly described,
+despite the high importance of postcranial characters in
+establishing pylaecephalid and emydopoid relationships
+(for which see below).
+Pylaecephalidae contains some of the best-known
+dicynodont taxa (particularly the hyper-abundant Permian species Diictodon feliceps) but despite the exhaustive
+anatomical detail available for this clade, its phylogenetic
+position remains remarkably labile. Cluver & King (1983)
+initially reconstructed Pylaecephalidae (‘Robertoidea’ in
+their usage) as the sister-taxon of Emydopoidea in their
+hand-drawn cladogram of dicynodont relationships. However, early computer-assisted phylogenetic analyses of
+dicynodonts (Angielczyk 2001, 2002a, 2007; Modesto
+et al. 2002; Angielczyk & Kurkin 2003a, b; Damiani et al.
+2007; Fr€
+obisch 2007; Fr€
+obisch & Reisz 2008; Angielczyk &
+Rubidge 2010, 2013) consistently pulled these groups
+apart, instead finding Pylaecephalidae (usually called
+‘Robertiidae’ in this literature) to be one of the earliestdiverging clades of dicynodonts. Unexpectedly, Pylaecephalidae jumped back to being the sister-taxon of Emydopoidea in the later, substantially expanded analysis of
+Kammerer et al. (2011). The majority of subsequent analyses (all of which are based on the underlying data matrix
+of Kammerer et al. 2011) have also recovered a clade
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+536
+
+made up of Pylacephalidae + Emydopoidea (Kammerer
+et al. 2013, 2015a, 2016; Castanhinha et al. 2013; Cox &
+Angielczyk 2015; Angielczyk et al. 2016; Kammerer &
+Smith 2017). However, in several of the most recent iterations of the analysis, Pylaecephalidae has returned to its
+former, more basal position (Angielczyk & Cox 2015;
+Boos et al. 2016; Olroyd et al. in press) and in the current analysis we also find Pylaecephalidae to fall outside
+of Therochelonia.
+Several issues underlie this lability in pylaecephalid
+placement. Chief among them is Diictodon itself, which
+exhibits a confounding mosaic of primitive and derived
+characters. Non-Diictodon pylaecephalids (of which Robertia is the classic example) generally display a suite of
+primitive dicynodont skull characters (e.g. broad
+intertemporal region, extensive maxillary and dentary
+tooth rows). By contrast, the general morphology of Diictodon’s skull more closely resembles that of an ‘advanced’
+dicynodont (e.g. narrow intertemporal region, complete
+loss of the non-tusk dentition). It is telling that the morphotype we now call Diictodon feliceps was considered to
+be part of the genus Dicynodon until the revision of Cluver & Hotton (1981), long after taxa like Oudenodon
+(Keyser 1975), Tropidostoma (Keyser 1973) and even
+Dicynodontoides (partim, called ‘Kingoria’ at the time; Cox
+1959) were recognized as being distinct from Dicynodon.
+Despite the seemingly ‘advanced’ cranial morphology of
+Diictodon, however, the monophyly of Pylaecephalidae
+has never been challenged since the advent of dicynodont
+cladistics; a large number of synapomorphies support the
+grouping of Diictodon with Eosimops, Prosictodon and
+Robertia (Kammerer & Angielczyk 2009; Angielczyk &
+Rubidge 2013). What has happened instead is that the
+derived features of Diictodon tend to pull the entirety of
+Pylaecephalidae ‘higher’ into the dicynodont tree than
+where it would be otherwise. Because Diictodon is the
+most morphologically thoroughly-known dicynodont and
+is more completely coded than any other pylaecephalid in
+phylogenetic analyses, it plays an outsized role in determining relationships for the group. Although we suspect
+that the ‘advanced’ features of Diictodon represent convergence with therochelonians, this has proven difficult to
+demonstrate analytically; in many analyses (e.g. Kammerer et al. 2011) it is equally parsimonious for these features to be ancestral for Therochelonia and then reversed
+in the non-Diictodon pylaecephalids.
+Various avenues of future research can help to deal
+with this problem. First, this issue is closely related to
+other sources of instability at the base of Therochelonia,
+as discussed above in reference to Endothiodon. If it can
+be demonstrated that endothiodonts share a robust suite
+of synapomorphies with therochelonians to the exclusion
+of the non-Diictodon pylaecephalids (e.g. Olroyd et al. in
+press), the ability of Diictodon alone to pull the clade up
+
+537
+
+into Therochelonia will be diminished. Second, this issue
+is also related to instability within Pylaecephalidae: for
+reversal to be as parsimonious as convergence, Eosimops,
+Prosictodon and Robertia have to form a clade to the
+exclusion of Diictodon (as recovered by Kammerer et al.
+2011, 2013, 2015a, 2016; Castanhinha et al. 2013; Cox &
+Angielczyk 2015; Angielczyk et al. 2016; Kammerer &
+Smith 2017). However, studies focusing on pylaecephalid
+anatomy have generally noted that Prosictodon is more
+similar to Diictodon than to other pylaecephalids (Angielczyk & Rubidge 2010, 2013; see also Angielczyk & Cox
+2015), and a sister-taxon relationship between these genera is recovered when Pylaecephalidae falls outside of
+Therochelonia (Angielczyk 2007; Angielczyk & Rubidge
+2013; Angielczyk & Cox 2015; Boos et al. 2016; Olroyd
+et al. in press; this study). More work on resolving intrapylaecephalid relationships is needed, particularly now
+that recent collecting in the Tapinocephalus AZ has
+yielded well-preserved new material of Prosictodon and
+Robertia (CFK & KDA, pers. obs.).
+Another problem is our lopsided knowledge of pylaecephalid vs emydopoid postcranial anatomy. Several of
+the characters supporting a Pylaecephalidae + Emydopoidea clade are postcranial, and while some of these
+appear compelling in being unique to pylaecephalids and
+emydopoids among dicynodonts (e.g. the presence of an
+ectepicondylar foramen on the humerus), the limited current state of knowledge of dicynodont postcranial variation provides reason for doubt. Pylaecephalid postcrania
+have been thoroughly described (King 1981b; Ray &
+Chinsamy 2003; Angielczyk & Rubidge 2013), and nearlycomplete postcranial skeletons are known for three of the
+four recognized pylaecephalid species (Diictodon feliceps,
+Eosimops newtoni and Robertia broomiana). By contrast,
+the postcrania of emydopoids are generally poorly known.
+Articulated postcranial skeletons of several of these taxa
+(e.g. Emydops, Emydorhinus, Myosaurus) are present in
+Karoo collections, but for the most part are underprepared and/or have yet to be described in detail (Kammerer et al. 2011; Aschenbach et al. 2014). Emydopoid
+taxa that have received thorough postcranial descriptions
+(e.g. Cistecephalus microrhinus (Cluver 1978) and Dicynodontoides (Cox 1959; King 1985; Angielczyk et al. 2009))
+tend to be highly specialized, and are unlikely to represent
+the basal condition for Emydopoidea. Given the amount
+of missing postcranial data in this part of the tree, it is
+hard to be confident that the shared postcranial features
+between pylaecephalids and the small sampling of emydopoids do not represent homoplasy; more information
+on emydopoid skeletal anatomy is required.
+Cryptodontia has been recognized as an important
+dicynodont group since the nineteenth century. Although
+Owen (1860) initially established this taxon for Oudenodon alone, Owen’s conceptions of dicynodont genera
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+were substantially broader in scope than those of later
+authors, and his ‘Oudenodon’ contained what we would
+now consider multiple families of dicynodonts. In particular, Owen’s (1876) ‘Oudenodon’ also included species
+currently classified as Rhachiocephalus (initially separated
+as a subgenus by Seeley 1898), and a close relationship
+between oudenodontids and rhachiocephalids has been
+recognized by many subsequent authors (e.g. van Hoepen
+1934; Toerien 1953; Keyser 1975; Keyser & Cruickshank
+1979; Cluver & King 1983; King 1988, 1990; Angielczyk
+2001).
+The inclusion of geikiids (Aulacephalodon and allies) in
+Cryptodontia has been more controversial. A close relationship between Aulacephalodon and Oudenodon was initially proposed by van Hoepen (1934), but this proposal
+was discounted by most subsequent authors, in large part
+due to the presence of massive tusks in the former taxon.
+Notably, Toerien (1953) proposed a conception of
+Cryptodontia basically identical to its modern usage, containing representatives of Oudenodontidae (represented
+by Oudenodon), Rhachiocephalidae (represented by genera
+now considered synonymous with Rhachiocephalus) and
+Geikiidae (represented by Pelanomodon), but explicitly
+excluding Aulacephalodon because it had tusks (despite
+the extensive similarities between this genus and Pelanomodon). Early cladistic analyses of dicynodonts recovered
+Aulacephalodon and Pelanomodon as sister-taxa, but did
+not find this clade to be closely related to oudenodontids
+and rhachiocephalids (Cluver & King 1983). King’s
+(1988) ‘Cryptodontinae’ included oudenodontids and
+rhachiocephalids (in the form of the tribes ‘Tropidostomini’, ‘Oudenodontini’ and ‘Pelorocyclopini’) but not
+geikiids (treated as a separate subfamily, ‘Aulacephalodontinae’), which were considered to be more closely related to dicynodontoids. Similar topologies were
+recovered in the earliest computer-assisted cladistic analyses of dicynodont phylogeny (Angielczyk 2001, 2002a).
+Angielczyk & Kurkin (2003a) were the first to analytically
+recover a cryptodont clade containing oudenodontids,
+rhachiocephalids and geikiids to the exclusion of dicynodontoids, and this group has also been recovered by
+most subsequent analyses (with the exception of the
+highly aberrant topology of Damiani et al. (2007), who
+recovered oudenodontids and geikiids nested deeply
+within Dicynodontoidea and Rhachiocephalus as the sister-taxon of Cistecephalus + Myosaurus). For instance, the
+primary analysis of Kammerer et al. (2011) produced a
+monophyletic Cryptodontia composed of the three ‘core’
+families (Oudenodontidae, Rhachiocephalidae and Geikiidae) as well as four genera falling outside of these
+(Daqingshanodon, Idelesaurus, Keyseria and Odontocyclops).
+Most analyses based on the Kammerer et al. (2011)
+matrix have recovered a monophyletic Cryptodontia
+
+(most recently Kammerer & Smith 2017), but this clade
+has consistently been poorly supported. In the current
+analysis we recover a paraphyletic Cryptodontia, a result
+previously obtained by Boos et al. (2016) and Olroyd
+et al. (in press), albeit with variations in the positions of
+the component taxa (note that when we discuss ‘monophyletic Cryptodontia’ here, we are referring to
+Cryptodontia in the sense of including all three of the
+‘core’ families; strictly speaking Cryptodontia will always
+be monophyletic as defined by Kammerer & Angielczyk
+(2009), although in many topologies it then becomes
+compositionally identical to Oudenodontidae). Troublingly, the newfound paraphyly of cryptodonts is not
+merely a reversal to older topologies in which geikiids fall
+out closer to dicynodontoids. Although this would be
+expected based on the dicynodontoid-like characters present in geikiids (e.g. the presence of a labial fossa
+bounded by palatine, jugal and maxilla), this is not consistent (in the analysis of Boos et al. (2016), for example,
+Rhachiocephalidae is more closely related to Dicynodon
+than Geikiidae). This high level of variability is indicative
+of a more complex set of problems underlying this part
+of the tree than is the case for pylaecephalids for example,
+whose phylogenetic position is not settled, but is limited
+to two competing options.
+One problem is that the various Permian cryptodont
+families and dicynodontoids seem to have all been evolving large body sizes simultaneously (there is a marked
+increase in dicynodont body size starting in the Tropidostoma AZ and continuing through the Cistecephalus AZ;
+Angielczyk & Walsh 2008; Kammerer & Smith 2017) and
+this probably involved substantial parallelism, as reflected
+in the fact that all possible relationships between these
+subclades incur significant homoplasy. Another problem
+is the extreme instability of a number of dicynodont taxa
+that are clearly bidentalian but are not clearly referable to
+any of the three ‘core’ cryptodont families (or Dicynodontoidea). These taxa (e.g. Basilodon, Idelesaurus and
+Syops) are relatively poorly-studied and in several cases
+based on highly incomplete material; their inclusion in
+analyses adds further instability to an already weak section of the tree. Other taxa (e.g. Daqingshanodon, Keyseria) are so generalized that they provide essentially no
+tree structure in our analyses; they are usually recovered
+as the most basal cryptodonts when Cryptodontia is
+monophyletic (e.g. Kammerer et al. 2011), but they
+become wildcards when Cryptodontia is paraphyletic (e.g.
+in the analysis of Boos et al. (2016), they are recovered as
+dicynodontoids, whereas in Angielczyk et al. (in press)
+they are the most basal bidentalians). Finally, there are
+compositional problems even within the ‘core’ cryptodont
+families. Tropidostoma and Australobarbarus are extremely
+similar to Oudenodon (to the point where the former
+genus has at times been considered directly ancestral to
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+538
+
+the latter; see discussion in Botha & Angielczyk 2007);
+these taxa have been recovered in a monophyletic Oudenodontidae in all recent analyses of dicynodont phylogeny.
+However, Tropidostoma and Australobarbarus are unique
+among bidentalians in retaining ‘postcanine’ dentition,
+and combined with their early appearance in the fossil
+record (they may be the earliest known bidentalians,
+depending on whether the middle Permian Rastodon is a
+member of this clade) it is easy to develop suspicions that
+they represent an earlier-diverging, more ‘primitive’ lineage than the other cryptodonts and dicynodontoids. For
+example, in our current analyses Tropidostoma and Australobarbarus are reconstructed as having re-evolved maxillary ‘postcanines’ from a toothless ancestor, but this
+seems biologically unlikely (see above).
+The ‘elphids’ are composed of a set of small, poorlyknown bidentalian dicynodonts from Russia (Elph, Interpresosaurus) and Tanzania (Katumbia). Kurkin (2010)
+established ‘Elphinae’ as a subfamily of Dicynodontidae
+containing Elph and Interpresosaurus. In some phylogenetic analyses, Elph and Interpresosaurus form a clade with
+Katumbia (e.g. Boos et al. 2016; Kammerer & Smith
+2017) for which the family name Elphidae Kurkin, 2010
+would be available (by Principle of Coordination, Art.
+36.1 of the ICZN). However, just as frequently these taxa
+form a polytomy (e.g. Angielczyk 2007; Kammerer et al.
+2011) so we use ‘elphids’ here as an informal catchall
+term. Regardless of whether they form a clade or not, the
+‘elphids’ as a set tend to occupy two possible parts of
+dicynodont treespace: either as the most basal dicynodontoids or as basal bidentalians, outside of the Cryptodontia + Dicynodontoidea split. The position of these taxa
+has major implications for ancestral state reconstruction
+of both morphology and biogeography in Bidentalia.
+The ‘elphids’ have broadly Dicynodon-like cranial anatomy (e.g. narrow intertemporal bar, relatively low lateral
+dentary shelf, tall caniniform process), so if they are basal
+bidentalians this implies that ‘dicynodontoid-like’ features
+are ancestral for Bidentalia, and ‘cryptodont-like’ features
+are more likely to represent the synapomorphies of a
+monophyletic Cryptodontia. If they are basal dicynodontoids, however, these features resolve as synapomorphies
+for Dicynodontoidea, and the likelihood of a Tropidostoma-like animal representing the ancestral bidentalian
+morphotype increases. Regarding geography, a dicynodontoid placement for the ‘elphids’ tends to support a
+northern hemisphere origin for Dicynodontoidea (Angielczyk & Kurkin 2003a), which could help explain the
+lengthy ghost lineage of this clade in the Karoo Basin
+(Kammerer & Smith 2017). Our current analysis recovers
+‘elphids’ as basal bidentalians, a position supported primarily by their possession of bidentalian characters of the
+palate, basicranium and mandible, and the lack of ‘cryptodont’ characters such as a postcaniniform keel and
+
+539
+
+paired nasal bosses, which are reconstructed as ancestral
+for ‘higher’ bidentalians because of the paraphyly of
+Cryptodontia. When Cryptodontia is constrained to be
+monophyletic, the latter characters optimize differently on
+the tree (e.g. the postcaniniform keel is reconstructed as a
+cryptodont synapomorphy) and the ‘elphids’ are positioned at the base of Dicynodontoidea as a result.
+In addition to the previously known issues in anomodont phylogeny discussed above, the consensus topology in
+our unconstrained analysis also produced some novel positions for certain taxa. Among basal (i.e. non-dicynodont)
+anomodonts, both Patranomodon and the clade of Anomocephalus + Tiarajudens were recovered as chainosaurs (i.e.
+anomodonts more closely related to dicynodonts than
+venyukovioids). Previously, Anomocephalus + Tiarajudens
+(the Anomocephaloidea of Cisneros et al. 2011) were consistently recovered outside of the clade containing
+Venyukovioidea + Chainosauria (e.g. Cisneros et al. 2011,
+2015), making them the most basal anomodonts other
+than Biseridens. Patranomodon was recovered outside of
+Venyukovioidea + Chainosauria by Kammerer et al.
+(2011) and most subsequent analyses, but a basal chainosaur position for this taxon was previously recovered by
+Liu et al. (2010), Cisneros et al. (2011, 2015) and Fr€
+obisch
+& Reisz (2011). In terms of general skull morphology,
+Patranomodon is strikingly similar to the ‘dromasaurs’ (the
+grade of Karoo basal anomodonts consisting of Galechirus,
+Galeops and Galepus) and its basal position in published
+phylogenies was based mainly on its extremely plesiomorphic jaw morphology and postcranium (Rubidge & Hopson 1996). However, given demonstrable homoplasy in the
+jaw between the venyukovioids and dicynodonts (Angielczyk 2004) and poor understanding of postcranial anatomy
+in most non-‘dromasaur’ basal anomodonts, there is room
+for doubt. The new positions of the anomocephaloids and
+Patranomodon are intuitively pleasing from the standpoint
+of general skull anatomy: these taxa have relatively short,
+tall skulls (with enormously expanded caniniform teeth in
+Tiarajudens, although these are probably not homologous
+with dicynodont tusks), whereas venyukovioid cranial proportions are more similar to those of Biseridens and even
+dinocephalians. Less pleasing is Galepus (possibly the only
+late Permian ‘dromasaur’, although its exact strata of origin
+are debated; see Reisz & Modesto 2007) falling out as the
+most basal chainosaur, whereas previously this taxon consistently formed the sister-taxon of Galechirus (e.g. Kammerer et al. 2011; Boos et al. 2016).
+A variety of novel relationships are also recovered
+within Dicynodontoidea in the current analysis. Those
+pertaining to kannemeyeriiforms have been discussed in a
+separate paper (Angielczyk et al. in press) and are not
+repeated here. Relationships among the basal (i.e. nonTriassic) dicynodontoids have been extremely unstable
+since the earliest computer-assisted phylogenetic analyses
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+of dicynodonts (compare the topologies in Angielczyk &
+Kurkin 2003a, Angielczyk 2007, Kammerer et al. 2011
+and Kammerer & Smith 2017, for instance) so changes to
+prior topologies should not be given particular weight.
+What is worth noting, however, is that the fundamental
+structure of basal dicynodontoid topology varies greatly
+based on whether Cryptodontia is monophyletic. In the
+consensus topology of our primary analysis (with a paraphyletic Cryptodontia), dicynodontoids resolve into two
+major clades (Lystrosauridae, Kannemeyeriiformes) and
+the paraphyletic assemblage of most Permian dicynodontoids includes two subclades of four taxa each. When
+Cryptodontia is constrained to be monophyletic, however,
+the dicynodontoid portion of the tree becomes more
+pectinate, with the Permian dicynodontoids resolving as a
+grade outside of Lystrosauridae + Kannemeyeriiformes.
+This result highlights the degree to which instability in
+cryptodonts has serious downstream consequences for
+bidentalian phylogeny in general, and the importance of
+additional work on those taxa.
+
+Emydopoid disparity
+Compared to its sister taxon Bidentalia, Emydopoidea is
+not a particularly diverse clade in terms of species richness. In our phylogenetic analysis it includes 10 OTUs
+compared to the 63 OTUs of Bidentalia, and the addition of other putative emydopoids such as Cryptocynodon simus and the tusked cistecephalid from the
+Luangwa Basin briefly described by Angielczyk et al.
+(2014a) does little to offset this discrepancy. Despite
+their low species richness, emydopoids achieved an
+impressive level of morphological disparity (e.g. Ruta
+et al. 2013, but note that their disparity value for Emydopoidea also includes the pylaecephalids, which we
+recovered here as a separate clade). This is perhaps best
+shown by the cistecephalids. Although other dicynodonts
+were capable of burrowing (Smith 1987; Groenewald
+1991; Retallack et al. 2003; Bordy et al. 2011; but see
+Modesto & Botha-Brink 2010) cistecephalids adapted
+their skulls and postcranial skeletons for a specialized
+fossorial lifestyle to a degree unmatched by other dicynodonts (Cox 1972; Cluver 1974a, 1978; Nasterlack et al.
+2012; Laaß 2015). The postcranial skeleton of Dicynodontoides is also very distinctive, particularly the pelvis
+and hindlimb, which are extensively modified to accommodate a very upright limb posture (Cox 1959; King
+1985; Angielczyk et al. 2009).
+This morphological and functional disparity among
+emydopoids carries over into their feeding systems. Taxa
+such as Emydops, Myosaurus and Digalodon retain a relatively broad temporal bar with a wide central exposure of
+the parietals. This morphology is similar to that seen in
+
+the earliest dicynodonts, such as Eodicynodon oosthuizeni
+(e.g. Rubidge 1990) and is likely to indicate a similar
+arrangement of jaw muscles and comparable jaw function
+(Cluver 1974b). The temporal bar is further widened in
+the cistecephalids, such that the dorsal exposure of the
+temporal opening begins to be reduced, and Cluver
+(1974a) suggested that this might be indicative of an
+increased emphasis on transverse movements of the
+mandible in the clade. The skulls of the kingoriids Dicynodontoides and Kombuisia were modified in an opposite
+fashion, evolving a narrow, crest-like temporal bar in
+which the postorbitals extensively overlap the parietals.
+The morphology of Dicynodontoides is reminiscent of that
+seen in basal dicynodontoids, whereas that of Kombuisia
+is similar to the morphology in shansiodontid kannemeyeriiforms, with postorbitals that do not extend the full
+length of the temporal bar. This morphological convergence suggests a similarity in jaw function, but the analogy is not perfect. Dicynodontoides and Kombuisia retain
+ancestral emydopoid characters such as reduced anterior
+median palatal ridges, shovel-shaped dentary symphysis,
+absence of a posterior dentary sulcus, and prominent lateral dentary shelf, which are not seen in basal dicynodontoids or shansiodontids; this probably indicates that
+dietary differences existed between the clades. Compsodon
+helmoedi further expands the cranial disparity of Emydopoidea by converging on a skull shape similar to that
+of cryptodonts, particularly Oudenodon, Tropidostoma and
+Australobarbarus (Fig. 7). Not only is the construction of
+the temporal bar very similar, with broad, dorsolaterallyfacing postorbitals and a narrower midline exposure of
+the parietals, the overall shape and proportions of the
+skulls are quite similar as well. As with the kingoriid
+example, C. helmoedi differs from cryptodonts in the
+details of its secondary palate morphology, among other
+characters, but it represents a definite departure from the
+plesiomorphic emydopoid skull plan represented by Emydops.
+Given that Emydopoidea was clearly capable of generating morphological disparity, including both unique
+skull morphologies and morphologies that converge with
+those of other diverse anomodont clades, a puzzling question is why the clade was not able to produce a greater
+number of species. This pattern underscores the general
+decoupling of morphological disparity and species richness in Anomodontia described by Ruta et al. (2013).
+Acknowledgements. We thank J. Museba, K. Mwamulowe and C.
+Chipote (NHCC) for their assistance in obtaining our research
+and export permits, and in carrying out our fieldwork. N. Barbolini, C. Beightol, A. Goulding, J. Menke, S. Meyers, S. Nesbitt,
+B. Peecook, C. Sidor, R. Smith, J. S. Steyer, N. Tabor, S. Tolan,
+and R. Whatley also made numerous contributions to fieldwork
+in Zambia and subsequent research. Funding for fieldwork was
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+540
+
+provided by the National Geographic Committee for Exploration
+and Research (CRE 8571-08 to J. S. Steyer), the National Science
+Foundation (EAR-1337291 to KDA; EAR-1337569 to C. Sidor),
+and The Field Museum IDP Foundation, Inc. African Training
+and African Partners programs (to KDA). Research travel for
+CFK was supported by the Deutsche Forschungsgemeinschaft
+(KA 3144-1). A. Shinya, L. Herzog, and C. Van Beek prepared
+the specimens, and M. Donnelly drafted the drawings in Figures 1–3. J. Lungmus assisted with CT-scanning of NHCC LB14
+and LB631. J. Botha-Brink and E. Butler arranged the loan of
+NMQR 1460 to KDA. Comments from three anonymous referees improved the quality of the manuscript.
+
+DATA ARCHIVING STATEMENT
+Data for this study are available in the Dryad Digital Repository:
+https://doi.org/10.5061/dryad.fq3dq
+
+Editor. Andrew Smith
+
+REFERENCES
+A N G I E L C Z Y K , K. D. 2001. Preliminary phylogenetic analysis and stratigraphic congruence of the dicynodont anomodonts (Synapsida: Therapsida). Palaeontologia Africana, 37,
+53–79.
+- 2002a. Redescription, phylogenetic position, and stratigraphic significance of the dicynodont genus Odontocyclops
+(Synapsida: Anomodontia). Journal of Paleontology, 76, 1047–
+1059.
+-2002b. A character-based method for measuring the fit of a
+cladogram to the fossil record. Systematic Biology, 51, 176–
+191.
+-2004. Phylogenetic evidence for and implications of a dual
+origin of propaliny in anomodont therapsids. Paleobiology, 30,
+268–296.
+-2007. New specimens of the Tanzanian dicynodont “Cryptocynodon” parringtoni von Huene, 1942 (Therapsida,
+Anomodontia), with an expanded analysis of Permian dicynodont phylogeny. Journal of Vertebrate Paleontology, 27, 116–
+131.
+-and C O X , C. B. 2015. Distinctive emydopoid dicynodont
+(Therapsida, Anomodontia) mandibles form the Permian
+Ruhuhu and Usili formations (Songea Group), Ruhuhu Basin,
+Tanzania. Journal of Vertebrate Paleontology, 35, e1008699.
+-and K A M M E R E R , C. F. 2017. Data from: The morphology, phylogenetic position and biogeography of the upper Permian dicynodont Compsodon helmoedi van Hoepen
+(Therapsida, Anomodontia). Dryad Digital Repository.
+https://doi.org/10.5061/dryad.fq3dq
+-and K U R K I N , A. A. 2003a. Phylogenetic analysis of Russian Permian dicynodonts (Therapsida: Anomodontia): implications for Permian biostratigraphy and Pangaean
+biogeography. Zoological Journal of the Linnean Society, 139,
+157–212.
+
+541
+
+-2003b. Has the utility of Dicynodon for Upper Per-
+
+mian terrestrial biostratigraphy been overstated? Geology, 31,
+363–366.
+- and R U B I D G E , B. S. 2009. The Permian dicynodont
+Colobodectes cluveri (Therapsida, Anomodontia), with notes
+on its ontogeny and stratigraphic range in the Karoo Basin,
+South Africa. Journal of Vertebrate Paleontology, 29, 1162–
+1173.
+-2010. A new pylaecephalid dicynodont (Therapsida,
+Anomodontia) from the Tapinocephalus Assemblage Zone,
+Karoo Basin, Middle Permian of South Africa. Journal of Vertebrate Paleontology, 30, 1396–1409.
+-2013. Skeletal morphology, phylogenetic relationships
+and stratigraphic range of Eosimops newtoni Broom, 1921, a
+pylaecephalid dicynodont (Therapsida, Anomodontia) from
+the Middle Permian of South Africa. Journal of Systematic
+Palaeontology, 11, 191–231.
+-and S C H M I T Z , L. 2014. Nocturnality in synapsids predates the origin of mammals by over 100 million years. Proceedings of the Royal Society B, 281, 20141642.
+-and W A L S H , M. L. 2008. Patterns in the evolution of nares
+size and secondary palate length in anomodont therapsids
+(Synapsida): implications for hypoxia as a cause of end-Permian
+tetrapod extinctions. Journal of Paleontology, 82, 528–542.
+€ B I S C H , J. and S M I T H , R. M. H. 2005. On the
+-F R O
+stratigraphic range of the dicynodont taxon Emydops (Therapsida: Anomodontia) in the Karoo Basin, South Africa.
+Palaeontologia Africana, 41, 23–33.
+-S I D O R , C. A., N E S B I T T , S. J., S M I T H , R. M. H. and
+T S U J I , L. A. 2009. Taxonomic revision and new observation
+on the postcranial skeleton, biogeography, and biostratigraphy
+of the dicynodont genus Dicynodontoides, the senior subjective
+synonym of Kingoria (Therapsida, Anomodontia). Journal of
+Vertebrate Paleontology, 29, 1174–1187.
+- S T E Y E R , J.-S., S I D O R , C. A., S M I T H , R. M. H.,
+W H A T L E Y , R. L. and T O L A N , S. 2014a. Permian and
+Triassic dicynodont (Therapsida: Anomodontia) faunas of the
+Luangwa Basin, Zambia: taxonomic update and implications
+for dicynodont biogeography and biostratigraphy. 93–138. In
+K A M M E R E R , C. F., A N G I E L C Z Y K , K. D. and
+€ I S C H , J. (eds). Early evolutionary history of the SynapF R OB
+sida. Springer, 337 pp.
+- H U E R T A S , S., S M I T H , R. M. H., T A B O R , N. J.,
+S I D O R , C. A., S T E Y E R , J.-S., T S U J I , L. A. and G O S T L I N G , N. J. 2014b. New dicynodonts (Therapsida,
+Anomodontia) and updated tetrapod stratigraphy of the Permian Ruhuhu Formation (Songea Group, Ruhuhu Basin) of
+southern Tanzania. Journal of Vertebrate Paleontology, 34,
+1408–1426.
+-R U B I D G E , B. S., D A Y , M. O. and L I N , F. 2016. A reevaluation of Brachyprosopus broomi and Chelydontops altidentalis, dicynodonts (Therapsida, Anomodontia) from the
+Middle Permian Tapinocephalus Assemblage Zone of the
+Karoo Basin, South Africa. Journal of Vertebrate Paleontology,
+36, e1078342.
+-H A N C O X , P. J. and N A B A V I Z A D E H , A. in press. A
+re-description of the Triassic kannemeyeriiform dicynodont
+Sangusaurus (Therapsida, Anomodontia), with an analysis of
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+its feeding system. In S I D O R , C. A. and N E S B I T T , S. J.
+(eds). Vertebrate and climatic evolution in the Triassic rift
+basins of Tanzania and Zambia. Society of Vertebrate Paleontology Memoir, 17, Journal of Vertebrate Paleontology 37 (6,
+suppl.).
+€ B I S C H , J. 2014.
+A S C H E N B A C H , T., J A N S E N , M. and F R O
+The postcranial anatomy of the small Early Triassic dicynodont
+Myosaurus gracilis (Therapsida, Anomodontia). Society of Vertebrate Paleontology, Program & Abstracts, 2014, 82.
+B A R B O L I N I , N., B A M F O R D , M. K. and T O L A N , S.
+2016. Permo-Triassic palynology and palaeobontany of Zambia: a review. Palaeontologia Africana, 50, 18–30.
+B A R R Y , T. H. 1967. The cranial morphology of the PermoTriassic anomodont Pristerodon buffaloensis with special reference to the neural endocranium and visceral arch skeleton.
+Annals of the South African Museum, 50, 131–161.
+- 1968. Sound conduction in the fossil anomodont Lystrosaurus. Annals of the South African Museum, 50, 275–281.
+B O O N S T R A , L. D. 1938. A report on some Karroo reptiles
+from the Luangwa Valley, Northern Rhodesia. Quarterly Journal of the Geological Society of London, 94, 371–384.
+B O O S , A. D. S., S C H U L T Z , C. L., V E G A , C. S. and
+A U M O N D , J. J. 2013. On the presence of the Late Permian
+dicynodont Endothiodon in Brazil. Palaeontology, 56, 837–848.
+-K A M M E R E R , C. F., S C H U L T Z , C. L., S O A R E S , M.
+B. and I L H A , A. L. R. 2016. A new dicynodont (Therapsida;
+Anomodontia) from the Permian of southern Brazil and its
+implications for bidentalian origins. PLoS One, 11 (5),
+e0155000.
+ R U B I D G E , B. S. and
+B O R D Y , E. M., S Z T A N , O. O.,
+B U M B Y , A. 2011. Early Triassic vertebrate burrows from the
+Katberg Formation of the south-western Karoo Basin, South
+Africa. Lethaia, 44, 33–45.
+B O T H A , J. and A N G I E L C Z Y K , K. D. 2007. An integrative
+approach to distinguishing the Late Permian dicynodont species Oudenodon bainii and Tropidostoma microtrema (Therapsida: Anomodontia). Palaeontology, 50, 1175–1209.
+B R E M E R , K. 1988. The limits of amino acid sequence data in
+angiosperm phylogenetic reconstruction. Evolution, 42, 795–
+803.
+-1994. Branch support and tree stability. Cladistics, 10, 295–
+304.
+B R I N K , A. W. and K E Y S E R , A. W. 1983. Tropidostoma
+microtrema (Seeley, 1889). Illustrated bibliographic catalogue
+of the Synapsida. Geological Survey of South Africa Handbook,
+10, J212A231B1.
+B R O O M , R. 1905. On the structure and affinities of the
+endothiodont reptiles. Transactions of the South African Philosophical Society, 15, 259–282.
+C A M P , C. L. 1956. Triassic dicynodont reptiles. II. Triassic
+dicynodonts compared. Memoirs of the University of California,
+13, 305–341.
+ J O , R., C O S T A J U
+ NIOR,
+C A S T A N H I N H A , R., A R A U
+L., A N G I E L C Z Y K , K. D., M A R T I N S , G. G., M A R T I N S , R. M. S., C H A O U I Y A , C., B E C K M A N N , F. and
+W I L D E , F. 2013. Bringing dicynodonts back to life: paleobiology and anatomy of a new emydopoid genus from the
+Upper Permian of Mozambique. PLoS One, 8 (12), e80974.
+
+C I S N E R O S , J. C., A B D A L A , F., R U B D I G E , B. S.,
+D E N T Z I E N - D I A S , P. C. and D E O L I V E I R A B U E N O ,
+A. 2011. Dental occlusion in a 260-million-year-old therapsid
+with saber canines from the Permian of Brazil. Science, 331,
+1603–1605.
+-- J A S H A S H V I L I , T., D E O L I V E I R A B U E N O ,
+A. and D E N T Z I E N - D I A S , P. 2015. Tiarajudens eccentricus
+and Anomocephalus africanus, two bizarre anomodonts
+(Synapsida, Therapsida) with dental occlusion from the Permian of Gondwana. Royal Society Open Science, 2 (7), 150090.
+C L U V E R , M. A. 1971. The cranial morphology of the dicynodont genus Lystrosaurus. Annals of the South African
+Museum, 56, 155–274.
+- 1974a. The skull and mandible of a new cistecephalid
+dicynodont. Annals of the South African Museum, 66, 137–155.
+- 1974b. The cranial morphology of the Lower Triassic
+dicynodont Myosaurus gracilis. Annals of the South African
+Museum, 66, 35–54.
+-1978. The skeleton of the mammal-like reptile Cistecephalus
+with evidence for a fossorial mode of life. Annals of the South
+African Museum, 76, 213–246.
+-and H O T T O N , N. III 1981. The genera Dicynodon and
+Diictodon and their bearing on the classification of the Dicynodontia (Reptilia, Therapsida). Annals of the South African
+Museum, 83, 99–146.
+-and K I N G , G. M. 1983. A reassessment of the relationships of Permian Dicynodontia (Reptilia, Therapsida) and a
+new classification of dicynodonts. Annals of the South African
+Museum, 91, 195–273.
+C O X , C. B. 1959. On the anatomy of a new dicynodont genus
+with evidence of the position of the tympanum. Proceedings of
+the Zoological Society of London, 132, 321–367.
+-1972. A new digging dicynodont from the Upper Permian
+of Zambia. 173–189. In J O Y S E Y , K. A. and K E M P , T. S.
+(eds). Studies in vertebrate evolution. Oliver & Boyd, Edinburgh. 284 pp.
+- and A N G I E L C Z Y K , K. D. 2015. A new endothiodont
+dicynodont (Therapsida, Anomodontia) from the Permian
+Ruhuhu Formation (Songea Group) of Tanzania and its feeding system. Journal of Vertebrate Paleontology, 35, e935388.
+C R O M P T O N , A. W. and H O T T O N , N. III 1967. Functional
+morphology of the masticatory apparatus of two dicynodonts
+(Reptilia, Therapsida). Postilla, 109, 1–51.
+D A M I A N I , R., V A S C O N C E L O S , C., R E N A U T , A.,
+H A N C O X , J. and Y A T E S , A. 2007. Dolichuranus primaevus
+(Therapsida: Anomodontia) from the Middle Triassic of
+Namibia and its phylogenetic relationships. Palaeontology, 50,
+1531–1546.
+D R Y S D A L L , A. R. and K I T C H I N G , J. W. 1963. A re-examination of the Karroo succession and fossil localities of part of
+the upper Luangwa Valley. Geological Survey of Northern
+Rhodesia Memoir, 1, 1–62.
+E W E R , R. F. 1961. The anatomy of the anomodont Daptocephalus leoniceps (Owen). Proceedings of the Zoological Society
+of London, 136, 375–402.
+€ L L E R S J , M. O.,
+€ LIPF A R R I S , J. S., A L B E R T , V. A., K A
+S C O M B , D. and K L U G E , A. G. 1996. Parsimony jackknifing outperforms neighbor-joining. Cladistics, 12, 99–124.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+542
+
+F O U R I E , H. 1993. A detailed description of the internal structure of the skull of Emydops (Therapsida: Dicynodontia).
+Palaeontologia Africana, 30, 103–111.
+€ B I S C H , J. 2007. The cranial anatomy of Kombuisia frerenFRO
+sis Hotton (Synapsida, Dicynodontia) and a new phylogeny of
+anomodont therapsids. Zoological Journal of the Linnean Society, 150, 117–144.
+- 2009. Composition and similarity of global anomodontbearing tetrapod faunas. Earth-Science Reviews, 95, 119–157.
+- and R E I S Z , R. R. 2008. A new species of Emydops
+(Synapsida, Anomodontia) and a discussion of dental variability and pathology in dicynodonts. Journal of Vertebrate Paleontology, 28, 770–787.
+-2011. The postcranial anatomy of Suminia getmanovi
+(Synapsida: Anomodontia), the earliest known arboreal tetrapod. Zoological Journal of the Linnean Society, 162, 661–698.
+- A N G I E L C Z Y K , K. D. and S I D O R , C. A. 2010. The
+Triassic dicynodont Kombuisia (Synapsida, Anomodontia)
+from Antarctica, a refuge from the terrestrial Permian-Triassic
+mass extinction. Naturwissenschaften, 97, 187–196.
+€ L L E R S J , M. O.,
+€
+G O L O B O F F , P. A., F A R R I S , J. S., K A
+O X E L M A N , B., R A MI R E Z , M. J. and S Z U M I K , C. A.
+2003. Improvements to resampling measures of group support. Cladistics, 19, 324–332.
+-M A T T O N I , C. I. and Q U I N T E R O S , A. S. 2006. Continuous characters analyzed as such. Cladistics, 22, 589–601.
+- F A R R I S , J. S. and N I X O N , K. C. 2008. TNT, a free
+program for phylogenetic analysis. Cladistics, 24, 774–786.
+G R O E N E W A L D , G. H. 1991. Burrow casts from the Lystrosaurus-Procolophon Assemblage-zone, Karoo Sequence,
+South Africa. Koedoe, 34, 13–22.
+H A U G H T O N , S. H. and B R I N K , A. S. 1954. A bibliographic
+list of the Reptilia form the Karroo beds of Africa. Palaeontologia Africana, 2, 1–187.
+H O E P E N , E. C. N. VAN 1934. Oor die indeling van die
+Dicynodontoidae na aanleiding van nuwe vorme. Paleontologiese Navorsing van die Nasionale Museum, 2, 67–101.
+H O T T O N , N. III 1974. A new dicynodont from the Cynognathus zone deposits of South Africa. Annals of the South African Museum, 64, 157–166.
+K A M M E R E R , C. F. and A N G I E L C Z Y K , K. D. 2009. A proposed higher taxonomy of anomodont therapsids. Zootaxa,
+2018, 1–24.
+-and S M I T H , R. M. H. 2017. An early geikiid dicynodont
+from the Tropidostoma Assemblage Zone (late Permian) of
+South Africa. PeerJ, 5, e2913.
+€ B I S C H , J. 2011. A
+- A N G I E L C Z Y K , K. D. and F R O
+comprehensive taxonomic revision of Dicynodon (Therapsida,
+Anomodontia) and its implications for dicynodont phylogeny,
+biogeography, and biostratigraphy. Society of Vertebrate Paleontology Memoir, 11, 1–158.
+€ B I S C H , J. and A N G I E L C Z Y K , K. D. 2013. On
+-F R O
+the validity and phylogenetic position of Eubrachiosaurus
+browni, a kannemeyeriiform dicynodont (Anomodontia) from
+Triassic North America. PLoS One, 8 (5), e64203.
+€ B I S C H , J. 2015a.
+- A N G I E L C Z Y K , K. D. and F R O
+Redescription of Digalodon rubidgei, an emydopoid
+
+543
+
+dicynodont (Therapsida, Anomodontia) from the Late Permian of South Africa. Fossil Record, 18, 43–55.
+-2015b. Redescription of the geikiid Pelanomodon
+(Therapsida Dicynodontia), with a reconsideration of ‘Propelanomodon’. Journal of Vertebrate Paleontology, 36, e1030408.
+- B A N D Y O P A D H Y A Y , S. and R A Y , S. 2016. A new
+taxon of cistecephalid dicynodont from the Upper Permian
+Kundaram Formation of India. Papers in Palaeontology, 2,
+589–594.
+K E M P , T. S. 1969. The atlas-axis complex of the mammal-like
+reptiles. Journal of Zoology, 159, 223–248.
+K E Y S E R , A. W. 1973. A preliminary study of the type area of
+the Cistecephalus Zone of the Beaufort Series, and a revision
+of the anomodont family Cistecephalidae. Geological Survey of
+South Africa Memoir, 62, 1–71.
+- 1975. A reevaluation of the cranial morphology and systematics of some tuskless Anomodontia. Geological Survey of
+South Africa Memoir, 67, 1–110.
+- and C R U I C K S H A N K , A. R. I. 1979. The origins and
+classification of Triassic dicynodonts. Transactions of the Geological Society of South Africa, 82, 81–108.
+K I N G , G. M. 1981a. The functional anatomy of a Permian
+dicynodont. Philosophical Transactions of the Royal Society Series B, 291, 243–322.
+-1981b. The postcranial skeleton of Robertia broomiana, an
+early dicynodont (Reptilia, Therapsida) from the South African Karroo. Annals of the South African Museum, 84, 203–231.
+- 1985. The postcranial skeleton of Kingoria nowacki (von
+Huene) (Therapsida: Dicynodontia). Zoological Journal of the
+Linnean Society, 84, 263–289.
+-1988. Anomodontia. 1–174. In W E L L N H O F E R , P. (ed.)
+Handbuch der Pal€aoherpetologie, 17C. Gustav Fischer Verlag,
+Stuttgart, 174 pp.
+-1990. The dicynodonts: a study in palaeobiology. Chapman
+& Hall, 233 pp.
+- O E L O F S E N , B. W. and R U B I D G E , B. S. 1989. The
+evolution of the dicynodont feeding system. Zoological Journal
+of the Linnean Society, 96, 185–211.
+K I T C H I N G , J. W. 1977. The distribution of the Karroo vertebrate fauna. Bernard Price Institute for Palaeontological
+Research Memoir, 1, 1–131.
+K O P U C H I A N , C. and R A M I R E Z , M. J. 2010. Behaviour of
+resampling methods under different weighting schemes, measures and variable sampling strengths. Cladistics, 26, 86–97.
+K U R K I N , A. A. 1999. A new dicynodont from the Malaya Severnaya Dvina River excavations. Paleontological Journal, 33,
+297–301.
+- 2000. New dicynodonts from the Upper Permian of the
+Vyatka Basin. Paleontological Journal, 34, 53–59.
+- 2006. A new dicynodont (Anomodontia, Eotherapsida)
+from the Upper Permian of Tatarstan. Paleontological Journal,
+40, 81–84.
+-2010. Late Permian dicynodonts of Eastern Europe. Paleontological Journal, 44, 672–681.
+L A A ß , M. 2015. Bone-conduction hearing and seismic sensitivity of the late Permian anomodont Kawingasaurus fossilis.
+Journal of Morphology, 276, 121–143.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+PAPERS IN PALAEONTOLOGY, VOLUME 3
+
+-2016. The origins of the cochlea and impedance matching
+
+hearing in synapsids. Acta Palaeontologia Polonica, 61, 267–
+280.
+L I U , J., R U B I D G E , B. S. and L I , J. 2010. A new specimen of
+Biseridens qilianicus indicates its phylogenetic position as the
+most basal anomodont. Proceedings of the Royal Society B, 277,
+285–292.
+M A I S C H , M. W. 2003. Lower jaw morphology and jaw adductor musculature of the giant Permian dicynodont Rhachiocephalus Seeley, 1898 (Therapsida) from the Late Permian of
+Tanzania. Geologica et Palaeontologica, 37, 89–106.
+M O D E S T O , S. P. and B O T H A - B R I N K , J. 2010. A burrow
+cast with Lystrosaurus skeletal remains from the Lower Triassic
+of South Africa. Palaios, 25, 274–281.
+-R U B I D G E , B. S. and W E L M A N , J. 2002. A new dicynodont therapsid from the lowermost Beaufort Group, Upper
+Permian of South Africa. Canadian Journal of Earth Sciences,
+39, 1755–1765.
+M U E L L E R , L. D. and A Y A L A , F. J. 1982. Estimation and
+interpretation of genetic distance in empirical studies. Genetical Research, 40, 127–137.
+N A S T E R L A C K , T., C A N O V I L L E , A. and C H I N S A M Y ,
+A. 2012. New insights into the biology of the Permian genus
+Cistecephalus (Therapsida, Dicynodontia). Journal of Vertebrate
+Paleontology, 32, 1396–1410.
+€ B I S C H , J. 2014.
+N E H L S , M., K A M M E R E R , C. and F R O
+CT reconstruction and systematic position of the enigmatic
+dicynodont Prodicynodon beaufortensis. Society of Vertebrate
+Paleontology, Program & Abstracts, 2014, 194.
+O L R O Y D , S. L., S I D O R , C. A. and A N G I E L C Z Y K , K. D.
+in press. New materials of the enigmatic dicynodont Abajudon
+kaayai (Therapsida, Anomodontia) from the lower Madumabisa Mudstone Formation, middle Permian of Zambia. Journal of Vertebrate Paleontology.
+O L S O N , E. C. 1944. Origin of mammals based upon cranial
+morphology of the therapsid suborders. Geological Society of
+America Special Papers, 55, 1–136.
+O W E N , R. 1860. On the orders of fossil and Recent Reptilia, and
+their distribution in time. Report of the 29th Meeting of the British Association for the Advancement of Science (1859), 153–166.
+-1876. Descriptive and illustrative catalogue of the fossil reptilia of South Africa in the collection of the British Museum.
+Taylor & Francis, London, xii + 88 pp, 70 pls.
+R A Y , S. and C H I N S A M Y , A. 2003. Functional aspects of
+the postcranial anatomy of the Permian dicynodont Diictodon and their ecological implications. Palaeontology, 46,
+151–183.
+R E I S Z , R. R. and M O D E S T O , S. P. 2007. Heleosaurus
+scholtzi from the Permian of South Africa: a varanopid synapsid, not a diapsid reptile. Journal of Vertebrate Paleontology,
+27, 734–739.
+-B H A S I N , M. and L E B L A N C , A. R. H. 2015. Was the
+oldest sexually dimorphic armament of the synapsid Diictodon
+feliceps a tusk or a tooth? Comparative dental histology provides the answer. Abstracts, Program, Schedule of Events, 3rd
+Annual Meeting, 2015, Canadian Society of Vertebrate Paleontology, 36.
+
+R E T A L L A C K , G. J., S M I T H , R. M. H. and W A R D , P. D.
+2003. Vertebrate extinction across the Permian–Triassic
+boundary in Karoo Basin, South Africa. Geological Society of
+America Bulletin, 115, 1133–1152.
+R U B I D G E , B. S. 1990. Redescription of the cranial morphology of Eodicynodon oosthuizeni (Therapsida: Dicynodontia).
+Navorsinge van die Nasionale Museum Bloemfontein, 7, 1–25.
+-and H O P S O N , J. A. 1996. A primitive anomodont therapsid from the base of the Beaufort Group (Upper Permian)
+of South Africa. Zoological Journal of the Linnean Society, 117,
+115–139.
+- D A Y , M. O., B A R B O L I N I , N., H A N C O X , P. J.,
+C H O I N I E R E , J. N., B A M F O R D , M. K., V I G L I E T T I , P.
+A., M c P H E E , B. W. and J I R A H , S. 2016. Advances in nonmarine Karoo biostratigraphy: significance for understanding
+basin development. 141–149. In L I N O L , B. and D E W I T ,
+M. J. (eds). Origin and evolution of the Cape Mountains and
+Karoo Basin. Springer, 193 pp.
+€ B I S C H , J. and
+R U T A , M., A N G I E L C Z Y K , K. D., F R O
+B E N T O N , M. J. 2013. Decoupling of morphological disparity and taxic diveristy during the adaptive radiation of
+anomodont therapsids. Proceedings of the Royal Society B, 280,
+20131071.
+S E E L E Y , H. G. 1892. Researches on the structure, organization, and classification of the fossil Reptilia. VII. Further
+observations on Pareiasaurus. Philosophical Transactions of the
+Royal Society of London B, 183, 311–370.
+-1894. Researches on the structure, organisation, and classification of the fossil Reptilia.—Part IX., Section 1. On the
+Therosuchia. Philosophical Transactions of the Royal Society of
+London, B, 185, 987–1018.
+-1898. On Oudenodon (Aulacocephalus) pithecops from the
+Dicynodon beds of East London, Cape Colony. Geological
+Magazine, 5, 107–110.
+S I D O R , C. A., A N G I E L C Z Y K , K. D., W E I D E , D. M.,
+S M I T H , R. M. H., N E S B I T T , S. J. and T S U J I , L. A.
+2010. Tetrapod fauna of the lowermost Usili Formation (Songea Group, Ruhuhu Basin) of southern Tanzania, with a new
+burnetiid record. Journal of Vertebrate Paleontology, 30, 696–
+703.
+S I M M O N S , M. P. and F R E U D E N S T E I N , J. V. 2011. Spurious 99% bootstrap and jackknife support for unsupported
+clades. Molecular Phylogenetics & Evolution, 61, 177–191.
+S M I T H , R. M. H. 1987. Helical burrow casts of therapsid
+origin from the Beaufort Group (Permian) of South Africa.
+Palaeogeography, Palaeoclimatology, Palaeoecology, 60, 155–
+169.
+-and K E Y S E R , A. W. 1995. Biostratigraphy of the Cistecephalus Assemblage Zone. 23–28. In R U B I D G E , B. S. (ed.)
+Biostratigraphy of the Beaufort Group (Karoo Supergroup).
+South African Committee for Stratigraphy Biostratigraphic
+Series, 1, 46 pp.
+-R U B I D G E , B. and V A N D E R W A L T , M. 2012. Therapsid biodiversity patterns and paleoenvironments of the Karoo
+Basin, South Africa. 30–62. In C H I N S A M Y - T U R A N , A.
+(ed.) Forerunners of mammals: radiation, histology, biology.
+Indiana University Press, 330 pp.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+544
+
+S T R O N G , E. E. and L I P S C O M B , D. 2000. Character coding
+and inapplicable data. Cladistics, 15, 363–371.
+S U L L I V A N , C. and R E I S Z , R. R. 2005. Cranial anatomy and
+taxonomy of the late Permian dicynodont Diictodon. Annals of
+Carnegie Museum, 74, 45–75.
+T O E R I E N , M. J. 1953. The evolution of the palate in South
+African Anomodontia and its classificatory significance.
+Palaeontologia Africana, 1, 49–117.
+-1954. Note on the systematic position of Compsodon, Van H.
+Navorsinge van die Nasionale Museum Bloemfontein, 1, 131–132.
+V I G L I E T T I , P. A., S M I T H , R. M. H., A N G I E L C Z Y K , K.
+€ B I S C H , J. and R U B I D G E ,
+D., K A M M E R E R , C. F., F R O
+B. S. 2016. The Daptocephalus Assemblage Zone (Lopingian),
+South Africa: a proposed biostratigraphy based on a new
+
+545
+
+compilation of stratigraphic ranges. Journal of African Earth
+Sciences, 113, 153–164.
+W A T S O N , D. M. S. 1914. The zones of the Beaufort Beds of
+the Karroo System in South Africa. Geological Magazine, New
+Series, Decade 6, 1, 203–208.
+-1948. Dicynodon and its allies. Proceedings of the Zoological
+Society of London, 118, 823–877.
+W A L T , M. VAN DER, D A Y , M., R U B I D G E , B.,
+C O O P E R , A. K. and N E T T E R B E R G , I. 2010. GIS-based
+biozone map of the Beaufort Group (Karoo Supergroup),
+South Africa. Palaeontologia Africana, 45, 1–5.
+Z H U , Y. 1989. The discovery of dicynodonts in Daqingshan
+Mountain, Nei Mongol (Inner Mongolia). Vertebrata PalAsiatica, 27, 9–27.
+
+20562802, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/spp2.1087 by Georgia Institute Of Technology, Wiley Online Library on [05/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ANGIELCZYK & KAMMERER: REDESCRIPTION OF COMPSODON
+
+

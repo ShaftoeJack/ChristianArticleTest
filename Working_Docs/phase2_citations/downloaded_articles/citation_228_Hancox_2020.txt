@@ -1,0 +1,1723 @@
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Biostratigraphy of the Cynognathus Assemblage
+Zone (Beaufort Group, Karoo Supergroup),
+South Africa
+P.J. Hancox
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg 2050, South Africa
+e-mail: jhancox@cciconline.com
+J. Neveling
+Council for Geoscience, 280 Pretoria Street, Silverton, Pretoria, South Africa
+e-mail: jneveling@geoscience.org.za
+B.S. Rubidge
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg 2050, South Africa
+e-mail: bruce.rubidge@wits.ac.za
+© 2020 Geological Society of South Africa. All rights reserved.
+
+Abstract
+The Cynognathus Assemblage Zone is the youngest tetrapod biozone of the Beaufort Group (Tarkastad Subgroup,
+Karoo Supergroup). It is situated between the underlying Lystrosaurus declivis Assemblage Zone and the base of the
+overlying Molteno Formation (Stormberg Group) and corresponds to the entire Burgersdorp Formation. It is
+characterised by the presence throughout of the cynodont genus Cynognathus. The biozone reaches a maximum
+thickness of around 650 m in the southeast part of the basin and thins dramatically to the north, where it is only a
+maximum of 50 m thick. We here propose a three-fold subdivision into a lower Langbergia-Garjainia Subzone, a
+middle Trirachodon-Kannemeyeria Subzone and an upper Cricodon-Ufudocyclops Subzone. The basal contact is
+deﬁned biostratigraphically by the ﬁrst appearance of Cynognathus crateronotus and Langbergia modisei. The
+Cynognathus Assemblage Zone lacks a deﬁned biostratigraphic upper limit, being unconformably terminated by
+the base of the overlying Molteno Formation, which lacks a terrestrial vertebrate fossil record other than trackways.
+Name
+The Cynognathus Assemblage Zone.
+
+Stratigraphic position
+Biostratigraphic position
+
+Proposer of name
+The Cynognathus Zone was erected by Broom (1906a) and
+corresponds to Seeley’s (1892) Zone of specialised theriodonts.
+Broom’s (1906a) Cynognathus Zone nomenclature was accepted
+by Kitching (1970, 1972, 1977). Kitching (1995) ﬁrst used the
+term Cynognathus Assemblage Zone.
+
+This assemblage zone overlies the Lystrosaurus Assemblage
+Zone.
+Lithostratigraphic position
+The Cynognathus Assemblage Zone is coincident with the
+Burgersdorp Formation.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY 2020 • VOLUME 123.2 PAGE 217-238 • doi:10.25131/ sajg .123.0016
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+217
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Derivation of name
+The Cynognathus Assemblage Zone is named after the cynodont
+genus Cynognathus (Figure 1). This genus is relatively common,
+especially in the middle part of its stratigraphic range, and is
+distinctive, even in the ﬁeld. In South Africa it is represented by a
+single species, C. crateronotus (Seeley, 1895a, b; Wynd et al., 2018).
+Historical background
+Based on his trip to South Africa in 1889 the Cynognathus
+Assemblage Zone was ﬁrst recognised by Harry Govier Seeley
+in 1892 as the Zone of specialised theriodonts (Seeley,
+1892). Broom (1906a, 1907, 1909a) formulated a more precise
+biostratigraphic division of the fossiliferous horizons of the
+Beaufort Group and in his scheme Seeley’s Zone of specialised
+theriodonts was renamed the Cynognathus Zone, and this was
+accepted by Kitching (1970, 1972, 1977).
+Keyser and Smith (1978) introduced the terminology
+Kannemeyeria Assemblage Zone to replace the Cynognathus
+Zone. The dicynodont Kannemeyeria was preferred over
+Cynognathus as the zone’s index fossil as the authors believed
+that Cynognathus was rare, and that it was impossible to
+accurately establish its biostratigraphic range. They furthermore
+argued that Kannemeyeria specimens were larger, more
+abundant and more easily recognisable in the ﬁeld. Using a
+dicynodont genus was also in line with the practice for the
+biozonation of the rest of the Beaufort Group at that time. They
+did, however, note that complete skulls of Kannemeyeria were
+not common. The Kannemeyeria Assemblage Zone was reﬁned
+to the Kannemeyeria-Diademodon Assemblage Zone by Keyser
+(1979) and this nomenclature was formally accepted by the
+South African Committee for Stratigraphy (SACS, 1980).
+Kitching (1984) reassessed the biozonation of the Beaufort
+Group as accepted by the South African Committee For
+Stratigraphy (SACS, 1980) and proposed the name CynognathusDiademodon Assemblage Zone for the KannemeyeriaDiademodon Assemblage Zone of SACS (1980). His reinstatement of Cynognathus as the zone’s index fossil was based
+on his belief that the genus occurred throughout the biozone,
+and that it was abundant in collections worldwide. Diademodon
+was preferred over Kannemeyeria as an associated index
+fossil because it was the most abundant genus in the
+biozone (Kitching, 1977). To bring this biozone in line with
+internationally recognised nomenclature, Kitching (1995) reassigned the assemblage zone to the historically important genus
+Cynognathus, creating the Cynognathus Assemblage Zone.
+Early workers who collected in the Cynognathus Assemblage
+Zone included Thomas Bain, Alfred (Gogga) Brown and Daniel
+Kannemeyer. Published accounts of their discoveries are given
+in Seeley (1888, 1889, 1892, 1894, 1895a and b, 1904, 1907, 1908a
+and b) and Broom (1903, 1905, 1906a, b, c and d, 1913a and b).
+Brown in particular made an enormous contribution to the
+knowledge of the fauna and ﬂora of the biozone, and his
+collecting trips and localities are recorded in his twenty-one
+volume unpublished journal. He is credited with numerous
+discoveries including the amphibian Batrachosuhus browni
+
+218
+
+(Broom, 1903), the captorhinid (parareptile) Thelegnathus browni
+(Broom, 1905), the archosauriform Erythrosuchus africanus
+(Broom 1906b), the enigmatic Palacrodon browni (Broom,
+1906c), the rhynchosaurs Howesia browni (Broom, 1905, 1906d)
+and Mesosuchus browni (Watson, 1912), as well as numerous ﬁsh
+(Broom, 1909b) and plant fossils (Anderson and Anderson, 1985).
+In his later life Brown employed Albert William Higgins to collect
+for him, to whom is credited the discovery of the archosauriform
+Euparkeria capensis (Broom, 1913a and b; Ewer, 1965).
+In 1889 Bain introduced Seeley to Brown and Kannemeyer.
+Kannemeyer, a medical doctor who lived in Burgersdorp, is
+remembered for the numerous skulls of Kannemeyeria
+(Weithofer, 1888) he collected from this area. From his trip
+to South Africa and the meeting with Kannemeyer and
+Brown, Seeley (1904, 1907, 1908a and b) described a number
+of Cynognathus Assemblage Zone vertebrate taxa.
+Watson (1942) was the ﬁrst to suggest a possible subdivision
+of the Cynognathus Assemblage Zone, based on the
+biostratigraphic ranges of Kannemeyeria and Erythrosuchus as
+they were then understood. He subdivided the zone into a lower
+zone (A), in which Kannemeyeria and Erythrosuchus occurred
+together, and an upper zone (B), in which Kannemeyeria
+was absent and Erythrosuchus was extremely rare. This
+biostratigraphic range for Kannemeyeria was corroborated by
+Kitching (1977) and Cooper (1982), but refuted by Keyser and
+Smith (1978) who believed that Kannemeyeria occurred
+throughout the biozone. Cooper (1982) felt that Kannemeyeria
+was restricted to the lower half of the Burgersdorp Formation,
+and further suggested that the upper part of the Cynognathus
+Assemblage Zone, above the biostratigraphic range of
+Kannemeyeria, would eventually yield an advanced fauna,
+equivalent to his Tetragonias Zone fauna. He also considered
+the cynodont genera Cynognathus and Diademodon to occur
+throughout the range of the Cynognathus Assemblage Zone. It
+should be noted that these trends were for the Cynognathus
+Assemblage Zone as known at the time, and before the
+recognition of the lowermost and uppermost subzone faunas
+(Kitching, 1977; Keyser and Smith, 1978; Cooper, 1982).
+The early studies of the Cynognathus Assemblage Zone
+were limited to the Eastern Cape, southeastern Free State and
+Lesotho (Watson, 1914; Kitching, 1963; Smith, 1990) and prior
+to the 1990s these were the only areas in which the biozone
+was believed to occur. Kitching (1977, p.26) in fact explicitly
+states that “although the Beaufort beds have been carefully
+examined in a number of areas in the Wepener, Thaba Nchu,
+Ladybrand, Senekal, Bethlehem and Harrismith districts for the
+purpose of determining the extent of the Cynognathus Zone
+northwards in the Orange Free State, no fossil reptiles or
+sediments were found that could be assigned to the zone. At
+present it seems that there was no continuous deposition of the
+Cynognathus Zone to the north of Wepener”.
+Du Toit (1918) was the ﬁrst to consider the uppermost
+sedimentary rocks of the Tarkastad Subgroup in the northeastern
+Free State to be a continuation of part of the Burgersdorp
+Formation in the southern Karoo Basin. This idea was expanded
+by Van Eeden (1937), who believed the Burgersdorp Formation
+to be present in the vicinity of Bethlehem and Kestell in
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Figure 1. Illustration of the index taxon of the Cynognathus Assemblage Zone, Cynognathus crateronotus, in lateral and dorsal views.
+
+the north of the basin. Groenewald (1984, 1989, 1990, 1996)
+accepted du Toit’s claims, but argued that there was sufﬁcient
+lithological difference between the deposits in the south and
+north of the basin to warrant separate formational distinction,
+and proposed the name Driekoppen Formation for the northern
+equivalents of the Burgersdorp Formation. Only the Burgersdorp
+Formation is however currently formally accepted (SACS, 1980;
+Johnson and Hiller, 1990), and the northern sequence is now
+considered sufﬁciently similar to the Burgersdorp Formation in
+the south to warrant its inclusion as a northern, distal facies
+(Hancox, 1998; Neveling, 2004).
+Welman et al. (1991) provided what they believed to be the
+ﬁrst palaeontological evidence to corroborate the proposed
+time equivalency of the southern and northern Burgersdorp
+Formation exposures, when they reported the presence of
+Cynognathus Assemblage Zone fossils from the northeastern
+and northwestern Free State. Their faunal list for the northern
+Burgersdorp Formation sites included the capitosaurid
+temnospondyl Parotosuchus, the archosaur Erythrosuchus,
+the cynodonts Cynognathus and Trirachodon, and the
+therocephalian Bauria, and they concluded that this represented
+a typical Cynognathus Assemblage Zone fauna. Re-assessment
+of this material has however shown that the archosaur material
+is assignable to the erythrosuchid Garjainia (Gower et al., 2014)
+and that the temnospondyl material assigned by Welman et al.
+(1991) to Parotosuchus is in fact Kestrosaurus (Shishkin et al.,
+2004), the most common faunal element of the northern
+Cynognathus Assemblage Zone exposures. Abdala et al. (2006)
+further re-assigned the material assigned to Trirachodon to a
+new genus Langbergia. Unfortunately, the material assigned to
+Bauria, which was described by King (1996), was not included
+
+in the Abdala et al. (2014) re-assessment of the taxonomy of
+the South African Bauriidae, but it is likely that this material
+is actually assignable to Microgomphodon.
+Subsequent to the work of Welman et al. (1991) the northern
+Burgersdorp Formation exposures have been the focus of
+additional sedimentological and stratigraphic studies by Azzie
+(1994), Hancox et al. (1995), Hancox (1998, 2000), Groenewald
+et al. (2001) and Neveling (2002). Accounts of new fossil material
+include those of Shishkin and Welman (1994), King (1996),
+Damiani (1999, 2001a), Gow (1999), Groenewald et al. (2001),
+Damiani and Jeannot (2002), Bender and Hancox (2003, 2004),
+Shishkin et al. (2004), Abdala et al. (2007), Yates et al. (2012),
+Gaetano et al. (2012), Gower et al. (2014) and Jenkins (2018).
+In the early 1990s collecting in the southernmost reaches of
+the Burgersdorp Formation began to show that a new, distinct
+fauna was present in the uppermost part of the Formation as
+well (Hancox and Rubidge, 1994). Material from this level has
+subsequently been described by Hancox and Rubidge (1996),
+Hancox (1998), Hancox et al. (2000), Hancox et al. (2013) and
+Kammerer et al. (2019).
+Based on the new collecting in the Burgersdorp Formation
+in the north and south of the basin, Hancox et al. (1995)
+published a brief paper proposing an informal threefold
+subdivision of the Cynognathus Assemblage Zone based on
+the spatial and temporal distribution of mastodonsaurid
+temnospondyls and associated vertebrates. The original ideas
+behind this subdivision grew out of the description of a northern
+Cynognathus Assemblage Zone fauna by Welman et al. (1991),
+and the early ﬁndings of Hancox and Rubidge (1994) and
+Shishkin et al. (1995). This tripartite subdivision has found
+widespread acceptance in the literature (e.g. Hopson and
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+219
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Kitching, 2001; Rubidge 2005; Abdala and Smith 2009; Fröbisch
+2009; Martinelli et al., 2009; Abdala and Ribeiro, 2010; Nesbitt et al.,
+2013; Peecook et al., 2013; Angielczyk et al., 2014; Sidor et al.
+2014a and b; Rubidge et al., 2016, Wynd et al., 2018; Hendrickx
+et al., 2019) and whilst various authors have utilised the informal
+subdivision in their correlations, no formal subdivision of the
+Cynognathus Assemblage Zone has been published.
+Field-based research and taxonomic revisions of various
+South African fauna over the past two decades has vastly
+increased understanding of the rocks and fossils of the
+Burgersdorp Formation, to the extent that a formal
+biostratigraphic subdivision of the Cynognathus Assemblage
+Zone is now possible. The fauna of the redeﬁned Cynognathus
+Assemblage Zone represents the later stages of recovery from
+the end-Permian mass extinction in the main Karoo Basin
+(Roopnarine et al. 2018).
+
+Palaeontology
+Description of the Assemblage Zone
+An assemblage zone characterised by the occurrence of
+the cynodont genus Cynognathus. The Cynognathus Assemblage
+Zone is here subdivided into three subzones, a lower LangbergiaGarjainia Subzone, a middle Trirachodon-Kannemeyeria Subzone
+(equivalent to the entire Cynognathus Assemblage Zone
+as described by Kitching, 1995) and an upper CricodonUfudocyclops Subzone (Figure 2).
+The list of fossil taxa is derived from reliably identiﬁed
+specimens. Taxonomic and stratigraphic information is derived
+from work by the authors and from the following sources:
+Hutchinson (1973, 1975, 1978), Jubb and Gardiner (1975),
+Grifﬁth (1978), and Bender and Hancox (2003, 2004) for the
+actinopterygians; Dufﬁn (2001) for the chondrichthyans;
+Shishkin and Welman (1994), Warren (1998), Damiani (1999,
+
+Figure 2. Distribution of the Cynognathus Assemblage Zone (brown) in the Beaufort Group, (yellow) showing the distribution of the Langbergia-Garjainia
+Subzone (white dotted), Trirachodon-Kannemeyeria Subzone (not dotted) and the Cricodon-Ufudocyclops Subzone (black dotted). Positions of type
+localities for the Langbergia-Garjainia Subzone (empty square); Trirachodon-Kannemeyeria Subzone (solid black square), and Cricodon-Ufudocyclops
+Subzone (crossed square) are indicated. Stratotype section is at Nonesis Nek Pass (see Figure 7).
+
+220
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+2001a, b), Damiani and Jeannot (2002), Morales and Shishkin
+(2002), Damiani and Rubidge (2003), Damiani and Hancox
+(2003), Damiani and Kitching (2003), Damiani (2004a,b),
+Shishkin et al. (2004) and Damiani (2008) for the
+temnospondyls; Gow (1999) and Jenkins (2018) for Palacrodon;
+Dilkes (1995, 1998) and Butler et al. (2015) for the rhynchosaurs;
+Gower (2003) and Gower et al. (2014) for the erythrosuchids;
+Abdala et al. (2014) for the bauriids; Renaut (2000), Hancox et al.
+(2013) and Kammerer et al. (2019) for the dicynodonts; and
+Seeley (1895a), Grine et al. (1979), Bradu and Grine (1979),
+Abdala et al. (2005, 2006), Sidor and Hopson (2018) and
+Hendrickx et al. (2019) for the cynodonts. Plant taxa are from
+Anderson and Anderson (1985) and fossil wood from Bamford
+(1999, 2004).
+Langbergia-Garjainia Subzone
+Proposer of name
+This subzone is proposed for the ﬁrst time in this work.
+Stratigraphic position
+Biostratigraphic position
+The Langbergia-Garjainia Subzone occurs above the
+Lystrosaurus declivis Assemblage Zone and underlies the
+Trirachodon-Kannemeyeria Subzone of the Cynognathus
+Assemblage Zone.
+Lithostratigraphic position
+Occupies the lowermost part of the Burgersdorp Formation,
+which is roughly 100 m in the thickest part of the section.
+Derivation of name
+The name is derived from the distinctive and fairly common
+trirachodontid cynodont Langbergia modisei and the mediumsized erythrosuchid archosauriform Garjainia madiba, which
+co-occur only in the rocks of this subzone (Figure 3).
+Historical background
+The interpretation advanced by du Toit (1918) and Van Eeden
+(1937) on the lateral extent of the Burgersdorp Formation long
+implied the presence of the Cynognathus Assemblage Zone as
+far north as the towns of Bethlehem and Kestell in the northern
+Free State. Yet it was not until Welman et al. (1991) reported
+fossils assignable to this biozone from the northeastern
+and northwestern Free State Province that there was any
+palaeontological evidence to corroborate the northward
+extension of the Cynognathus Assemblage Zone.
+Hancox et al. (1995) and Shishkin et al. (1995) pointed out
+that the fossil fauna recovered from the northern Free State
+Province was dominated by the capitosauroid temnospondyl
+Kestrosaurus, and utilised this genus as the basis for a lower
+subdivision of the Cynognathus Assemblage Zone. Neveling
+(2002, 2004) and Neveling et al. (2005) demonstrated the
+
+southern limit of this fauna could be extended as far as the towns
+of Tarkastad and Queenstown. This new biozone was previously
+referred to as the “lower zone”, “lowermost subzone” (Hancox
+et al., 1995; Shishkin et al., 1995),”subzone A fauna” (Hancox
+and Rubidge 1997; Hancox 1998), the “Kestrosaurus grouping”
+(Shishkin 2000), the “Kestrosaurus Assemblage Zone” (Neveling
+2002, 2004) and Cynognathus A biozone (Rubidge, 2005).
+Palaeontology
+Description of subzone
+A concurrent range zone characterised by the presence of
+the cynodonts Langbergia modisei and the erythrosuchid
+archosauriform Garjainia madiba. To date no dicynodonts are
+known from the subzone, making this the only stratigraphic
+interval in the Beaufort Group lacking dicynodont fossils. No
+fossil wood has been collected to date and the only direct
+evidence of plant fossils is a single small sphenophyte cast
+(Hancox, 1998).
+Taphonomic notes on fossil occurrences
+The overwhelming majority (>95%) of fossils assigned to this
+subzone has been recovered from the north-western exposures
+of the Burgersdorp Formation, between the towns of Senekal
+and Bethlehem. Here vertebrate material has been collected
+from dark reddish brown (10R 3/4) horizontally laminated to
+massive, lacustrine mudstones and siltstones, light grey (5Y 7/1),
+ﬁne to medium-grained channel sandstones and their associated
+intraformational lag conglomerates, and in dark reddish-brown
+(10R 3/4) overbank mudstones and siltstones, and intercalated
+thin (>1 m) sandstones. The most common taphonomic mode
+in the lower lacustrine mudstones and siltstones is as wellpreserved, complete, though totally disarticulated elements.
+Isolated elements may also be recovered from channel
+sandstones. A rich (in terms of both number and diversity)
+microfauna has been collected from the intraformational lag
+conglomerates, with almost all of the fossil material being
+fragmentary. Bone elements tend to be incomplete, being
+represented by the most robust bones such as mandibular
+remains, isolated teeth, amphibian post glenoid areas, pterygoids
+and tabulars, and various long bone heads, phalanges and
+vertebrae. Coprolites are extremely abundant.
+Bone is rare in the overbank deposits of the uppermost
+Burgersdorp Formation of the distal sector, but includes
+amphibian, archosauriform, procolophonid and cynodont
+material. Most of the fossils from this sequence occur as
+isolated, disarticulated specimens with thick haematitic coatings.
+In places, cracks in the fossil material are ﬁlled with calcite.
+A similar taphonomic signature is exhibited by fossil material
+collected from the lowermost Burgersdorp Formation in the
+southern Free State and Eastern Cape provinces.
+List of fossils
+See Figure 4 for ranges of the vertebrate genera.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+221
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Figure 3. Illustration of the index taxa of the Langbergia-Garjainia Subzone in dorsal and lateral view. (top) Langbergia modisei (bottom)
+Garjainia prima.
+
+222
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Figure 4. Stratigraphic ranges of vertebrate taxa occurring in the Langbergia-Garjainia Subzone. Lithology of grey interval of stratigraphic section is
+uncertain due to poor outcrop.
+
+Vertebrates
+Pisces
+
+Amphibia
+
+Amniota
+Parareptilia
+Eureptilia
+Archosauriformes
+Synapsida
+Therapsida
+Therocephalia
+Cynodontia
+Trace fossils
+Vertebrate
+Invertebrate
+
+Coprolites
+
+Lissodus tumidoclavus
+Polyacrodus sp.
+Ptychoceratodus phillipsi
+Saurichthys sp.
+Bathignathus poikilops
+Kestrosaurus dreyeri
+Kestrosaurus kitchingi
+Parotosuchus haughtoni
+Trematosuchus sobeyi
+
+Geological description
+Thickness
+The Langbergia-Garjainia Subzone reaches a maximum
+thickness of 100 m between Aliwal North and Thaba Nchu
+(Rutherford, 2009, Rutherford et al., 2015), thinning northwards
+to around 50 m in the Paul Roux area. The fossil record is
+currently too sparse to establish the biozone thickness south of
+Aliwal North.
+Lithology
+
+Procolophonid indet.
+Palacrodon browni
+Garjainia madiba
+
+Microgomphodon oligocynus
+Cynognathus crateronotus
+Langbergia modisei
+Trirachodontid burrow casts
+Diplichnites sp.
+Crayﬁsh burrows
+Lockeia sp.
+Planolites sp.
+Alococopros triassicus
+Eucoprus cylindratus
+Heteropolacopros sp.
+Hyronocopros amhipola
+
+In the fossiliferous exposures of the north-western Free State
+the stratigraphic succession may be subdivided into a lower,
+horizontally-laminated to massive, ﬁnes-dominated unit, a more
+sandstone-rich middle sequence, and an upper, ﬁnes-dominated
+sequence, which in places also preserves isolated thick lenticular
+sandstones. The lower ﬁnes unit is between 10 to 20 m thick,
+and is dominated by dark reddish brown (10R 3/4) mudstone
+and siltstone, which is generally laminated to semi-massive in
+nature and lacks pedogenic overprinting. At places lag horizons
+of reworked ferromanganese glaebules occur, which often
+contain multi-taxa bone assemblages. The middle sandstone
+unit, up to 6 m thick, is dominated by light grey (5Y 7/1), ﬁnegrained sandstone, internally structured by trough and planar
+cross-stratiﬁed and ripple laminated sandstones. The sandstone
+unit may preserve bone bearing intraformational clast
+conglomerates. The upper sequence comprises up to 40 m
+of dark reddish-brown (10R 3/4) ﬁnes and intercalated thin
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+223
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+(>1 m) sandstones, which are more grayish brown (5YR 3/2)
+towards the top of the sequence. Mudstone units show evidence
+of colour mottling, as well as stacking of weakly developed
+vertic structures, with ﬁne blue siltstone inﬁll. Apart from rare
+occurrences of bone at the base of thin sandstones, the upper
+mudstone dominated succession preserves only sporadic bones
+(and coprolites) that usually have thick encrustations of
+haematite and calcite.
+In the south the lithology is dominated by massive greyish
+red (5R 4/2, 10R 4/2) and pale reddish brown (10 5/4) ﬁnes with
+subordinate greenish grey (5GY 6/1) and light grey (N7)
+sandstone, arranged in upwards-ﬁning packages up to 7 m thick.
+Calcareous nodules, desiccation features and bioturbation
+characterise the thin and laterally constrained pedogenic
+horizons. Stacked, ﬁne-grained sandstone sheets, commonly
+occur near the top of this subzone in the south.
+Towards the south, rocks of the Langbergia-Garjainia
+biozone are conformably overlain by middle Burgersdorp
+Formation strata, whereas in the north between Senekal and
+Paul Roux they are unconformably overlain by the Indwe
+Member of the Molteno Formation.
+
+same as for the Cynognathus Assemblage Zone more broadly.
+It also coincides with the ﬁrst occurrence of both Langbergia
+modisei and Garjainia madiba.
+Upper boundary
+The upper boundary of the Langbergia-Garjainia Subzone is
+deﬁned by the ﬁrst occurrence of the trirachodontid cynodont
+Trirachodon berryi and the dicynodont genus Kannemeyeria
+simocephalus.
+Lateral boundaries
+No lateral cut-offs or pinch-outs occur.
+Subdivisions
+No subdivision of the Langbergia-Garjainia Subzone is
+proposed.
+Regional aspects
+Geographic distribution
+
+Depositional history
+The lack of pedogenic modiﬁcation, the homogeneous nature
+of the ﬁnes, and the abundance of well-preserved amphibian
+and archosaur remains in the northern exposures suggests that
+the rocks of the lowermost part of Langbergia-Garjainia
+Subzone were deposited in extensive lacustrine systems
+(Groenewald, 1989; Welman et al., 1991; Hancox, 1998). The
+middle sandstone dominated unit represents both low energy
+meandering channels and lacustrine deltas. Secondary rounding
+of clay pebbles, coprolites and fossil bone in the bioclast lags
+implies the reworking of earlier deposits, and the rounding of
+ﬂoodplain material and the abrasion of skeletal material in
+channel. The uppermost ﬁnes dominated succession exhibits
+colour mottling and preserves numerous large rhizocretions,
+root inﬁlls and desiccation cracks. These are thought to
+represent fairly rapid overbank ﬂoodplain aggradation,
+punctuated by periods of incipient soil development. Where
+present, the sandstones in the upper sequence have a width to
+depth ratio of 1:15 to 1:20, are lenticular in nature, and are
+internally structured by horizontal and trough cross-stratiﬁcation.
+Hancox (1998) proposed that this was deposited by a highsinuosity channel system with ﬂuctuating discharge based on
+the lenticular nature and ﬁning-upward ﬁll of the channel
+sandstones, characterised by ﬁne grained horizontal and trough
+cross-stratiﬁcation. Neveling (2002, 2004) proposed a similar
+ﬂuvial environment, subject to ephemeral ﬂow patterns, for the
+outcrops of this subzone in the southern Free State and Eastern
+Cape provinces.
+Boundaries
+Lower boundary
+
+Spatially, the Langbergia-Garjainia Subzone extends from the
+town of Queenstown in the south (Neveling 2002) to a line
+between the towns of Senekal and Harrismith in the north
+(Figure 2). The subzone has been traced as far east as Bergville.
+To date its extent further south in KwaZulu-Natal is unknown.
+The Langbergia-Garjainia Subzone is best exposed in the
+Aliwal North, Thaba Nchu, Senekal and Paul Roux districts.
+Lateral and vertical variation
+As mentioned above, the overwhelming majority (>95%) of
+fossils assigned to this subzone have been recovered between
+the towns of Senekal and Bethlehem in the northwestern Free
+State Province. Limited exposure may explain the decrease in
+fossil discoveries further east to Bergville, but to the south a
+clear and rapid decrease in fossil abundance is evident, with
+a limited number of specimens recovered from exposures
+near Rouxville, and numbers decreasing even more towards
+Tarkastad. Even in the Senekal and Bethlehem localities,
+complete fossil vertebrate specimens are not abundant, but are
+fairly evenly distributed in the lower portion of the succession
+where fossil amphibians predominate. Where developed in
+the middle sandstone unit, fossil material is common in the
+intraformational conglomerates. Fossils become scarcer in
+the upper part of the northern succession.
+Correlation
+The fossil fauna from the Langbergia-Garjainia Subzone can be
+correlated to the Parotosuchus Fauna of Russia via the cooccurrence of the erythrosuchid genus Garjainia and the
+temnospondyl genus Parotosuchus.
+
+The base of the Langbergia-Garjainia Subzone is deﬁned as the
+ﬁrst appearance datum of the cynodont genus Cynognathus, the
+
+224
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Age
+Based on correlation with ammonite-containing rocks from
+the Cis-Caspian depression and western Kazakhstan, the
+Parotosuchus Fauna is dated as Early Triassic (late Olenekian;
+Shishkin et al., 2000). Based on the correlation proposed above
+an Early Triassic age has been accepted by most authors for the
+Langbergia-Garjainia Subzone (Hancox et al., 1995; Shishkin
+et al., 1995; Hancox and Rubidge 1997; Hancox 1998; Shishkin
+et al., 2000; Neveling, 2004; Shishkin et al., 2004; Rubidge, 2005;
+Gower et al., 2014).
+Type locality
+Extensive donga exposures on the farm Driefontein 11 in the
+Bethlehem District, Free State Province, is the stratotype locality
+for the Langbergia-Garjainia Subzone (Figure 5).
+Trirachodon-Kannemeyeria Subzone
+Proposer of name
+This subzone is ﬁrst proposed in this work.
+Stratigraphic position
+Biostratigraphic
+The Trirachodon-Kannemeyeria Subzone occurs above the
+Langbergia-Garjainia Subzone and underlies the CricodonUfudocyclops Subzone.
+
+Palaeontology
+Description of subzone
+The Trirachodon-Kannemeyeria Subzone is characterised by the
+occurrence of the cynodonts Trirachodon berryi, Cricodon
+kannemeyerii, Cynognathus crateronotus and Diademodon
+tetragonus, the dicynodont Kannemeyeria simocephalus, the
+temnospondyl Xenotosuchus africanus (Morales. and Shishkin,
+2002, Damiani, 2008) and to a lesser degree the erythrosuchid
+Erythrosuchus africanus. Actinopterygian ﬁsh are abundant
+near Rouxville, at the Bekkerskraal locality (Broom, 1909b,
+Hutchinson, 1973, Jubb and Gardiner, 1975). Plant fossils are
+rare but are known from two major localities in the vicinity of
+Aliwal North and Burgersdorp (Anderson and Anderson, 1985).
+Taphonomic notes on fossil occurrences
+Complete articulated skeletons are rare. Disarticulated, but well
+preserved, dispersed and isolated tetrapod fossils occur in
+mudstone/siltstone overbank deposits, frequently associated
+with calcareous concretions. Complete skulls of tetrapods also
+occur in ﬁne-to medium-grained sandstone lenses. Fragmentary
+non-mammalian synapsid and amphibian remains frequently
+occur in localised “bone beds” within the mudstones, and
+also in conglomerates at the base of lenticular sandstones
+(Kitching, 1963).
+List of fossils
+See Figure 7 for ranges of the vertebrate genera.
+
+Lithostratigraphic
+Occupies the middle part of the Burgersdorp Formation.
+
+Vertebrates
+Pisces
+
+Atopocephala watsoni
+Ceratodus capensis
+Ceratodus ornatus
+Cleithrolepedina extoni
+Coelacanthus africanus
+Elonichthys browni
+Helichthys browni
+Helichthys elegans
+Meidiichthys browni
+Ptychoceratodus phillipsi
+Saurichthys sp.
+Batrachosuchus browni
+Jammerbergia formops
+Laidleria gracillis
+Microposaurus casei
+Vanastega plurimidens
+Xenotosuchus africanus
+
+Derivation of name
+This subzone is named after the distinctive and fairly common
+trirachodontid cynodont Trirachodon berryi and the distinctive
+dicynodont Kannemeyeria simocephalus that co-occur only in
+the strata deﬁned by this subzone (Figure 6).
+Historical background
+The Trirachodon-Kannemeyeria Subzone as described here
+corresponds to the Cynognathus Assemblage Zone as described
+in Kitching (1995), and to Seeley’s (1892) zone of specialised
+theriodonts, Broom’s (1906a, 1909a) Cynognathus Beds, Kitching’s
+(1970, 1977) Cynognathus Zone, the Kannemeyeria Assemblage
+Zone of Keyser and Smith (1978), the KannemeyeriaDiademodon Assemblage Zone of Keyser (1979) and the
+Cynognathus-Diademodon Assemblage Zone of Kitching (1984).
+It would also correspond to what has previously been
+referred to as the “middle subzone” (Hancox et al., 1995;
+Shishkin et al., 1995), “subzone B fauna” (Hancox and Rubidge
+1997; Hancox 1998), the “Xenotosuchus grouping” (Shishkin
+2000), and the Cynognathus B biozone (Rubidge, 2005).
+
+Amphibia
+
+Amniota
+Parareptilia
+
+Myocephalus crassidens
+Palacrodon browni
+Teratophon spinigenis
+Theledectes perforates
+Thelephon contritus
+Thelerpeton oppressus
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+225
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Figure 5. Map showing the Type locality of the Langbergia-Garjainia Subzone.
+
+226
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Eureptilia
+Archosauromorpha
+
+Synapsida
+Therapsida
+Anomodontia
+Therocephalia
+
+Cynodontia
+
+Trace fossils
+Vertebrate
+Invertebrate
+
+Eohyosaurus wolvaardti
+Howesia browni
+Mesosuchus browni
+Erythrosuchus africanus
+Euparkeria capensis
+
+Kannemeyeria simocephalus
+Kombuisia frerensis
+Bauria cynops
+Melinodon simus
+Sesamodon browni
+Watsoniella breviceps
+Bolotridon frerensis
+Cricodon kannemeyeri
+Cynognathus crateronotus
+Diademodon tetragonus
+Lumkuia fuzzi
+Trirachodon berryi
+Burrow casts
+Tetrapod coprolites
+Cruiziana sp.
+Arthropod trails
+
+Invertebrates Mollusca
+
+Unio karooensis
+
+Plants
+
+Asterotheca sp.
+Burgersia papillophylla
+Calamites aliwalensis
+Cladophlebis sp.
+Dadoxylon sp.
+Dicroidium hughesii
+Dilatata kitchingii
+Ginkgoites dutoitii
+Lepidopteris brownie
+Lepidopteris madagascariensis
+Nilsonia reservolensis
+Pseudoctenis brownie
+Sewardistrobus laxus
+Sphenobaiera browniana
+Sphenobaiera stormbergensis
+Rhizoliths and rhizocretions
+
+Geological description
+Thickness
+The thickness of the Trirachodon-Kannemeyeria Subzone varies
+from 500 m in the south between Queenstown and Lady Frere,
+to around 150 m between Burgersdorp and Aliwal North, and
+around 70 m in the vicinity of Thaba ‘Nchu (Rutherford 2009,
+Rutherford et. al., 2015).
+Lithology
+
+cycles of arenitic sandstone, overlain by thick sequences
+of ﬁnes. The sandstones of the Burgersdorp Formation are
+predominantly ﬁne to medium grained and yellowish grey
+(5Y 7/2), light brownish grey (5Y 6/1), greenish grey (5GR 6/1),
+light olive grey (5Y 6/1) or greyish red purple (5RP 4/2) in
+colour. They tend to weather to dusky yellow (5Y 6/4), olive
+grey (5Y 3/2) or very dusky purple (5P 4/2). Fragmentary
+reptilian and amphibian fossil remains, as well as casts and
+imprints of fossil plant stems and leaves are, in many places,
+preserved in the sandstones. The ﬁner fraction consists
+predominantly of greyish red (5R 4/2 to 10R 4/2) and greyish
+red purple mudstones (5RP 4/2), light bluish grey (5B 7/1),
+greenish grey (5G 6/1) and light olive grey (5Y 5/2) siltstones,
+and light bluish grey (5B 7/1) ﬁne to very ﬁne-grained
+sandstones. Well preserved, though non-abundant, remains
+of fossil reptiles and amphibians, as well as coprolites,
+rhizocretions, root casts and siliciﬁed wood are preserved in the
+ﬁner grained rocks. Brown-weathering calcareous concretions
+encasing complete vertebrate skeletons are present within
+sandstones towards the middle part of the succession. Claypebble conglomerates containing fossilised bone are not
+uncommon in the biozone. Fines to sandstone ratios of ± 4:1,
+and channel width to depth ratios of between 18 to 20 are
+common. The channel complex deposits are internally composed
+of channel and point bar elements, and characteristically display a
+classic ﬁning upward sequence.
+Depositional history
+The sedimentary strata of the Burgersdorp Formation that
+preserve a Trirachodon-Kannemeyeria Subzone fauna were
+previously interpreted as being deposited by meandering, high
+sinuosity rivers, with ﬁne grained sediment accumulating in an
+inland basin, receiving detritus from the south, southwest and
+southeast (Hiller and Stavrakis, 1984; Johnson and Hiller, 1990;
+Kitching, 1995; Groenewald, 1996; Hancox, 1998, Bordy and
+Krummeck, 2016, Bordy et al., 2019). The recognition of: thick
+and thin, lenticular, bedload and mixed-load dominated channel
+ﬁll elements; low angle lateral accretion surfaces; point bars with
+interspersed mudstone couplets; a high suspended load/bedload
+ratio; and the presence of thick suspended load ﬂoodplain
+deposits with interspersed sandstone splays led Hancox (1998)
+to propose a mixed load, high sinuosity meandering ﬂuvial
+system with frequent periods of overbank ﬂooding and levee
+breach. The high variance and low vector strengths of the
+palaeocurrent data is further evidence for deposition by a high
+sinuosity meandering system rather than a low sinuosity system
+(Hancox, 1998; Bordy et al., 2019).
+Boundaries
+Lower boundary
+The base of the Trirachodon-Kannemeyeria Subzone is deﬁned
+as the ﬁrst appearance of Trirachodon berryi and Kannemeyeria
+simocephalus, which are considered to occur at the same level.
+
+For the most part, the strata of the middle part of the
+Burgersdorp Formation are characterised by ﬁning upward
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+227
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Figure 6. Illustration of the index taxa of the Trirachodon-Kannemeyeria Subzone in dorsal and lateral view. (top) Trirachodon berryii;
+(bottom) Kannemeyeria simocephalus.
+
+Upper boundary
+
+Lateral boundaries
+
+The top of this subzone is deﬁned by the ﬁrst appearance
+the dicynodont Ufudocyclops mukanelai and the cynodont
+Cricodon metabolus.
+
+The Trirachodon-Kannemeyeria Subzone has its greatest
+thickness in the southern part of the basin, and thins northward.
+In the south of the basin between Molteno and Zastron it
+is overlain by the Bamboesberg Member of the Molteno
+Formation, and from Zastron northwards by the overlying Indwe
+Member of the Molteno Formation.
+
+228
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Subdivisions
+No subdivision of the Trirachodon-Kannemeyeria Subzone is
+proposed.
+Regional aspects
+Geographic distribution
+Rocks containing a Trirachodon-Kannemeyeria fauna equate to
+the middle part of the Burgersdorp Formation (Hancox 1998;
+Neveling 2002) and outcrop from Cala and Queenstown in the
+south as far as Thaba ‘Nchu in the north (Figure 2). From the
+Lady Frere and Queenstown districts the biozone has been
+traced as far east as the Encgcobo district. In Kwazulu-Natal the
+biozone becomes progressively narrower as it thins in a
+northeasterly direction. In the far south of the basin these rocks
+are disconformably overlain by strata of the upper Burgersdorp
+
+Formation whereas, progressing north of the town of
+Molteno, rocks containing a Trirachodon-Kannemeyeria fauna
+are disconformably overlain ﬁrst by the Bamboesberg Member
+of the Molteno Formation, and north of Zastron, by the Indwe
+Member of the Molteno Formation.
+Lateral and vertical variation
+Complete specimens are not abundant but are fairly evenly
+distributed in the lower portion of the succession. They become
+scarcer in the upper part of the succession as well as showing
+a decrease in the variety of fossil forms, with fossil amphibian
+remains being relatively common. Paleontologically there is also
+a change towards a greater amount of preserved plant material,
+and an increase in the number of recovered specimens of
+Kannemeyeria in the upper part of the subzone (Hancox, 1998).
+
+Figure 7. Stratigraphic ranges of vertebrate taxa occurring in the Trirachodon-Kannemeyeria Subzone.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+229
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Correlation
+
+Age
+
+The Trirachodon-Kannemeyeria Subzone may be correlated
+to the Lower Omingonde Formation of Namibia (Keyser, 1973),
+the lower horizon of the Ntawere Formation of Zambia
+(Cruickshank 1965, 1986, Peecook et al., 2013, 2018, Wynd et al.,
+2018) the uppermost Kingori/lower Lifua members of Tanzania
+(Cruickshank 1965, 1986, Smith et al., 2018), the upper member
+of the Fremouw Formation of Antarctica (Sidor et al., 2008), the
+Lower Ermaying Formation of China (Li and Cheng, 1995) and
+the Eryosuchus Fauna of Russia.
+South America, and particularly Argentina and southernmost
+Brazil, has an extensive record of non-marine Triassic
+sedimentary successions. Faunal links between terrestrial Triassic
+assemblages from South America and South Africa are however
+rare (Abdala and Smith 2009), and until recently were based
+only on the common presence of the cynodonts Cynognathus
+crateronotus (Bonaparte 1969, 1982; Abdala 1996) and
+Diademodon tetragonus (Martinelli et al., 2009) from the Río
+Seco de la Quebrada Formation (Stipanicic et al., 2007) of the
+Puesto Viejo Group of Argentina.
+
+No radiometric dates exist for the Trirachodon-Kannemeyeria
+Subzone strata and the ages are derived directly from correlation
+of fossil faunas with better-dated Gondwanan successions in
+Africa, South America and north China. Various age estimates
+have been given, but in general they are assigned a Middle
+Triassic (early Anisian) age (Keyser, 1973; Grine et al., 1979;
+Hammer, 1990; Hancox, 1998, 2000; Rubidge, 2005; Butler et al.,
+2015; Liu et al., 2017; but see also Ottone et al., 2014).
+Type locality
+The South African Committee for Stratigraphy (SACS, 1980)
+designated the Nonensis Nek area on the main road between
+Queenstown and Lady Frere as the stratotype locality for the
+Kannemeyeria-Diademodon Assemblage Zone and this is
+retained here for the Trirachodon-Kannemeyeria Subzone
+(Figure 8).
+
+Figure 8. Map showing the Type locality of the Trirachodon-Kannemeyeria Subzone.
+
+230
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Cricodon-Ufudocyclops Subzone
+Proposer of name
+This subzone is proposed in this paper.
+Stratigraphic position
+Biostratigraphic
+The Cricodon-Ufudocyclops Subzone occurs above the
+Trirachodon-Kannemeyeria Subzone. It is in turn disconformably
+overlain by the Bamboesberg Member of the Molteno Formation.
+
+Lithostratigraphic
+Occupies the uppermost part of the Burgersdorp Formation,
+which is roughly 150 m thick.
+Derivation of name
+This subzone is named after the distinctive and fairly common
+trirachodontid cynodont Cricodon metabolus and the distinctive
+dicynodont Ufudocyclops mukanelai that co-occur only in the
+strata deﬁned by this subzone (Figure 9).
+
+Figure 9. Illustration of the index taxa of the Cricodon-Ufudocyclops Subzone in dorsal and lateral view. (top) Cricodon metabolus;
+(bottom) Ufudocyclops mukaneli.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+231
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Plants
+
+Historical background
+The biozone was discovered by Graeme Morgan in the mid1990s, with most of the descriptive work being that of Hancox
+(1998). Additional palaeontological descriptions are provided in
+Damiani and Hancox (2003), Abdala et al. (2005), Hancox et al.
+(2013) and Kammerer et al. (2019).
+The Cricodon-Ufudocyclops Subzone corresponds to what
+has previously been referred to as the upper zone and
+uppermost faunal assemblage (Hancox et al., 1995), the
+“uppermost subzone” (Shishkin et al., 1995; Hancox and
+Rubidge 1996), subzone C (Hancox and Rubidge 1997; Hancox
+et al., 2000), the upper Cynognathus grouping (Shishkin et al.,
+2000), the Cynognathus C Biozone (Rubidge, 2005) and the
+Cricodon subdivision (Rubidge et al., 2016).
+Palaeontology
+Description of subzone
+The Cricodon-Ufudocyclops Subzone is characterised by a
+dominance of cynodont fossils, particularly the index taxon
+Cricodon metabolus. It is a concurrent range zone characterised
+by the presence of Cricodon metabolus and the dicynodont
+Ufudocyclops mukanelai.
+Taphonomic notes on fossil occurrences
+Articulated skeletons are very rare. Disarticulated, but well
+preserved, dispersed and isolated tetrapod fossils occur in
+laminated mudstone/siltstone units. Complete skulls of tetrapods
+also occur in ﬁne-to-medium grained sandstones and this mode
+of preservation is by far the most common in the subzone.
+Fragmentary therapsid and temnospondyl amphibian remains
+also occur in localised palaeosol horizons. No archosauriformes
+or ﬁsh are yet known from the subzone.
+List of fossils
+See Figure 10 for ranges of the vertebrate genera.
+Vertebrates
+Amphibia
+Amniota
+Synapsida
+Therapsida
+Anomodontia
+Cynodontia
+
+Trace fossils
+
+232
+
+Calamites sp.
+Dicroidium sp.
+Podocarpoxylon sp.
+Sphenobaiera sp.
+
+Geological description
+Thickness
+The biozone reaches a maximum thickness of 150 m in the
+Sterkstroom area of the Eastern Cape (Hancox, 1998).
+Lithology
+For the most part the strata of the upper part of the Burgersdorp
+Formation are characterised by ﬁning upward cycles of
+sandstone, overlain by thick sequences of ﬁnes. The upper
+part of the Burgersdorp Formation has a higher percentage
+of sandstone than either the middle or lower sections, and
+the channel geometries are signiﬁcantly deeper than in the
+underlying middle Burgersdorp Formation. The sandstone
+bodies also lack interspersed mudstone couplets within the
+point bar elements (Hancox, 1998). The sandstones of the upper
+Burgersdorp Formation are predominantly ﬁne to medium
+grained and yellowish grey (5Y 7/2), light brownish grey
+(5Y 6/1), greenish grey (5GR 6/1), light olive grey (5Y 6/1) or
+greyish red purple (5RP 4/2) in colour. They tend to weather to
+dusky yellow (5Y 6/4), olive grey (5Y 3/2) or very dusky purple
+(5P 4/2). They are internally structured predominantly by
+horizontal and large scale trough cross-stratiﬁcation.
+Fragmentary and complete reptilian and amphibian fossil
+remains, as well as casts and imprints of fossil plant stems and
+leaves, are in many places preserved in the sandstones. The ﬁner
+fraction consists predominantly of greyish red (5R 4/2 to
+10R 4/2) and greyish red purple mudstones (5RP 4/2), light
+bluish grey (5B 7/1), greenish grey (5G 6/1) and light olive grey
+(5Y 5/2) siltstones, and light bluish grey (5B 7/1) ﬁne to very
+ﬁne-grained sandstones. Complete fossil tetrapod material may
+be preserved in places in the overbank ﬁnes, which in places
+are also pedogenically modiﬁed.
+Depositional history
+
+Paracyclotosaurus morganorum
+
+Ufudocyclops mukanelai
+Shansiodon sp.
+Cricodon metabolus
+Cynognathus crateronotus
+Diademodon tetragonus
+Skolithos sp.
+Planolites sp.
+Worm burrows
+
+The gross ﬁning upward sequence, sand body geometry,
+internal architecture (including point bar elements without
+mudstone drapes) and facies relationships of the channel
+sandstones in the upper Burgersdorp Formation resemble the
+classic high sinuosity, meandering stream model (Hancox, 1998).
+The abundance of upper ﬂow regime horizontal stratiﬁcation
+and large scale trough cross-stratiﬁcation, with large mudstone
+intraclasts and high cut-banks are evidence for formation of the
+deposits in a mixed load large sized meandering river system
+with considerable bank relief and channel depth. The presence
+of abundant bank stabilising vegetation is directly evidenced by
+impressions of large fossil pteridosperm axes, casts of the
+sphenophyte Calamites and siliciﬁed wood (Hancox, 1998).
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Figure 10. Stratigraphic ranges of vertebrate taxa occurring in the Cricodon-Ufudocyclops Subzone.
+
+Boundaries
+Lower boundary
+
+Ufudocyclops Subzone is restricted to this strip in the
+Bamboesberg Mountains of the Eastern Cape.
+
+The base of the Cricodon-Ufudocyclops Subzone is deﬁned as
+the ﬁrst appearance of Cricodon metabolus and Ufudocylops
+mukanelai.
+
+Lateral and vertical variation
+
+Upper boundary
+The top of this subzone is undeﬁned biostratigraphically
+because vertebrate fossils are lacking in the overlying
+Bamboesberg Member of the Molteno Formation.
+Lateral boundaries
+The Cricodon-Ufudocyclops Subzone occurs only in the southern
+part of the basin and is thickest in the Sterkstroom area. It thins
+northward and is overlain by the Bamboesberg Member of the
+Molteno Formation.
+Subdivisions
+No subdivision of the Cricodon-Ufudocyclops Subzone is proposed.
+Regional aspects
+Geographic distribution
+Sedimentary rocks assigned to this subzone are best exposed in
+the Sterkstroom to Molteno districts and spatially, the Cricodon-
+
+Complete specimens are not abundant but are fairly evenly
+distributed in the succession. Cynodonts dominate the fauna.
+Fossils become scarcer in the upper part of the succession
+towards the contact with the Molteno Formation (Hancox, 1998).
+Correlation
+The fossil fauna of the Cricodon-Ufudocyclops Subzone may be
+correlated to parts of the upper Omingonde Formation of
+Namibia (Keyser 1973), the upper horizon of the Ntawere
+Formation of northeastern Zambia (Sidor and Hopson, 2018)
+and the Lifua beds of Tanzania (Wynd et al., 2018). The
+occurrence of Paracylotosaurus would allow for a genus level
+link to the Yerrapalli Formation of India (Damiani and Hancox,
+2003), Wiannamatta Group of Australia (Watson 1958), and the
+occurrence of Shansiodon to the Upper Ermaying Formation
+(Sinokannemeyeria Fauna) of China (Li and Chen, 1995,
+Hancox, 1998, Hancox et al., 2013).
+Age
+No radiometric dates exist for the Cricodon-Ufudocyclops
+Subzone and the age arguments are derived directly from faunal
+correlation of the subzone. Based on these correlations the
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+233
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Figure 11. Map showing the Type locality of the Cricodon-Ufudocyclops Subzone.
+
+Cricodon-Ufudocyclops Subzone may be considered as Middle
+Triassic (late Anisian or early Ladinian). Liu et al. (2017) have
+recently published a high resolution chemical abrasion–thermal
+ionization mass spectrometry (CA-TIMS) date of 243.53 Ma (late
+Anisian) for a volcanic ash interbedded with vertebrate fossils
+from the Ermaying Formation (Sinokannemeyeria Fauna) of
+China. The co-occurrence of Shansiodon in these two faunas
+may suggest that the Cricodon-Ufudocyclops Subzone is of a
+similar age. It should hover be noted that Ottone et al. (2014)
+obtained a SHRIMP 238U/206Pb age of 235.8 ± 2.0 Ma, for a
+rhyolitic ignimbrite interdigitated between the Quebrada de los
+
+234
+
+Fósiles and Río Seco de la Quebrada formations (Puesto
+Viejo Group) in Argentina, which contains Cynognathus and
+Diademodon, and hence the uppermost parts of the CricodonUfudocyclops Subzone may even reach into the Carnian
+(Late Triassic).
+Type locality
+We here designate exposures on the farm Avilion in the
+Sterkstroom District as the stratotype locality for the CricodonUfudocyclops Subzone (Figure 11).
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Acknowledgements
+The senior author would like to record the important mentoring
+role of Professor James Kitching in igniting the spark of passion
+for the geology and palaeontology of the Cynognathus
+Assemblage Zone. The late Graeme Morgan is speciﬁcally
+acknowledged for the original discovery of the fossil fauna of
+the Cricodon-Ufudocylops Subzone.We would also like to thank
+all the farmers who allowed access to their lands, for
+their permissions, and for the hospitality shown. Numerous
+colleagues who have helped collect in the biozone, particularly
+at the Driefontein site. You are too numerous to name individually,
+but we would like to thank you all collectively. Dr Eva
+Schneiderhan is thanked for her help collecting in the ﬁeld and
+for her creation of the original type locality maps. We would
+like to acknowledge The African Origins platform of the National
+Research Foundation of South Africa (NRF), the Palaeontological
+Scientiﬁc Trust (PAST), and the DSI/NRF Centre of Excellence for
+Palaeosciences for ﬁnancial assistance. This work also beneﬁtted
+greatly from a critical review by Professor Chris Sidor.
+References
+Abdala, F., 1996. Redescripción del cráneo y reconsideración de la validez de
+Cynognathus minor (Eucynodontia–Cynognathidae) del Triásico Inferior
+de Mendoza. Ameghiniana, 33, 115-126.
+Abdala, F., Hancox, P.J. and Neveling, J., 2005. Cynodonts from the uppermost
+Burgersdorp Formation (Karoo Supergroup), South Africa, and their bearing
+on the biostratigraphic subdivision and correlation of the Triassic
+Cynognathus Assemblage Zone. Journal of Vertebrate Paleontology, 25,
+192-199.
+Abdala, F., Neveling, J. and Welman, J., 2006. A new trirachodontid cynodont
+from the lower levels of the Burgersdorp Formation (Lower Triassic) of the
+Beaufort Group, South Africa and the cladistic relationships of Gondwanan
+gomphodonts. Zoological Journal of the Linnean Society, 147, 383-413.
+Abdala, F., H. Mocke and Hancox, P. J., 2007. Lower Triassic postcanine teeth
+with allotherian-like crowns. South African Journal of Science, 103, 245-247.
+Abdala, F., Jashashvili, T., Rubidge, B.S. and van den Heever, J., 2014. New
+material of Microgomphodon oligocynus (Eutherapsida, Therocephalia) and
+the taxonomy of aouthern African Bauriidae. 209-231. In: C.F. Kammerer,
+K.D. Angielczyk and J. Fröbisch (Editors), Early Evolutionary History of the
+Synapsida, Vertebrate Paleobiology and Paleoanthropology, Springer
+Science and Business Media, Dordrecht, 337pp.
+Abdala, F. and Ribiero, A.M., 2010. Distribution and diversity patterns
+of Triassic cynodonts (Therapsida, Cynodontia) in Gondwana.
+Palaeogeography, Palaeoclimatology, Palaeoecology, 286, 202-217.
+Abdala, F. and Smith, R.M.H., 2009. A middle Triassic cynodont fauna from
+Namibia and its implications for the biogeography of Gondwana. Journal
+of Vertebrate Paleontology, 29, 837-851.
+Anderson, J.M. and Anderson, H.M., 1985. Palaeoﬂora of southern Africa.
+Prodromus of South African megaﬂoras, Devonian to Lower Cretaceous.
+A.A.Balkeema, Rotterdam.
+Angielczyk, K.D., Styer, J-S., Sidor, C.A., Smith, R.M.H., Whatley, R.L.
+and Tolan, S., 2014. Permian and Triassic dicynodont (Therapsida:
+Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update
+and implications for dicynodont biogeography and biostratigraphy. In:
+C.F. Kammere, K.D. Angielczyk and J. Fröbisch (Editors), Early Evolutionary
+History of the Synapsida, Chapter 7, 93-138.
+Azzie, B., 1994. A palaeoenvironmental synthesis of the Burgersdorp
+Formation in the vicinity of Senekal, Orange Free State. Unpublished BSc
+Honours Project, University of the Witwatersrand, Johannesburg, South
+Africa.
+Bamford, M.K., 1999. Permo-Triassic fossil woods from the South African
+Karoo Basin. Palaeontologia africana, 35, 25-40.
+
+Bamford, M.K., 2004. Diversity of the woody vegetation of Gondwanan
+southern Africa. Gondwana Research, 7, 153-164.
+Bender, P. and Hancox, P.J., 2003. Fossil ﬁshes of the Lystrosaurus and
+Cynognathus Assemblage Zones, Beaufort Group, South Africa: Correlative
+implications. Council for Geoscience Bulletin, 136, 1-27.
+Bender, P. and Hancox, P.J., 2004. Newly discovered ﬁsh faunas from
+the Early Triassic, Karoo Basin, South Africa, and their correlative
+implications. Gondwana Research, 7, 185-192.
+Bonaparte, J.F., 1969. Cynognathus minor n. sp. (Therapsida–Cynodontia).
+Nueva evidencia de vinculación faunística Afro- Sudamericana a principios
+del Triásico. Gondwana Stratigraphy, I.U.G.S. Coloquio Mar del Plata 1967,
+273-281.
+Bonaparte, J.F., 1982. Faunal replacement in the Triassic of South America.
+Journal of Vertebrate Paleontology, 2, 362-371.
+Bordy, E.M. and Krummeck, W.D., 2016. Enigmatic continental burrows from
+the Early Triassic transition of the Katberg and Burgersdorp formations in
+the main Karoo Basin, South Africa. Palaios, 31, 389-403.
+Bordy, E.M., Sztanó, O., Rampersadh, A., Almond, J. ad Choiniere, J.N., 2019.
+Vertebrate scratch traces from the Middle Triassic Burgersdorp Formation
+of the main Karoo Basin, South Africa: sedimentological and ichnological
+assessment. Journal of African Earth Sciences, doi: https://doi.org/10.1016/
+j.jafrearsci.2019.103594.
+Bradu, D. and Grine, F.E., 1979. Multivariate analysis of Diademodon crania
+from South Africa and Zambia. South African Journal of Science, 75: 441-448.
+Broom, R., 1903. On a new stegocephalian (Batrachosuchus browni) from the
+Karroo beds of Aliwal North, South Africa. Geological Magazine, 4, 449-501.
+Broom, R., 1905. Preliminary notice of some new fossil reptiles collected by
+Mr. Alfred Brown at Aliwal North, South Africa. Records of the Albany
+Museum, 1, 269-275.
+Broom, R., 1906a. On the Permian and Triassic faunas of South Africa.
+Geological Magazine, 5, 29-30.
+Broom, R., 1906b. On the remains of Erythrosuchus africanus Broom. Annals
+of the South African Museum, 5, 187-197.
+Broom, R., 1906c. On a new South African Triassic rhynchocephalian.
+Transactions of the South African Philosophical Society 16, 379-380
+Broom, R., 1906d. On the South African diaptosaurian reptile Howesia.
+Proceedings of the Zoological Society of London, 1906, 591-600.
+Broom, R., 1907. On the geological horizons of the vertebrate genera of the
+Karroo formation. Records of the Albany Museum, 2, 156-163.
+Broom, R., 1909a. An attempt to determine the horizons of the fossil
+vertebrates of the Karroo. Annals of the South African Museum, 7, 285-289.
+Broom, R., 1909b. The fossil ﬁshes of the Upper Karoo Beds of South Africa.
+Annals of the South African Museum, 7, 251-268.
+Broom, R., 1913a. Note on Mesosuchus browni Watson and on a South African
+pseudosuchian (Euparkeria capensis). Records of the Albany Museum, 2,
+394-396.
+Broom, R., 1913b. On the South African psuedosuchian Euparkeria and allied
+genera. Proceedings of the Zoological Society London, 1913, 619-633.
+Butler, R.J., Ezcurra, M.D., Montefeltro, F.C., Samathi, A. and Sobral, G., 2015.
+A new species of basal rhynchosaur (Diapsida: Archosauromorpha) from the
+early Middle Triassic of South Africa, and the early evolution of
+Rhynchosauria. Zoological Journal of the Linnean Society, 174, 571-588.
+Cooper, M.R., 1982. A mid-Permian to earliest Jurassic tetrapod biostratigraphy
+and its signiﬁcance. Arnoldia (Zimbabwe), 9, 77-104.
+Cruickshank, A.R.I., 1965. On a specimen of the anomodont reptile
+Kannemeyeria latifrons (Broom) from the Manda Formation of Tanganyika,
+Tanzania. Proceedings of the Linnean Society London, 176, 149-157.
+Cruickshank, A.R.I., 1986. Biostratigraphy and classiﬁcation of a new Triassic
+dicynodont from East Africa. Modern Geology, 10, 121-131.
+Damiani, R.J., 1999. Parotosuchus (Amphibia, Temnospondyli) in Gondwana:
+biostratigraphic and palaeobiogeographic implications. South African
+Journal of Science, 95, 458-460.
+Damiani, R.J., 2001a. Parotosuchus (Amphibia, Temnospondyli) from the
+Cynognathus Assemblage Zone (Early Triassic) of South Africa: cranial
+morphology and relationships. Alcheringa, 25, 351-379.
+Damiani, R.J., 2001b. A systematic revision and phylogenetic analysis
+of Triassic mastodonsauroids (Temnospondyli, Stereospondyli). Zoological
+Journal of the Linnean Society, 133, 379-482.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+235
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+Damiani, R.J., 2004a. Temnospondyls from the Beaufort Group (Karoo Basin)
+of South Africa and their biostratigraphy. Gondwana Research, 7, 165-173.
+Damiani, R.J., 2004b. Cranial anatomy and relationships of Microposaurus
+casei, a temnospondyl from the Middle Triassic of South Africa. Journal of
+Vertebrate Paleontology, 24, 533-541.
+Damiani, R.J., 2008. A giant skull of the temnospondyl Xenotosuchus africanus
+from the Middle Triassic of South Africa and its ontogenetic implications.
+Acta Palaeontologica Polonica, 53, 75-84.
+Damiani, R.J. and Hancox, P.J., 2003. New mastodonsaurid temnospondyls
+from the Cynognathus Assemblage Zone (upper Beaufort Group; Karoo
+Basin) of South Africa. Journal of Vertebrate Paleontology, 23, 55-67.
+Damiani, R.J. and Jeannot, A.M., 2002. A brachyopid temnospondyl from the
+lower Cynognathus Assemblage Zone in the northern Karoo Basin, South
+Africa. Palaeontologia africana, 38, 57-69.
+Damiani, R.J. and Kitching, J.W., 2003. A new brachyopid temnospondyl from
+the lower Cynognathus Assemblage Zone, upper Beaufort Group, South
+Africa. Journal of Vertebrate Paleontology, 23, 68-79.
+Damiani, R.J. and Rubidge, B.S., 2003. A review of the South African
+temnospondyl amphibian record. Palaeontologia africana, 39, 21-36
+Dilkes, D.W., 1995. The rhynchosaur Howesia browni from the Lower Triassic
+of South Africa. Palaeontology, 38, 665-685.
+Dilkes, D.W., 1998. The Early Triassic rhynchosaur Mesosuchus browni and
+the interrelationships of basal archosauromorph reptiles. Philosophical
+Transactions of the Royal Society of London, Series B 353: 501–541.
+Du Toit, A.L., 1918. The zones of the Karroo system and their distribution.
+Proceedings of the Geological Society of South Africa, 21, 17-37.
+Dufﬁn C.J., 2001. Synopsis of the selachian genus Lissodus Brough, 1935. Neues
+Jahrbuch fuir Geologie und Palaiontologie, Abhandlungen, 221,145-218.
+Ewer, R.F., 1965. The anatomy of the thecodont reptile Euparkeria.
+Philosophical Transactions of the Royal Society 248(B), 379-435.
+Fröbisch, J., 2009. Composition and similarity of global anomodont-bearing
+tetrapod faunas. Eart-Science Reviews, 95, 119-157.
+Gaetano, L.C., Mocke, H., Abdala, F. and Hancox P.J., 2012. Complex
+multicusped postcanine teeth from the Lower Triassic of South Africa.
+Journal of Vertebrate Paleontology, 32, 1411-1420.
+Gow, C.E., 1999. The Triassic reptile Palacrodon browni Broom, synonomy
+and a new specimen. Palaeontologia africana, 35, 21-23.
+Gower, D.J., 2003. Osteology of the early archosaurian reptile Erythrosuchus
+africanus Broom. Annals of the South African Museum, 110, 1-84.
+Gower, D.J., Hancox, P.J., Botha-Brink, J., Sennikov, A.G. and Butler, R., 2014.
+A new species of Garjainia Ochev, 1958 (Diapsida: Archosauriformes:
+Erythrosuchidae) from the Early Triassic of South Africa. PLoS ONE, 9, 1-35.
+Grifﬁth, J., 1978. A fragmentary specimen of Saurichthys sp. from the upper
+Beaufort Series of South Africa. Annals of the South African Museum, 76,
+299-307.
+Grine, F.E., Mitchell, D., Gow, C.E., Kitching, J.W. and Turner, B.R., 1979.
+Evidence for salt glands in the Triassic reptile Diademodon
+(Therapsida;Cynodontia). Palaeontologia africana, 22, 35-39.
+Groenewald, G.H., 1984. Stratigraﬁe en Sedimentologie van die Groep
+Beaufort in die Noordoos Vrystaat. Unpublished M.Sc. thesis. Rand
+Afrikaans University, Johannesburg, South Africa.
+Groenewald, G.H., 1989. Stratigraﬁe en Sedimentologie van die Groep
+Beaufort in die Noordoos Vrystaat. Bulletin of the Geological Survey, South
+Africa, 96, 1-62.
+Groenewald, G.H., 1990. Gebruik van paleontologie in lithostratigraﬁese
+korrelasie in die Beaufort Groep, Karoo opeenvolging van Suid-Afrika.
+Palaeontologia africana, 27, 21-30.
+Groenewald, G.H., 1996. Stratigraphy of the Tarkastad Subgroup, Karoo
+Supergroup, South Africa. Unpublished Ph.D. thesis, University of Port
+Elizabeth, South Africa.
+Groenewald, G.H., Welman, J. and MacEachern, J.A., 2001. Vertebrate burrow
+complexes from the Early Triassic Cynognathus Zone (Driekoppen
+Formation, Beaufort Group) of the Karoo Basin, South Africa. Palaios, 16,
+148-160.
+Hammer, W.J., 1990. Triassic terrestrial vertebrate faunas of Antarctica. In: T.N.
+Taylor and E.L. Taylor (Editors), Antarctic Paleobiology: Its Role in the
+Reconstruction of Gondwana. Springer Verlag, New York, 42-50.
+
+236
+
+Hancox, P.J., 1998. A stratigraphic, sedimentological and palaeo-environmental
+synthesis of the Beaufort-Molteno contact in the Karoo Basin. Unpublished
+PhD thesis, University of the Witwatersrand, Johannesburg, 404pp.
+Hancox, P.J., 2000. The continental Triassic of South Africa. Zentralblatt für
+Geologie und Paläontologie, Teil I, 1998, 1285-1324.
+Hancox, P.J. and Rubidge, B.S., 1994. A new dicynodont therapsid from South
+Africa: implications for the biostratigraphy of the upper Beaufort (Cynognathus
+Assemblage Zone). South African Journal of Science, 90, 98-99.
+Hancox, P.J. and Rubidge, B.S., 1996. The ﬁrst specimen of the Mid-Triassic
+dicynodont Angonisaurus from the Karoo of South Africa: implications for
+the dating and biostratigraphy of the Cynognathus Assemblage Zone,
+upper Beaufort Group. South African Journal of Science, 92, 391-392.
+Hancox, P.J. and Rubidge, B.S., 1997. The role of fossils in interpreting the
+development of the Karoo Basin. Palaeontologia africana, 33, 41-54.
+Hancox, P.J., Damiani, R.J. and Rubidge, B.S., 2000. First occurrence of
+Paracyclotosaurus (Temnospondyli, Capitosauridae) in the Karoo Basin of
+South Africa and its biostratigraphic signiﬁcance. South African Journal of
+Science, 96, 135-137.
+Hancox, P.J., Angielczyk, K. and Rubidge, B.S., 2013. Angonisaurus and
+Shansiodon, dicynodonts (Therapsdia, Anomodontia) from subzone C of
+the Cynognathus Assemblage Zone (Middle Triassic) of South Africa.
+Journal of Vertebrate Paleontology, 33, 655-676.
+Hancox, P.J., Shishkin, M.A., Rubidge, B.S. and Kitching, J.W., 1995.
+A threefold subdivision of the Cynognathus Assemblage Zone (Beaufort
+Group, South Africa) and its palaeogeographical implications. South African
+Journal of Science, 91, 143-144.
+Hendrickx, C., Abdala, F. and Choiniere, J.N., 2019. A proposed terminology
+for the dentition of gomphodont cynodonts and dental morphology in
+Diademodontidae and Trirachodontidae. PeerJ 7: e6752.
+Hiller, N. and Stravakis, N., 1984. Permo-Triassic ﬂuvial systems in the
+southeastern Karoo Basin, South Africa. Palaeogeography, Palaeoclimatolology,
+Palaeoecology, 45, 1-21.
+Hopson, J.A. and Kitching, J.W., 2001. A probainognathian cynodont from
+South Africa and the phylogeny of nonmammalian cynodonts. Bulletin of
+the Museum of Comparative Zoology, 156, 5-35.
+Hutchinson, P., 1973. A revision of the Redﬁeldiiform and Perleidiform ﬁshes
+from the Triassic of Bekker’s Kraal (South Africa) and Brookvale (New South
+Wales). Bulletin of the Natural History Museum. Geology Series, 22, 236-353.
+Hutchinson, P., 1975. Two Triassic ﬁsh from South Africa and Australia, with
+comments on the evolution of the Chondrostei. Palaeontology, 18, 613-629.
+Hutchinson, P., 1978. The anatomy and phylogentic position of Helichthyes,
+a redﬁeldiform ﬁsh from the Triassic of South Africa. Palaeontology 21,
+881-891.
+Jenkins, K., 2018. Tooth implantation and dental morphology of Palacrodon.
+Unpublished M.Sc. dissertation, Sam Houston State University, 206pp.
+Johnson, M.R. and Hiller, N., 1990. Burgersdorp Formation. In: M.R. Johnson
+(Editor), Catalogue of South African lithostratigraphic units, 1st edition.
+Geological Survey, Pretoria, 2.9-2.10.
+Jubb, R.A. and Gardiner, B.G., 1975. A preliminary catalogue of identiﬁable
+ﬁsh material from South Africa. Annals of the South African Museum, 67,
+381-440.
+Kammerer, C.F., Viglietti, P.A., Hancox, P.J., Butler, R.J. and Choiniere, J.N.,
+2019. A new kannemeyeriiform dicynodont (Ufudocyclops mukanelai gen.
+et sp. nov.) from Subzone C of the Cynognathus Assemblage Zone (Triassic
+of South Africa) with implications for biostratigraphic correlation with other
+African Triassic faunas. Journal of Vertebrate Paleontology, DOI:
+10.1080/02724634.2019.1596921.
+Keyser, A.W., 1973. A new Triassic vertebrate fauna from South West Africa.
+Palaeontologia africana, 16, 1-15.
+Keyser, A.W., 1979. A review of the biostratigraphy of the Beaufort Group in
+the Karoo basin of South Africa. Geological Society of South Africa Abstract
+Geocongess 79, 13-31.
+Keyser, A.W., and Smith, R.M.H., 1978. Vertebrate biozonation of the Beaufort
+Group with special reference to the western Karoo Basin. Annals of the
+Geological Survey of South Africa, 12, 1-36.
+King, G.M., 1996. Description of the skeleton of a bauriid therocephalian from
+the Early Triassic of South Africa. Annals of the South African Museum,
+104, 379-393.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+P.J. HAN C OX, J. N EVELIN G AN D B.S. RUBI D G E
+
+Kitching, J.W., 1963. Notes on some fossil pockets and bone beds in
+the Cynognathus zone in the Burgersdorp and Lady Frere districts.
+Palaeontologia africana, 8, 113-118.
+Kitching, J.W., 1970. A short review on the Beaufort zoning in South Africa.
+In: S.H. Haughton (Editor), I.U.G.S. 2cnd Symposium on Gondwana
+Stratigraphy and Palaeontology, Cape Town and Johannesburg,
+C.S.I.R.,Pretoria, 1970, 309-312.
+Kitching, J.W., 1972. On the distribution of the Karoo vertebrate fauna with
+special reference to certain genera and the bearing of this distribution on
+the zoning of the Beaufort beds. Unpublished Ph.D. thesis, University of
+the Witwatersrand, Johannesburg, South Africa.
+Kitching, J.W., 1977. The distribution of the Karroo vertebrate fauna. Memoir
+of the Bernard Price Institute for Palaeontological Research, University of
+the Witwatersrand, Johannesburg, 1, 1-131.
+Kitching, J.W., 1984. A reassessment of the biozonation of the Beaufort Group.
+Abstract of a paper read at the 3rd biennial Palaeontological Society of
+South Africa Conference, Stellenbosch. Pal News 4, 12-13.
+Kitching, J.W., 1995. Biostratigraphy of the Cynognathus Assemblage Zone.
+40-45. In: B.S. Rubidge, (Editor), Biostratigraphy of the Beaufort Group
+(Karoo Supergroup). SACS Biostratigraphic Series, 1, Council for
+Geoscience, Pretoria, 46pp.
+Li J.L. and Cheng, Z.W., 1995. A new Late Permian vertebrate fauna from
+Dashankou, Gansu, with comments on Permian and Triassic vertebrate
+assemblage zones of China. In: A.L. Sun and Y.Q. Wang (Editors). Sixth
+Symposium on Mesozoic Terrestrial Ecosystems and Biota, Short Papers.
+Beijing: China Ocean Press. 33-37.
+Liu, J., Ramezani, J., Lu, L., Shang, Q-H, Xu, G-H, Wang, Y-Y and Yang, J-S.,
+2017. High-precision temporal calibration of Middle Triassic vertebrate
+biostratigraphy: U-Pb zircon constraints for the Sinokannemeyeria Fauna and
+Yonghesuchus. Vertebrata PalAsiatica, 55, 1-9.
+Martinelli, A.G., de la Fuente, M. and Abdala. F., 2009. Diademodon
+tetragonus Seeley, 1894 (Therapsida: Cynodontia) in the Triassic of South
+America and its biostratigraphic implications. Journal of Vertebrate
+Paleontology, 29, 852-862.
+Morales, M. and Shishkin, M.A., 2002. Re-assessment of Parotosuchus africanus
+(Broom), a capitosauroid temnospondyl amphibian from the Triassic of
+South Africa. Journal of Vertebrate Paleontology, 22, 1-11.
+Nesbitt, S., Butler, R.J. and Gower, D.J., 2013. A new archosauriform (Reptilia:
+Diapsida) from the Manda Beds (Middle Triassic) of southwestern Tanzania.
+PLoS ONE, 8, e72753. doi:10.1371/ journal.pone.0072753.
+Neveling, J., 2002. Biostratigraphic and sedimentological investigation of the
+contact between the Lystrosaurus and Cynognathus Assemblage Zones
+(Beaufort Group: Karoo Supergroup). Unpublished PhD thesis, University
+of the Witwatersrand, Johannesburg, 232pp.
+Neveling, J., 2004. Stratigraphic and sedimentological investigation of the contact
+between the Lystrosaurus and the Cynognathus Assemblage Zones (Beaufort
+Group: Karoo Supergroup). Council for Geoscience Bulletin, 137, 1-165.
+Neveling, J., Hancox, P.J. and Rubidge, B.S., 2005. Biostratigraphy of the lower
+Burgersdorp Formation (Beaufort Group; Karoo Supergroup) of South
+Africa - implications for the stratigraphic ranges of Early Triassic tetrapods.
+Palaeontologia africana, 41, 81-87.
+Ottone E.G., Monti, M., Marsicano, C.A., de la Fuente, M.S., Naipauer, M.,
+Armstrong, R. and Mancuso, A.C., 2014. A new Late Triassic age for the
+Puesto Viejo Group (San Rafael depocenter, Argentina): SHRIMP U-Pb
+zircon dating and biostratigraphic correlations across southern Gondwana.
+Journal of South American Earth Sciences 56, 186-199.
+Peecook, B.R., Sidor, C.A., Nesbitt, S.J., Smith, R.M.H., Steyer, J.S. and
+Angielczyk, K.D., 2013. A new silesaurid from the upper Ntawere Formation
+of Zambia (Middle Triassic) demonstrates the rapid diversiﬁcation of
+Silesauridae (Avemetatarsalia, dinosauriformes). Journal of Vertebrate
+Paleontology, 33, 1127-1137.
+Peecook, B.R., Steyer, J.S., Tabor, N.J. and Smith, R.M.H., 2018. Updated
+geology and vertebrate paleontology of the Triassic Ntawere Formation of
+northeastern Zambia, with special emphasis on the archosauromorphs;
+Journal of Vertebrate Paleontology, 37, Supplement to Number 6, 8-38.
+Renaut, A.J., 2000. A re-evaluation of the cranial morphology and taxonomy
+of Triassic dicynodont genus Kannemeyeria. Unpublished Ph.D thesis.
+University of the Witwatersrand, 394pp.
+
+Roopnarine, P.D., Angielczyk, K.D., Olroyd, S., Nesbitt, S.J., Botha-Brink, J.,
+Peecook, B.R., Day, M.O. and Smith, R.M.H., 2018. Comparative ecological
+dynamics of Permian-Triassic communities from the Karoo, Luangwa, and
+Ruhuhu basins of southern Africa; Journal of Vertebrate Paleontology, 37,
+Supplement to Number 6, 254-272.
+Rubidge, B.S., 2005. Re-uniting lost continents – fossil reptiles from the ancient
+Karoo and their wanderlust. South African Journal of Geology, 108, 135-172.
+Rubidge, B.S., Day, M.O., Barbolini, N., Hancox, P.J., Choiniere, J.N., Bamford,
+M.K., Viglietti, P.A., Mcphee, B.W. and Jirah, S., 2016. Advances in
+nonmarine Karoo biostratigraphy: signiﬁcance for understanding basin
+development. In: B. Linol and M.J. de Wit (Editors), Origin and Evolution
+of the Cape Mountains and Karoo Basin, Springer, 141-149.
+Rutherford, A.B., 2009. The sedimentology and stratigraphy of the Beaufort
+Group of the Karoo Supergroup in the vicinity of Thaba Nchu, central Free
+State Province. Unpublished MSc. dissertation, University of the
+Witwatersrand, Johannesburg, 232pp.
+Rutherford, A.B., Rubidge, B.S. and Hancox, P.J., 2015. Sedimentology and
+palaeontology of the Beaufort Group in the Free State Province supports
+a reciprocal foreland basin model for the Karoo Supergroup, South Africa.
+South African Journal of Geology, 118, 355-372.
+Seeley, H.G., 1888. Researches on the structure, organization and classiﬁcation
+of the fossil Reptilia. Philosophical Transactions of the Royal Society, 179,
+59-109.
+Seeley, H.G., 1889. Researches on the structure, organisation and classiﬁcation
+of the fossil Reptilia - VI. On the Anomodont Reptilia and their allies.
+Philosophical Transactions of the Royal Society, 180, 1-215.
+Seeley, H.G., 1892. Researches on the structure, organization and classiﬁcation
+of the fossil Reptilia. Philosophical Transactions of the Royal Society, 182,
+311-370.
+Seeley, H.G., 1894. Researches on the structure, organization and classiﬁcation
+of the fossil Reptilia - Part 9(3). On Diademodon. Ibid.,1,1029-1041.
+Seeley, H.G., 1895a. Researches on the Structure, Organization, and
+Classiﬁcation of the Fossil Reptilia. Part IX, Section 5. On the Skeleton in
+New Cynodontia from the Karroo Rocks. Philosophical Transactions of the
+Royal Society of London B, 186, 59-148.
+Seeley, H.G., 1895b. Researches on the structure, organization and
+classiﬁcation of the fossil Reptilia. Philosophical Transactions of the Royal
+Society, 185, 1019-1041.
+Seeley, H.G., 1904. XLIII. On a new type of Reptilian tooth (Ptychocynodon)
+from the upper Karroo Beds near Burghersdorp, Cape Colony. Annals and
+Magazine of Natural History, 14, 290-293.
+Seeley, H.G., 1907. Evidences of a mandible of a new labyrinthodont from
+the upper Karroo Beds of Cape Colony (Ptychosphenodon Browni).
+Geological Magazine 4, 433-436.
+Seeley, H.G., 1908a. On a fossil reptile with a trunk from the upper Karroo
+rocks of Cape Colony. Report British Association London, 78, 713.
+Seeley, H.G., 1908b. Additional evidence as to the dentition and structure of
+the skull in the South African fossil reptile genus Diademodon. Proceedings
+of the Zoological Society of London, 1908, 611-617.
+Shishkin, M.A., 2000. Olenekian-Anisian boundary in the history of land
+tetrapods. In: E. Gradinau (Editor), Workshop on the Lower-Middle Triassic
+(Olenekian-Anisian) Boundary. Triassic Subcommission, 7-10 June, Tulcea,
+Bucharest, Romania, 60-69. International Union of Geological Sciences.
+Shishkin, M.A. and Welman, J., 1994. A new ﬁnd of Trematosuchus (Amphibia,
+Temnospondyli) from the Cynognathus zone of South Africa.
+Palaeontologia africana, 31, 39-49.
+Shishkin, M.A., Ochev, V.G., Lovzovsky, V.R. and Novikov, I.V., 2000. Tetrapod
+biostratigraphy of the Triassic of Eastern Europe. 120-139. In: M.J. Benton,
+M.A. Shishkin, D.M. Unwinand and E.N. Kurochkin (Editors), The Age of
+Dinosaurs in Russia and Mongolia. Cambridge University Press, Cambridge,
+740pp.
+Shishkin, M.A., Rubidge, B.S. and Hancox, P.J., 1995. Vertebrate biozonation
+of the upper Beaufort Series of South Africa – a new look on correlation
+of the Triassic biotic events in Euramerica and southern Gondwana. 39-41.
+In: A. Sun and Y. Wang (Editors), Sixth Symposium on Mesozoic Terrestrial
+Ecosystems, Short Papers. China Ocean Press, Beijing, 250pp.
+Shishkin, M.A., Rubidge, B.S., Hancox, P.J. and Welman, J., 2004. Re-evaluation
+of Kestrosaurus Haughton, a capitosaurid temnospondyl amphibian from
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+237
+
+B I O S T R AT I G R A P HY OF THE C Y NOGNAT H US A S S E M B L AG E Z O N E ( B E AU F O R T G R O U P, KAROO SUPERGROUP), SOUTH AFRICA
+
+the upper Beaufort Group of South Africa. Russian Journal of Herpetology,
+11, 121-138.
+Sidor, C. A., R. Damiani, and W. R. Hammer., 2008. A new temnospondyl from
+Antarctica and a review of Fremouw Formation biostratigraphy. Journal of
+Vertebrate Paleontology 28, 656-663.
+Sidor, C.A. and Hopson, J.A., 2018. Cricodon metabolus (Cynodontia:
+Gomphodontia) from the Triassic Ntawere formation of northeastern
+Zambia: patterns of tooth replacement and a systematic review of the
+Trirachodontidae. Journal of Vertebrate Paleontology, 37, Supplement to
+Number 6, 39-64.
+Sidor, C.A., Steyer, J.S. and Hammer, W.R., 2014a. A new capitosauroid
+temnospondyl from the Middle Triassic upper Fremouw Formation of
+Antarctica. Journal of Vertebrate Paleontology, 34, 539-548.
+Sidor, C.A., Smith, R.M.H., Huttenlocker, A.K. and Peecook, B.R., 2014b. New
+Middle Triassic tetrapods from the upper Fremouw Formation of Antarctica
+and their depositional setting. Journal of Vertebrate Paleontology, 34,
+793-801.
+Smith, R.M.H., 1990. A review of the stratigraphy and sedimentary
+environments of the Karoo basin of South Africa. Journal of African Earth
+Sciences, 10, 117-137.
+Smith, R.M.H., Sidor, C.A., Angilczyk, K.D., Nesbitt, S.J. and Tabor, N.J., 2018.
+Taphonomy and paleoenvironments of Middle Triassic bone accumulations
+in the Lifua Member of the Manda Beds, Songea Group (Ruhuhu Basin),
+Tanzania. Journal of Vertebrate Paleontology, 37, Supplement to Number
+6, 65-79.
+South African Committee For Stratigraphy (S.A.C.S) 1980. Stratigraphy of South
+Africa, Part 1 (compiled by L.E. Kent). Lithostratigraphy of the Republic of
+South Africa, South West Africa/Namibia, and the Republic of
+Bophuthatswana, Transkei and Venda. Handbook Geological Survey of
+South Africa 8, 690pp.
+Stipanicic, P.N., Gonzálz Díaz, E.F. and Zavattieri, A.M., 2007. Grupo Puesto
+Viejo nom. transl. por Formación Puesto Viejo González Díaz, 1964, 1967:
+nuevas interpretaciones paleontológicas, estratigráﬁcas y cronológicas.
+Ameghiniana, 44, 759-761.
+
+238
+
+Van Eeden, O.R., 1937. The geology of the country around Bethlehem and
+Kestell with special reference to oil indications. Memoirs of the Geological
+Survey of the Union of South Africa, 33, 9-36.
+Warren, A., 1998. Laidleria uncovered: a redescription of Laidleria gracilis
+Kitching (1957), a temnospondyl from the Cynognathus Zone of South
+Africa. Zoological Journal of the Linnean Society, 122, 167-185.
+Watson, D.M.S., 1912. Mesosuchus browni gen. et sp. nov. Records of the
+Albany Museum 2, 298-299.
+Watson, D.M.S., 1914. The zones of the Beaufort beds of the Karoo system of
+South Africa. Geological Magazine, 1 (599), 203-208.
+Watson, D.M.S., 1942. On the Permian and Triassic tetrapods. Geological
+Magazine, 79, 81-116.
+Watson, D.M.S., 1958. A new labyrinthodont (Paracyclotosaurus) from the
+Upper Triassic of New South Wales. Bulletin British Museum Natural
+History, 3, 233-264.
+Weithofer, A., 1888. Uber einem neuen Dictnodonten (Dicynodon
+simocephalus) aus der Karrooformation Südafrika. Annalen des
+Naturhistorischen Museums in Wien 3, 1-6.
+Welman, J., Groenewald, G.H. and Kitching, J.W., 1991. Conﬁrmation of the
+occurrence of Cynognathus Zone (Kannemeyeria-Diademodon AssemblageZone) deposits (uppermost Beaufort Group) in the northeastern Orange
+Free State, South Africa. South African Journal of Geology, 94, 245-248.
+Wynd, B.M., Peecook, B.R., Whitney, M.R. and Sidor, C.A., 2018. The ﬁrst
+occurrence of Cynognathus crateronotus (Cynodontia: Cynognathia) in
+Tanzania and Zambia, with implications for the age and biostratigraphic
+correlation of Triassic strata in southern Pangea. Journal of Vertebrate
+Paleontology, 37, Supplement to Number 6, 228-239.
+Yates. A.M., Neumann, F.H. and Hancox, P.J., 2012. The earliest oost-Paleozoic
+freshwater bivalves preserved in coprolites from the Karoo Basin, South
+Africa. PLoS ONE, 7, 1-9.
+
+Editorial handling: R.M.H. Smith.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/217/5083368/217_0016_hancox_et_al.pdf
+by University of Exeter user
+
+

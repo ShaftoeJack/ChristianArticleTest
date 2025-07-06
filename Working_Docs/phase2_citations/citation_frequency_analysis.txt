@@ -1,0 +1,2991 @@
+# Citation Frequency Analysis - All Citations with Main Text Mentions
+Analysis date: 2025-07-05 06:14:44
+
+**ID**: 289 | **Frequency**: 160
+**Authors**: King G. M
+**Title**: Encyclopedia of paleoherpetology
+**Year**: 1988
+**Journal**: Part
+
+**ID**: 497 | **Frequency**: 120
+**Authors**: Sun A
+**Title**: The Chinese kannemeyerids
+**Year**: 1963
+**Journal**: Science
+
+**ID**: 90 | **Frequency**: 102
+**Authors**: Camp C. L. & Welles S. P
+**Title**: Part I
+**Year**: 1956
+**Journal**: The North American genus Placerias. Memoirs of the University of California
+
+**ID**: 322 | **Frequency**: 96
+**Authors**: Liu J
+**Title**: New discoveries from the Sinokannemeyeria-Shansisuchus Assemblage Zone: 1
+**Year**: 2015
+**Journal**: Kannemeyeriiformes from Shanxi, China. Vertebrata PalAsiatica
+
+**ID**: 258 | **Frequency**: 92
+**Authors**: Ivakhnenko M. F
+**Title**: Subclass Theromorpha, in Ivakhnenko M
+**Year**: 2008
+**Journal**: F
+
+**ID**: 48 | **Frequency**: 89
+**Authors**: Viglietti P. A. & Modesto S. P
+**Title**: New geochemical and palaeontological data from the Permian-Triassic boundary in the South African Karoo Basin test the synchronicity of terrestrial and marine extinctions
+**Year**: 2020
+**Journal**: Palaeogeography, Palaeoclimatology, Palaeoecology
+
+**ID**: 53 | **Frequency**: 87
+**Authors**: Botha J. & Smith R. M. H
+**Title**: Biostratigraphy of the Lystrosaurus declivis Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 491 | **Frequency**: 87
+**Authors**: Smith R. M. H., Rubidge B. S., Day M. O. & Botha J
+**Title**: Introduction to the tetrapod biozonation of the Karoo Supergroup
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 132 | **Frequency**: 82
+**Authors**: Cox C. B
+**Title**: New Triassic dicynodonts from South America, their origins and relationships
+**Year**: 1965
+**Journal**: Philosophical Transactions of the Royal Society of London B
+
+**ID**: 24 | **Frequency**: 80
+**Authors**: Bandyopadhyay S. & Ray S
+**Title**: Gondwana vertebrate faunas of India: their diversity and intercontinental relationships
+**Year**: 2020
+**Journal**: IUGS Episodes
+
+**ID**: 228 | **Frequency**: 73
+**Authors**: Hancox P. J., Neveling J. & Rubidge B. S
+**Title**: Biostratigraphy of the Cynognathus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 274 | **Frequency**: 73
+**Authors**: Kammerer C. F
+**Title**: The first skeletal evidence of a dicynodont from the lower Elliot Formation of South Africa
+**Year**: 2018
+**Journal**: Palaeontologia Africana
+
+**ID**: 21 | **Frequency**: 72
+**Authors**: Bandyopadhyay S
+**Title**: A kannemeyeriid dicynodont from the Middle Triassic Yerrapalli Formation
+**Year**: 1988
+**Journal**: Philosophical Transactions of the Royal Society of London B
+
+**ID**: 89 | **Frequency**: 71
+**Authors**: Camp C. L
+**Title**: Part II
+**Year**: 1956
+**Journal**: Triassic dicynodonts compared. Memoirs of the University of California
+
+**ID**: 286 | **Frequency**: 70
+**Authors**: Keyser A. W. & Cruickshank A. R. I
+**Title**: The origins and classification of Triassic dicynodonts
+**Year**: 1979
+**Journal**: Transactions of the Geological Society of South Africa
+
+**ID**: 102 | **Frequency**: 68
+**Authors**: Cheng Z.-W
+**Title**: Vertebrate fossils, in Mesozoic Stratigraphy and Paleontology of the Shaanxi-Gansu-Ningxia Basin
+**Year**: 1980
+**Journal**: Geological
+
+**ID**: 161 | **Frequency**: 67
+**Authors**: Day M. O. & Smith R. M. H
+**Title**: Biostratigraphy of the Endothiodon Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 536 | **Frequency**: 66
+**Authors**: Vega-Dias C. S. & Schultz C. L
+**Title**: Postcranial material of Jachaleria candelariensis Araújo and Gonzaga 1980 (Therapsida, Dicynodontia), Upper Triassic of Rio Grande do Sul
+**Year**: 2004
+**Journal**: PaleoBios
+
+**ID**: 541 | **Frequency**: 66
+**Authors**: Vega-Dias C., Maisch M. W. & Schultz C. L
+**Title**: A new phylogenetic analysis of Triassic dicynodonts (Therapsida) and the systematic position of Jachaleria candelariensis from the Upper Triassic of Brazil
+**Year**: 2004
+**Journal**: Neues Jahrbuch fur Geologie und Palaontologie - Abhandlungen
+
+**ID**: 423 | **Frequency**: 59
+**Authors**: Prasad B. & Pundir B. S
+**Title**: Gondwana biostratigraphy and geology of West Bengal Basin, and its correlation with adjoining Gondwana basins of India and western Bangladesh
+**Year**: 2020
+**Journal**: Journal of Earth System Science
+
+**ID**: 427 | **Frequency**: 59
+**Authors**: Racki G. & Lucas S. G
+**Title**: Timing of dicynodont extinction in light of an unusual Late Triassic Polish fauna and Cuvier’s approach to extinction
+**Year**: 2020
+**Journal**: Historical Biology
+
+**ID**: 330 | **Frequency**: 58
+**Authors**: Liu J., Abdala F., Angielczyk K. D. & Sidor C. A
+**Title**: Tetrapod turnover during the Permo-Triassic transition explained by temperature change
+**Year**: 2022
+**Journal**: Earth-Science Reviews
+
+**ID**: 438 | **Frequency**: 58
+**Authors**: Renaut A. J
+**Title**: A re-evaluation of the cranial morphology and taxonomy of the Triassic dicynodont genus Kannemeyeria
+**Year**: 2000
+**Journal**: PhD
+
+**ID**: 507 | **Frequency**: 58
+**Authors**: Surkov M. V
+**Title**: A new anomodont (Therapsida) from the Middle Triassic of the southern Fore-Urals
+**Year**: 2003
+**Journal**: Paleontological Journal
+
+**ID**: 326 | **Frequency**: 58
+**Authors**: Li J. & Sun A
+**Title**: Subclass Synapsida, in Li J
+**Year**: 2008
+**Journal**: 
+
+**ID**: 361 | **Frequency**: 57
+**Authors**: Marilao L. M., Kulik Z. T. & Sidor C. A
+**Title**: Histology of the preparietal: a neomorphic cranial element in dicynodont therapsids
+**Year**: 2020
+**Journal**: Journal
+
+**ID**: 302 | **Frequency**: 56
+**Authors**: Knutsen E. M. & Oerlemans E
+**Title**: The last dicynodont? Re-assessing the taxonomic and temporal relationships of a COMPTES RENDUS PALEVOL • 2023 • 22 (16) contentious Australian fossil
+**Year**: 2020
+**Journal**: Gondwana Research
+
+**ID**: 144 | **Frequency**: 56
+**Authors**: Cruickshank A. R. I
+**Title**: A new dicynodont genus from the Manda Formation of Tanzania (Tanganyika)
+**Year**: 1967
+**Journal**: Journal of Zoology
+
+**ID**: 319 | **Frequency**: 56
+**Authors**: Li J
+**Title**: Suborder Anomodontia, in Li J
+**Year**: 2015
+**Journal**: 
+
+**ID**: 545 | **Frequency**: 55
+**Authors**: Dollman K. N., Mdekazi C. & Choiniere J. N
+**Title**: Biostratigraphy of the Massospondylus Assemblage Zone (Stormberg Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 562 | **Frequency**: 54
+**Authors**: Whitney M. R. & Sidor C. A
+**Title**: Evidence of torpor in the tusks of Lystrosaurus from the Early Triassic of Antarctica
+**Year**: 2020
+**Journal**: Communications Biology
+
+**ID**: 510 | **Frequency**: 54
+**Authors**: Surkov M. V. & Benton M. J
+**Title**: The basicranium of dicynodonts (Synapsida) and its use in phylogenetic analysis
+**Year**: 2004
+**Journal**: Palaeontology
+
+**ID**: 10 | **Frequency**: 53
+**Authors**: Angielczyk K. D. & Kammerer C. F
+**Title**: The cranial morphology, phylogenetic position and biogeography of the upper Permian dicynodont Compsodon helmoedi van Hoepen (Therapsida, Anomodontia)
+**Year**: 2017
+**Journal**: Papers in Palaeontology
+
+**ID**: 278 | **Frequency**: 53
+**Authors**: Kammerer C. F., Angielczyk K. D. & Nesbitt S. J
+**Title**: Novel hind limb morphology in a kannemeyeriiform dicynodont from the Manda Beds (Songea Group, Ruhuhu Basin) of Tanzania
+**Year**: 2017
+**Journal**: Journal
+
+**ID**: 46 | **Frequency**: 53
+**Authors**: Suarez C. A., Chapelle K. E. J. & Choiniere J. N
+**Title**: A chronostratigraphic framework for the upper Stormberg Group: implications for the Triassic-Jurassic boundary in southern Africa
+**Year**: 2020
+**Journal**: Earth-Science Reviews
+
+**ID**: 159 | **Frequency**: 53
+**Authors**: Day M. O. & Rubidge B. S
+**Title**: Biostratigraphy of the Eodicynodon Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 160 | **Frequency**: 53
+**Authors**: Day M. O. & Rubidge B. S
+**Title**: Biostratigraphy of the Tapinocephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 200 | **Frequency**: 53
+**Authors**: Looy C. V. & Martini A. M
+**Title**: The base of the Lystrosaurus Assemblage Zone, Karoo Basin, predates the end-Permian marine extinction
+**Year**: 2020
+**Journal**: Nature Communications 11: 1428. https://doi. org/10.1038/s41467-020-15243-7 Gastaldo R. A., Neveling J., Geissman J. W. & Looy C. V. 2019. — Testing the Daptocephalus and Lystrosaurus Assemblage Zones in a lithostratographic, magnetostratigraphic, and palynological framework in the Free State, South Africa. Palaios
+
+**ID**: 578 | **Frequency**: 53
+**Authors**: Marko L. & Linnemann U
+**Title**: Mesozoic deposits of SW Gondwana (Namibia): unravelling Gondwanan sedimentary dispersion drivers by detrital zircon
+**Year**: 2020
+**Journal**: International Journal of Earth Sciences
+
+**ID**: 381 | **Frequency**: 52
+**Authors**: Morato L., Vega-Dias C. S. & Schultz C. L
+**Title**: Taxonomic revision of Dinodontosaurus Romer, 1943 (Therapsida, Dicynodontia)
+**Year**: 2006
+**Journal**: Ameghiniana
+
+**ID**: 402 | **Frequency**: 51
+**Authors**: Olroyd S. L. & Sidor C. A
+**Title**: Nomenclature, comparative anatomy, and evolution of the reflected lamina of the angular in non-mammalian synapsids
+**Year**: 2022
+**Journal**: Journal
+
+**ID**: 377 | **Frequency**: 46
+**Authors**: Morato L
+**Title**: Dinodontosaurus (Synapsida, Dicynodontia): reconstituições morfológicas e aspectos biomecânicos
+**Year**: 2006
+**Journal**: MSc
+
+**ID**: 133 | **Frequency**: 46
+**Authors**: Cox C. B
+**Title**: The Chañares (Argentina) Triassic reptile fauna
+**Year**: 1968
+**Journal**: IV. The dicynodont fauna. Breviora
+
+**ID**: 566 | **Frequency**: 44
+**Authors**: Yeh H.-K
+**Title**: New dicynodont from Sinokannemeyeria-fauna from Shansi
+**Year**: 1959
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 106 | **Frequency**: 44
+**Authors**: Cluver M. A
+**Title**: The cranial morphology of the dicynodont genus Lystrosaurus
+**Year**: 1971
+**Journal**: Annals of the South African Museum
+
+**ID**: 118 | **Frequency**: 44
+**Authors**: Colbert E. H. & Cosgriff J. W
+**Title**: Labyrinthodont amphibians from Antarctica
+**Year**: 1974
+**Journal**: American Museum Novitates
+
+**ID**: 227 | **Frequency**: 43
+**Authors**: Hancox P. J., Angielczyk K. D. & Rubidge B. S
+**Title**: Angonisaurus and Shansiodon, dicynodonts (Therapsida, Anomodontia) from subzone C of the Cynognathus Assemblage Zone (Middle Triassic) of South Africa
+**Year**: 2013
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 538 | **Frequency**: 43
+**Authors**: Vega-Dias C. S. & Schwanke C
+**Title**: Reevaluating the link of Stahleckeria von Huene to Ischigualastia Cox, two Middle/Late Triassic tuskless dicynodonts of South America
+**Year**: 2004
+**Journal**: Ameghiniana
+
+**ID**: 539 | **Frequency**: 43
+**Authors**: Vega-Dias C. S. & Schwanke C
+**Title**: Verifying the validity of Jachaleria Bonaparte (Therapsida, Dicynodontia)
+**Year**: 2004
+**Journal**: Ameghiniana
+
+**ID**: 362 | **Frequency**: 43
+**Authors**: Marsicano C. A. & Barredo S. P
+**Title**: A Triassic tetrapod footprint assemblage from southern South America: Palaeobiogeographical and evolutionary implications
+**Year**: 2004
+**Journal**: Palaeogeography,
+
+**ID**: 347 | **Frequency**: 43
+**Authors**: Lucas S. G. & Heckert A. B
+**Title**: Skull of the dicynodont Placerias from the Upper Triassic of Arizona
+**Year**: 2002
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 276 | **Frequency**: 42
+**Authors**: Kammerer C. F. & Smith R. M. H
+**Title**: An early geikiid dicynodont from the Tropidostoma Assemblage Zone (late Permian) of South Africa
+**Year**: 2017
+**Journal**: PeerJ
+
+**ID**: 134 | **Frequency**: 42
+**Authors**: Cox C. B
+**Title**: Two new dicynodonts from the Triassic Ntawere Formation, Zambia
+**Year**: 1969
+**Journal**: Bulletin of the British Museum (Natural History), Geology
+
+**ID**: 115 | **Frequency**: 41
+**Authors**: Colbert E. H
+**Title**: Lystrosaurus from Antarctica
+**Year**: 1974
+**Journal**: American Museum Novitates
+
+**ID**: 210 | **Frequency**: 40
+**Authors**: Govender R. & Yates A. M
+**Title**: Dicynodont postcrania from the Triassic of Namibia and their implication for the systematics of Kannemeyeriiform dicynodonts
+**Year**: 2009
+**Journal**: Palaeontologia Africana
+
+**ID**: 568 | **Frequency**: 40
+**Authors**: Young C. C
+**Title**: On two skeletons of Dicynodontia from Sinkiang
+**Year**: 1935
+**Journal**: Bulletin of the Geological Survey of China
+
+**ID**: 211 | **Frequency**: 38
+**Authors**: Govender R., Hancox P. J. & Yates A. M
+**Title**: Re-evaluation of the postcranial skeleton of the Triassic dicynodont Kannemeyeria simocephalus from the Cynognathus Assemblage Zone (Subzone B) of South Africa
+**Year**: 2008
+**Journal**: Palaeontologia Africana
+
+**ID**: 401 | **Frequency**: 38
+**Authors**: Olroyd S. L
+**Title**: The function of the reflected lamina in therapsids and the origin of the mammalian middle ear
+**Year**: 2022
+**Journal**: PhD
+
+**ID**: 125 | **Frequency**: 37
+**Authors**: Cosgriff J. W. & Hammer W. R
+**Title**: New species of Dicynodontia from the Fremouw Formation
+**Year**: 1979
+**Journal**: Antarctic Journal of the United States
+
+**ID**: 359 | **Frequency**: 36
+**Authors**: Mancuso A. C. & Irmis R. B
+**Title**: The large-bodied dicynodont Stahleckeria (Synapsida, Anomodontia) from the Upper Triassic (Carnian) Chañares Formation (Argentina); new data for Triassic Gondwanan biogeography
+**Year**: 2019
+**Journal**: Ameghiniana
+
+**ID**: 357 | **Frequency**: 36
+**Authors**: Maisch M. W. & Matzke A. T
+**Title**: Sungeodon kimkraemerae n
+**Year**: 2014
+**Journal**: gen. n. sp., the oldest kannemeyeriiform (Therapsida, Dicynodontia) and its implications for the early diversification of large herbivores after the P/T boundary. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen
+
+**ID**: 209 | **Frequency**: 36
+**Authors**: Govender R
+**Title**: Morphological and Functional Analysis of the Postcranial Anatomy of Two Dicynodont Morphotypes from the Cynognathus Assemblage Zone of South Africa Nad their Taxonomic Implications
+**Year**: 2005
+**Journal**: PhD
+
+**ID**: 54 | **Frequency**: 35
+**Authors**: Botha-Brink J., Huttenlocker A. K. & Modesto S. P
+**Title**: Vertebrate paleontology of Nooitgedacht 68: A Lystrosaurus maccaigi-rich Permo-Triassic boundary locality in South Africa, in Kammerer C
+**Year**: 2014
+**Journal**: F.,
+
+**ID**: 486 | **Frequency**: 35
+**Authors**: Smith R. M. H. & Botha-Brink J
+**Title**: Anatomy of a mass extinction: Sedimentological and taphonomic evidence for drought-induced die-offs at the Permo-Triassic boundary in the main Karoo Basin, South Africa
+**Year**: 2014
+**Journal**: Palaeogeography, Palaeoclimatology, Palaeoecology
+
+**ID**: 512 | **Frequency**: 34
+**Authors**: Surkov M. V., Kalandadze N. N. & Benton M. J
+**Title**: Lystrosaurus georgi, a dicynodont from the Lower Triassic of Russia
+**Year**: 2005
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 59 | **Frequency**: 34
+**Authors**: Brink A. S
+**Title**: Illustrated bibliographical catalogue of the Synapsida
+**Year**: 1988
+**Journal**: Part
+
+**ID**: 304 | **Frequency**: 34
+**Authors**: Kulik Z. T. & Sidor C. A
+**Title**: A test of Bergmann’s rule in the Early Triassic: latitude, body size, and sampling in Lystrosaurus
+**Year**: 2023
+**Journal**: Paleobiology
+
+**ID**: 324 | **Frequency**: 33
+**Authors**: Liu J
+**Title**: On kannemeyeriiform dicynodonts from the Shaanbeikannemeyeria Assemblage Zone of the Ordos Basin, China
+**Year**: 2022
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 369 | **Frequency**: 33
+**Authors**: Matzke N. J
+**Title**: Model selection in historical biogeography reveals that founder-event speciation is a crucial process in island clades
+**Year**: 2014
+**Journal**: Systematic Biology
+
+**ID**: 386 | **Frequency**: 33
+**Authors**: Nesbitt S. J. & Angielczyk K. D
+**Title**: New evidence of large dicynodonts in the upper Moenkopi Formation (Middle Triassic) of northern Arizona
+**Year**: 2002
+**Journal**: PaleoBios
+
+**ID**: 251 | **Frequency**: 33
+**Authors**: Hunt A. P. & Lucas S. G
+**Title**: Late Triassic tetrapod tracks of western North America
+**Year**: 2007
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 253 | **Frequency**: 33
+**Authors**: Hunt A. P., Lucas S. G., Spielmann J. A. & Lerner A. J
+**Title**: A review of vertebrate coprolites of the Triassic with descriptions of new Mesozoic ichnotaxa
+**Year**: 2007
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 333 | **Frequency**: 32
+**Authors**: Long R. A. & Murry P. A
+**Title**: Late Triassic (Carnian and Norian) tetrapods from the southwestern United States
+**Year**: 1995
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 345 | **Frequency**: 32
+**Authors**: Lucas S. G. & Wild R
+**Title**: A Middle Triassic dicynodont from Germany and the biochronology of Triassic dicynodonts
+**Year**: 1995
+**Journal**: Stuttgarter Beiträge zur Naturkunde B
+
+**ID**: 103 | **Frequency**: 32
+**Authors**: Chowdhury T. K. R
+**Title**: Two new dicynodonts from the Triassic Yerrapali Formation of Central India
+**Year**: 1970
+**Journal**: Palaeontology
+
+**ID**: 171 | **Frequency**: 32
+**Authors**: Domnanovich N. S. & Marsicano C. A
+**Title**: The Triassic dicynodont Vinceria (Therapsida, Anomodontia) from Argentina and a discussion on basal Kannemeyeriiformes
+**Year**: 2012
+**Journal**: Geobios
+
+**ID**: 395 | **Frequency**: 32
+**Authors**: Nicolas M. & Rubidge B. S
+**Title**: Changes in Permo-­Triassic terrestrial tetrapod ecological representation in the Beaufort Group (Karoo Supergroup) of South Africa
+**Year**: 2010
+**Journal**: Lethaia
+
+**ID**: 29 | **Frequency**: 32
+**Authors**: Battail B. & Surkov M. V
+**Title**: Mammal-like reptiles from Russia, in Benton M
+**Year**: 2000
+**Journal**: J.,
+
+**ID**: 105 | **Frequency**: 31
+**Authors**: Cignoni P., Callieri M., Corsini M., Dellepiane M., Ganovelli F. & Ranzuglia G
+**Title**: MeshLab: an open-source mesh processing tool
+**Year**: 2008
+**Journal**: Sixth Eurographics Italian Chapter Conference: 129-136. Citton P., Díaz-Martínez I., de Valais S. & Cónsole-Gonella C. 2018a. — Triassic pentadactyl tracks from the Los Menucos Group (Río Negro province, Patagonia Argentina): possible constraints on the autopodial posture of Gondwanan trackmakers. PeerJ 6: e5358. https://doi.org/10.7717/peerj.5358 Citton P., Díaz-Martínez I., de Valais S., González S. N., Greco G. A., Falco J. I. & Cónsole-Gonella C. 2018b. — New ichnological material from the Vera Formation (Los Menucos Complex, Triassic), Puesto Vera Locality, Río Negro Province, Argentina: A first account. Reunión de Comunicaciones de la Asociación Paleontológica Argentina, 2018: R27. Citton P., Díaz-Martínez I., de Valais S., González S. N., Greco G., Falco J. I. & Cónsole-Gonella C. 2019. — New ichnological material from the Vera Formation (Los Menucos Complex, Triassic), Puesto Vera locality, Río Negro province, Argentina: a first account. PE-APA 18: R27. Citton P., de Valais S., Díaz-Martínez I., González S. N., Greco G. A., Cónsole-Gonella C. & Leonardi G. 2021. — Age-constrained therapsid tracks from a mid-latitude upland (Permian-Triassic transition, Los Menucos Complex, Argentina). Journal of South American Earth Sciences
+
+**ID**: 358 | **Frequency**: 31
+**Authors**: Maisch M. W., Vega C. S. & Schoch R. R
+**Title**: No dicynodont in the Keuper - a reconsideration of the occurrence of aff
+**Year**: 2009
+**Journal**: Dinodontosaurus in the Middle Triassic of Southern Germany. Palaeodiversity
+
+**ID**: 47 | **Frequency**: 31
+**Authors**: Botha J
+**Title**: The paleobiology and paleoecology of South African Lystrosaurus
+**Year**: 2020
+**Journal**: PeerJ
+
+**ID**: 479 | **Frequency**: 31
+**Authors**: Silva R. C. da, Carvalho I. de S., Fernandes A. C. S. & Ferigolo J
+**Title**: Pegadas teromorfóides do Triássico Superior (Formação Santa Maria) do Sul do Brasil
+**Year**: 2008
+**Journal**: Revista Brasileira de Geociências
+
+**ID**: 52 | **Frequency**: 31
+**Authors**: Botha-Brink J. & Angielczyk K. D
+**Title**: Do extraordinarily high growth rates in Permo-Triassic dicynodonts (Therapsida, Anomodontia) explain their success before and after the endPermian extinction? Zoological Journal of the Linnean Society 160 (2): 341-365
+**Year**: 2010
+**Journal**: 
+
+**ID**: 511 | **Frequency**: 31
+**Authors**: Surkov M. V. & Benton M. J
+**Title**: Head kinematics and feeding adaptations of the Permian and Triassic dicynodonts
+**Year**: 2008
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 208 | **Frequency**: 30
+**Authors**: Goloboff P. A., Farris S. & Nixon K
+**Title**: TNT, a free programm for phylogenetic analysis
+**Year**: 2008
+**Journal**: Cladistics
+
+**ID**: 440 | **Frequency**: 30
+**Authors**: Renaut A. J., Damiani R. J., Yates A. M. & Hancox P. J
+**Title**: A taxonomic note concerning a dicynodont (Synapsida: Anomodontia) from the Middle Triassic of East Africa
+**Year**: 2003
+**Journal**: Palaeontologia Africana
+
+**ID**: 492 | **Frequency**: 30
+**Authors**: Smith R. M. H., Botha J. & Viglietti P. A
+**Title**: Taphonomy of drought afflicted tetrapods in the Early Triassic Karoo Basin, South Africa
+**Year**: 2022
+**Journal**: Palaeogeography, Palaeoclimatology, Palaeoecology
+
+**ID**: 327 | **Frequency**: 30
+**Authors**: Liu J., Li J.-L. & Cheng Z.-W
+**Title**: The Lystrosaurus fossils from Xinjiang and their bearing on the terrestrial Permian-Triassic boundary
+**Year**: 2002
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 153 | **Frequency**: 30
+**Authors**: Damiani R. J., Neveling J., Modesto S. P. & Yates A. M
+**Title**: Barendskraal, a diverse amniote locality from the Lystrosaurus Assemblage Zone, Early Triassic of South Africa
+**Year**: 2003
+**Journal**: Palaeontologia Africana
+
+**ID**: 137 | **Frequency**: 30
+**Authors**: Cox C. B. & Li J. L
+**Title**: A new genus of Triassic dicynodont from East Africa and its classification
+**Year**: 1983
+**Journal**: Palaeontology
+
+**ID**: 58 | **Frequency**: 30
+**Authors**: Brink A. S
+**Title**: Illustrated bibliographical catalogue of the Synapsida
+**Year**: 1986
+**Journal**: Part
+
+**ID**: 431 | **Frequency**: 30
+**Authors**: Ray S
+**Title**: Functional and evolutionary aspects of the postcranial anatomy of dicynodonts
+**Year**: 2006
+**Journal**: Palaeontology
+
+**ID**: 376 | **Frequency**: 29
+**Authors**: Modesto S. P. & Botha-Brink J
+**Title**: A burrow cast with Lystrosaurus skeletal remains from the Lower Triassic of South Africa
+**Year**: 2010
+**Journal**: Palaios
+
+**ID**: 202 | **Frequency**: 29
+**Authors**: Gaston R., Lockley M. G., Lucas S. G. & Hunt A. P
+**Title**: Grallator-dominated fossil footprint assemblages and associated enigmatic footprints from the Chinle group (Upper Triassic), Gateway Area, Colorado
+**Year**: 2003
+**Journal**: Ichnos
+
+**ID**: 331 | **Frequency**: 29
+**Authors**: Lockley M. G. & Hunt A. P
+**Title**: Dinosaur tracks and other fossil footprints of the Western United States
+**Year**: 1995
+**Journal**: Columbia
+
+**ID**: 252 | **Frequency**: 28
+**Authors**: Hunt A. P., Lucas S. G. & Lockley M. G
+**Title**: Taxonomy and stratigraphic and facies significance of vertebrate coprolites of the Upper Triassic Chinle Group, western United States
+**Year**: 1998
+**Journal**: Ichnos
+
+**ID**: 141 | **Frequency**: 28
+**Authors**: Crozier E. A
+**Title**: Preliminary report on two Triassic dicynodonts from Zambia
+**Year**: 1970
+**Journal**: Palaeontologia Africana
+
+**ID**: 298 | **Frequency**: 28
+**Authors**: Klein H. & Lucas S. G
+**Title**: Review of the tetrapod ichnofauna of the Moenkopi Formation/Group (Early-Middle Triassic) of the American Southwest
+**Year**: 2010
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 356 | **Frequency**: 28
+**Authors**: Maisch M. W
+**Title**: An unusual historic dicynodont specimen (Therapsida: Dicynodontia) from the Dinodontosaurus Assemblage Zone of the Santa Maria Formation (Middle Triassic) of Rio Grande do Sul, Brazil
+**Year**: 2021
+**Journal**: PalZ
+
+**ID**: 241 | **Frequency**: 27
+**Authors**: Heckert A. B. & Lucas S. G
+**Title**: Stratigraphy and paleontology of the lower Chinle Group (Adamanian: latest Carnian) in the vicinity of St
+**Year**: 2003
+**Journal**: Johns, Arizona. New Mexico Geological Society Guidebook
+
+**ID**: 348 | **Frequency**: 27
+**Authors**: Lucas S. G., Heckert A. B. & Hunt A. P
+**Title**: Tetrapod footprints from the Middle Triassic (Perovkan-early Anisian) Moenkopi Formation, west-central New Mexico
+**Year**: 2003
+**Journal**: New
+
+**ID**: 2 | **Frequency**: 27
+**Authors**: Abdala F. & Smith R. M. H
+**Title**: A middle Triassic cynodont fauna from Namibia and its implications for the biogeography of Gondwana
+**Year**: 2009
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 325 | **Frequency**: 27
+**Authors**: Liu J. & Li J.-L
+**Title**: A new material of kannemeyerid from Xinjiang and the restudy of Parakannemeyeria brevirostris
+**Year**: 2003
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 85 | **Frequency**: 26
+**Authors**: Budziszewska-Karwowska E., Bujok A. & Sadlok G
+**Title**: Bite marks on an Upper Triassic dicynodontid tibia from Zawiercie, Kraków-Częstochowa Upland, southern Poland
+**Year**: 2010
+**Journal**: Palaios 25: 415421. https://doi.org/10.2110/palo.2009.p09-136r Butler R. J., Barrett P. M., Nowbath S. & Upchurch P. 2009. — Estimating the effects of sampling biases on pterosaur diversity patterns: Implications for hypotheses of bird/pterosaur competitive replacement. Paleobiology
+
+**ID**: 495 | **Frequency**: 26
+**Authors**: Sues H.-D., Olsen P. E., Carter J. G. & Scott D. M
+**Title**: A new crocodylomorph archosaur from the Upper Triassic of North Carolina
+**Year**: 2003
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 547 | **Frequency**: 26
+**Authors**: Viglietti P. A., Rojas A., Rosvall M., Klimes B. & Angielczyk K. D
+**Title**: Network-based biostratigraphy for the late Permian to mid-Triassic Beaufort Group Karoo
+**Year**: 2022
+**Journal**: Palaeontology
+
+**ID**: 478 | **Frequency**: 26
+**Authors**: Sidor C. A., Smith R. M. H., Huttenlocker A. K. & Peecook B. R
+**Title**: New Middle Triassic tetrapods from the upper Fremouw Formation of Antarctica and their depositional setting
+**Year**: 2014
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 263 | **Frequency**: 26
+**Authors**: Jasinoski S. C., Rayfield E. J. & Chinsamy A
+**Title**: Comparative feeding biomechanics of Lystrosaurus and the generalized dicynodont Oudenodon
+**Year**: 2009
+**Journal**: Anatomical Record
+
+**ID**: 371 | **Frequency**: 26
+**Authors**: Medici G., West L. J., Mountney N. P. & Welch M
+**Title**: Permeability of rock discontinuities and faults in the Triassic Sherwood Sandstone Group (UK): insights for management of fluvio-aeolian aquifers worldwide
+**Year**: 2019
+**Journal**: Hydrogeology Journal
+
+**ID**: 26 | **Frequency**: 26
+**Authors**: Barrett P. M., McGowan A. J. & Page V
+**Title**: Dinosaur diversity and the rock record
+**Year**: 2009
+**Journal**: Proceedings of the Royal Society B
+
+**ID**: 561 | **Frequency**: 26
+**Authors**: Weithofer A
+**Title**: Ueber einen neuen Dicynodonten (Dicynodon simocephalus) aus der Karrooformation Sudafrikas
+**Year**: 1888
+**Journal**: Annalen des K. K. Naturhistorischen Hofmuseum 3: 1-5. Whiteside J. H., Grogan D. S., Olsen P. E. & Kent D. V. 2011. — Climatically driven biogeographic provinces of Late Triassic tropical Pangea. Proceedings of the National Academy of Sciences of the United States of America
+
+**ID**: 484 | **Frequency**: 26
+**Authors**: Smith R. M. H
+**Title**: Biostratigraphy of the Cistecephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 370 | **Frequency**: 26
+**Authors**: McKie T. & Williams B
+**Title**: Triassic palaeogeography and fluvial dispersal across the northwest European basins
+**Year**: 2009
+**Journal**: Geological Journal
+
+**ID**: 463 | **Frequency**: 26
+**Authors**: Schultz C. L. & Vega-Dias C. S
+**Title**: Evidences of predation or scavenging in a dicynodont scapula from the Upper Triassic of South Brazil
+**Year**: 2003
+**Journal**: Ameghiniana
+
+**ID**: 535 | **Frequency**: 26
+**Authors**: Vega-Dias C. S. & Schultz C. L
+**Title**: A paleopathology in Jachaleria candelariensis Araújo and Gonzaga 1980 (Synapsida, Dicynodontia) from the Upper Triassic of Southern Brazil
+**Year**: 2003
+**Journal**: Ameghiniana
+
+**ID**: 284 | **Frequency**: 26
+**Authors**: Keyser A. W
+**Title**: A new Triassic vertebrate fauna from South West Africa
+**Year**: 1973
+**Journal**: Palaeontologia Africana
+
+**ID**: 496 | **Frequency**: 26
+**Authors**: Sun A
+**Title**: On a new genus of kannemeyerids from Ningwu, Shansi
+**Year**: 1960
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 165 | **Frequency**: 26
+**Authors**: Demathieu G. & Haubold H
+**Title**: Stratigraphische Aussagen der Tetrapodenfährten aus der terrestrischen Trias Europas
+**Year**: 1971
+**Journal**: Geologie
+
+**ID**: 231 | **Frequency**: 26
+**Authors**: Haubold H
+**Title**: Encyclopedia of paleoherpetology
+**Year**: 1971
+**Journal**: Part
+
+**ID**: 437 | **Frequency**: 25
+**Authors**: Reichel M., Schultz C. L. & Soares M. B
+**Title**: A new traversodontid cynodont (Therapsida, Rucynodontia) from the Middle Triassic Santa Maria formation of Rio Grande Do Sul, Brazil
+**Year**: 2009
+**Journal**: Palaeontology
+
+**ID**: 151 | **Frequency**: 25
+**Authors**: Damiani R. J. & Kitching J. W
+**Title**: A new brachyopid temnospondyl from the Cynognathus Assemblage Zone, upper Beaufort Group, South Africa
+**Year**: 2003
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 213 | **Frequency**: 25
+**Authors**: Green J. L., Schweitzer M. H. & Lamm E. T
+**Title**: Limb bone histology and growth in Placerias hesternus (Therapsida: Anomodontia) from the Upper Triassic of North America
+**Year**: 2010
+**Journal**: Palaeontology
+
+**ID**: 199 | **Frequency**: 25
+**Authors**: Gardner J. D., Surya K. & Organ C. L
+**Title**: Early tetrapodomorph biogeography: Controlling for fossil record bias in macroevolutionary analyses
+**Year**: 2019
+**Journal**: Comptes Rendus Palevol
+
+**ID**: 458 | **Frequency**: 25
+**Authors**: Rubin H. & Rubin K
+**Title**: Hydrogeochemistry of the Upper Triassic formations in the Woźniki area (borehole K-1)
+**Year**: 2009
+**Journal**: Biuletyn Panstwowego Instytutu Geologicznego
+
+**ID**: 305 | **Frequency**: 25
+**Authors**: Kutty T. S. & Sengupta D. P
+**Title**: The Late Triassic formations of the Pranhita Godavari Valley and their faunal succession – a reappraisal
+**Year**: 1989
+**Journal**: Indian Journal of Earth Sciences
+
+**ID**: 308 | **Frequency**: 25
+**Authors**: Kutty T. S. & Sengupta D. P
+**Title**: The Late Triassic formations of the Pranhita Godavari Valley and their faunal succession - a reappraisal
+**Year**: 1989
+**Journal**: Indian Journal of Earth Sciences
+
+**ID**: 508 | **Frequency**: 24
+**Authors**: Surkov M. V
+**Title**: The first dicynodont from the terminal Lower Triassic of European Russia, with special reference to the evolution of the masticatory apparatus of these therapsids
+**Year**: 2005
+**Journal**: Paleontological Journal
+
+**ID**: 264 | **Frequency**: 24
+**Authors**: Jasinoski S. C., Rayfield E. J. & Chinsamy A
+**Title**: Functional implications of dicynodont cranial suture morphology
+**Year**: 2010
+**Journal**: Journal of Morphology
+
+**ID**: 405 | **Frequency**: 24
+**Authors**: Olsen P. E., Kent D. V. & Whiteside J. H
+**Title**: Implications of the Newark Supergroup-based astrochronology and geomagnetic polarity time scale (Newark-APTS) for the tempo and mode of the early diversification of the Dinosauria
+**Year**: 2010
+**Journal**: Earth and Environmental Science Transactions of the Royal Society of Edinburgh 101 (3-4): 201-229. https://10.1017/S1755691011020032 Ordoñez M. de los A., Cassini G. H., Vizcaíno S. F. & Marsicano C. A. 2019. — A geometric morphometric approach to the analysis of skull shape in Triassic dicynodonts (Therapsida, Anomodontia) from South America. Journal of Morphology
+
+**ID**: 300 | **Frequency**: 24
+**Authors**: Klein H. & Lucas S. G
+**Title**: The Triassic tetrapod footprint record
+**Year**: 2021
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 285 | **Frequency**: 24
+**Authors**: Keyser A. W
+**Title**: Evolutionary trends in Triassic dicynodontia (Reptilia Therapsida)
+**Year**: 1974
+**Journal**: Palaeontologia Africana
+
+**ID**: 462 | **Frequency**: 24
+**Authors**: Schoch R. R
+**Title**: A dicynodont mandible from the Triassic of Germany forms the first evidence of large herbivores in the Central European Carnian
+**Year**: 2012
+**Journal**: Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen
+
+**ID**: 564 | **Frequency**: 24
+**Authors**: Williston S. W
+**Title**: Notice of some new reptiles from the Upper Trias of Wyoming
+**Year**: 1904
+**Journal**: The Journal of Geology
+
+**ID**: 434 | **Frequency**: 24
+**Authors**: Ray S., Bandyopadhyay S. & Bhawal D
+**Title**: Growth patterns as deduced from bone microstructure of some selected neotherapsids with special emphasis on dicynodonts: phylogenetic implications
+**Year**: 2009
+**Journal**: Palaeoworld
+
+**ID**: 435 | **Frequency**: 24
+**Authors**: Ray S., Mukherjee D. & Bandyopadhyay S
+**Title**: Growth patterns of fossil vertebrates as deduced from bone microstructure: case studies from India
+**Year**: 2009
+**Journal**: Journal of Biosciences
+
+**ID**: 108 | **Frequency**: 24
+**Authors**: Cluver M. A. & King G. M
+**Title**: A reassessment of the relationships of Permian Dicynodontia (Reptilia, Therapsida) and a new classification of dicynodonts
+**Year**: 1983
+**Journal**: Annals of the South African Museum
+
+**ID**: 412 | **Frequency**: 24
+**Authors**: Owen R
+**Title**: Descriptive and Illustrated Catalogue of the Fossil Reptilia of South Africa in the Collection of the British Museum
+**Year**: 1876
+**Journal**: Taylor
+
+**ID**: 506 | **Frequency**: 24
+**Authors**: Surkov M. V
+**Title**: On the historical biogeography of Middle Triassic anomodonts
+**Year**: 2000
+**Journal**: Paleontological Journal
+
+**ID**: 7 | **Frequency**: 24
+**Authors**: Angielczyk K. D
+**Title**: Redescription, phylogenetic position, and stratigraphic significance of the dicynodont genus Odontocyclops (Synapsida: Anomodontia)
+**Year**: 2002
+**Journal**: Journal of Paleontology
+
+**ID**: 162 | **Frequency**: 24
+**Authors**: DeFauw S. L
+**Title**: The appendicular skeleton of African dicynodonts
+**Year**: 1986
+**Journal**: PhD
+
+**ID**: 193 | **Frequency**: 23
+**Authors**: Escobar J., Martinelli A., Ezcurra M., Fiorelli L., Von Baczko B., Novas F. & Desojo J
+**Title**: A reassessment of the mandibular anatomy of Dinodontosaurus brevirostris (Synapsida, Dicynodontia) from the Ladinian-early Carnian Chañares Formation (northwestern Argentina), and its taxonomic and phylogenetic significance
+**Year**: 2023
+**Journal**: Ameghiniana
+
+**ID**: 563 | **Frequency**: 23
+**Authors**: Whitney M. R., Tse Y. T. & Sidor C. A
+**Title**: Histological evidence of trauma in tusks of southern African dicynodonts
+**Year**: 2019
+**Journal**: Palaeontologia Africana
+
+**ID**: 428 | **Frequency**: 23
+**Authors**: Ramezani J., Fastovsky D. E. & Bowring S. A
+**Title**: Revised chronostratigraphy of the Lower Chinle Formation strata in Arizona and New Mexico (USA): high-precision U-Pb geochronological constraints on the Late Triassic evolution of dinosaurs
+**Year**: 2014
+**Journal**: American Journal of Science
+
+**ID**: 360 | **Frequency**: 23
+**Authors**: De Klerk W. J., Sciscio L. & Groenewald G. H
+**Title**: Permian-Triassic vertebrate footprints from South Africa: Ichnotaxonomy, producers and biostratigraphy through two major faunal crises
+**Year**: 2019
+**Journal**: Gondwana Research
+
+**ID**: 310 | **Frequency**: 23
+**Authors**: Espinoza N. & Umazano A. M
+**Title**: Middle Triassic Pentasauropus-dominated ichnofauna from western Gondwana: Ichnotaxonomy, palaeoenvironment, biostratigraphy and palaeobiogeography
+**Year**: 2019
+**Journal**: Palaeogeography, Palaeoclimatology, Palaeoecology
+
+**ID**: 8 | **Frequency**: 23
+**Authors**: Angielczyk K. D. & Kurkin A. A
+**Title**: Phylogenetic analysis of Russian Permian dicynodonts (Therapsida: Anomodontia): Implications for Permian biostratigraphy and Pangaean biogeography
+**Year**: 2003
+**Journal**: Zoological Journal of the Linnean Society
+
+**ID**: 521 | **Frequency**: 23
+**Authors**: Thulborn T. & Turner S
+**Title**: The last dicynodont: an Australian Cretaceous relict
+**Year**: 2003
+**Journal**: Proceedings of the Royal Society B
+
+**ID**: 262 | **Frequency**: 23
+**Authors**: Jasinoski S. C. & Chinsamy-Turan A
+**Title**: Biological inferences of the cranial microstructure of the dicynodonts Oudenodon and Lystrosaurus, in Chinsamy-Turan A
+**Year**: 2012
+**Journal**: 
+
+**ID**: 436 | **Frequency**: 23
+**Authors**: Ray S., Bandyopadhyay S. & Appana R
+**Title**: Bone histology of a kannemeyeriid dicynodont Wadiasaurus: palaeobiological implications, in Bandyopadhyay S
+**Year**: 2010
+**Journal**: 
+
+**ID**: 340 | **Frequency**: 23
+**Authors**: Lucas S. G
+**Title**: A new dicynodont from the Triassic of Brazil and the tetrapod biochronology of the Brazilian Triassic
+**Year**: 2002
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 249 | **Frequency**: 22
+**Authors**: Huber P., Lucas S. G. & Hunt A. P
+**Title**: Revised age and correlation of the Upper Triassic Chatham Group (Deep River Basin, Newark Supergroup), North Carolina
+**Year**: 1993
+**Journal**: Southeastern Geology
+
+**ID**: 444 | **Frequency**: 22
+**Authors**: Retallack G. J., Smith R. M. H. & Ward P. D
+**Title**: Vertebrate extinction across Permian-Triassic boundary in Karoo Basin, South Africa
+**Year**: 2003
+**Journal**: Geological Society of America Bulletin
+
+**ID**: 247 | **Frequency**: 22
+**Authors**: Hotton N
+**Title**: A new dicynodont (Reptilia, Therapsida) from Cynognathus zone deposits of South Africa
+**Year**: 1974
+**Journal**: Annals of the South African Museum
+
+**ID**: 126 | **Frequency**: 22
+**Authors**: Cosgriff J. W. & Hammer W. R
+**Title**: New skull of Lystrosaurus curvatus from the Fremouw Formation
+**Year**: 1981
+**Journal**: Antarctic Journal of the United States
+
+**ID**: 221 | **Frequency**: 22
+**Authors**: Hammer W. R. & Cosgriff J. W
+**Title**: Myosaurus gracilis, an anomodont reptile from the Lower Triassic of Antarctica and South Africa
+**Year**: 1981
+**Journal**: Journal of Paleontology
+
+**ID**: 477 | **Frequency**: 22
+**Authors**: Lopato A. Y., Makarova I. S., Minikh M. G., Molostovskii E. M., Novikov I. V. & Sennikov A. G
+**Title**: Biostratigraphy of the Triassic of Southern Cis-Urals
+**Year**: 1995
+**Journal**: Nauka,
+
+**ID**: 355 | **Frequency**: 22
+**Authors**: Maisch M. W
+**Title**: Observations on Karoo and Gondwana vertebrates
+**Year**: 2001
+**Journal**: Part 2: A new skull-reconstruction of Stahleckeria potens von Huene, 1935 (Dicynodontia, Middle Triassic) and a reconsideration of kannemeyeriiform phylogeny. Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen
+
+**ID**: 432 | **Frequency**: 22
+**Authors**: Ray S. & Chinsamy A
+**Title**: Functional aspects of the postcranial anatomy of the Permian dicynodont Diictodon and their ecological implications
+**Year**: 2003
+**Journal**: Palaeontology
+
+**ID**: 487 | **Frequency**: 22
+**Authors**: Smith R. M. H. & Swart R
+**Title**: Changing fluvial environments and vertebrate taphonomy in response to climatic drying in a mid-Triassic rift valley fill: The Omingonde formation (Karoo supergroup) of central Namibia
+**Year**: 2002
+**Journal**: Palaios
+
+**ID**: 180 | **Frequency**: 22
+**Authors**: Edler A. L
+**Title**: Late Triassic dicynodonts: their anatomy, relationships, and paleobiogeography
+**Year**: 2000
+**Journal**: MSc
+
+**ID**: 421 | **Frequency**: 22
+**Authors**: Porchetti S. D. O. & Nicosia U
+**Title**: Re-examination of some large rarly mesozoic tetrapod footprints from the African collection of Paul Ellenberger
+**Year**: 2007
+**Journal**: Ichnos
+
+**ID**: 277 | **Frequency**: 21
+**Authors**: Kammerer C. F., Nesbitt S. J. & Shubin N. H
+**Title**: The first silesaurid dinosauriform from the Late Triassic of Morocco
+**Year**: 2012
+**Journal**: Acta Palaeontologica Polonica
+
+**ID**: 489 | **Frequency**: 21
+**Authors**: Smith R. M. H., Rubidge B. S. & Van Der Walt M
+**Title**: Therapsid biodiversity patterns and paleoenvironments of the Karoo Basin, South Africa, in Chinsamy-Turan A
+**Year**: 2012
+**Journal**: 
+
+**ID**: 372 | **Frequency**: 21
+**Authors**: Melchor R. N. & De Valais S
+**Title**: A review of Triassic tetrapod track assemblages from Argentina
+**Year**: 2006
+**Journal**: Palaeontology
+
+**ID**: 346 | **Frequency**: 21
+**Authors**: Lucas S. G. & Harris S. K
+**Title**: Taxonomic and biochronological significance of specimens of the Triassic dicynodont Dinodontosaurus Romer 1943 in the Tübingen collection
+**Year**: 1996
+**Journal**: Paläontologische Zeitschrift
+
+**ID**: 22 | **Frequency**: 21
+**Authors**: Bandyopadhyay S
+**Title**: The mammal-like reptile Rechnisaurus from the Triassic of India
+**Year**: 1989
+**Journal**: Palaeontology
+
+**ID**: 468 | **Frequency**: 21
+**Authors**: Schwanke C. & Melo D. J. de
+**Title**: Descrição craniana preliminar de um espécime juvenil de dicinodonte (Therapsida, Anomodontia, Dicynodontia) do Triássico do Rio Grande do Sul, Brasil – Uma discussão acerca da validade do gênero Chanaria Cox, 1968
+**Year**: 2002
+**Journal**: Arquivos do Museu Nacional, Rio de Janeiro
+
+**ID**: 341 | **Frequency**: 21
+**Authors**: Lucas S. G
+**Title**: Another dicynodont from the Triassic Muschelkalk of Germany and its biochronological significance
+**Year**: 2007
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 13 | **Frequency**: 20
+**Authors**: Angielczyk K. D., Liu J. & Yang W
+**Title**: A redescription of Kunpania scopulusa, a bidentalian dicynodont (Therapsida, Anomodontia) from the ?Guadalupian of northwestern China
+**Year**: 2021
+**Journal**: Journal
+
+**ID**: 329 | **Frequency**: 20
+**Authors**: Liu J., Angielczyk K. D. & Abdala F
+**Title**: Permo-Triassic tetrapods and their climate implications
+**Year**: 2021
+**Journal**: Global and Planetary Change
+
+**ID**: 433 | **Frequency**: 20
+**Authors**: Ray S., Chinsamy A. & Bandyopadhyay S
+**Title**: Lystrosaurus murrayi (Therapsida, Dicynodontia): Bone histology, growth and lifestyle adaptations
+**Year**: 2005
+**Journal**: Palaeontology
+
+**ID**: 196 | **Frequency**: 20
+**Authors**: Fiorillo A. R., Padian K. & Musikasinthorn C
+**Title**: Taphonomy and depositional setting of the Placerias Quarry (Chinle Formation: Late Triassic, Arizona)
+**Year**: 2000
+**Journal**: Palaios
+
+**ID**: 375 | **Frequency**: 20
+**Authors**: Modesto S. P
+**Title**: The disaster taxon Lystrosaurus: a paleontological myth
+**Year**: 2020
+**Journal**: Frontiers in Earth Science
+
+**ID**: 451 | **Frequency**: 20
+**Authors**: Romer A. S. & Price L. I
+**Title**: Stahleckeria lenzii, a giant Triassic Brazilian dicynodont
+**Year**: 1944
+**Journal**: Bulletin of the Museum of Comparative Zoology
+
+**ID**: 533 | **Frequency**: 20
+**Authors**: Vega C. S. & Maisch M. W
+**Title**: Pathological features in Upper Permian and Middle Triassic dicynodonts (Synapsida, Therapsida), in Kammerer C
+**Year**: 2014
+**Journal**: F.,
+
+**ID**: 272 | **Frequency**: 20
+**Authors**: Kalandadze N. N. & Sennikov A. G
+**Title**: New reptiles from the Middle Triassic of the Cis-Urals
+**Year**: 1985
+**Journal**: Paleontological Journal
+
+**ID**: 560 | **Frequency**: 20
+**Authors**: Watson D. M. S
+**Title**: The anomodont skeleton
+**Year**: 1960
+**Journal**: Transactions of the Zoological Society of London
+
+**ID**: 385 | **Frequency**: 20
+**Authors**: Murry P. A. & Long R. A
+**Title**: Geology and paleontology of the Chinle Formation, Petrified Forest National Park and vicinity, Arizona and a discussion of vertebrate fossils of the southwestern Upper Triassic, in Lucas S
+**Year**: 1989
+**Journal**: G
+
+**ID**: 311 | **Frequency**: 20
+**Authors**: Langer M. C. & Lavina E. L
+**Title**: Os amniotas do neopermiano e eotriassico da Bacia do Parana-Repteis e ‘Repteis Mamaliformes’, in Holz M
+**Year**: 2000
+**Journal**: & De Ros L. F. (eds), Paleontologia do Rio Grande do Sul. Universidade Federal do Rio Grande do Sul: 210-235. Langer M. C., Ribeiro A. M., Schultz C. L. & Ferigolo J. 2007. — The continental tetrapod-bearing Triassic of South Brazil. New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 553 | **Frequency**: 20
+**Authors**: Warren A. & Marsicano C
+**Title**: A phylogeny of the Brachyopoidea (Temnospondyli, Stereospondyli)
+**Year**: 2000
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 567 | **Frequency**: 20
+**Authors**: Yin H. & Peng Y
+**Title**: The Triassic of China and its interregional correlation, in Yin H
+**Year**: 2000
+**Journal**: 
+
+**ID**: 338 | **Frequency**: 20
+**Authors**: Lucas S. G
+**Title**: Placerias (Reptilia, Dicynodontia) from the Upper Triassic of the Newark Supergroup, North Carolina, USA, and its biochronological significance
+**Year**: 1998
+**Journal**: Neues Jahrbuch für Geologie und Paläontologie - Monatshefte
+
+**ID**: 239 | **Frequency**: 20
+**Authors**: Haughton S. H. & Brink A. S
+**Title**: A bibliographic list of Reptilia from the Karroo beds of Africa
+**Year**: 1954
+**Journal**: Palaeontologia Africana
+
+**ID**: 577 | **Frequency**: 20
+**Authors**: Zavattieri A. M. & Arcucci A. B
+**Title**: Edad y posición estratigráfica de los tetrápodos del cerro Bayo de Potrerillos (Triásico), Mendoza, Argentina
+**Year**: 2007
+**Journal**: Ameghiniana
+
+**ID**: 393 | **Frequency**: 20
+**Authors**: Newton E. T
+**Title**: VII
+**Year**: 1893
+**Journal**: On some new reptiles from the Elgin Sandstones. Philosophical Transactions of the Royal Society of London B
+
+**ID**: 378 | **Frequency**: 19
+**Authors**: Morato L., Schultz C. L. & Vega-Dias C. S
+**Title**: Ornamentações faciais em dicinodontes de grande porte do Triássico do Rio Grande do Sul
+**Year**: 2005
+**Journal**: Boletim da Sociedade Brasileira de Paleontologia
+
+**ID**: 379 | **Frequency**: 19
+**Authors**: Morato L., Schultz C. L. & Vega-Dias C. S
+**Title**: Retrodeformação do crânio de Jachaleria candelariensis (Synapsida: Dicynodontia) do Neotriássico do sul do Brasil: uso de metodologias e considerações preliminares
+**Year**: 2005
+**Journal**: Boletim da Sociedade Brasileira de Paleontologia
+
+**ID**: 11 | **Frequency**: 19
+**Authors**: Whatley R. L. & Tolan S
+**Title**: Permian and Triassic dicynodont (Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy, in Kammerer C
+**Year**: 2014
+**Journal**: F.,
+
+**ID**: 407 | **Frequency**: 19
+**Authors**: Naipauer M., Armstrong R. & Mancuso A. C
+**Title**: Age constraints for the Triassic Puesto Viejo Group (San Rafael depocenter, Argentina): SHRIMP U–Pb zircon dating and correlations across southern Gondwana
+**Year**: 2014
+**Journal**: Journal of American Earth Sciences
+
+**ID**: 19 | **Frequency**: 19
+**Authors**: Baird D. & Olsen P. E
+**Title**: Late Triassic herpetofauna from the Wolfville Fm
+**Year**: 1983
+**Journal**: of the Minas Basin (Fundy Basin) Nova Scotia, Can. Geological Society of America Abstracts with Program
+
+**ID**: 166 | **Frequency**: 19
+**Authors**: Demathieu G. R. & Fichter J
+**Title**: Die Karlshafener Fährten im Naturkundemuseum der Stadt Kassel
+**Year**: 1989
+**Journal**: Ihre Beschreibung und Bedeutung. Philippia
+
+**ID**: 382 | **Frequency**: 19
+**Authors**: Mueller B. & Chatterjee S
+**Title**: Dicynodonts (Synapsida: Therapsida) from the Late Triassic Dockum Group of Texas
+**Year**: 2007
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 540 | **Frequency**: 18
+**Authors**: Vega-Dias C. S. & Schwanke C
+**Title**: Veryfying the validity of Jachaleria genus (Therapsida, Dicynodontia)
+**Year**: 2005
+**Journal**: Boletim da Sociedade Brasileira de Paleontologia
+
+**ID**: 542 | **Frequency**: 18
+**Authors**: Vega-Dias C. S., Maisch M. W. & Schwanke C
+**Title**: The taxonomic status of Stahleckeria impotens (Therapsida, Dicynodontia): redescription and discussion of its phylogenetic position
+**Year**: 2005
+**Journal**: Revista Brasileira de Paleontologia
+
+**ID**: 279 | **Frequency**: 18
+**Authors**: Choiniere J. N
+**Title**: A new kannemeyeriiform dicynodont (Ufudocyclops mukanelai, gen
+**Year**: 2019
+**Journal**: et sp. nov.) from Subzone C of the Cynognathus Assemblage Zone, Triassic of South Africa, with implications for biostratigraphic correlation with other African Triassic Faunas. Journal of Vertebrate Paleontology 39 (2): e1596921. https://doi.org/10.1080/02724634.2019.1596921 Kammerer C. F. & Ordoñez M. de los A. 2021. — Dicynodonts (Therapsida: Anomodontia) of South America. Journal of South American Earth Sciences
+
+**ID**: 269 | **Frequency**: 18
+**Authors**: Kalandadze N. N
+**Title**: New Triassic kannemeyeriids from Southern Cisuralia, in Flerov K
+**Year**: 1970
+**Journal**: K
+
+**ID**: 408 | **Frequency**: 18
+**Authors**: Owen R
+**Title**: On some reptilian remains from South Africa
+**Year**: 1859
+**Journal**: The Edinburgh New Philosophical Journal
+
+**ID**: 50 | **Frequency**: 18
+**Authors**: Botha J. & Smith R. M. H
+**Title**: Lystrosaurus species composition across the Permo-Triassic boundary in the Karoo Basin of South Africa
+**Year**: 2007
+**Journal**: Lethaia
+
+**ID**: 265 | **Frequency**: 18
+**Authors**: Jinnah Z. A. & Rubidge B. S
+**Title**: A double-tusked dicynodont and its biostratigraphic significance
+**Year**: 2007
+**Journal**: South African Journal of Science
+
+**ID**: 573 | **Frequency**: 18
+**Authors**: Young C. C
+**Title**: The pseudosuchians in China
+**Year**: 1964
+**Journal**: Palaeontologia Sinica C
+
+**ID**: 570 | **Frequency**: 18
+**Authors**: Young C. C
+**Title**: Additional Dicynodontia remains from Sinkiang
+**Year**: 1939
+**Journal**: Bulletin of the Geological Society of China
+
+**ID**: 223 | **Frequency**: 17
+**Authors**: Han F., Zhao Q. & Liu J
+**Title**: Preliminary bone histological analysis of Lystrosaurus (Therapsida: Dicynodontia) from the Lower Triassic of North China, and its implication for lifestyle and environments after the end-Permian extinction
+**Year**: 2021
+**Journal**: PLoS
+
+**ID**: 387 | **Frequency**: 17
+**Authors**: Nesbitt S. J. & Butler R. J
+**Title**: Redescription of the archosaur Parringtonia gracilis from the Middle Triassic Manda beds of Tanzania, and the antiquity of Erpetosuchidae
+**Year**: 2013
+**Journal**: Geological Magazine
+
+**ID**: 389 | **Frequency**: 17
+**Authors**: Nesbitt S. J., Butler R. J. & Gower D. J
+**Title**: A new archosauriform (Reptilia: Diapsida) from the Manda Beds (Middle Triassic) of Southwestern Tanzania
+**Year**: 2013
+**Journal**: PLoS
+
+**ID**: 230 | **Frequency**: 17
+**Authors**: Hartman S. A., Lovelace D. M. & Stocker M. R
+**Title**: Stratigraphic and chronologic relationships of the Popo Agie Formation, upper Chugwater Group
+**Year**: 2015
+**Journal**: Geological
+
+**ID**: 459 | **Frequency**: 17
+**Authors**: Sadlok G. & Wawrzyniak Z
+**Title**: Upper Triassic vertebrate tracks from Kraków-Częstochowa Upland, Southern Poland
+**Year**: 2013
+**Journal**: Annales Societatis Geologorum Poloniae
+
+**ID**: 537 | **Frequency**: 17
+**Authors**: Vega-Dias C. S. & Schultz C. L
+**Title**: Evidence of archosauriform feeding on dicynodonts in the Late Triassic of southern Brazil
+**Year**: 2007
+**Journal**: PaleoBios
+
+**ID**: 424 | **Frequency**: 16
+**Authors**: Preuschoft H., Krahl A. & Werneburg I
+**Title**: From sprawling to parasagittal locomotion in Therapsida: a preliminary study of historically collected museum specimens
+**Year**: 2022
+**Journal**: Vertebrate Zoology
+
+**ID**: 18 | **Frequency**: 16
+**Authors**: Avanzini M., Bernardi M. & Nicosia U
+**Title**: The Permo-­ Triassic tetrapod faunal diversity in the Italian Southern Alps, in Dar I
+**Year**: 2011
+**Journal**: A
+
+**ID**: 250 | **Frequency**: 16
+**Authors**: Hunt A. P. & Lucas S. G
+**Title**: Tetrapod footprints from the Middle Triassic Moenkopi Formation, west-central New Mexico
+**Year**: 1993
+**Journal**: New
+
+**ID**: 343 | **Frequency**: 16
+**Authors**: Lucas S. G. & Hunt A. P
+**Title**: A dicynodont from the Upper Triassic of New Mexico and its biochronologic significance
+**Year**: 1993
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 344 | **Frequency**: 16
+**Authors**: Lucas S. G. & Hunt A. P
+**Title**: Fukangolepis Yang, 1978 from the Triassic of China is not an aetosaur
+**Year**: 1993
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 257 | **Frequency**: 16
+**Authors**: Irmis R. B., Mundil R., Martz J. W. & Parker W. G
+**Title**: High-resolution U-Pb ages from the Upper Triassic Chinle Formation (New Mexico, USA) support a diachronous rise of dinosaurs
+**Year**: 2011
+**Journal**: Earth
+
+**ID**: 447 | **Frequency**: 16
+**Authors**: Romano M. & Manucci F
+**Title**: Resizing Lisowicia bojani: volumetric body mass estimate and 3D reconstruction of the giant Late Triassic dicynodont
+**Year**: 2021
+**Journal**: Historical Biology
+
+**ID**: 32 | **Frequency**: 16
+**Authors**: Benson R. B. J. & Upchurch P
+**Title**: Diversity trends in the establishment of terrestrial vertebrate ecosystems: Interactions between spatial and temporal sampling biases
+**Year**: 2013
+**Journal**: Geology
+
+**ID**: 543 | **Frequency**: 16
+**Authors**: Viglietti P. A
+**Title**: Biostratigraphy of the Daptocephalus Assemblage Zone (Beaufort Group, Karoo Supergroup), South Africa
+**Year**: 2020
+**Journal**: South African Journal of Geology
+
+**ID**: 131 | **Frequency**: 16
+**Authors**: Cox C. B
+**Title**: Preliminary diagnosis of Ischigualastia, a new genus of dicynodont from Argenitina
+**Year**: 1962
+**Journal**: Breviora
+
+**ID**: 235 | **Frequency**: 16
+**Authors**: Haughton S. H
+**Title**: Investigations in South African fossil reptiles and Amphibia (part 10)
+**Year**: 1917
+**Journal**: Descriptive catalogue of the Anomodontia, with especial reference to the examples in the South African Museum (part 1). Annals of the South African Museum
+
+**ID**: 156 | **Frequency**: 16
+**Authors**: Danilov A. I
+**Title**: A new dicynodont from the Middle Triassic of Southern Cisuralia
+**Year**: 1971
+**Journal**: Paleontologicheskii Zhurnal
+
+**ID**: 224 | **Frequency**: 16
+**Authors**: Hancox P. J
+**Title**: A Stratigraphic, Sedimentological and Palaeoenvironmental Synthesis of the Beaufort-Molteno Contact, in the Karoo Basin
+**Year**: 1998
+**Journal**: PhD
+
+**ID**: 474 | **Frequency**: 16
+**Authors**: Seeley H. G
+**Title**: XXVII
+**Year**: 1898
+**Journal**: -On the skull of Mochlorhinus platyceps, from Bethulie, Orange Free State, preserved in the Albany Museum, Grahamstown. Annals and Magazine of Natural History; Zoology, Botany, and Geology
+
+**ID**: 146 | **Frequency**: 16
+**Authors**: Cruickshank A. R. I
+**Title**: Taxonomy of the Triassic anomodont genus Kannemeyeria
+**Year**: 1970
+**Journal**: Palaeontologia Africana
+
+**ID**: 205 | **Frequency**: 16
+**Authors**: German Stratigraphic Commission
+**Title**: Stratigraphic table of Germany 2016
+**Year**: 2016
+**Journal**: German
+
+**ID**: 56 | **Frequency**: 16
+**Authors**: Brink A. A
+**Title**: On the genus Lystrosaurus Cope
+**Year**: 1951
+**Journal**: Transactions of the Royal Society of South Africa
+
+**ID**: 576 | **Frequency**: 16
+**Authors**: Yuhe L
+**Title**: Restoration of pelvic muscles of Lystrosaurus
+**Year**: 1983
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 12 | **Frequency**: 15
+**Authors**: Angielczyk K. D., Hancox P. J. & Nabavizadeh A
+**Title**: A redescription of the Triassic kannemeyeriiform dicynodont Sangusaurus (Therapsida, Anomodontia), with an analysis of its feeding system
+**Year**: 2017
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 457 | **Frequency**: 15
+**Authors**: Rozefelds A. C., Warren A., Whitfield A. & Bull S
+**Title**: New evidence of large Permo-Triassic dicynodonts (Synapsida) from Australia
+**Year**: 2011
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 301 | **Frequency**: 15
+**Authors**: Klein H., Lucas S. G. & Voigt S
+**Title**: Revision of the ?Permian-Triassic tetrapod ichnogenus Procolophonichnium Nopcsa 1923 with description of the new ichnospecies P
+**Year**: 2015
+**Journal**: lockleyi. Ichnos 22 (3-4): 155-176. https://doi.org/10.1080/10420940.2015. 1063490 Klein H. & NiedŹwiedzki G. 2012. — Revision of the Lower Triassic tetrapod ichnofauna from Wióry, Holy Cross Mountains, Poland. New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 204 | **Frequency**: 15
+**Authors**: Gee B. M. & Jasinski S. E
+**Title**: Description of the metoposaurid Anaschisma browni from the New Oxford Formation of Pennsylvania
+**Year**: 2021
+**Journal**: Journal of Paleontology
+
+**ID**: 454 | **Frequency**: 15
+**Authors**: Rothschild B. M. & Witzmann F
+**Title**: Identification of growth cessation in dinosaurs based on microscopy of long bone articular surfaces: preliminary results
+**Year**: 2021
+**Journal**: Alcheringa: An Australasian Journal of Palaeontology
+
+**ID**: 25 | **Frequency**: 15
+**Authors**: Ottone E. G. & Ramos V. A
+**Title**: Tectono-sequence stratigraphy and U-Pb zircon ages of the Rincón Blanco Depocenter, northern Cuyo Rift, Argentina
+**Year**: 2012
+**Journal**: Gondwana
+
+**ID**: 439 | **Frequency**: 15
+**Authors**: Renaut A. J. & Hancox P. J
+**Title**: Cranial description and taxonomic re-evaluation of Kannemeyeria argentinensis (Therapsida: Dicynodontia)
+**Year**: 2001
+**Journal**: Palaeontologia Africana
+
+**ID**: 23 | **Frequency**: 15
+**Authors**: Bandyopadhyay S. & Sengupta D. P
+**Title**: Middle Triassic vertebrates of India
+**Year**: 1999
+**Journal**: Journal of African Earth Sciences
+
+**ID**: 485 | **Frequency**: 15
+**Authors**: Smith R. M. H. & Botha J
+**Title**: The recovery of terrestrial vertebrate diversity in the South African Karoo Basin after the end-Permian extinction
+**Year**: 2005
+**Journal**: Comptes
+
+**ID**: 92 | **Frequency**: 15
+**Authors**: Camp J. A. & Liu J
+**Title**: The taxonomy and cranial morphology of Chinese Lystrosaurus
+**Year**: 2011
+**Journal**: Journal of Vertebrate Paleontology 31: 82. Cariglino B., Zavattieri A. M., Gutiérrez P. R. & Balarno M. L. 2016. — The paleobotanical record of the Triassic Cerro de Las Cabras Formation at its type locality, Potrerillos, Mendoza (Uspallata Group): An historical account and first record of fossil flora. Ameghiniana
+
+**ID**: 413 | **Frequency**: 15
+**Authors**: Parker W. G. & Martz J. W
+**Title**: The Late Triassic (Norian) Adamanian-Revueltian tetrapod faunal transition in the Chinle Formation of Petrified Forest National Park, Arizona
+**Year**: 2011
+**Journal**: Earth
+
+**ID**: 429 | **Frequency**: 14
+**Authors**: Raugust T., Lacerda M. & Schultz C. L
+**Title**: The first occurrence of Chanaresuchus bonapartei (Archosauriformes, Proterochampsia) of the Middle Triassic of Brazil from the Santacruzodon Assemblage Zone, Santa Maria Formation (Paraná Basin)
+**Year**: 2013
+**Journal**: Geological Society, London, Special Publications
+
+**ID**: 373 | **Frequency**: 14
+**Authors**: Melchor R. N., Buchwaldt R. & Bowring S
+**Title**: A Late Eocene date for Late Triassic bird tracks
+**Year**: 2013
+**Journal**: Nature
+
+**ID**: 107 | **Frequency**: 14
+**Authors**: Cluver M. A
+**Title**: The cranial morphology of the Lower Triassic dicynodont Myosaurus gracilis
+**Year**: 1974
+**Journal**: Annals of the South African Museum
+
+**ID**: 9 | **Frequency**: 14
+**Authors**: Angielczyk K. D. & Rubidge B. S
+**Title**: Skeletal morphology, phylogenetic relationships and stratigraphic range of Eosimops newtoni Broom, 1921, a pylaecephalid dicynodont (Therapsida, Anomodontia) from the middle permian of South Africa
+**Year**: 2013
+**Journal**: Journal of Systematic Palaeontology
+
+**ID**: 96 | **Frequency**: 14
+**Authors**: Case E. C
+**Title**: Description of a skull of Kannemeyeria erithrea Haughton
+**Year**: 1934
+**Journal**: Contributions from the Museum of Paleontology
+
+**ID**: 418 | **Frequency**: 14
+**Authors**: Pickford M
+**Title**: Karoo Supergroup palaeontology of Namibia and brief description of a thecodont from Omingonde
+**Year**: 1995
+**Journal**: Palaeontologia Africana
+
+**ID**: 488 | **Frequency**: 14
+**Authors**: Smith R. M. H. & Ward P. D
+**Title**: Pattern of vertebrate extinctions across an event bed at the Permian-Triassic boundary in the Karoo Basin of South Africa
+**Year**: 2001
+**Journal**: Geology
+
+**ID**: 318 | **Frequency**: 14
+**Authors**: Li J
+**Title**: Lystrosaurs of Xinjiang, China
+**Year**: 1988
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 41 | **Frequency**: 14
+**Authors**: Bonaparte J. F
+**Title**: Nota sobre una nueva fauna del Triásico inferior del sur de Mendoza, Argentina, correspondiente a la Zona de Lystrosaurus (Dicynodontia-Proterosuchia), in Anais Il Congresso Latino-Americano Paleontologia: 277-288
+**Year**: 1981
+**Journal**: 
+
+**ID**: 494 | **Frequency**: 14
+**Authors**: Sues H.-D. & Olsen P. E
+**Title**: Stratigraphic and temporal context and faunal diversity of Permian-Jurassic continental tetrapod assemblages from the Fundy rift basin, eastern Canada
+**Year**: 2015
+**Journal**: Atlantic Geology
+
+**ID**: 39 | **Frequency**: 14
+**Authors**: Bonaparte J. F
+**Title**: Annotated list of the South American Triassic tetrapods, in Second Gondwana Symposium Proceedings and Papers: 665-682
+**Year**: 1970
+**Journal**: 
+
+**ID**: 314 | **Frequency**: 14
+**Authors**: Lehman T. M. & Chatterjee S
+**Title**: Depositional setting and vertebrate biostratigraphy of the Triassic Dockum Group of Texas
+**Year**: 2005
+**Journal**: Journal of Earth System Science
+
+**ID**: 217 | **Frequency**: 14
+**Authors**: Gupta A. & Das D. P
+**Title**: Report of Lystrosaurus cf
+**Year**: 2011
+**Journal**: curvatus and L. cf. declivis from the Early Triassic Panchet Formation, Damodar Valley, West Bengal, India and its implications. Indian Journal of Geosciences
+
+**ID**: 255 | **Frequency**: 14
+**Authors**: Huxley T. H
+**Title**: On a new species of Dicynodon (D
+**Year**: 1859
+**Journal**: murrayi) from near Colesberg, South Africa. Quarterly journal of the Geological Society of London
+
+**ID**: 77 | **Frequency**: 14
+**Authors**: Broom R
+**Title**: On some new genera and species of anomodont reptiles from the Karroo Beds of South Africa
+**Year**: 1921
+**Journal**: Proceedings of the Zoological Society of London
+
+**ID**: 448 | **Frequency**: 13
+**Authors**: Rogers R. R., Arcucci A. B., Abdala F., Sereno P. C., Forster C. A. & May C. L
+**Title**: Paleoenvironment and taphonomy of the Chañares Formation tetrapod assemblage (Middle Triassic), Northwestern Argentina: spectacular preservation in volcanogenic concretions
+**Year**: 2001
+**Journal**: Palaios
+
+**ID**: 374 | **Frequency**: 13
+**Authors**: Melo T. P., Martinelli A. G. & Soares M. B
+**Title**: A new gomphodont cynodont (Traversodontidae) from the Middle–Late Triassic Dinodontosaurus Assemblage Zone of the Santa Maria Supersequence, Brazil
+**Year**: 2017
+**Journal**: Palaeontology
+
+**ID**: 544 | **Frequency**: 13
+**Authors**: Viglietti P. A., Smith R. M. H. & Compton J
+**Title**: Origin and palaeoenvironmental significance of Lystrosaurus bonebeds in the earliest Triassic Karoo Basin, South Africa
+**Year**: 2013
+**Journal**: Palaeogeography, Palaeoclimatology, Palaeoecology
+
+**ID**: 332 | **Frequency**: 13
+**Authors**: Lockley M. G., Hunt A. P., Gaston R. & Kirkland J. I
+**Title**: A trackway bonanza with mammal footprints from the Late Triassic of Colorado
+**Year**: 1996
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 129 | **Frequency**: 12
+**Authors**: Courel L., Demathieu G. R. & Buffard R
+**Title**: Empreintes de pas de Vertébrés et stratigraphie du Trias
+**Year**: 1968
+**Journal**: Bulletin de la Société Géologique de France
+
+**ID**: 548 | **Frequency**: 12
+**Authors**: Vjuschkov B. P
+**Title**: New dicynodonts from the Triassic of the southern Fore-Urals
+**Year**: 1969
+**Journal**: Paleontological Journal
+
+**ID**: 135 | **Frequency**: 12
+**Authors**: Cox C. B
+**Title**: The Pangaea dicynodont Rechnisaurus and the comparative biostratigraphy of Triassic dicynodont faunas
+**Year**: 1991
+**Journal**: Palaeontology
+
+**ID**: 226 | **Frequency**: 12
+**Authors**: Hancox P. J. & Rubidge B. S
+**Title**: The first specimen of the Mid-Triassic dicynodont Angonisaurus from the Karoo of South Africa: implications for the dating and biostratigraphy of the COMPTES RENDUS PALEVOL • 2023 • 22 (16) Woznikella triradiata n
+**Year**: 1996
+**Journal**: gen., n. sp. – a new kannemeyeriiform dicynodont Cynognathus Assemblage Zone, upper Beaufort Group. South African Journal of Science
+
+**ID**: 498 | **Frequency**: 12
+**Authors**: Sun A
+**Title**: Preliminary report on a new species of Lystrosaurus of Sinkiang
+**Year**: 1964
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 500 | **Frequency**: 12
+**Authors**: Sun A
+**Title**: Two new genera of Dicynodontidae
+**Year**: 1978
+**Journal**: Memoirs of the Institute of vertebrate Paleontology and Paleoanthropology, Academia Sinica
+
+**ID**: 501 | **Frequency**: 12
+**Authors**: Sun A
+**Title**: On occurrence of Parakannemeyeria in Sinkiang
+**Year**: 1978
+**Journal**: Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology, Academia Sinica
+
+**ID**: 143 | **Frequency**: 12
+**Authors**: Cruickshank A. R. I
+**Title**: On a specimen of the anomodont reptile Kannemeyeria latifrons (Broom) from the Manda Formation of Tanganyika, Tanzania
+**Year**: 1965
+**Journal**: Proceedings of the Linnean Society of London
+
+**ID**: 203 | **Frequency**: 12
+**Authors**: Gauffre F.-X
+**Title**: The prosauropod dinosaur Azendohsaurus laaroussii from the Upper Triassic of Morocco
+**Year**: 1993
+**Journal**: Palaeontology
+
+**ID**: 158 | **Frequency**: 12
+**Authors**: Dassie E. C. G
+**Title**: Tetrápodes triássicos brasileiros: uma investigação enovolvendo banco de dads e anlise de cluster
+**Year**: 2014
+**Journal**: MSc
+
+**ID**: 366 | **Frequency**: 12
+**Authors**: Martz J. W
+**Title**: Lithostratigraphy, Chemostratigraphy, and Vertebrate Biostratigraphy of the Dockum Group (Upper Triassic), of Southern Garza County, West Texas
+**Year**: 2008
+**Journal**: PhD
+
+**ID**: 236 | **Frequency**: 12
+**Authors**: Haughton S. H
+**Title**: A bibliographic list of pre-­Stormberg Karroo Reptilia, with a table of horizons
+**Year**: 1924
+**Journal**: Transactions of the Royal Society of South Africa
+
+**ID**: 339 | **Frequency**: 12
+**Authors**: Lucas S. G
+**Title**: Chinese fossil vertebrates
+**Year**: 2001
+**Journal**: Columbia
+
+**ID**: 216 | **Frequency**: 12
+**Authors**: Gubin Y. M. & Sinitza S. M
+**Title**: Triassic terrestrial tetrapods of Mongolia and the geological structure of the Sain-Sar-Bulak locality
+**Year**: 1993
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 396 | **Frequency**: 12
+**Authors**: Northwood C
+**Title**: Palaeontological interpretations of the Early Triassic Arcadia Formation, Queensland
+**Year**: 1997
+**Journal**: PhD
+
+**ID**: 317 | **Frequency**: 12
+**Authors**: Li J
+**Title**: Kannemeyeria fossil from Inner Mongolia
+**Year**: 1980
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 212 | **Frequency**: 12
+**Authors**: Green J. L
+**Title**: Bone and dental histology of Late Triassic dicynodonts from North America, in Chinsamy-Turan A
+**Year**: 2012
+**Journal**: (ed.), Forerunners of Mammals: Radiation, Histology, Biology. Indiana University Press, Bloomington: 178-196. 348 Green J., Schneider V. P., Schweitzer M. H. & Clarke J. A. 2005. — New evidence for non-Placerias dicynodonts in the Late Triassic (Carnian-Norian) of North America. Journal of Vertebrate Paleontology
+
+**ID**: 31 | **Frequency**: 11
+**Authors**: Benoit J., Angielczyk K. D., Miyamae J. A., Manger P., Fernandez V. & Rubidge B. S
+**Title**: Evolution of facial innervation in anomodont therapsids (Synapsida): Insights from X-ray computerized microtomography
+**Year**: 2018
+**Journal**: Journal of Morphology
+
+**ID**: 430 | **Frequency**: 11
+**Authors**: Ray S
+**Title**: Lystrosaurus (Therapsida, Dicynodontia) from India: taxonomy, relative growth and cranial dimorphism
+**Year**: 2005
+**Journal**: Journal of Systematic Palaeontology
+
+**ID**: 152 | **Frequency**: 11
+**Authors**: Damiani R. J. & Welman J
+**Title**: A long-snouted trematosaurid amphibian from the Early Triassic of South Africa
+**Year**: 2001
+**Journal**: South African Journal of Science
+
+**ID**: 178 | **Frequency**: 11
+**Authors**: Drysdall A. R. & Kitching J. W
+**Title**: A re-examination of the Karroo succession and fossil localities of part of the upper Luangwa Valley
+**Year**: 1963
+**Journal**: Geological Survey of Northern Rhodesia Memoir
+
+**ID**: 49 | **Frequency**: 11
+**Authors**: Botha J. & Smith R. M. H
+**Title**: Rapid vertebrate recuperation in the Karoo Basin of South Africa following the End-Permian extinction
+**Year**: 2006
+**Journal**: Journal
+
+**ID**: 391 | **Frequency**: 10
+**Authors**: Neveling J., Hancox P. J. & Rubidge B. S
+**Title**: Biostratigraphy of the lower Burgersdorp Formation (Beaufort Group; Karoo Supergroup) of South Africa – implications for the stratigraphic ranges of early Triassic tetrapods
+**Year**: 2005
+**Journal**: Palaeontologia Africana
+
+**ID**: 388 | **Frequency**: 10
+**Authors**: Nesbitt S. J., Lucas S. G. & Schoch R. R
+**Title**: A new, large archosauriform from the Anton Chico Member of the upper Moenkopi Formation (Middle Triassic), east-central New Mexico, USA
+**Year**: 2006
+**Journal**: Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen
+
+**ID**: 38 | **Frequency**: 10
+**Authors**: Bonaparte J. F
+**Title**: Dos nuevas“faunas” de reptiles triásicos de Argentina
+**Year**: 1969
+**Journal**: 
+
+**ID**: 321 | **Frequency**: 10
+**Authors**: Liu J
+**Title**: Parakannemeyeria chengi sp
+**Year**: 2004
+**Journal**: nov. from Kelmayi Formation of Jimusar, Xinjiang. Vertebrata PalAsiatica
+
+**ID**: 34 | **Frequency**: 10
+**Authors**: Bonaparte J. F
+**Title**: Sobre nuevos terapsidos Triasicos hallados en el centro de la Provincia de Mendoza, Argentina
+**Year**: 1965
+**Journal**: Acta Geologica Lilloana
+
+**ID**: 181 | **Frequency**: 10
+**Authors**: Efremov J. A
+**Title**: The recovery of a Triassic anomodont in the Orenburg province
+**Year**: 1938
+**Journal**: Doklady Akademii Nauk SSSR
+
+**ID**: 323 | **Frequency**: 10
+**Authors**: Liu J
+**Title**: Taoheodon baizhijuni, gen
+**Year**: 2020
+**Journal**: et
+
+**ID**: 565 | **Frequency**: 10
+**Authors**: Yang C
+**Title**: A Late Triassic vertebrate fauna from Fukang, Sinkiang
+**Year**: 1978
+**Journal**: Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology, Academia Sinica
+
+**ID**: 295 | **Frequency**: 10
+**Authors**: Kitching J. W
+**Title**: The fossil localities and mammal-like reptiles of the upper Luangwa valley, Northern Rhodesia
+**Year**: 1963
+**Journal**: South African Journal of Science
+
+**ID**: 297 | **Frequency**: 10
+**Authors**: Kitching J. W
+**Title**: The distribution of the Karroo vertebrate fauna
+**Year**: 1977
+**Journal**: Bernard Price Institute for Palaeontological Research Memoir
+
+**ID**: 552 | **Frequency**: 10
+**Authors**: Warren A
+**Title**: Laidleria uncovered: a redescription of Laidleria gracilis Kitching (1957), a temnospondyl from the Cynognathus Zone of South Africa
+**Year**: 1998
+**Journal**: Zoological
+
+**ID**: 75 | **Frequency**: 10
+**Authors**: Broom R
+**Title**: Catalogue of types and figured specimens of fossil vertebrates in the American Museum of Natural History
+**Year**: 1915
+**Journal**: Part II, Permian, Triassic and Jurassic reptiles of South Africa. Bulletin of the American Museum of Natural History
+
+**ID**: 101 | **Frequency**: 10
+**Authors**: Chinsamy A. & Rubidge B. S
+**Title**: Dicynodont (Therapsida) bone histology: phylogenetic and physiological implications
+**Year**: 1993
+**Journal**: Palaeontologia Africana
+
+**ID**: 256 | **Frequency**: 10
+**Authors**: Huxley T. H
+**Title**: On a Collection of Vertebrate Fossils from the Panchet Rocks, Ranigunj, Bengal
+**Year**: 1865
+**Journal**: Trübner,
+
+**ID**: 206 | **Frequency**: 10
+**Authors**: Geyer G. & Kelber K.-P
+**Title**: Spinicaudata (“Conchostraca,” Crustacea) from the Middle Keuper (Upper Triassic) of the southern Germanic Basin, with a review of Carnian–Norian taxa and suggested biozones
+**Year**: 2018
+**Journal**: PalZ
+
+**ID**: 473 | **Frequency**: 10
+**Authors**: Seeley H. G
+**Title**: III
+**Year**: 1895
+**Journal**: Researches on the structure, organization, and classification of the fossil Reptlia.-Part IX., Section 6. Associated remains of two small skeletons from Klipfontein, Fraserburg. Philosophical Transactions of the Royal Society B
+
+**ID**: 442 | **Frequency**: 10
+**Authors**: Retallack G. J
+**Title**: Early Triassic therapsid footprints from the Sydney Basin, Australia
+**Year**: 1996
+**Journal**: Alcheringa
+
+**ID**: 517 | **Frequency**: 9
+**Authors**: Thackeray J. F., Durand J. F. & Meyer L
+**Title**: Morphometric analysis of South African dicynodonts attributed to Lystrosaurus murrayi (Huxley, 1859) and L
+**Year**: 1998
+**Journal**: declivis (Owen, 1860): probabilities of conspecificity. Annals of the Transvaal Museum
+
+**ID**: 384 | **Frequency**: 9
+**Authors**: Mukherjee R. N. & Sengupta D. P
+**Title**: New capitosaurid amphibians from the Triassic Denwa Formation of the Satpura Gondwana Basin, central India
+**Year**: 1998
+**Journal**: Alcheringa
+
+**ID**: 404 | **Frequency**: 9
+**Authors**: Olsen P. E. & Huber P
+**Title**: The oldest Late Triassic footprint assemblage from North America (Pekin Formation, Deep River Basin, North Carolina, USA)
+**Year**: 1998
+**Journal**: Southeastern Geology
+
+**ID**: 443 | **Frequency**: 9
+**Authors**: Retallack G. J. & Hammer W. R
+**Title**: Palaeoenvironment of the Triassic therapsid Lystrosaurus in the central Transactarctic Mountains, Antarctica
+**Year**: 1998
+**Journal**: Antarctic Journal of the United States
+
+**ID**: 303 | **Frequency**: 9
+**Authors**: Krummeck W. D. & Bordy E. M
+**Title**: Reniformichnus katikatii (new ichnogenus and ichnospecies): continental vertebrate burrows from the Lower Triassic, main Karoo Basin, South Africa
+**Year**: 2018
+**Journal**: Ichnos
+
+**ID**: 127 | **Frequency**: 8
+**Authors**: Cosgriff J. W., Hammer W. R. & Ryan W. J
+**Title**: The Pangaean reptile, Lystrosaurus maccaigi, in the Lower Triassic of Antarctica
+**Year**: 1982
+**Journal**: Journal of Paleontology
+
+**ID**: 242 | **Frequency**: 8
+**Authors**: Heckert A. B., Fraser N. C. & Schneider V. P
+**Title**: A new species of Coahomasuchus (Archosauria, Aetosauria) from the Upper Triassic Pekin Formation, Deep River Basin, North Carolina
+**Year**: 2017
+**Journal**: Journal of Paleontology
+
+**ID**: 117 | **Frequency**: 8
+**Authors**: Colbert E. H
+**Title**: The distribution of Lystrosaurus in Pangaea and its implications
+**Year**: 1982
+**Journal**: Geobios
+
+**ID**: 368 | **Frequency**: 8
+**Authors**: Matzke N. J
+**Title**: Probabilistic historical biogeography: new models for founder-event speciation, imperfect detection, and fossils allow improved accuracy and model-testing
+**Year**: 2013
+**Journal**: Frontiers of Biogeography
+
+**ID**: 335 | **Frequency**: 8
+**Authors**: Lucas F. A
+**Title**: A new batrachian and a new reptile from the Trias of Arizona
+**Year**: 1904
+**Journal**: Proceedings of the United States National Museum
+
+**ID**: 271 | **Frequency**: 8
+**Authors**: Kalandadze N. N
+**Title**: The first lystrosaur find from the territory of the European part of the USSR
+**Year**: 1975
+**Journal**: Palaeontologicheskiy Zhurnal
+
+**ID**: 80 | **Frequency**: 8
+**Authors**: Broom R
+**Title**: Further contribution to our knowledge of the fossil reptiles of the Karroo
+**Year**: 1937
+**Journal**: Proceedings
+
+**ID**: 174 | **Frequency**: 8
+**Authors**: Dutuit J.-M
+**Title**: Principaux charactères d’un genre de Dicynodonte du Trias marocain
+**Year**: 1980
+**Journal**: Comptes Rendus de l’Académie des Sciences D
+
+**ID**: 400 | **Frequency**: 8
+**Authors**: Jalil N.-E
+**Title**: New dicynodonts (Therapsida, Anomodontia) from near the Permo-Triassic boundary of Laos: implications for dicynodont survivorship across the Permo-Triassic mass extinction and the paleobiogeography of Southeast Asian blocks
+**Year**: 2019
+**Journal**: Journal
+
+**ID**: 523 | **Frequency**: 8
+**Authors**: Toerien M. J
+**Title**: The evolution of the palate in South African Anomodontia and its classificatory significance
+**Year**: 1953
+**Journal**: Palaeontologia Africana
+
+**ID**: 288 | **Frequency**: 8
+**Authors**: King G. M
+**Title**: First mammal-like reptile from Australia
+**Year**: 1983
+**Journal**: Nature
+
+**ID**: 245 | **Frequency**: 8
+**Authors**: Holz M. & Schultz C. L
+**Title**: Taphonomy of the south Brazilian Triassic herpetofauna: fossilization mode and implications for morphological studies
+**Year**: 1998
+**Journal**: Lethaia
+
+**ID**: 30 | **Frequency**: 8
+**Authors**: Bell M. A. & Lloyd G. T
+**Title**: Strap: an R package for plotting phylogenies against stratigraphy and assessing their stratigraphic congruence
+**Year**: 2015
+**Journal**: Palaeontology
+
+**ID**: 194 | **Frequency**: 8
+**Authors**: A. S. & Desojo J. B
+**Title**: Archosauromorph Remains from the Tarjados Formation (Early-Middle Triassic, NW Argentina)
+**Year**: 2015
+**Journal**: Ameghiniana
+
+**ID**: 514 | **Frequency**: 8
+**Authors**: Szulc J. & Racki G
+**Title**: Grabowa Formation – the basic lithostratigraphic unit of the Upper Silesian Keuper
+**Year**: 2015
+**Journal**: Przeglad Geologiczny
+
+**ID**: 350 | **Frequency**: 8
+**Authors**: Lydekker R
+**Title**: Indian Pretertiary Vertebrata
+**Year**: 1879
+**Journal**: Fossil Reptilia and Batrachia. Palaeontologia Indica
+
+**ID**: 312 | **Frequency**: 8
+**Authors**: Larkin N
+**Title**: Description of a New Triassic Dicynodont from the Manda Formation of Tanzania
+**Year**: 1994
+**Journal**: MSc
+
+**ID**: 467 | **Frequency**: 8
+**Authors**: Schwanke C. & Kellner A. W. A
+**Title**: Sobre o primeiro registro de Synapsida no Triassico basal do Brasil
+**Year**: 1999
+**Journal**: XVI
+
+**ID**: 198 | **Frequency**: 8
+**Authors**: Francischini Filho H. R
+**Title**: Paleobiologia de Jachaleria candelariensis Araújo & Gonzaga, 1980 e comentários sobre a termorregulação em dicynodontia
+**Year**: 2014
+**Journal**: MSc thesis, Universidade federal do Rio Grande do Sul, Porto Alegre, 135 p. Francischini H., Dentzien-Dias P., Lucas S. G. & Schultz C. L. 2018. — Tetrapod tracks in Permo-Triassic eolian beds of southern Brazil (Paraná Basin). PeerJ 6: e4764. https://doi.org/10.7717/ peerj.4764 Fröbisch J. 2009. — Composition and similarity of global anomodont-bearing tetrapod faunas. Earth-Science Reviews 95 (3-4): 119-157. https://doi.org/10.1016/j.earscirev.2009.04.001 Fröbisch J. 2006. — Locomotion in derived dicynodonts (Synapsida, Anomodontia): a functional analysis of the pelvic girdle and hind limb of Tetragonias njalilus. Canadian Journal of Earth Sciences
+
+**ID**: 57 | **Frequency**: 8
+**Authors**: Brink A. S
+**Title**: Two cynodonts from the Ntawere formation in the Luangwa valley of Northern Rhodesia
+**Year**: 1963
+**Journal**: Palaeontologia Africana
+
+**ID**: 390 | **Frequency**: 8
+**Authors**: Neveling J
+**Title**: Stratigraphic and sedimentological investigation of the contact between the Lystrosaurus and the Cynognathus Assemblage Zones (Beaufort Group: Karoo Supergroup)
+**Year**: 2004
+**Journal**: Council for Geoscience Bulletin
+
+**ID**: 320 | **Frequency**: 8
+**Authors**: Liu H
+**Title**: The fossil-bearing beds of Taoshuyantze, Turfan Basin, Sinkiang
+**Year**: 1973
+**Journal**: Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology, Academia Sinica
+
+**ID**: 499 | **Frequency**: 8
+**Authors**: Sun A
+**Title**: Permo-Triassic dicynodonts from Turfan, Sinkiang
+**Year**: 1973
+**Journal**: Memoirs of the Institute of Vertebrate Paleontology and Paleoanthropology, Academia Sinica
+
+**ID**: 163 | **Frequency**: 8
+**Authors**: DeFauw S. L
+**Title**: Patterns of evolution in the Dicynodontia, with special reference to austral taxa
+**Year**: 1989
+**Journal**: Geological Society Special Publication
+
+**ID**: 91 | **Frequency**: 8
+**Authors**: Camp J. A
+**Title**: Morphological variation and disparity in Lystrosaurus (Therapsida: Dicynodontia)
+**Year**: 2010
+**Journal**: MSc
+
+**ID**: 299 | **Frequency**: 8
+**Authors**: Klein H. & Lucas S. G
+**Title**: Diverse Middle Triassic tetrapod footprint assemblage from the Muschelkalk of Germany
+**Year**: 2018
+**Journal**: Ichnos
+
+**ID**: 558 | **Frequency**: 8
+**Authors**: Watson D. M. S
+**Title**: The evolution of the tetrapod shoulder girdle and fore-limb
+**Year**: 1917
+**Journal**: Journal of Anatomy
+
+**ID**: 273 | **Frequency**: 8
+**Authors**: Kammerer C. F
+**Title**: Cranial disparity in the non-mammalian Synapsida
+**Year**: 2009
+**Journal**: PhD
+
+**ID**: 392 | **Frequency**: 7
+**Authors**: Neveling J., Rubidge B. S. & Hancox P. J
+**Title**: A lower Cynognathus Assemblage Zone fossil from the Katberg Formation (Beaufort group, South Africa)
+**Year**: 1999
+**Journal**: South African Journal of Science
+
+**ID**: 534 | **Frequency**: 7
+**Authors**: Vega-Dias C. S. & Schultz C. L
+**Title**: Materais póscranianos de Jachaleria Araújo & Gonzaga, 1980 (Therapsida, Dicynodontia) no Triássico Superior do Rio Grande do Sul, Brasil
+**Year**: 1999
+**Journal**: XVI
+
+**ID**: 417 | **Frequency**: 7
+**Authors**: Soares M. B. & Basei M. A. S
+**Title**: Middle Triassic SW Gondwana paleogeography and sedimentary dispersal revealed by integration of stratigraphy and U-Pb zircon analysis: The Santa Cruz Sequence, Paraná Basin, Brazil
+**Year**: 2018
+**Journal**: Journal of South American Earth Sciences
+
+**ID**: 403 | **Frequency**: 7
+**Authors**: Olsen P. E. & Galton P. M
+**Title**: A review of the reptile and amphibian assemblages from the Stormberg of Southern Africa with special emphasis on the footprints and the age of the Stormberg
+**Year**: 1984
+**Journal**: Palaeontologia Africana
+
+**ID**: 16 | **Frequency**: 6
+**Authors**: Attridge J., Ball H. W., Charig A. J. & Cox C. B
+**Title**: The British Museum (Natural History)-University of London joint palaeontological expedition to northern Rhodesia and Tanganyika, 1963
+**Year**: 1964
+**Journal**: Nature
+
+**ID**: 313 | **Frequency**: 6
+**Authors**: Lehman, J.-P
+**Title**: Dicynodontia, in Piveteau J
+**Year**: 1961
+**Journal**: 
+
+**ID**: 121 | **Frequency**: 6
+**Authors**: Cooper M. R
+**Title**: ‘The origins and classification of Triassic dicynodonts’ by A
+**Year**: 1980
+**Journal**: W. Keyser and A. R. I. Cruickshank (Trans. geol. Soc. S. Afr., 82 (1), 81-108). Discussion. Transactions of the Geological Society of South Africa
+
+**ID**: 62 | **Frequency**: 6
+**Authors**: Broom R
+**Title**: On two new species of dicynodonts
+**Year**: 1899
+**Journal**: Annals of the South African Museum
+
+**ID**: 234 | **Frequency**: 6
+**Authors**: Haughton S. H
+**Title**: On a skull of the genus Kannemeyeria
+**Year**: 1915
+**Journal**: Annals of the South African Museum
+
+**ID**: 261 | **Frequency**: 6
+**Authors**: Janensch W
+**Title**: Über den Unterkiefer der Therapsiden
+**Year**: 1952
+**Journal**: Paläontologische Zeitschrift
+
+**ID**: 142 | **Frequency**: 6
+**Authors**: Cruickshank A. R. I
+**Title**: Origin of the Triassic dicynodonts (Reptilia: Synapsida)
+**Year**: 1964
+**Journal**: Nature
+
+**ID**: 237 | **Frequency**: 6
+**Authors**: Haughton S. H
+**Title**: On a collection of Karroo vertebrates from Tanganyika territory
+**Year**: 1932
+**Journal**: Quarterly Journal of the Geological Society
+
+**ID**: 44 | **Frequency**: 6
+**Authors**: Boonstra L. D
+**Title**: A report on a collection of fossil reptilian bones from Tanganyika territory
+**Year**: 1953
+**Journal**: Annals of the South African Museum
+
+**ID**: 61 | **Frequency**: 6
+**Authors**: Broili F
+**Title**: Ein Fund von cf
+**Year**: 1921
+**Journal**: Placerias Lucas in der kontinnentalen Trias von Europa. Zentralblatt für Mineralogie, Geologie und Paläontologie
+
+**ID**: 197 | **Frequency**: 6
+**Authors**: Whatley R. L. & Wyss A. R
+**Title**: A Triassic fauna from Madagascar, including early dinosaurs
+**Year**: 1999
+**Journal**: Science
+
+**ID**: 529 | **Frequency**: 6
+**Authors**: Tripathi C. & Satsangi P. P
+**Title**: Lystrosaurus fauna of the Panchet Series of the Raniganj coalfield
+**Year**: 1963
+**Journal**: Memoirs
+
+**ID**: 353 | **Frequency**: 6
+**Authors**: MacRae C
+**Title**: Life etched in stone
+**Year**: 1999
+**Journal**: Fossils
+
+**ID**: 219 | **Frequency**: 6
+**Authors**: Hammer W. R
+**Title**: Triassic terrestrial vertebrate faunas of Antarctica, in Taylor T
+**Year**: 1990
+**Journal**: N
+
+**ID**: 66 | **Frequency**: 6
+**Authors**: Broom R
+**Title**: On the remains of Lystrosaurus, in the Albany Museum
+**Year**: 1903
+**Journal**: Records of the Albany Museum
+
+**ID**: 27 | **Frequency**: 6
+**Authors**: Barry T. H
+**Title**: Sound conduction in the fossil anomodont Lystrosaurus
+**Year**: 1968
+**Journal**: Annals of the South African Museum
+
+**ID**: 296 | **Frequency**: 6
+**Authors**: Kitching J. W
+**Title**: On the Lystrosaurus zone and its fauna with special reference to some immature Lystrosauridae
+**Year**: 1968
+**Journal**: Palaeontologia Africana
+
+**ID**: 169 | **Frequency**: 6
+**Authors**: Domnanovich N. S. & Marsicano C. A
+**Title**: Revision of the basal Triassic dicynodont Vinceria andina Bonaparte (Therapsida, Dicynodontia) of Argentina
+**Year**: 2006
+**Journal**: Ameghiniana
+
+**ID**: 170 | **Frequency**: 6
+**Authors**: Domnanovich N. S. & Marsicano C. A
+**Title**: Tetrapod footprints from the Triassic of Patagonia: Reappraisal of the evidence
+**Year**: 2006
+**Journal**: Ameghiniana
+
+**ID**: 397 | **Frequency**: 6
+**Authors**: Ochev V. G
+**Title**: On the second unquestionable find of an anomodontian the Lower Triassic of East Europe
+**Year**: 1992
+**Journal**: Izvestjya Vysshykh Uchebnykh Zavedenii (Geologiya i Razvedka)
+
+**ID**: 528 | **Frequency**: 6
+**Authors**: Tripathi C. & Puri S. N
+**Title**: On the remains of Lystrosaurus from the Panchets of the Raniganj coalfield
+**Year**: 1961
+**Journal**: Records of the Geological Survey of India
+
+**ID**: 79 | **Frequency**: 6
+**Authors**: Broom R
+**Title**: The Mammal-Like Reptiles of South Africa and the Origin Of Mammals
+**Year**: 1932
+**Journal**: H
+
+**ID**: 20 | **Frequency**: 6
+**Authors**: Baird D. & Patterson O. F
+**Title**: Dicynodon-archosaur fauna in the Pekin Formation (Upper Triassic) of North Caroline
+**Year**: 1968
+**Journal**: The Geological Society of America Special Paper
+
+**ID**: 466 | **Frequency**: 6
+**Authors**: Schwanke-Peruzzo C
+**Title**: A presença do gênero Ischigualastia Cox, 1962 (Reptilia, Synapsida, Therapsida, Anomodontia, Dicynodontia) na Formação Santa Maria, Rio Grande Do Sul, Brasil
+**Year**: 1990
+**Journal**: MSc thesis, Universidade Federal do Rio Grande do Sul, Porto Alegre, 186 p. Schwanke-Peruzzo C. & Araújo-Barbarena D. C. 1995. — Sobre a ocorrência do gênero Ischigualastia Cox, 1962 na Formação Santa Maria, Triássico do Rio Grande do Sul. Anais da Academia Brasileira de Ciências
+
+**ID**: 268 | **Frequency**: 6
+**Authors**: Judd J. W
+**Title**: The presence of the remains of Dicynodon in the triassic sandstone of Elgin
+**Year**: 1885
+**Journal**: Nature
+
+**ID**: 420 | **Frequency**: 6
+**Authors**: Pollard J. E
+**Title**: A comparison between the Triassic tracefossils of Cheshire and South Germany
+**Year**: 1981
+**Journal**: Palaeontology
+
+**ID**: 246 | **Frequency**: 6
+**Authors**: Hornstein F. F
+**Title**: Mittheilungen an Professor H
+**Year**: 1876
+**Journal**: B. Geinitz. Neues Jahrbuch für Mineralogie, Geologie und Palaeontologie
+
+**ID**: 342 | **Frequency**: 6
+**Authors**: Lucas S. G
+**Title**: Age and correlation of Late Triassic tetrapods from southern Poland
+**Year**: 2015
+**Journal**: Annales Societatis Geologorum Poloniae
+
+**ID**: 449 | **Frequency**: 6
+**Authors**: Romer A. S
+**Title**: Recent mounts of fossil reptiles and amphibians in the Museum of Comparative Zoölogy
+**Year**: 1943
+**Journal**: Bulletin of the Museum of Comparative Zoology
+
+**ID**: 99 | **Frequency**: 5
+**Authors**: Chatterjee S., Scotese C. R. & Bajpai S
+**Title**: The restless Indian Plate and its epic voyage from Gondwana to Asia: its tectonic, paleoclimatic, and paleobiogeographic evolution
+**Year**: 2017
+**Journal**: The Geological Society of America Special Paper
+
+**ID**: 399 | **Frequency**: 5
+**Authors**: Olivier C., Houssaye A., Jalil N.-E. & Cubo J
+**Title**: First palaeohistological inference of resting metabolic rate in an extinct synapsid, Moghreberia nmachouensis (Therapsida: Anomodontia)
+**Year**: 2017
+**Journal**: Biological Journal of the Linnean Society
+
+**ID**: 184 | **Frequency**: 5
+**Authors**: Ellenberger P
+**Title**: Les niveaux paléontologiques de première apparition des mammifères primoridaux en Afrique du Sud et leur ichnologie
+**Year**: 1970
+**Journal**: Establissement
+
+**ID**: 187 | **Frequency**: 5
+**Authors**: Ellenberger F., Ellenberger P. & Ginsburg L
+**Title**: Les Dinosaures du Trias et du Lias en France et en Afrique du Sud, d’après les pistes qu’ils ont laissées
+**Year**: 1970
+**Journal**: Bulletin de la Société Géologique de France
+
+**ID**: 483 | **Frequency**: 5
+**Authors**: Smith A. B
+**Title**: Large-scale heterogeneity of the fossil record: Implications for phanerozoic biodiversity studies
+**Year**: 2001
+**Journal**: Philosophical Transactions of the Royal Society of London B
+
+**ID**: 119 | **Frequency**: 5
+**Authors**: Conrad K. L. & Lockley M. G
+**Title**: Late Triassic archosaur tracksites from the American southwest
+**Year**: 1986
+**Journal**: First
+
+**ID**: 6 | **Frequency**: 5
+**Authors**: Anderson J. M. & Anderson H. M
+**Title**: The fossil content of the Upper Triassic Molteno Formation, South Africa
+**Year**: 1984
+**Journal**: Palaeontologia Africana
+
+**ID**: 167 | **Frequency**: 5
+**Authors**: Demathieu G. R. & Wycisk P
+**Title**: Tetrapod trackways from Southern Egypt and Northern Sudan
+**Year**: 1990
+**Journal**: Journal of African Earth Sciences
+
+**ID**: 309 | **Frequency**: 4
+**Authors**: Kutty T. S., Jain S. L. & Chowdhury T. K. R
+**Title**: Gondwana sequence of the northern Pranhita-Godavari Valley: its stratigraphy and vertebrate faunas
+**Year**: 1988
+**Journal**: The Palaeobotanist
+
+**ID**: 55 | **Frequency**: 4
+**Authors**: Botha-Brink J., Codron D., Huttenlocker A. K., Angielczyk K. D. & Ruta M
+**Title**: Breeding young as a survival strategy during Earth’s greatest mass extinction
+**Year**: 2016
+**Journal**: Scientific Reports
+
+**ID**: 260 | **Frequency**: 4
+**Authors**: Jain S. L., Robinson P. L. & Chowdhury T. K. R
+**Title**: A new vertebrate fauna from the Triassic of the Deccan, India
+**Year**: 1964
+**Journal**: Quarterly Journal of the Geological Society
+
+**ID**: 352 | **Frequency**: 4
+**Authors**: MacDonald D. I. M., Isbell J. L. & Hammer W. R
+**Title**: Vertebrate trackways from the Triassic Fremouw Formation, Queen Alexandra Range, Antarctica
+**Year**: 1992
+**Journal**: Antarctic Journal of the United States
+
+**ID**: 45 | **Frequency**: 4
+**Authors**: Bordy E. M., Abrahams M. & Sciscio L
+**Title**: The Subeng vertebrate tracks: stratigraphy, sedimentology and a digital archive of a historic Upper Triassic palaeosurface (lower Elliot Formation), Leribe, Lesotho (southern Africa)
+**Year**: 2017
+**Journal**: Bollettino della Società Paleontologica Italiana
+
+**ID**: 5 | **Frequency**: 4
+**Authors**: Anderson J. M. & Cruickshank A. R. I
+**Title**: The biostratigraphy of the Permian and the Triassic
+**Year**: 1978
+**Journal**: Part 5. A review of the classification and distribution of Permo-Triassic tetrapods. Palaeontologia Africana
+
+**ID**: 168 | **Frequency**: 4
+**Authors**: Deutsche Stratigraphische Kommission
+**Title**: Stratigraphie von Deutschland IV – Keuper
+**Year**: 2005
+**Journal**: Courier Forschungsinstitut Senckenberg
+
+**ID**: 426 | **Frequency**: 4
+**Authors**: R Core Team
+**Title**: R: A language and environment for statistical computing
+**Year**: 2020
+**Journal**: R Foundation
+
+**ID**: 287 | **Frequency**: 4
+**Authors**: Keyser A. W. & Cruickshank A. R. I
+**Title**: Author’s reply to discussion
+**Year**: 1980
+**Journal**: Reply to M.R. Cooper. Transactions of the Geological Society of South Africa
+
+**ID**: 530 | **Frequency**: 4
+**Authors**: Tupi Caldas J
+**Title**: Paleontologia do Rio-Grande-do Sul o fóssil de São-Pedro
+**Year**: 1936
+**Journal**: Revista Instituto Historico e Geografico do Rio-Grande-do-Sul
+
+**ID**: 559 | **Frequency**: 4
+**Authors**: Watson D. M. S
+**Title**: Dicynodon and its allies
+**Year**: 1948
+**Journal**: Proceedings of the Zoological Society of London
+
+**ID**: 175 | **Frequency**: 4
+**Authors**: Dutuit J.-M
+**Title**: Ostéologie crânienne et ses enseignements apports géologique et paléoécologique de Moghreberia nmachouensis, dicynodonte (Reptilia, Therapsida) du Trias supérieur marocain
+**Year**: 1988
+**Journal**: Bulletin du Muséum National d’Histoire Naturelle
+
+**ID**: 76 | **Frequency**: 4
+**Authors**: Broom R
+**Title**: On some new therocephalian reptiles from the Karroo Beds of South Africa
+**Year**: 1920
+**Journal**: Proceedings of the Zoological Society of London
+
+**ID**: 136 | **Frequency**: 4
+**Authors**: Cox C. B
+**Title**: The jaw function and adaptive radiation of the dicynodont mammal-like reptiles of the Karoo basin of South Africa
+**Year**: 1998
+**Journal**: Zoological
+
+**ID**: 280 | **Frequency**: 4
+**Authors**: Kemp T. S
+**Title**: Vertebrate localities in the Karroo System of the Luangwa Valley, Zambia
+**Year**: 1975
+**Journal**: Nature
+
+**ID**: 98 | **Frequency**: 4
+**Authors**: Charig A. J
+**Title**: New Triassic archosaurus from Tanganyika including Mandasuchus and Teleocrater
+**Year**: 1956
+**Journal**: PhD
+
+**ID**: 461 | **Frequency**: 4
+**Authors**: Schmidt M
+**Title**: Die Lebenwelt unserer Trias
+**Year**: 1928
+**Journal**: Hohenlohesche
+
+**ID**: 551 | **Frequency**: 4
+**Authors**: Walter L. R
+**Title**: The limb posture of kannemeyeriid dicynodonts: functional and ecological considerations, in Padian K
+**Year**: 1989
+**Journal**: 
+
+**ID**: 480 | **Frequency**: 4
+**Authors**: Da Silveira L
+**Title**: Alometria ontogenética no gênero Dinodontosaurus Romer, 1943 (Therapsida, Anomodontia) do Triássico Sul-Brasileiro
+**Year**: 2017
+**Journal**: B.Sc. thesis, Universidade Federal do Rio Grande do Sul, Porto Alegre, 63 p. Skawi Ński T., Ziegler M., Czepi Ński Ł., Szerma Ński M., Tałanda M., Surmik D. & NiedŹwiedzki G. 2016. — A reevaluation of the historical ‘dinosaur’ remains from the MiddleUpper Triassic of Poland. Historical Biology
+
+**ID**: 140 | **Frequency**: 4
+**Authors**: Cross W. & Howe E
+**Title**: Red Beds of southwestern Colorado and their correlation
+**Year**: 1905
+**Journal**: Bulletin of the Geological Society of America
+
+**ID**: 164 | **Frequency**: 4
+**Authors**: DeFauw S. L
+**Title**: The Pangean dicynodont Rechnisaurus from the Triassic of Argentina
+**Year**: 1993
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 14 | **Frequency**: 4
+**Authors**: Anonymous
+**Title**: A note on the genus Proplacerias Cruickshank, 1970
+**Year**: 1972
+**Journal**: Palaeontologia Africana
+
+**ID**: 493 | **Frequency**: 4
+**Authors**: Stockley G. M
+**Title**: The geology of the Ruhuhu coalfields, Tanganyika territory
+**Year**: 1932
+**Journal**: Quarterly Journal of the Geological Society
+
+**ID**: 450 | **Frequency**: 4
+**Authors**: Romer A. S
+**Title**: The Chañares (Argentina) Triassic reptile fauna
+**Year**: 1966
+**Journal**: I. Introduction. Breviora
+
+**ID**: 243 | **Frequency**: 4
+**Authors**: Van Hoepen E. C. N
+**Title**: Contributions to the knowledge of the reptiles of the Karroo Formation
+**Year**: 1915
+**Journal**: 3. The skull and other remains of Lystrosaurus putterelli, n. sp.. Annals of the Transvaal Museum
+
+**ID**: 515 | **Frequency**: 4
+**Authors**: Thackeray J. F
+**Title**: Do specimens attributed to Lystrosaurus murrayi and L
+**Year**: 2018
+**Journal**: declivis
+
+**ID**: 349 | **Frequency**: 4
+**Authors**: Lydekker R
+**Title**: Notices of new and other vertebrate from Indian Tertiary and Secondary Rocks
+**Year**: 1877
+**Journal**: Records of the Geological Survey of India
+
+**ID**: 218 | **Frequency**: 4
+**Authors**: Das Gupta H. C
+**Title**: Notes on the Panchet reptile
+**Year**: 1922
+**Journal**: Sir Asutosh Mookerjee Silver Jubilee Volumes
+
+**ID**: 445 | **Frequency**: 4
+**Authors**: Robinson P. L
+**Title**: Some new vertebrate fossils from the Panchet Series of west Bengal
+**Year**: 1958
+**Journal**: Nature
+
+**ID**: 215 | **Frequency**: 4
+**Authors**: Groenewald G. H
+**Title**: Burrow casts from the LystrosaurusProcolophon Assemblage-zone, Karoo Sequence, South Africa
+**Year**: 1991
+**Journal**: Koedoe
+
+**ID**: 60 | **Frequency**: 4
+**Authors**: Broili F
+**Title**: Ein Dicynodontierrest aus der Karooformation
+**Year**: 1908
+**Journal**: Neues Jahrbuch für Mineralogie, Geognosie, Geologie und Petrefaktenkunde
+
+**ID**: 240 | **Frequency**: 4
+**Authors**: Heckert A. B
+**Title**: The tetrapod fauna of the Upper Triassic lower Chinle Group (Adamanian: latest Carnian) of the Zuni Mountains, west-central New Mexico
+**Year**: 1997
+**Journal**: New Mexico Museum of Natural History and Science Bulletin
+
+**ID**: 446 | **Frequency**: 4
+**Authors**: Rodrigues J. B
+**Title**: Les reptiles fossiles de la vallé de l’Amazone
+**Year**: 1892
+**Journal**: Vellosia 2: 41-56. 356 Rogers R. R., Swisher C. C., Sereno P. C., Monetta A. M., Forster C. A. & Martínez R. N. 1993. — The Ischigualasto tetrapod assemblage (Late Triassic, Argentina) and 40Ar/39Ar dating of dinosaur origins. Science
+
+**ID**: 441 | **Frequency**: 4
+**Authors**: Repelin J
+**Title**: Sur un fragment de crâne de Dicynodon recueilli par H
+**Year**: 1923
+**Journal**: Counillon dans les environs de Luang-Prabang (HautLaos). Bulletin du Service géologique de l’Indochine
+
+**ID**: 455 | **Frequency**: 4
+**Authors**: Rowe T
+**Title**: The morphology, affinities, and age of the dicynodont reptile Geikia elginensis, in Jacobs L
+**Year**: 1980
+**Journal**: L
+
+**ID**: 554 | **Frequency**: 4
+**Authors**: Watson D. M. S
+**Title**: XL
+**Year**: 1911
+**Journal**: — The skull of Diademodon, with notes on those of some other cynodonts. Annals and Magazine of Natural History
+
+**ID**: 316 | **Frequency**: 4
+**Authors**: Leonardi G. & Oliveira F. H. de
+**Title**: A revision of the Triassic and Jurassic tetrapod footprints of Argentina and a new approach on the age and meaning of the Botucatu Formation footprints (Brazil)
+**Year**: 1990
+**Journal**: Revista Brasileira de Geociências
+
+**ID**: 315 | **Frequency**: 4
+**Authors**: Leonardi G
+**Title**: Annotated Atlas of South America Tetrapod Footprints (Devonian to Holocene) with an Appendix on Mexico and Central America
+**Year**: 1994
+**Journal**: Companhia
+
+**ID**: 88 | **Frequency**: 4
+**Authors**: Calvo J. O
+**Title**: Ichnology, in Gasparini Z
+**Year**: 2007
+**Journal**: 
+
+**ID**: 195 | **Frequency**: 4
+**Authors**: Falco J. I
+**Title**: Estratigrafía y evolución magmática del Grupo Los Menucos (Triásico), Provincia de Río Negro, Argentina
+**Year**: 2019
+**Journal**: PhD thesis, Universidad Nacional del Sur, Bahía Blanca, 249 p. Ferreira G. S., Rincón A. D., Solórzano A. & Langer M. C. 2006. — Review of the fossil matamata turtles: earliest well-dated record and hypotheses on the origin of their present geographical distribution. Science of Nature
+
+**ID**: 233 | **Frequency**: 4
+**Authors**: Haubold H
+**Title**: Saurierfährten
+**Year**: 1984
+**Journal**: A
+
+**ID**: 97 | **Frequency**: 4
+**Authors**: Ceoloni P., Conti M. A., Mariotti N. & Nicosia U
+**Title**: New Late Permian tetrapod footprints from Southern Alps
+**Year**: 1986
+**Journal**: Memorie della Società Geologica Italiana
+
+**ID**: 189 | **Frequency**: 4
+**Authors**: Ellenberger P
+**Title**: Découverte de pistes de Vertébrés dans le Permien, le Trias et le Lias inférieur, aux abords de Toulon (Var) et d’Anduze (Gard)
+**Year**: 1965
+**Journal**: Comptes Rendus de l’Académie des Sciences à Paris
+
+**ID**: 336 | **Frequency**: 4
+**Authors**: Lucas S. G
+**Title**: Barysoma lenzii (Synapsida: Dicynodontia) from the Middle Triassic of Brazil, a synonym of Stahleckeria potens
+**Year**: 1993
+**Journal**: Journal of Paleontology
+
+**ID**: 337 | **Frequency**: 4
+**Authors**: Lucas S. G
+**Title**: The Chinle Group: revised stratigraphy and biochronology of Upper Triassic Nonmarine strata in the western United States
+**Year**: 1993
+**Journal**: Museum of Northern Arizona Bulletin
+
+**ID**: 513 | **Frequency**: 4
+**Authors**: Sushkin P. P
+**Title**: Notes on the pre-Jurassic Tetrapoda from Russia
+**Year**: 1926
+**Journal**: I. Dicynodon amalitzkii, n. sp. Palaeontologia Hungarica
+
+**ID**: 4 | **Frequency**: 4
+**Authors**: Amalitzky V. P
+**Title**: Diagnoses of the new forms of vertebrates and plants from the upper Permian on north Dvina
+**Year**: 1922
+**Journal**: Bulletin de l’Académie des Sciences de Russie
+
+**ID**: 307 | **Frequency**: 4
+**Authors**: Kurkin A. A
+**Title**: New late Permian dicynodonts from the Vyazniki assemblage of terrestrial tetrapods of eastern Europe
+**Year**: 2001
+**Journal**: Paleontological Journal
+
+**ID**: 43 | **Frequency**: 4
+**Authors**: Boonstra L. D
+**Title**: A report on some Karroo Reptiles from the Luangwa Valley, Northern Rhodesia
+**Year**: 1938
+**Journal**: Quarterly Journal of the Geological Society of London
+
+**ID**: 1 | **Frequency**: 4
+**Authors**: Stahleckeriidae than to the Kannemeyeriidae von Huene,
+**Title**: Title not extracted
+**Year**: 1948
+**Journal**: Skull
+
+**ID**: 267 | **Frequency**: 4
+**Authors**: Jones T. R
+**Title**: I
+**Year**: 1890
+**Journal**: -On some fossil Estheriae. Geological Magazine
+
+**ID**: 409 | **Frequency**: 4
+**Authors**: Owen R
+**Title**: On the orders of fossil and recent Reptilia, and their distribution in time
+**Year**: 1860
+**Journal**: Report of the Twenty-Ninth Meeting of the British Association for the Advancement of Science
+
+**ID**: 410 | **Frequency**: 4
+**Authors**: Owen R
+**Title**: On some reptilian fossils from South Africa
+**Year**: 1860
+**Journal**: Quarterly Journal of the Geological Society of London
+
+**ID**: 222 | **Frequency**: 3
+**Authors**: Hammer W. R., Ryan W. J. & DeFauw S. L
+**Title**: Comments on the vertebrate fauna from the Fremouw Formation (Triassic), Beardmore Glacier region Antarctica
+**Year**: 1987
+**Journal**: Antarctic Journal of the United States 22: 32-33. Hammer W. R., Collinson J. W., Askin R. A. & Hickerson W. J. 2004. — The first Upper Triassic vertebrate locality in Antarctica. Gondwana Research
+
+**ID**: 464 | **Frequency**: 3
+**Authors**: Schultz C. L., Langer M. C. & Montefeltro F. C
+**Title**: A new rhynchosaur from south Brazil (Santa Maria Formation) and rhynchosaur diversity patterns across the Middle-Late Triassic boundary
+**Year**: 2016
+**Journal**: Palaontologische Zeitschrift
+
+**ID**: 207 | **Frequency**: 3
+**Authors**: Goloboff P. A. & Catalano S. A
+**Title**: TNT version 1
+**Year**: 2016
+**Journal**: 5, including a full implementation of phylogenetic morphometrics. Cladistics
+
+**ID**: 527 | **Frequency**: 3
+**Authors**: Torsvik T. H. & Cocks R. M
+**Title**: Earth History and Palaeogeography
+**Year**: 2016
+**Journal**: Cambridge
+
+**ID**: 201 | **Frequency**: 3
+**Authors**: Kamo S. L. & Geissman J. W
+**Title**: Paleontology of the Blaauwater 67 and 65 farms, South Africa: testing the Daptocephalus/Lystrosaurus biozone boundary in a stratigraphic framework
+**Year**: 2017
+**Journal**: Palaios
+
+**ID**: 84 | **Frequency**: 3
+**Authors**: Broom R. & Haughton S. H
+**Title**: On two new species of Dicynodon
+**Year**: 1913
+**Journal**: Annals of the South African Museum
+
+**ID**: 120 | **Frequency**: 2
+**Authors**: Conrad K., Lockley M. G. & Prince N. K
+**Title**: Triassic and Jurassic vertebrate-dominated trace fossil assemblages of the Cimarron Valley region: implications for paleoecology and biostratigraphy
+**Year**: 1987
+**Journal**: New
+
+**ID**: 179 | **Frequency**: 2
+**Authors**: Dzik J
+**Title**: A new Paleorhinus fauna in the early Late Triassic of Poland
+**Year**: 2001
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 104 | **Frequency**: 2
+**Authors**: Chudinov P. K
+**Title**: Upper Permian therapsids from the Ezhovo locality
+**Year**: 1960
+**Journal**: Paleontologicheskii Zhurnal
+
+**ID**: 254 | **Frequency**: 2
+**Authors**: Matthews N. A., Breithaupt B. H. & Smith J. A
+**Title**: Tracking dinosaurs in BLM Canyon Country, Utah
+**Year**: 2016
+**Journal**: Geology of the Intermountain West
+
+**ID**: 364 | **Frequency**: 2
+**Authors**: Martinelli A. G., Soares M. B. & Schwanke C
+**Title**: Two new cynodonts (Therapsida) from the middle-early Late Triassic of Brazil and comments on South American probainognathians
+**Year**: 2016
+**Journal**: PLoS ONE 11: e0162945. https://doi.org/10.1371/journal. pone.0162945 COMPTES RENDUS PALEVOL • 2023 • 22 (16) Martinelli A. G., Escobar J. A., Francischini H., Kerber L., Müller R. T., Rupert R., Schultz C. L. & Da Rosa Á. A. S. 2020. — New record of a stahleckeriid dicynodont (Therapsida, Dicynodontia) from the Late Triassic of southern Brazil and biostratigraphic remarks on the Riograndia Assemblage Zone. Historical Biology
+
+**ID**: 422 | **Frequency**: 2
+**Authors**: H. K., Elliott J. A. & Elliott D. A
+**Title**: New Australian sauropods shed light on Cretaceous dinosaur palaeobiogeography
+**Year**: 2016
+**Journal**: Scientific Reports
+
+**ID**: 452 | **Frequency**: 2
+**Authors**: McPhee B. W. & Jirah S
+**Title**: Advances in nonmarine Karoo biostratigraphy: significance for understanding basin development, in Linol B
+**Year**: 2016
+**Journal**: & de Wit M. J. (eds), Origin and Evolution of the Cape Mountains and Karoo Basin. Springer International Publishing: 141-149. https://doi.org/10.1007/9783-319-40859-0_14 Rühle von Lilienstern H. 1944. — Eine Dicynodontierfährte aus dem Chirotheriumsandstein von Hessberg bei Hildburghausen. Paläontologische Zeitschrift 23: 368-387. https://doi.org/10.1007/ BF03160445 Ruta M., Angielczyk K. D., Fröbisch J. & Benton M. J. 2013. — Decoupling of morphological disparity and taxic diversity during the adaptive radiation of anomodont therapsids. Proceedings of the Royal Society B
+
+**ID**: 471 | **Frequency**: 2
+**Authors**: Scotese C. R
+**Title**: PALEOMAP PaleoAtlas for GPlates and the PaleoData Plotter Program
+**Year**: 2016
+**Journal**: PALEOMAP
+
+**ID**: 406 | **Frequency**: 2
+**Authors**: Osborn H. F
+**Title**: Title not extracted
+**Year**: 1903
+**Journal**: On the primary division of the Reptilia into two sub-classes, Synapsida and Diapsida. Science
+
+**ID**: 67 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: On the use of the term Anomodontia
+**Year**: 1905
+**Journal**: Records of the Albany Museum
+
+**ID**: 525 | **Frequency**: 2
+**Authors**: Toerien M. J
+**Title**: Convergent trends in Anomodontia
+**Year**: 1955
+**Journal**: Evolution
+
+**ID**: 281 | **Frequency**: 2
+**Authors**: Kemp T. S
+**Title**: Mammal-Like Reptiles and the Origin of Mammals
+**Year**: 1982
+**Journal**: Academic
+
+**ID**: 248 | **Frequency**: 2
+**Authors**: Hotton N
+**Title**: Dicynodonts and their role as primary consumers, in Hotton N
+**Year**: 1986
+**Journal**: 
+
+**ID**: 293 | **Frequency**: 2
+**Authors**: King G. M. & Cluver M. A
+**Title**: The aquatic Lystrosaurus: an alternative lifestyle
+**Year**: 1991
+**Journal**: Historical
+
+**ID**: 482 | **Frequency**: 2
+**Authors**: Smith R. M. H
+**Title**: Changing fluvial environments across the Permian-Triassic boundary in the Karoo Basin, South Africa and possible causes of tetrapod extinctions
+**Year**: 1995
+**Journal**: Palaeogeography,
+
+**ID**: 294 | **Frequency**: 2
+**Authors**: King G. M. & Jenkins I
+**Title**: The dicynodont Lystrosaurus from the Upper Permian of Zambia: evolutionary and stratigraphical implications
+**Year**: 1997
+**Journal**: Palaeontology
+
+**ID**: 275 | **Frequency**: 2
+**Authors**: Kammerer C. F
+**Title**: Elevated cranial sutural complexity in burrowing dicynodonts
+**Year**: 2021
+**Journal**: Frontiers in Ecology and Evolution
+
+**ID**: 354 | **Frequency**: 2
+**Authors**: Mainardes Dutra B. A
+**Title**: Therapsida, Dicynodontia: aspectos gerais e registros brasileiros
+**Year**: 2015
+**Journal**: B.Sc
+
+**ID**: 40 | **Frequency**: 2
+**Authors**: Bonaparte J. F
+**Title**: El Mezozoico de América del Sur y sus tetrápodos
+**Year**: 1978
+**Journal**: Opera Lilloana
+
+**ID**: 475 | **Frequency**: 2
+**Authors**: Seeley H. G
+**Title**: XLIII
+**Year**: 1904
+**Journal**: -On a new type of reptilian tooth (Ptychocynodon) from the upper Karroo Beds near Burghersdorp, Cape Colony. Annals and Magazine of Natural History
+
+**ID**: 259 | **Frequency**: 2
+**Authors**: Jaekel O
+**Title**: Die Wirbeltiere
+**Year**: 1911
+**Journal**: Eine
+
+**ID**: 130 | **Frequency**: 2
+**Authors**: Courtenay-Latimer M
+**Title**: Kannemeyeria wilsoni Broom; how it came to the East London Museum, in du Toit A
+**Year**: 1948
+**Journal**: L
+
+**ID**: 522 | **Frequency**: 2
+**Authors**: Toerien M. J
+**Title**: Notes on the genus Kannemeyeria
+**Year**: 1951
+**Journal**: South African Journal of Science
+
+**ID**: 394 | **Frequency**: 2
+**Authors**: Nicolas M. V. M
+**Title**: Tetrapod Biodiversity through the PermoTriassic Beaufort Group (Karoo Supergroup) of South Africa
+**Year**: 2007
+**Journal**: PhD
+
+**ID**: 150 | **Frequency**: 2
+**Authors**: Damiani R. J
+**Title**: A giant skull of the temnospondyl Xenotosuchus africanus from the Middle Triassic of South Africa and its ontogenetic implications
+**Year**: 2008
+**Journal**: Acta Palaeontologica Polonica
+
+**ID**: 549 | **Frequency**: 2
+**Authors**: Vogel G
+**Title**: Giant mammal cousin rivaled early dinosaurs
+**Year**: 2008
+**Journal**: Science
+
+**ID**: 113 | **Frequency**: 2
+**Authors**: Colbert E. H
+**Title**: Antarctic Triassic tetrapods in the laboratory
+**Year**: 1972
+**Journal**: Antarctic Journal of the United States
+
+**ID**: 51 | **Frequency**: 2
+**Authors**: Botha-Brink J
+**Title**: Burrowing in Lystrosaurus: preadaptation to a postextinction environment? Journal of Vertebrate Paleontology 37 (5): e1365080
+**Year**: 2017
+**Journal**: 
+
+**ID**: 244 | **Frequency**: 2
+**Authors**: Van Hoepen E. C. N
+**Title**: Preliminary description of some new Lystrosaurini
+**Year**: 1916
+**Journal**: Annals of the Transvaal Museum
+
+**ID**: 524 | **Frequency**: 2
+**Authors**: Toerien M. J
+**Title**: CXIII
+**Year**: 1954
+**Journal**: -Lystrosaurus primitivus, sp. nov., and the origin of the genus Lystrosaurus. Annals and Magazine of Natural History
+
+**ID**: 270 | **Frequency**: 2
+**Authors**: Kalandadze N. N
+**Title**: Title not extracted
+**Year**: 1974
+**Journal**: The first lystrosaur from the territory of Laurasia. Priroda
+
+**ID**: 100 | **Frequency**: 2
+**Authors**: Cheng Z.-W
+**Title**: Permian and Triassic strata and fossil assemblages in the Dalongkou area of Jimusar, Xinjiang: (7) vertebrates
+**Year**: 1986
+**Journal**: Geological Memoirs of the People’s Republic of China Ministry of Geology and Mineral Resources
+
+**ID**: 71 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: An attempt to determine the horizons of the fossil vertebrates of the Karroo
+**Year**: 1909
+**Journal**: Annals of the South African Museum
+
+**ID**: 128 | **Frequency**: 2
+**Authors**: Cotter G. de P
+**Title**: A revised classification of the Gondwana system
+**Year**: 1918
+**Journal**: Records of the Geological Survey of India
+
+**ID**: 460 | **Frequency**: 2
+**Authors**: Sahani M. R. & Tripathi C
+**Title**: Vertebrate laboratory
+**Year**: 1962
+**Journal**: Records of the Geological Survey of India
+
+**ID**: 472 | **Frequency**: 2
+**Authors**: Seeley H. G
+**Title**: VI
+**Year**: 1889
+**Journal**: Researches on the structure, organization, and classification of the fossil Reptilia. VI. On the anomodont Reptilia and their allies. Philosophical Transactions of the Royal Society of London B
+
+**ID**: 65 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: The leg and toe bones of Ptychosagium
+**Year**: 1902
+**Journal**: Transactions of the South African Philosophical Society
+
+**ID**: 17 | **Frequency**: 2
+**Authors**: Aulie R. P
+**Title**: The origin of the idea of the mammal-like reptile
+**Year**: 1974
+**Journal**: III. The Mammal-like reptiles. American Biology Teacher
+
+**ID**: 557 | **Frequency**: 2
+**Authors**: Watson D. M. S
+**Title**: The limbs of Lystrosaurus
+**Year**: 1913
+**Journal**: Geological Magazine
+
+**ID**: 238 | **Frequency**: 2
+**Authors**: Haughton S. H
+**Title**: Note on the distribution of fossil Reptilia of Karroo age
+**Year**: 1963
+**Journal**: Palaeontologia Africana
+
+**ID**: 145 | **Frequency**: 2
+**Authors**: Cruickshank A. R. I
+**Title**: A comparison of the palates of Permian and Triassic dicynodonts
+**Year**: 1968
+**Journal**: Palaeontologia Africana
+
+**ID**: 509 | **Frequency**: 2
+**Authors**: Surkov M. V
+**Title**: The first evidence of tactile sensor zones among dicynodonts (Therapsida)
+**Year**: 2006
+**Journal**: Izvestiya of Saratov University
+
+**ID**: 572 | **Frequency**: 2
+**Authors**: Young C. C
+**Title**: Note on the labyrinthodonts of the Sinokannemeyerian fauna in Shansi
+**Year**: 1963
+**Journal**: Vertebrata PalAsiatica
+
+**ID**: 155 | **Frequency**: 2
+**Authors**: Darton N. H
+**Title**: A reconnaissance of parts of northwestern New Mexico and northern Arizona
+**Year**: 1910
+**Journal**: Government
+
+**ID**: 74 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: Note on the American Triassic genus Placerias Lucas
+**Year**: 1914
+**Journal**: Bulletin of the Geological Society of America
+
+**ID**: 95 | **Frequency**: 2
+**Authors**: Case E. C
+**Title**: The Permo-Carboniferous Red Beds of North America and their vertebrate fauna
+**Year**: 1915
+**Journal**: Washington
+
+**ID**: 214 | **Frequency**: 2
+**Authors**: Gregory H. E
+**Title**: Geology of the Navajo Country
+**Year**: 1917
+**Journal**: A Reconnaissance
+
+**ID**: 456 | **Frequency**: 2
+**Authors**: Rowe T. B
+**Title**: Placerias: an unusual reptile from the Chinle Formation
+**Year**: 1979
+**Journal**: Plateau
+
+**ID**: 550 | **Frequency**: 2
+**Authors**: Walter L. R
+**Title**: The formation of secondary centers of ossification in kannemeyeriid dicynodonts
+**Year**: 1985
+**Journal**: Journal of Paleontology
+
+**ID**: 225 | **Frequency**: 2
+**Authors**: Hancox P. J. & Rubidge B. S
+**Title**: A new dicynodont therapsid from South Africa: implications for the biostratigraphy of the Upper Beaufort (Cynognathus Assemblage Zone)
+**Year**: 1994
+**Journal**: South African Journal of Science
+
+**ID**: 42 | **Frequency**: 2
+**Authors**: Bonaparte J. F
+**Title**: El Triásico de San Juan - La Rioja Argentina y sus dinosaurios
+**Year**: 1997
+**Journal**: Museo
+
+**ID**: 78 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: On the structure of the skull in the carnivorous dinocephalian reptiles
+**Year**: 1923
+**Journal**: Proceedings of the Zoological Society of London
+
+**ID**: 425 | **Frequency**: 2
+**Authors**: Price I. L
+**Title**: Sobre a suposta presença de um anomodonte triássico no alto rio Amazonas
+**Year**: 1956
+**Journal**: Notas Preliminares e Estudos
+
+**ID**: 83 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: Three new species of anomodonts from the Rubidge collection
+**Year**: 1948
+**Journal**: Annals of the Transvaal Museum
+
+**ID**: 28 | **Frequency**: 2
+**Authors**: Battail B
+**Title**: Late Permian dicynodont fauna from Laos
+**Year**: 2009
+**Journal**: Geological Society, London, Special Publications
+
+**ID**: 122 | **Frequency**: 2
+**Authors**: Cope E. D
+**Title**: Remarks
+**Year**: 1870
+**Journal**: Proceedings of the American Philosophical Society
+
+**ID**: 123 | **Frequency**: 2
+**Authors**: Cope E. D
+**Title**: Synopsis of the extinct Batrachia, Reptilia and Aves of North America
+**Year**: 1870
+**Journal**: Transactions of the American Philosophical Society
+
+**ID**: 124 | **Frequency**: 2
+**Authors**: Cope E. D
+**Title**: Dicynodont tusks from the Triassic rocks of the Phoenixville tunnel
+**Year**: 1870
+**Journal**: Proceedings of the American Philosophical Society
+
+**ID**: 232 | **Frequency**: 2
+**Authors**: Haubold H
+**Title**: Die fossilen Saurierfährten
+**Year**: 1974
+**Journal**: A
+
+**ID**: 93 | **Frequency**: 2
+**Authors**: Casamiquela R. M
+**Title**: Estudios icnológicos: problemas y métodos de la icnología con aplicación al estudio de pisadas Mesozoicos (Reptilia, Mammalia) de la Patagonia
+**Year**: 1964
+**Journal**: Colegio
+
+**ID**: 190 | **Frequency**: 2
+**Authors**: Ellenberger P
+**Title**: Contribution à la classification des Pistes de Vertébrés du Trias
+**Year**: 1972
+**Journal**: Les types du Stormberg d’Afrique du Sud (I). Palaeovertebrata
+
+**ID**: 188 | **Frequency**: 2
+**Authors**: Ellenberger P
+**Title**: Note préliminaire sur les pistes et les restes osseux de Vertébrés du Basutoland (Afrique du Sud)
+**Year**: 1955
+**Journal**: Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences, Paris
+
+**ID**: 185 | **Frequency**: 2
+**Authors**: Ellenberger F. & Ellenberger P
+**Title**: Principaux types de pistes de Vertébrés dans les couches du Stormberg au Basutoland (Afrique du Sud) (Note préliminaire)
+**Year**: 1958
+**Journal**: Compte rendu sommaire des séances de la Société Géologique de France
+
+**ID**: 72 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: On some new genera and species of dicynodont reptiles, with notes on a few others
+**Year**: 1913
+**Journal**: Bulletin of the American Museum of Natural History
+
+**ID**: 73 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: On four new fossil reptiles from the Beaufort Series, South Africa
+**Year**: 1913
+**Journal**: Records of the Albany Museum
+
+**ID**: 306 | **Frequency**: 2
+**Authors**: Kurkin A. A
+**Title**: New dicynodont from Little Northern Dvina River excavations
+**Year**: 1999
+**Journal**: Paleontological Journal
+
+**ID**: 82 | **Frequency**: 2
+**Authors**: Broom R
+**Title**: Some new Karroo reptiles with notes on a few others
+**Year**: 1941
+**Journal**: Annals of the Transvaal Museum
+
+**ID**: 33 | **Frequency**: 2
+**Authors**: Benton M. J
+**Title**: No gap in the Middle Permian record of terrestrial vertebrates
+**Year**: 2012
+**Journal**: Geology
+
+**ID**: 220 | **Frequency**: 2
+**Authors**: Hammer W. R
+**Title**: New therapsids from the Upper Fremouw Formation (Triassic) of Antarctica
+**Year**: 1995
+**Journal**: Journal of Vertebrate Paleontology
+
+**ID**: 398 | **Frequency**: 2
+**Authors**: Olempska E
+**Title**: Late Triassic spinicaudatan crustaceans from southwestern Poland
+**Year**: 2004
+**Journal**: Acta Palaeontologica Polonica
+
+**ID**: 292 | **Frequency**: 1
+**Authors**: King G. M
+**Title**: The aquatic Lystrosaurus: a palaeontological myth
+**Year**: 1991
+**Journal**: Historical
+

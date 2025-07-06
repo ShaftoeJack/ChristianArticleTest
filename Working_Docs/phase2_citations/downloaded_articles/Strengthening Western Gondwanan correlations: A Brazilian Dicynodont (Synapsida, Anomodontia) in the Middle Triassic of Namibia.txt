@@ -1,0 +1,923 @@
+Gondwana Research 23 (2013) 1151–1162
+
+Contents lists available at SciVerse ScienceDirect
+
+Gondwana Research
+journal homepage: www.elsevier.com/locate/gr
+
+Strengthening Western Gondwanan correlations: A Brazilian Dicynodont (Synapsida,
+Anomodontia) in the Middle Triassic of Namibia
+Fernando Abdala a,⁎, Claudia A. Marsicano b, Roger M.H. Smith c, Roger Swart d
+a
+
+Bernard Price Institute for Palaeontological Research, University of the Witwatersrand, P. Bag 3, WITS 2050, Johannesburg, South Africa
+Departamento de Ciencias Geológicas, Facultad de Ciencias Exactas y Naturales, IDEAN, CONICET, Universidad de Buenos Aires, Buenos Aires, Argentina
+Iziko SA Museum, P O Box 61, Cape Town 8000 and Department of Geological Sciences, University of Cape Town, P. Bag, Rondebosch 7701, South Africa
+d
+BlackGold Geosciences, P.O. Box 24287, Windhoek, Namibia
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 3 May 2012
+Received in revised form 19 July 2012
+Accepted 19 July 2012
+Available online 8 August 2012
+Handling Editor: P.G. Eriksson
+Keywords:
+Stahleckeria
+Dicynodontia
+Omingonde formation
+Namibia
+Middle Triassic
+Palaeobiogeography
+
+a b s t r a c t
+Terrestrial Middle Triassic strata occur throughout continental Africa and are particularly well exposed in
+South Africa, Tanzania, Zambia, and Namibia. The youngest age for all these African deposits is widely accepted as early Middle Triassic (Anisian). Fossils collected recently from the uppermost strata of the upper
+Omingonde Formation in Namibia highlighted the presence of Chiniquodon, a carnivorous cynodont previously only found in Ladinian-Carnian aged rocks of South America. In addition, work in progress indicates
+that a large archosaur, originally reported as Erythrosuchus, also discovered from levels close to the top of
+this unit, is in fact a rauisuchian, a group of archosaurs well known from Ladinian-Carnian beds of southern
+South America. Here we present the ﬁrst record of the tuskless dicynodont Stahleckeria potens from the top of
+the upper Omingonde Formation in central Namibia. This taxon was up until now only known from the
+Ladinian Dinodontosaurus Assemblage Zone of the Santa Maria Formation in southern Brazil. Thus, compelling evidence for a Ladinian age for the upper levels of the upper Omingonde Formation is provided by two
+therapsid and one archosaur taxa. The tetrapod fauna of the upper Omingonde Formation partially ﬁlls the
+gap of the well-documented hiatus (Ladinian gap), prevalent throughout the Karoo basins of south and central Africa. The presence of the same therapsid taxa in the Namibian Waterberg Basin and the Paraná Basin of
+Brazil during Middle Triassic suggests that these basins were biogeographically linked through a series of
+interconnecting lowlands, with no major ecological, climatic and/or physical barriers.
+© 2012 International Association for Gondwana Research. Published by Elsevier B.V. All rights reserved.
+
+1. Introduction
+Dicynodonts are a diverse and widespread group of herbivorous therapsids, which constituted a key component of Permian and Triassic terrestrial tetrapod communities throughout Pangea (e.g. King, 1988;
+Fröbisch, 2009). In western Gondwana (southern South America and
+south-central Africa), dicynodonts are well represented and diverse. Accordingly, they have been extensively used as biostratigraphic markers
+mainly to correlate Triassic successions between western Argentina and
+southern Brazil and Permo-Triassic strata around south-central Africa
+(e.g. Bonaparte, 1966, 1969; Cox, 1968, 1969; Vega-Dias et al., 2004;
+Langer et al., 2007; Domnanovich, 2010; Kammerer et al., 2011). Nevertheless, faunal correlations between South America and Africa based on
+dicynodonts are scarce. Until recently, Kannemeyeria represented the
+only dicynodont taxon shared between Africa (South Africa and Namibia)
+and South America (Argentina); however, the taxonomic identiﬁcation of
+⁎ Corresponding author.
+E-mail addresses: nestor.abdala@wits.ac.za (F. Abdala), claumar@gl.fcen.uba.ar
+(C.A. Marsicano), rsmith@iziko.org.za (R.M.H. Smith), rogerswart@mweb.com.na
+(R. Swart).
+
+the Argentinian specimen has been questioned (Renaut and Hancox,
+2001).
+Conversely, cynodont therapsids have proven to be an important tool
+in western Gondwanan correlations, particularly Early-Middle Triassic
+strata. A recent revision of cynodonts from the upper part of the Middle
+Triassic upper Omingonde Formation of central Namibia found taxonomic links with tetrapod faunas of southern Africa and South America
+(Abdala and Smith, 2009). These included the cynodont Luangwa
+which is also present in faunas from Zambia and South America, Aleodon,
+also known from Tanzania, and the carnivorous cynodont Chiniquodon
+which also occurs in South America and Madagascar (Abdala and
+Smith, 2009; Kammerer et al., 2010).
+To improve our understanding of the palaeobiogeographical connections in western Gondwana during the Middle Triassic we recently conducted ﬁeldwork targeting the uppermost Omingonde strata
+exposed along the Omaruru River in central Namibia. Several therapsid fossils were discovered of which the most interesting is the skull
+and lower jaw of a relatively large tuskless dicynodont which we
+have identiﬁed as Stahleckeria potens, a species previously known
+only from a Ladinian-aged interval of the Santa Maria Formation of
+southern Brazil. This new specimen constitutes the ﬁrst large tuskless
+
+1342-937X/$ – see front matter © 2012 International Association for Gondwana Research. Published by Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.gr.2012.07.011
+
+1152
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+dicynodont described from the Triassic of Namibia and only the second for the Middle Triassic of Africa. Tuskless dicynodonts are represented by four taxa in the Middle-Late Triassic successions of South
+America, one of them, Ischigualastia, being abundant. This new record
+not only strengthens correlations between Namibia and southern South
+America during early Mesozoic times but also supports previous suggestions of a late Middle Triassic (Ladinian) age for the fauna represented in
+the uppermost strata of the upper Omingonde Formation. Accordingly,
+these new vertebrate fossils from the upper Omingonde are hitherto
+the only positively identiﬁed Ladinian-aged fauna for continental Africa.
+2. Geological setting
+In southwestern Gondwana, during the Middle Triassic, the large
+Karoo foreland basin of South Africa was positioned around 55° S
+
+(Fig. 1) and was bounded by the rising Cape Fold mountains to the
+south, east and west and a vast plateau to the north (Visser, 1991;
+Turner, 1999; Hancox and Rubidge, 2001; Catuneanu et al., 2005;
+Rubidge, 2005; Zerfass et al., 2005). At the same time this plateau was affected by crustal extension that opened up a broad belt of linear rift valleys stretching NE-SW across southern Gondwana (Tankard et al., 2009;
+Zerfass et al., 2004; Fig. 1) and it is in these rifts that various Karoo-aged
+(Permo- Carboniferous to Early Jurassic) successions have been preserved. The structural trend has been attributed to transtensional
+forces in the crust that were being released along deep-seated
+pre-Gondwanan sutures (De Wit et al., 1988). Zerfass et al. (2004)
+concluded that the en-echelon extensional basins of southern Brazil
+and southern African were formed in dextral shear zones subperpendicular to the Gondwanides orogen caused by oblique compression in the Sierra de la Ventana and Cape Fold belts. Alternatively Lofﬂer
+
+Fig. 1. Paleogeographic reconstruction of Western Gondwana during the Middle Triassic showing the relative position of the Waterberg Basin and the Santa Maria Supersequence of
+the Paraná Basin and their main structural elements.
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+(1998) interprets the lineament as a “failed rift” resulting from crustal
+upwarping as a precursor to the Early Cretaceous magmatism that accompanied the eventual break-up of western Gondwana.
+The Omingonde Formation of central Namibia accumulated in a series
+of 3 parallel half-grabens in the region of south-western Gondwana that
+lay around 40o S (Fig. 1). These small basins have been named Waterberg
+and Erongo on the southern side and Otjungundu on the northern edge
+(South African Committee for Stratigraphy, 1980). The fossils and outcrops documented here (Figs. 2 and 3) all lie within the Waterberg
+Basin in the area around Mount Etjo (Stollhofen et al., 1998; Holzförster
+et al., 1999; Zerfass et al., 2005). Here, the 700 m-thick Karoo-aged succession lies directly on an uneven, glacially sculpted (Lofﬂer, 1998) surface of Neoproterozoic granites and gneisses. The new dicynodont was
+recovered from the predominantly red ﬂuvial ﬂoodplain deposits of the
+Upper Omingonde Fm., some 40 stratigraphic meters below the base of
+the predominantly aeolian Etjo Formation (Fig. 2). Global modeling
+(Hallam, 1985), as well as geological (Du Toit, 1948; Smith, 1995) and paleontological data (Grine et al., 1979, but see Kemp, 1982) indicate that
+the climate in the interior of western Gondwana during the Middle
+
+1153
+
+Triassic was warm to hot, seasonally arid with mean annual temperatures of between 16 and 20 °C (Smith, 1995; Sellwood and Valdes, 2006).
+
+3. Paleoenvironmental interpretation
+In the upper Omingonde succession, the ﬂuvial channel sandstone
+bodies gradually lose their gravel component yet retain high sinuosity
+characteristics and, as such, may be described as the preserved inchannel deposits of pebbly sand-bed meandering rivers. Fig. 3 is a measured sedimentological section of cliff exposures along the Omaruru
+River (see Fig. 2) in the vicinity of the new dicynodont and from which
+most of the associated fauna was recovered. This interval corresponds
+to the lower half of Unit 4 of Holzförster et al. (1999), which they interpret as ﬂoodplain facies with sheetﬂood deposits. The lower pebbly
+sandstone bodies display ribbon-shaped cross-sectional geometry and
+lateral accretion surfaces typical of meander-belt point-bar deposits
+(Friend, 1983). They have runneled basal scours and comprise mainly
+trough cross-bedded, coarse-grained sandstone or gritstone with
+
+Fig. 2. Locality of the new Stahleckeria and associated fossil fauna in the Omaruru River, Otjiwarongo District, Namibia.
+
+1154
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+Fig. 3. Sedimentological section of the new Stahleckeria locality.
+
+scattered maroon mudrock pebbles and lenses of matrix supported
+white quartz and rare basaltic pebble conglomerate.
+The sandstone-to-mudrock ratio in the logged interval is 1:6. The
+overbank ﬁnes are dominantly thickly bedded, pale red, massive siltstone with some horizontally laminated ﬁne-grained sandstone sheets
+
+containing minor mudrock ﬂakes. Colour mottling and horizons of calciﬁed arcuate planes are common in the massive mudrock. These homogenous siltstone beds are interpreted as loessic in origin, each having been
+deposited rapidly, possibly in a single duststorm (Pye, 1995), then
+overprinted with immature vertisols (Smith and Swart, 2002).
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+Table 1
+List of fossils found in the Omaruru River in levels representing the uppermost strata of
+the upper Omingonde Formation. See Fig. 2 for localities and Fig. 3 for stratigraphic
+position.
+Field
+number
+
+Southings
+
+Eastings
+
+Field identiﬁcation
+
+OM-1
+
+21 deg
+03.659
+21 deg
+03.705
+21 deg
+03.705
+21 deg
+03.659
+21 deg
+03.705
+21 deg
+03.705
+21 deg
+03.705
+21 deg
+04.731
+21 deg
+04.731
+21 deg
+03.138
+21 deg
+03.141
+21 deg
+03.141
+21 deg
+03.242
+21 deg
+03.705
+21 deg
+03.687
+21 deg
+03.687
+21 deg
+03.687
+21 deg
+03.687
+21 deg
+03.709
+21 deg
+03.714
+21 deg
+03.231
+21 deg
+03.231
+21 deg
+03.231
+21 deg
+03.138
+21 deg
+02.919
+
+16 deg
+23.450
+16 deg
+23.445
+16 deg
+23.445
+16 deg
+23.450
+16 deg
+23.445
+16 deg
+23.445
+16 deg
+23.445
+16 deg
+23.239
+16 deg
+23.239
+16 deg
+23.634
+16 deg
+23.634
+16 deg
+23.634
+16 deg
+23.712
+16 deg
+23.445
+16 deg
+23.445
+16 deg
+23.448
+16 deg
+23.445
+16 deg
+23.448
+16 deg
+23.430
+16 deg
+23.392
+16 deg
+23.700
+16 deg
+23.700
+16 deg
+23.700
+16 deg
+23.634
+16 deg
+23.587
+
+Dicynodontia ulna
+
+OM-2
+OM-3
+OM-4
+OM-5
+OM-6
+OM-7
+OM-8
+OM-9
+OM-10
+OM-11
+OM-12
+OM-13
+OM-14
+OM-15
+OM-16
+OM-17
+OM-18
+OM-19
+OM-20
+OM-21
+OM-22
+OM-23
+OM-24
+OM-25
+
+Luangwa snout
+Chiniquodon skull and skeleton
+
+1155
+
+Another taphonomically interesting occurrence is the concentration of
+cynodont remains in a 2.5 m thick× 40 m wide cliff exposure of loessic
+siltstones (see Fig. 2, OM 2–3, 5–7 and 14–19; Table 1). The 10 specimens are mostly traversodontids and one chiniquodontid, showing a
+range of body sizes with all states of disarticulation and all are preserved
+without any calcareous nodular encrustation. Their distribution is clearly associated with the top and margins of a narrow, ﬁne-grained, shoestring channel-ﬁll sandstone. Thus, it is proposed that vegetation along
+the channel banks attracted the animals to this ﬂoodplain depression,
+which then promoted rapid burial of their carcasses by acting as a
+loess trap.
+
+Rauisuchian skeleton
+Traversodontidae skull
+Luangwa snout
+Cynodontia indet.
+Dicynodontia postcrania
+
+4. Systematic palaeontology
+Therapsida Broom, 1905
+Anomodontia Owen, 1859
+Dicynodontia Owen, 1859
+Stahleckeriidae Lehman, 1961
+Stahleckeria potens von Huene, 1935
+
+Dicynodontia terminal phalanx
+Stahleckeria
+Dicynodontia skull elements
+Small mandible
+Luangwa skull and scattered skeleton
+Traversodontidae snout
+Luangwa snout
+Cynodontia scattered skull and post
+cranium
+Cynodontia lower jaw
+
+4.1. Modiﬁed diagnosis
+Large sized tuskless dicynodont presenting the following combination
+of characters: skull wider than longer, snout robust and blunt, frontal
+with narrow anterior processes intruding between the nasals; interorbital
+skull roof very wide, with orbits not visible in dorsal view, postorbital
+region reduced representing less than the 40% of the cranial length,
+intertemporal skull roof remarkably wide, mostly formed by the parietal,
+and positioned approximately horizontal in lateral view, preparietal absent, occipital plate vertical and remarkably widened by the lateral extension of the squamosal wings (which form almost half of the width of the
+occiput).
+4.2. Comments
+
+Traversodontidae maxilla
+Traversodontidae skull
+Large bone indet
+Dicynodontia large tusked skull
+Small cranial element
+
+There is no original speciﬁc diagnosis for Stahleckeria potens. The only
+available diagnosis is for Stahleckeria and was presented by Keyser and
+Cruickshank (1979). Some characters proved to be problematical after
+the new detailed anatomical study and reconstruction of the skull of S.
+potens by Maisch (2001). The diagnosis above presented for S. potens includes diagnostic features proposed by Maisch (2001) for Stahleckeriidae
+Lehman, 1961, and Stahleckeriinae Lehman, 1961.
+
+possible basicranium
+Dicynodontia large ?ilium
+Dicynodontia post crania
+
+4.3. Lectotype
+Complete articulated skull number one described by Huene (1935) at
+the Institut und Museum für Geologie und Paläontologie der Universität
+Tübingen (GPIT/RE/7107). Designated by Maisch (2001).
+4.4. Paralectotype
+
+The vertical proﬁle through the new dicynodont locality (Fig. 3)
+shows that most of the vertebrate fossils in these strata are found in the
+dark red (10YR3/6) massive siltstone overbank facies. It is interpreted
+that many of these tetrapod remains, including the new dicynodont
+(0M-10) described here, were buried as disarticulated but associated
+skeletons beneath layers of loessic silt dumped on the ﬂoodplain surface
+during windstorms. The new dicynodont skull is distorted due to it having been buried in an unusual postero-lateral-up attitude which is attributed to the “self burial” mechanism that is common on windswept
+loessic plains (Behrensmeyer, 1975). Isolated and abraded transported
+post-cranial elements (OM 21–23), and very rarely more fully articulated
+skeletons, such as the skull and disarticulated but still associated post
+crania of a medium sized cynodont (OM-13) and the large semiarticulated rauisuchid skeleton (OM-4), are found within the upper
+levels of coarser-grained ephemeral stream channel ﬁlls (see Fig. 3).
+
+Incomplete skull number two described by Huene (1935) (GPIT/
+RE/7106). Designated by Maisch (2001).
+4.5. Locality and horizon
+Chiniqua, São Pedro do Sul Municipality, Rio Grande do Sul State,
+southern Brazil. Dinodontosaurus Assemblage Zone, Santa Maria Formation considered to be deposited during the Middle Triassic (Langer et al.,
+2007).
+4.6. New Material
+The specimen described, GSN ﬁeld number OM-10, is deposited in
+the paleontological collection of the Geological Survey of Namibia, and
+consists of a nearly complete skull with the mandible in articulation
+
+1156
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+that was separated after preparation (Figs. 4 and 5). Scattered postcranial bones were found in association.
+
+5. Description
+5.1. Skull
+
+4.7. Locality and horizon
+The specimen was collected from low exposures on the eastern
+bank of the Omaruru River (S 21° 03.141, E 16° 23.634), Otjiwarongo
+District, central Namibia (Fig. 2). Stratigraphically the specimen lies
+40 m below the base of the Etjo Formation in strata assigned to the
+Unit 4 of the upper Omingonde Formation by Holzförster et al.
+(1999) and considered to be of Middle Triassic age (Abdala and
+Smith, 2009).
+
+5.1.1. General preservation
+The specimen shows a strong postero-lateral distortion that affected
+particularly the left side, which has suffered from compaction and thus
+appears to be antero-posteriorly elongated (Figs. 4a and b). The occipital
+plate on the left side is also remarkably deformed (Fig. 4d). This distortion
+has resulted in the loss of bilateral symmetry in the skull (see asterisks in
+Figs. 4a and b) and mandible. In spite of this, the bone tissue structure is
+well preserved and several sutures can be traced in one or both sides of
+the skull.
+
+Fig. 4. Stahleckeria potens (GSN OM-10) from the upper Omingonde Formation, Namibia. (A) Photography and (B) interpretative drawing of the skull. (a) Dorsal. (b) Ventral.
+(c) Lateral. (d) Occipital views. Abbreviations: apr, anterior palatal ridges; br?Pal, broken palatine; Bs, basisphenoid; eno, external narial opening; Ept, epipterygoid; Fr, frontal;
+Ip, interparietal; iptv, interpterygoid vacuity; Ju, jugal; La, lacrimal; Mx, maxilla; Na, nasal; oc, occipital condyle; Pa, parietal; Pal, palatine; Pmx, premaxilla; Po, postorbital; pop,
+paroccipital process; Prf, prefrontal; Pro, prootic; Psp, parasphenoid; Pt, pterygoid; ptf, posttemporal fenestra; Qj, quadratojugal; Qu, quadrate; Sm, septomaxilla; So, supraoccipital;
+Sq, squamosal; St, stapes; Ta, tabular; ub, unidentiﬁed bone; ve, vertebra; Vo, vomer. Asteriks indicated the sagittal axis of the skull anterior and posteriorly. Dot pattern indicates
+bone breakage. Scale equals 5 cm.
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+1157
+
+Fig. 5. Stahleckeria potens (GSN OM-10) from the upper Omingonde Formation, Namibia. Photography and interpretative drawing of the lower jaw. (A) Lateral. (B) Medial views.
+Abbreviations: Ang, angular; Art, articular; Den, dentary; Pra, prearticular; rl, reﬂected lamina; Sp, splenial; Sur, surangular; Scale equals 5 cm.
+
+5.1.2. Dorsal view
+The skull is fairly wide, with the maximum width across the squamosals of approximately 420 mm and the basal skull length of circa
+360 mm. The postorbital length is shorter than the length between the
+tip of the snout and the pineal foramen (Fig. 4a). The facial surface of
+the premaxilla, maxillae, nasals and prefrontals is ornamented by coarse
+rugosities that are particularly well developed on the premaxilla, where
+there is also a low longitudinal crest. The snout is short (approximately
+one third of the length of the skull) and blunt. The premaxilla has a
+‘V’-shaped contact with the nasals and behind this contact the nasals
+form a short suture, thus preventing a premaxilla-frontal contact. The
+interorbital region is particularly wide so that the orbits are not visible
+in dorsal view (Fig. 4a). The temporal openings are nearly rounded,
+slightly wider than long, and the intertemporal bar is antero-posteriorly
+short and also wide (Fig. 4a). The pineal foramen is located just behind
+the anterior margin of the temporal openings. The frontals are projected
+posteriorly thus forming the anterolateral margin of the pineal foramen,
+and extend laterally, between the prefrontals and postorbitals, into the
+dorsal margin of the orbits (Fig. 4a). The parietals are small, nearly
+pentagonal-shaped bones, located in the middle part of the intertemporal
+bar at the same level of the bones forming the margins of the temporal
+openings. The anterior margin of the interparietal is bilobed and a medial
+suture is visible in dorsal view (Fig. 4a) and in the upper third in occipital
+view, thus indicating it is a paired bone, a condition unusual in therapsids,
+but present in Stahleckeria potens (see Maisch, 2001). The postorbitals
+make up the postorbital bar presenting a long posterior process onto
+the dorsal medial border of the temporal opening, reaching the squamosals and interparietals.
+5.1.3. Palatal view
+The palate is nearly 40% of the total length of the skull and is formed
+by the premaxilla that bears a pair of low longitudinal ridges anteriorly
+(Fig. 4b). These ridges fade away posteriorly where only a strong medial
+ridge is present. The medial margin of the maxilla is excluded from the
+margin of the internal nares by the palatine. The choanae are elongated
+and wide, surrounded by palatines, pterygoids and, in the midline, by
+the vomer. The vomer also limits anteriorly a rounded interpterygoid vacuity (Fig. 4b). Behind the vacuity the pterygoids contact widely forming
+a ﬂat and smooth surface. The remaining bones of the basicranium are
+covered by displaced postcranial elements, including a vertebra and
+other unrecognized bones (Fig. 4b). In ventral view, the infraorbital bar
+is formed mostly by the maxilla and medially by the jugal, whereas the
+zygomatic arch has a large contribution of the squamosal. Both quadrates
+are preserved and bear broad and wide articular facets separated by a
+shallow central trough. The left stapes is poorly preserved but is possible
+to observe the absence of a stapedial foramen (Fig. 4b).
+5.1.4. Lateral view
+The septomaxilla borders the posterior margin of the external nares;
+thus, there is no inclusion of the lacrimal in the border of the nares. As a
+
+consequence of deformation, the nasals protrude and overhang the
+nares, partially obscuring them in lateral view (Fig. 4c). The maxillae
+are relatively broad, triangular bones bearing strong tuskless, ventrally
+projected maxillary processes located at the level of the anterior border
+of the orbit and oriented nearly vertical (Fig. 4c). The prefrontals are
+nearly rectangular-shaped, forming the anterior half of the dorsal margin of the orbit (Fig. 4c). The lacrimal has a well-developed facial portion and a posterior projection that forms the anteroventral margin of
+the orbit and contacts a thin jugal, which represents the posteroventral
+margin orbital. A digitated suture between the maxilla and the squamosal is clearly represented at the level of the posterior margin of the orbit.
+A partially preserved, thin epipterygoid and prootic are representing
+the lateral wall of the skull. There is a long horizontal suture between
+the ventral portion of the epipterygoid and the pterygoid.
+5.1.5. Occipital view
+The occipital plate is vertical with the ﬂaring lateral ﬂanges of the
+squamosals (Fig. 4d). The occiput is approximately two times wider
+than high, with a relatively narrow foramen magnum and a robust and
+wide occipital condyle (Fig. 4d). Only in a restricted area near the dorsal
+margin of the interparietals is it possible to recognize the suture between
+these bones on occipital view. The interparietals occupy a relative extended area on the dorsal part of the plate and extend ventrally forming
+a V-shape suture with the supraoccipital. This bone contacts ventrally
+with a large paroccipital process. Both bones and also possibly the squamosal contribute to form the margin of a tiny postemporal foramen.
+There is a lateroventral projection of the paroccipital process which
+ends close to the medial border of the quadrate trochlea (Fig. 4d). The
+lateral margin of the paroccipital process is separated from the squamosal by a well-developed crest. The squamosals are broad and greatly contribute to extend laterally the occipital plate (Fig. 4d).
+5.2. Mandible
+Both rami of the lower jaw are nearly complete but the right ramus is
+severely affected by deformation, being approximately two-thirds of the
+length of the left ramus. The dentary is a massive bone with a dorsally
+projected and pointed anterior tip (Fig. 5A). The labial surface of the
+dentary is coarsely rugose as is the surface of the snout. The dorsal surface of the dentary shows two parallel longitudinal ridges along its
+length, with the medial one higher than the lateral. In lateral view the
+dentary develops two posterior processes, the dorsal, in contact with
+the surangular, and the ventral, forming a spur that is contacted by the
+angular (Fig. 5A). Surangular and angular enclose the mandibular foramen laterally. The angular extends posteriorly in a long, ﬂat reﬂected
+lamina, which nearly reaches the retroarticular process (Fig. 5, A and
+B). This process is partially deformed but it possible to conﬁrm that it
+bends downwards. The articular surface for the quadrate trochlea is
+long and wide, showing a longitudinal crest that divides the surface in
+the lateral and medial areas (Fig. 5B). In medial view, the mandibular
+
+1158
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+foramen is limited by the surangular dorso-anteriorly and by the
+prearticular, ventrally (Fig. 5B).
+6. Discussion
+6.1. Taxonomy
+The new tuskless Namibian dicynodont is here assigned to the
+Brazilian species Stahleckeria potens. This assignation is based on the
+presence in the Namibian specimen of a mixture of diagnostic characters of Stahleckeriidae and Stahleckeriinae that are typical of S. potens
+(see comments in diagnosis above): presence of a skull wider than longer, a snout robust and blunt, an interorbital region extremely wide
+with the orbits not visible in dorsal view, a postorbital region reduced
+representing less than the 40% of the cranial length, an intertemporal
+bar remarkably wide (mostly formed by the parietal) and positioned
+approximately horizontal in lateral view, and the presence of the vertical occipital plate which is distinctively widened by the lateral extension of the squamosal wings.
+Most of the recent phylogenetic analyses that included Triassic dicynodonts (kannemeyeriiforms) consistently recovered a monophyletic
+Stahleckeriidae (Maisch, 2001; Vega-Dias et al., 2004; Damiani et al.,
+2007; Kammerer et al., 2011), a group of dicynodonts which includes
+the Brazilian Stahleckeria, the South American Jachaleria, the Argentinean
+Ischigualastia, the North American Placerias, the Zambian Sangusaurus,
+the Namibian Dolichuranus and the African Angonisaurus (Fig. 6). The
+ﬁrst four genera were recovered in all the hypotheses (Fig. 6), the only
+exception being that of Damiani et al. (2007) in which Jachaleria and
+
+Placerias were not included in the analysis. In addition, Maisch's (2001:
+145) taxonomic arrangement of Stahleckeriinae includes the African dicynodonts Angonisaurus and, with some reservations, Zambiasaurus.
+Vega-Dias et al. (2004) included the South African taxon Angonisaurus
+that was recovered as the sister-taxon of Stahleckeria; however, in a
+more recent phylogenetic analysis Angonisaurus resulted in a basal position outside Stahleckeriidae (Kammerer et al., 2011; see Fig. 6). The same
+occurred with the Namibian taxon Dolichuranus which was considered
+the sister-taxon of the clade Stahleckeriidae (Damiani et al., 2007), but
+was recovered as a basal kannemeyeriiform by Kammerer et al. (2011).
+The later authors found a sister group relationships between Stahleckeria
+and Sangusaurus from Zambia (Fig. 6), a taxon usually considered among
+kannemeyeriids (Cox, 1969; Keyser and Cruickshank, 1979) or as incertae
+sedis (Cox and Li, 1983; King, 1988). Kammerer et al. (2011: 135) however caution that the Zambian taxon is poorly known and mostly coded
+with “?” for the synapomorphies supporting stahleckeriids.
+The Namibian Stahleckeria shows clear differences with these proposed most-closely related taxa. The Namibian Dolichuranus shows,
+among other differences with Stahleckeria, the presence of tusks and
+of nasal bosses, a narrow intertemporal bar oriented dorsally, an
+interpterygoid vacuity placed posteriorly and near to the posterior
+margin of the temporal opening, the presence of a postorbital process
+that contributes to the suborbital bar anteriorly, and a prominent
+processus depressor mandibulae on a well-developed ventral tympanic
+ridge (Damiani et al., 2007). The skull morphology of Zambiasaurus,
+considered by some authors as closely related to Stahleckeria, was
+interpreted from eighty-ﬁve separate skull fragments (Cox, 1969). The
+principal differences of this taxon with Stahleckeria is that Zambiasaurus
+
+Fig. 6. Placement of Stahleckeria in different phylogenetic analyses. The trees in the ﬁgure are reduced versions of the trees originally presented, only including taxa close related to
+Stahleckeria. Cladogram by Kammerer et al. (2011) is representing result of their primary phylogenetic analysis.
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+presents a narrow and longer intertemporal region, the frontal is on the
+anterior dorsal margin of the orbits (Cox, 1969: Fig. 20B), there is a
+sharp transition between dorsal and occipital surfaces and the squamosal wings of the occiput are extended laterally and somewhat posteriorly (Cox, 1969: 260). All these differences should be considered with
+caution, because Zambiasaurus is not only based in fragmentary material, but they are most likely of juveniles (Cox, 1969).
+Sangusaurus is represented for a few cranial fragments, the most
+signiﬁcant being an incomplete intertemporal bar, a partial premaxilla and a partial maxilla (Cox, 1969: Figs. 21–23). Differences with
+Stahleckeria include the presence of a low boss behind the pineal foramen and intertemporal bar directed postero-dorsally (this last character contingent of a correct interpretation of directionality in the
+intertemporal fragment; Cox, 1969: 289). In addition, the intertemporal
+bar appears to be narrower in Sangusaurus.
+Major differences with Angonisaurus is that the latter has a caniniform
+process with a stout and straight posterior edge, an intertemporal bar tapering upwards to a narrow crest, a postorbital region of the skull longer
+than preorbital, strong nasal bosses, and an occiput slightly oblique (Cox
+and Li, 1983). Another partial skull, identiﬁed as Angonisaurus, was also
+described for the youngest sub-assemblage of the Cynognathus Assemblage Zone in South Africa (Hancox and Rubidge, 1996). Differences
+between this specimen and the Namibian Stahleckeria include the presence of a deep triangular depression including, anteriorly, the extremely
+large pineal foramen in the South African taxon, also the presence of two
+strong diverging crests in the posterior portion of the temporal region,
+and a frontal occupying most of the dorsal margin of the orbit. The Argentinean dicynodont Ischigualastia is strikingly different from the Namibian
+Stahleckeria, including, among other differences, a long and narrow
+intertemporal bar, a convex dorsal margin of the occiput and a pointed
+snout (Domnanovich, 2010). Clear differences between Stahleckeria and
+Placerias are the presence of a sharp snout, pronounced upright temporal
+bar, comparative longer postorbital region, the extreme development of a
+blade-like caniniform process with reduced canines and short parietal
+process of the postorbital extending only to the level of the pineal foramen in the Late Triassic taxon from USA (Keyser and Cruickshank,
+1979). Finally, the Late Triassic Jachaleria from South America also differs
+markedly from Stahleckeria. Jachaleria shows an extra bone between nasals and frontals, well-developed rugosities in the orbital margins of the
+prefrontals and postorbitals, a furrow on the dorsal face of the postorbital,
+a horizontal ventral margin of the maxilla in lateral view, a narrow
+intertemporal bar which is upright in relation to the interorbital bar,
+and the presence of a preparietal bone in front of the pineal foramen
+(Vega-Dias and Schultz, 2004; Domnanovich, 2010).
+In summary, the new specimen described herein constitutes a new
+representative of Stahleckeria potens only known, until now, from specimens collected from the Santa Maria Formation of southern Brazil. The
+only difference between the Brazilian specimens and the individual
+from Namibia is in their size. The largest Brazilian specimen has a
+basal skull length of 490 mm (Cox and Li, 1983), against the 360 mm
+of the Namibian skull, thus being approximately 27% smaller. Size per
+se is not a reliable indicator of taxonomic distinction, and could simply
+indicate ontogenetic-age difference, a feature that has already been observed amongst the Brazilian specimens (Vega-Dias et al., 2005).
+6.2. Biostratigraphy and correlations
+The Middle Triassic fauna from the upper Omingonde Formation was
+originally described by Keyser (1973a,b). The fauna included several
+cynodont and dicynodont therapsids and a temnospondyl amphibian.
+Dicynodonts were important components in the ﬁrst discoveries by
+Keyser (1973a,b), who recognized Kannemeyeria, a typical representative of the Cynognathus Assemblage Zone of the main Karoo Basin in
+South Africa (Keyser, 1973a,b). However he also proposed a slightly
+younger age for the Namibian fauna based on the presence of the large
+cynodont Titanogomphodon and some dicynodonts presenting more
+
+1159
+
+advanced characters than the South African. In addition, Keyser (1973a)
+interpreted the Omingonde Formation as older than the Manda and
+upper Ntawere Formations because of the absence of traversodontid
+cynodonts. Since 1973 at least three research teams have conducted
+ﬁeldwork on the Omingonde outcrops, which has resulted in the discovery of several new taxa. There has also been a critical review by one of the
+authors (FA) of the identiﬁcation and stratigraphic position of all the fossils collected to date. The new records included several cynodonts, mostly
+represented by traversodontids, and a large archosaur, all collected from
+the upper part of what was deﬁned as the upper Omingonde Formation
+(Pickford, 1995; Holzförster et al., 1999; Smith and Swart, 2002). The
+age of the Omingonde Formation was considered to be lower Middle Triassic (Anisian) based on faunal correlations with the main Karoo Basin,
+and the east African Ruhuhu and Luangwa basins. A recent taxonomic review of a series of cynodonts collected by Smith and Swart (2002) has
+identiﬁed a heterogeneous mixture of cynodonts in the fossil assemblages from the top of the upper Omingonde Formation. This mixture included cynodonts known from Anisian levels of Tanzania and Zambia but
+also from the Ladinian of South America (Abdala and Smith, 2009).
+The most striking ﬁnding was the presence of Chiniquodon, a typical
+Ladinian-Carnian cynodont from South America, recently described
+from Ladinian-Carnian strata of Madagascar (Kammerer et al., 2010). In
+addition, the archosaur skeleton originally interpreted as Erythrosuchus
+(Pickford, 1995), a typical taxon from the Cynognathus AZ of South Africa,
+has been re-identiﬁed as a rauisuchid (Abdala and Smith, 2009; Arcucci
+and Smith, 2011), a group well represented in Ladinian-Carnian faunas
+of South America. Accordingly, Abdala and Smith (2009) suggested the
+possibility that the fauna represented in the uppermost part of the
+upper Omingonde Formation was of upper Middle Triassic (Ladinian)
+age (Fig. 7).
+Until now, continental Ladinian strata were unknown from southern
+Africa (Hancox, 2000), where a regional tectonic unconformity separates
+the top of the Beaufort Group from the overlying Molteno Fm. (see
+Catuneanu et al., 2005). In this context, the Omingonde Fm. tetrapods
+are the only representatives of this age in the entire region and they partially ﬁll the gap between the Early-Middle Triassic Beaufort Group
+therapsid-dominated faunas and the Late Triassic Elliot Formation
+dinosaur-dominated faunas. This ﬁnding is therefore of great importance
+in understanding the evolution of the tetrapod faunas in this part of western Gondwana during the Triassic.
+From the Middle Triassic faunas of east Africa, the Lifua Member of the
+Manda Fm. has yielded traversodontid cynodonts with postcanine teeth
+morphologically similar to Anisian forms and some taxon with the dentition resembling Ladinian and Carnian forms (Abdala and Ribeiro, 2003).
+Based on these differences of features in the dentition of traversodontid
+species it was proposed that different ages were represented in the
+Manda fauna and that the youngest fauna might be Ladinian (Fig. 7;
+Abdala et al., 2005). However, this conclusion was only based on differences in evolutionary stages of the dentition of cynodonts, not in the
+presence of taxa shared with Ladinian faunas. Recent ﬁeld trips to the
+Ruhuhu Basin resulted in numerous new fossil ﬁndings (Sidor et al.,
+2008; Sidor, 2011) whose study will provide additional evidence for
+the presence of putative Ladinian faunas in Tanzania.
+The Middle Triassic faunas from South America includes the
+Puesto Viejo fauna from Mendoza Province, Argentina which has records of Cynognathus and Diademodon, cynodonts also known from
+the Cynognathus AZ of South Africa and the assemblages of lower
+and middle levels of the upper Omingonde Formation. The Puesto Viejo
+fauna is generally interpreted as Anisian (Fig. 7; Martinelli et al., 2009).
+A second fauna from Mendoza Province is recorded in the Cerro de las
+Cabras Formation. This endemic fauna is usually correlated to the Puesto
+Viejo Assemblage (Martinelli et al., 2009). Recent radiometric dates are
+consistent with an Anisian age for the fossil assemblage of the Cerro de
+las Cabras Formation (Fig. 7; Ávila et al., 2006; Abdala et al., 2009). The
+Chañares fauna from the Ischigualasto-Villa Union Basin, north-western
+Argentina show traversodontid cynodonts more advanced than those
+
+1160
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+Fig. 7. Biostratigraphic chart of Middle Triassic units from South America and southern, eastern Africa discussed in the text. Asterisk indicates fauna of the uppermost strata of the
+upper Omingonde Formation. Geologic time scale after Gradstein et al. (2004).
+
+from the Puesto Viejo and the Cerro de las Cabras faunas and an explosive radiation of archosauriforms (Abdala et al., 2009). In Brazil, the
+Dinodontosaurus assemblage zone of the Santa Maria Formation is considered contemporaneous to the Chañares fauna because they share
+several taxa at genus level (e.g. Massetognathus, Dinodontosaurus). Dicynodonts are abundant in the Brazilian fauna, with Dinodontosaurus
+pedroanum being by far the most common taxon represented by hundreds of specimens. Another dicynodont known from this Brazilian assemblage zone is the large tuskless Stahleckeria potens which is only
+known by ﬁve specimens (Maisch, 2001; Vega-Dias et al., 2005). Strata
+of the Santa Maria Formation bearing fauna of the Dinodontosaurus assemblage zone are considered as Ladinian (Fig. 7; Langer et al., 2007).
+The description herein of the dicynodont Stahleckeria potens from
+Namibia strengthens the Ladinian age hypothesis advanced by Abdala
+and Smith (2009) for the fauna represented in the uppermost part of
+the upper Omingonde Formation. In this context, there is no paleontological evidence suggesting an age younger than Ladinian for these strata in contrast with suggestions by Holzförster et al. (1999: Fig. 2) and
+Zerfass et al. (2005: Fig. 2).
+Stahleckeria is the ﬁrst mid-Triassic dicynodont to be found in both
+Namibia (Waterberg Basin) and Brazil (Paraná Basin). This evidence
+together with the common presence of the cynodont Chiniquodon in
+the same strata (Abdala and Smith, 2009) strongly suggests faunal interchange between these two regions of western Gondwana during middle
+Triassic times. The interchange not only involved medium-sized carnivorous animals but also relatively large specialized herbivores. This suggests
+that there were no major ecological, climatic and/or physical barriers to
+faunal migration before the opening of the south Atlantic in this part of
+southwestern Gondwana during the pre-rift phase (Macdonald et al.,
+2003), and the vegetation was similar (Spalletti et al., 2003), stable and
+relatively continuous in the lowlands that linked both basins.
+
+7. Conclusion
+A new relatively large tuskless dicynodont is described for the upper
+Omingonde Formation (central Namibia) and it is identiﬁed as a new
+specimen of Stahleckeria potens, previously known only from Ladinianaged strata of the Santa Maria Formation of southern Brazil (Paraná
+Basin). This new ﬁnding together with the co-occurrence of the cynodont
+Chiniquodon and a rauisuchian archosaur supports a Ladinian age of deposition for the uppermost unit of the upper Omingonde Fm. A welldocumented hiatus, dubbed the “Ladinian gap,” is prevalent throughout
+the Karoo basins of south and central Africa, which means that the
+fauna described here, is the ﬁrst conﬁrmed Ladinian-aged terrestrial
+fauna from this region.
+Stahleckeria is the only dicynodont proven to occur in Middle Triassic rocks from central Namibia and southern Brazil and as such constitutes the ﬁrst correlation between these two Gondwanan basins
+based on this group of large therapsids. This ﬁnding, together with
+the common presence of the cynodont Chiniquodon, suggests a degree
+of faunal interchange during Middle Triassic (Ladinian) times, which
+included both small carnivores and relatively large specialized herbivores
+and that a relatively stable lowland vegetation belt existed between these
+basins with no major ecological, climatic and/or physical barriers.
+Acknowledgments
+We are grateful to Dr. Gabi Schneider and Ms. Helke Mocke from
+the Geological Survey of Namibia for their help to make possible the
+ﬁeld trips to Namibia and the access to the fossil collection. Access
+to the paleontological collection of the Institut of Geosciences,
+Eberhard Karls University Tübingen and information about specimen
+numbers was provided by Philipe Havlik. We are especially grateful to
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+Reinhold Strobel (Otjihaenamaparero Dinosaur Tracksite) for his generosity and genuine interest in our research. Many thanks to Georgina
+Farrell from Iziko SA Museum for preparing the specimen studied
+here, and to Sifelani Jirah and Charlton Dube from the Bernard Price
+Institute for Palaeontological Research for fossil preparation of additional material from Namibia. The Palaeontological Trust (PAST,
+Johannesburg) ﬁnanced the 2010 ﬁeld-trip. FA and RMHS were
+funded by the National Research Foundation, South Africa and CAM by
+UBA (UBACyT 2011–728) and CONICET (PIP 2012–709), Argentina. We
+would also like to acknowledge the support of the Bi-national Cooperation project between South Africa (DST to Bruce Rubidge) and Argentina
+(MINCYT to CAM) for travel funds. This is contribution R-69 to the
+Instituto de Estudios Andinos Don Pablo Groeber (IDEAN).
+
+References
+Abdala, F., Ribeiro, A.M., 2003. A new traversodontid cynodont from the Santa Maria Formation (Ladinian-Carnian) of southern Brazil, with a phylogenetic analysis of
+Gondwanan traversodontids. Zoological Journal of the Linnean Society 139, 529–545.
+Abdala, F., Smith, R.M.H., 2009. A Middle Triassic cynodont fauna from Namibia and its
+implications for the biogeography of Gondwana. Journal of Vertebrate Paleontology
+29, 837–851.
+Abdala, F., Hancox, P.J., Neveling, J., 2005. Cynodonts from the uppermost Burgersdorp
+Formation, South Africa, and their bearing on the biostratigraphy and correlation
+of the Triassic Cynognathus Assemblage Zone. Journal of Vertebrate Paleontology
+25, 192–199.
+Abdala, F., Martinelli, A.G., Soares, M.B., de la Fuente, M., Ribeiro, A.M., 2009. South
+American Middle Triassic continental faunas with amniotes: biostratigraphy and
+correlation. Palaeontologia Africana 44, 83–87.
+Arcucci, A.B., Smith, R.M.H., 2011. A large “rauisuchid” archosaur from the Omingonde
+Formation (Early Middle Triassic), Namibia. IV Congreso Latinoamericano de
+Paleontologia de Vertebrados, San Juan, Argentina.
+Ávila, J.N., Chemale Jr., F., Mallmann, G., Kawashita, K., Armstrong, R.A., 2006. Combined
+stratigraphic and isotopic studies of Triassic strata, Cuyo Basin, Argentine
+Precordillera. Geological Society of America Bulletin 118, 1088–1098.
+Behrensmeyer, A.K., 1975. The Taphonomy and Paleoecology of Plio-Pleistocene Vertebrate Assemblages East of Lake Rudolf, Kenya. Bulletin of Museum of Comparative
+Zoology 145, 473–574.
+Bonaparte, J.F., 1966. Una nueva “fauna” triásica de Argentina (Therapsida: Cynodontia,
+Dicynodontia). Consideraciones ﬁlogenéticas y paleobiogeográﬁcas. Ameghiniana
+4, 243–296.
+Bonaparte, J.F., 1969. Dos nuevas ‘faunas’ de reptiles triásicos de Argentina. Gondwana
+Stratigraphy, I.U.G.S., Mar del Plata, pp. 283–306.
+Catuneanu, O., Wopfner, H., Eriksson, P.G., Cairncross, B., Rubidge, B.S., Smith, R.M.H.,
+Hancox, P.J., 2005. The Karoo basins of south-central Africa. Journal of African
+Earth Sciences 43, 211–253.
+Cox, C.B., 1968. The Chañares (Argentina) Triassic reptile fauna; IV, The dicynodont
+fauna. Breviora 295, 1–27.
+Cox, C.B., 1969. Two new dicynodonts from the Triassic Ntawere Formation, Zambia.
+Bulletin of the British Museum of Natural History, Geology 17, 257–294.
+Cox, C.B., Li, J.L., 1983. A new genus of Triassic dicynodont from East-Africa and its classiﬁcation. Palaeontology 26, 389–406.
+Damiani, R., Vasconcelos, C., Renaut, A., Hancox, J., Yates, A., 2007. Dolichuranus
+primaevus (Therapsida: Anomodontia) from the Middle Triassic of Namibia and
+its phylogenetic relationships. Palaeontology 50, 1531–1546.
+De Wit, M.J., Jeffery, M., Bergh, H., Nicholaysen, L., 1988. Explanation to Geological Map
+of Sectors of Gondwana. American Association of Petroleum Geologists Publications, Tulsa, Oklahoma.
+Domnanovich, N.S., 2010. Revisión de los dicinodontes Kannemeyéridos (Amniota,
+Therapsida) de Argentina, relaciones ﬁlogenéticas e implicancias paleobiogeográﬁcas.
+PhD thesis, Universidad de Buenos Aires, 386 pp.
+Du Toit, A.L., 1948. The climatic setting of vertebrate faunas of the Karoo System and its
+signiﬁcance. Royal Society of South Africa, Robert Broom Commemorative volume,
+pp. 113–125.
+Friend, P.F., 1983. Towards the ﬁeld classiﬁcation of alluvial architecture or sequence.
+In: Collinson, J.D., Lewin, J. (Eds.), Modern and ancient ﬂuvial systems: International Association of Sedimentologists Special Publications, 6, pp. 345–354.
+Fröbisch, J., 2009. Composition and similarity of global anomodont-bearing tetrapod
+faunas. Earth-Science Reviews 95, 119–157.
+Gradstein, F.M., Ogg, J.G., Smith, A.G., et al., 2004. A geologic time scale 2004.
+Cambridge University Press. (589 pp.).
+Grine, F.E., Mitchell, D., Gow, C.E., Kitching, J.W., Turner, B.R., 1979. Evidence for salt
+glands in the Triassic reptile Diademodon (Therapsida; Cynodontia). Palaeontologia
+Africana 22, 35–39.
+Hallam, A., 1985. A review of Mesozoic climates. Journal of the Geological Society of
+London 142, 433–445.
+Hancox, P.J., 2000. The continental Triassic of South Africa. Zentralblatt für Geologie
+und Paläontologie 1998, 1285–1324.
+Hancox, P.J., Rubidge, B.S., 1996. The ﬁrst specimen of the Mid-Triassic dicynodont
+Angonisaurus from the Karoo of South Africa: implications for the dating and
+
+1161
+
+biostratigraphy of the Cynognathus Assemblage Zone, Upper Beaufort Group.
+South African Journal of Science 92, 391–392.
+Hancox, P.J., Rubidge, B.S., 2001. Breakthroughs in the biodiversity, biogeography, biostratigraphy, and basin analysis of the Beaufort group. Journal of African Earth Sciences 33, 563–577.
+Holzförster, F., Stollhofen, H., Stanistreet, I.G., 1999. Lithostratigraphy and depositional environments in the Waterberg-Erongo area, central Namibia, and correlation with the main Karoo Basin, South Africa. Journal of African Earth Sciences
+29, 105–123.
+Huene, F., 1935. Die fossilen Reptilien des südamerikanischen Gondwanalandes.
+Ergebnisse der Sauriergrabungen in Südbrasilien 1928–29. Lieferung 1. Verlag
+Franz F. Heine, Tübingen, 1–92.
+Kammerer, C.F., Flynn, J.J., Ranivoharimanana, L., Wyss, A.R., 2010. The ﬁrst record of a
+probainognathian (Cynodontia: Chiniquodontidae) from the Triassic of Madagascar.
+Journal of Vertebrate Paleontology 30, 1889–1894.
+Kammerer, C.F., Angielczyk, K., Fröbisch, J., 2011. A comprehensive taxonomic revision
+of Dicynodon (Therapsida, Anomodontia) and its implications for dicynodont phylogeny, biogeography, and biostratigraphy. Journal of Vertebrate Paleontology 31
+(Supplement 1), 1–158.
+Kemp, T.S., 1982. Mammal–like reptiles and the origin of mammals. Academic Press.
+(363 pp.).
+Keyser, A.W., 1973a. New Triassic vertebrate fauna from South West Africa. South African
+Journal of Science 69, 113–115.
+Keyser, A.W., 1973b. A new Triassic vertebrate fauna from South West Africa.
+Palaeontologia Africana 16, 1–15.
+Keyser, A.W., Cruickshank, A.R.I., 1979. The origins and classiﬁcation of Triassic dicynodonts. Transactions of the Geological Society of South Africa 82, 81–108.
+King, G.M., 1988. Anomodontia. Encyclopedia of Paleoherpetologia, Stuttgart, Gustav
+Fischer Verlag. . (174 pp.).
+Langer, M.C., Ribeiro, A.M., Schultz, C.L., Ferigolo, J., 2007. The continental tetrapodbearing Triassic of south Brazil. New Mexico Museum of Natural History and Science Bulletin 41, 201–218.
+Lofﬂer, T., 1998. Fluvial facies and palaeo-environments of Triassic Karoo deposits in
+Central Namibia: abstracts of Epicontinental Triassic International Symposium.
+Halle, Hallesches Jahrbuch fur Geowissenschafeten, Reihe B, Beiheft 5, 103–104.
+Macdonald, D., Gomez-Perez, I., Franzese, J., Spalletti, L., Lawver, L., Gahagan, L., Dalziel, I.,
+Thomas, C., Trewin, N., Hole, M., Paton, D., 2003. Mesozoic break-up of SW Gondwana:
+implications for regional hydrocarbon potential of the southern South Atlantic. Marine
+and Petroleum Geology 20, 287–308.
+Maisch, M.W., 2001. Observations on Karoo and Gondwana vertebrates. Part 2: a new
+skull-reconstruction of Stahleckeria potens von Huene, 1935 (Dicynodontia, Middle
+Triassic) and a reconsideration of kannemeyeriiform phylogeny. Neues Jahrbuch
+für Geologie und Paläontologie-Abhandlungen 220, 127–152.
+Martinelli, A.G., de la Fuente, M., Abdala, F., 2009. Diademodon tetragonus Seeley, 1894
+(Therapsida: Cynodontia) in the Triassic of South America and its biostratigraphic
+implications. Journal of Vertebrate Paleontology 29, 852–862.
+Pickford, M., 1995. Karoo Supergroup palaeontology of Namibia and brief description of
+a thecodont from Omingonde. Palaeontologia Africana 32, 51–66.
+Pye, K., 1995. The nature, origin and accumulation of loess. Quaternary Science Reviews
+14, 653–668.
+Renaut, A., Hancox, P.J., 2001. Cranial description and taxonomic re-evaluation of
+Kannemeyeria argentinensis (Therapsida: Dicynodontia). Palaeontologia Africana
+37, 81–91.
+Rubidge, B.S., 2005. Re-uniting lost continents—fossil reptiles from the ancient Karoo
+and their wanderlust. South African Journal of Geology 108, 135–172.
+Sellwood, B.W., Valdes, P.J., 2006. Mesozoic climates: general circulation models and
+the rock record. Sedimentary Geology 190, 269–287.
+Sidor, C.A., 2011. New information on the Middle Triassic cynodonts of Tanzania and Zambia.
+IV Congreso Latinoamericano de Paleontologia de Vertebrados, San Juan, Argentina.
+Sidor, C.A., Angielczyk, K., Hopson, J.A., Nesbitt, S., Smith, R., 2008. New vertebrate fossils from the Permo-Triassic Ruhuhu Basin of Tanzania. Journal of Vertebrate Paleontology 28 (3), 142–143A.
+Smith, R.M.H., 1995. Changing ﬂuvial environments across the Permo Triassic boundary in the Karoo Basin, South Africa and possible causes of tetrapod extinctions.
+Palaeogeography, Palaeoclimatology, Palaeoecology 117, 81–104.
+Smith, R.M.H., Swart, R., 2002. Changing ﬂuvial environments and vertebrate taphonomy in response to climatic drying in a Mid-Triassic rift valley ﬁll: the Omingonde
+Formation (Karoo Supergroup) of central Namibia. Palaios 17, 249–267.
+South African Committee for Stratigraphy, 1980. Lithostratigraphy of the Republic of
+South Africa, South West Africa/Namibia, and the Republics of Bophuthatswana,
+Transkei and Venda. Handbook of the Geological Survey of South Africa 8. (687 pp.).
+Spalletti, L.A., Artabe, A.E., Morel, E.M., 2003. Geological Factors and Evolution of Southwestern Gondwana Triassic Plants. Gondwana Research 6, 119–134.
+Stollhofen, H., Stanistreet, I.G., Holzforster, F., 1998. Triassic rift basin development in
+Namibia and the break-up of Gondwana. Epicontinental Triassic International
+Symposium, Halle, Abstracts. Hallesches Jahrbuch fur Geowissenschaften, Reihe
+B, Beiheft 5, 165–166.
+Tankard, A., Welsink, H., Aukes, P., Newton, R., Stettler, E., 2009. Tectonic evolution of
+the Cape and Karoo basins of South Africa. Marine and Petroleum Geology 26,
+1379–1412.
+Turner, B.R., 1999. Tectonostratigraphical development of the Upper Karoo foreland
+basin: orogenic unloading versus thermally‐induced Gondwana rifting. Journal of
+African Earth Sciences 28, 215–238.
+Vega-Dias, C., Schultz, C.L., 2004. Postcraneal material of Jachaleria candelariensis
+Araujo and Gonzaga, 1980 (Therapsida, Dicynodontia) Upper Triassic of Rio
+Grande do Sul, Brazil. Paleobios 24, 7–31.
+
+1162
+
+F. Abdala et al. / Gondwana Research 23 (2013) 1151–1162
+
+Vega-Dias, C., Maisch, M.W., Schultz, C.L., 2004. A new phylogenetic analysis of Triassic dicynodonts (Therapsida) and the systematic position of Jachaleria
+candelariensis from the Upper Triassic of Brazil. Neues Jahrbuch für Geologie
+und Paläontologie-Abhandlungen 231, 145–166.
+Vega-Dias, C., Maisch, M.W., Schwanke, C., 2005. The taxonomic status of Stahleckeria
+impotens (Therapsida, Dicynodontia): redescription and discussion of its phylogenetic position. Revista Brasileira de Paleontologia 8, 221–228.
+Visser, J.N.J., 1991. Geography and Climatology of the Late Carboniferous to Jurassic
+Karoo Basin in southwestern Gondwana. Annals of the South African Museum
+99, 415–431.
+
+Zerfass, H., Chemale, F. Jr, Schultz, C.L., Lavina, E.L., 2004. Tectonics and sedimentation
+in Southern South America during Triassic. Sedimentary Geology 166, 265–292.
+Zerfass, H., Chemale Jr., F., Lavina, E.L., 2005. Tectonic control of the Triassic Santa Maria
+Supersequence of the Paraná Basin, southernmost Brazil, and its correlation to the
+Waterberg Basin, Namibia. Gondwana Research 8, 163–176.
+
+

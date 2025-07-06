@@ -1,0 +1,380 @@
+R.M.H. SMITH, B.S. RU BIDGE, M.O . DAY AN D J. BOT H A
+
+Introduction to the tetrapod biozonation of the
+Karoo Supergroup
+R.M.H. Smith
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, 2050 South Africa
+Karoo Palaeontology, Iziko South African Museum, P.O. Box 61, Cape Town, 8000, South Africa
+e-mail: Roger.Smith4@wits.ac.za
+B.S. Rubidge
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg 2050, South Africa
+e-mail: bruce.rubidge@wits.ac.za
+M.O. Day
+Department of Earth Sciences, Natural History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg 2050, South Africa
+e-mail: michael.day@nhm.ac.uk
+J. Botha
+National Museum, P.O. Box 266, Bloemfontein, 9300, South Africa
+Department of Zoology and Entomology, University of the Free State, 9300, South Africa
+e-mail: jbotha@nasmus.co.za
+© 2020 Geological Society of South Africa. All rights reserved.
+
+Introduction
+The main Karoo Basin of South Africa contains the most
+abundant, diverse, and time expansive record of terrestrial
+vertebrates around the Palaeozoic-Mesozoic transition. This
+10 km thick sedimentary succession accumulated in a large
+intracratonic, retro-arc, foreland basin ( Johnson 1991; Catuneanu
+et al. 2005) in front of the rising Cape Fold Belt portion of the
+Gondwanide Mountain range that fringed the southern margin
+of Gondwana. Today, rocks of the Karoo Supergroup have a
+spatial distribution of some 300 000 km2 (Smith 1990), which is
+more than one-half the land surface of South Africa. They were
+deposited under environments ranging from glacial through
+intracontinental shallow marine, ﬂuvio-lacustrine, ﬂuvial, and
+aeolian providing an almost continuous 110-My record of
+continental sedimentation from the Late Carboniferous (300 Ma)
+to the Early Jurassic (190 Ma).
+Abundant plant and animal fossils occur in most rock units
+of the Karoo Supergroup, providing insights into continental
+biodiversity from the Guadalupian to the Early Jurassic. This
+
+record has been crucial to studies of the late Guadalupian,
+end-Permian, and end-Triassic mass extinction events. The
+temporal framework for the Karoo record comprises tetrapod
+assemblage zones, representing associations of tetrapod (mostly
+therapsid) genera.
+Although early geologists in South Africa used reptilian
+fossils to identify what would become the Beaufort Group (e.g.
+Bain 1845), biozones based on an assemblage of tetrapod forms
+was ﬁrst suggested by Seeley (1892). This concept was
+expanded by Broom (1906a, 1906b, 1907, 1909), who proposed
+a six-fold biostratigraphic zonation for the Beaufort Group based
+on genera that, with slight modiﬁcation (Hotton and Kitching
+1963), was accepted by most for the next sixty years (Von Huene
+1925; Du Toit 1954). Subsequent collecting in the Karoo Basin
+allowed for further revision of the Beaufort biostratigraphy
+(Kitching 1970, 1977, Keyser and Smith 1979; Keyser 1979; SACS
+1980) and included the Elliot and Clarens formations of the
+upper Stormberg Group (Kitching and Raath 1984). In 1995,
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY 2020 • VOLUME 123.2 PAGE 131-140 • doi:10.25131/ sajg .123.0009
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+131
+
+INTRODUCTION TO THE TETRAPOD BIOZONATION OF THE KAROO SUPERGROUP
+
+BSR edited a multi-authoured volume commissioned by the
+South African Commission for Stratigraphy that formalised
+the Beaufort Group biozones as assemblage zones deﬁned by
+the co-occurrence of three or more index taxa, but for simplicity
+named after only one (Rubidge 1995).
+Recent research has demonstrated the importance of
+Karoo fossils for global stratigraphic correlation and for the
+conceptualization of basin development models (e.g., Catuneanu,
+Hancox, and Rubidge 1998; Hancox 1998; Neveling 2002;
+Rubidge 2005). The discovery of datable ash beds that can be
+linked to biozone-deﬁning fossils has considerably enhanced
+research possibilities by providing high-resolution radiometric
+ages for the Permian biozones (Rubidge et al. 2013; Day et al.
+2015; Gastaldo et al. 2015, 2020), and thus opening up a way
+to ascertain rates of evolution in fossil tetrapod lineages
+(Roopnarine et al. 2017) , as well as the timing and duration of
+extinction events (e.g. Botha et al. 2020). The recent development
+of a geographic information system-based database of all the
+Karoo fossil tetrapods housed in South African national
+collections has facilitated research on tetrapod biodiversity and
+biogeographic changes during the Permian and Triassic (Nicolas
+2007; Nicolas and Rubidge 2009).
+
+This volume is an updated, reﬁned, and extended version
+of Rubidge (1995), known to many as the ‘purple book’, and
+incorporates ﬁndings from the vast amount of new data
+collected over the past 25 years. This volume expands on its
+predecessor in that it presents, for the ﬁrst time, a formal
+biozonation scheme for the Stormberg Group. Thus, the
+Beaufort and Stormberg groups can now be divided into nine
+tetrapod assemblage zones, many of which can be constrained
+by radiometric ages (Table 1). We also formalize the subdivision
+of four assemblage zones into subzones, including the longestablished (and utilized) subzones of the Triassic Cynognathus
+Assemblage Zone, as concurrent range zones deﬁned by the
+co-occurrence of only two tetrapod index taxa. The resulting
+increase in biostratigraphic resolution should facilitate more
+precise correlation of these strata with equivalent sequences
+elsewhere in the world, which in turn will provide more
+precise temporal constraints on tetrapod evolution.
+We also present an updated map showing the geographic
+distribution of the assemblage zones in outcrop (Figure 1), as
+well as a composite stratigraphic section showing the ranges
+of all taxa mentioned in the descriptions of each assemblage
+zone (Figure 2).
+
+Table 1. Lithostratigraphy, vertebrate biostratigraphy and geochronology of the Beaufort and Stormberg groups (Karoo Supergroup) in the Main Karoo
+Basin, South Africa. Radiometric age determinations from; (A) Duncan et al. (1997), (B) Bordy et al. (2020), (C) Botha et al. (2020), (D) Gastaldo et al.
+(2015), (E) Rubidge et al. (2013), (F) Day et al. (2015), (G) Gastaldo et al. (2020). Dates prefaced by < are maximum depositional ages based on
+detrital zircon analyses. Wavy lines represent unconformities. Gp=Group, Subgp=Subgroup, Fm=Formation, M=Member.
+
+132
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+R.M.H. SMITH, B.S. RU BIDGE, M.O . DAY AN D J. BOT H A
+
+Figure 1. Distribution of vertebrate biozones in the Main Karoo Basin of South Africa. AZ=Assemblage Zone.
+
+The biostratigraphic framework we present here is the state of
+affairs as of 2020; research and ﬁeld collecting efforts in the
+Karoo remain active and new data is likely to provide further
+reﬁnements in the near future, particularly regarding the
+Cistecephalus and Tapinocephalus assemblage zones. Some
+areas remain contentious, particularly surrounding the position of
+the Permian/Triassic boundary and the age of the Cynognathus
+Assemblage Zone. It nevertheless represents a major step forward.
+The following articles in this volume are formal descriptions
+of the nine Karoo tetrapod biozones presented in ascending
+chronological order. Each was written as a separate publication
+by the recognised South African researchers who have done the
+most recent work on the relevant biozone. The manuscripts
+were subsequently reviewed independently by national and
+international experts in the ﬁeld.
+
+Acknowledgements
+The guest editor would like express gratitude to all the authors
+for their timeous contributions and diligence in sticking to the
+format and guidelines laid down by the South African
+Commission for Stratigraphy. Special thanks to the reviewers,
+Bruce Rubidge, Mike Day, Christian Kammerer, Sterling
+Nesbitt, Christian Sidor, John Hancox and Kenneth Angielczyk,
+and to Anne Westoby for her skill and patience in the
+production of the fossil illustrations, maps and range charts.
+The ﬁnancial assistance of the DSI/NRF Centre of Excellence in
+Palaeosciences at the University of the Witwatersrand is
+recognized and acknowledged.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+133
+
+INTRODUCTION TO THE TETRAPOD BIOZONATION OF THE KAROO SUPERGROUP
+
+Figure 2. Vertebrate biozonation range chart for the Main Karoo Basin of South Africa. Solid lines indicate known ranges, dotted lines indicate
+suspected but not conﬁrmed ranges, single dot represents the stratigraphic position of taxa that have only been recovered from a single bed. Wavy lines
+indicate unconformities. PLYCSR=Pelycosauria and MAMMFMES=Mammaliaformes. Gp=Group, Subgp=Subgroup, Fm=Formation, M=Member.
+(The range chart is available as a single contiguous ﬁgure from the SAJG data repository. Click on the link to access and download.
+(https://doi.org/10.25131/sajg.123.0009.sup-mat))
+
+134
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+R.M.H. SMITH, B.S. RU BIDGE, M.O . DAY AN D J. BOT H A
+
+Figure 2. (Continued)
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+135
+
+INTRODUCTION TO THE TETRAPOD BIOZONATION OF THE KAROO SUPERGROUP
+
+Figure 2. (Continued)
+
+136
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+R.M.H. SMITH, B.S. RU BIDGE, M.O . DAY AN D J. BOT H A
+
+Figure 2. (Continued)
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+137
+
+INTRODUCTION TO THE TETRAPOD BIOZONATION OF THE KAROO SUPERGROUP
+
+Figure 2. (Continued)
+
+138
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+R.M.H. SMITH, B.S. RU BIDGE, M.O . DAY AN D J. BOT H A
+
+References
+Bain, A.G., 1845. On the discovery of the fossil remains of bidentals and other
+reptiles in South Africa. Proceedings of the Geological Society London, 4,
+499-500.
+Bordy, E.M., Abrahams, M., Sharman, G., Viglietti, P.A., Benson, R.B., McPhee,
+B.W., Barrett, P.M., Sciscio, L., Condon, D.J., Mundil, R., Rademan, Z.,
+Jinnah, Z., Clark, J.M., Suarez, C.A., Chapelle, K.J.E. and Choiniere, J.N.,
+2020. A chronostratigraphic framework for the upper Stormberg Group:
+implications for the Triassic-Jurassic boundary in southern Africa. EarthScience Reviews. DOI.org/10.1016/ j.earthscirev.2020.103120
+Botha, J., Huttenlocker, A.K., Smith, R.M.H., Prevec, R., Viglietti, P. and
+Modesto, S., 2020. New geochemical and palaeontological data from
+the Permo-Triassic boundary in the South African Karoo Basin test
+the synchrony of terrestrial and marine extinctions. Palaeogeography,
+Palaeoclimatology, Palaeoecology, DOI: 10.1016/j.palaeo.2019.109467
+Broom, R., 1906a. On the remains of Erythrosuchus africanus Broom. Annals
+of the South African Museum, 5, 187-197.
+Broom, R., 1906b. On the South African diaptosaurian reptile Howesia.
+Proceedings of the Geological Society London, 2, 591-600.
+Broom, R., 1907. On the geological horizons of the vertebrate genera of the
+Karroo Formation. Records of the Albany Museum, 2, 156-163.
+Broom, R., 1909. An attempt to determine the horizons of fossil vertebrates of
+the Karoo. Annals of the South African Museum, 7, 285-289.
+Catuneanu, O., Hancox P.J. and Rubidge B.S., 1998. Reciprocal ﬂexural
+behaviour and contrasting stratigraphies, a new basin development model
+for the Karoo retroarcforeland system, South Africa. Basin Research, 10,
+417-439.
+Catuneanu O., Wopfner, H., Eriksson, P.G., Cairncross, B., Rubidge, B.S., Smith,
+R.M.H. and Hancox, P.J., 2005. The Karoo basins of south-central Africa.
+Journal of African Earth Sciences, 43, 211-253.
+Day, M.O., Ramezani, J., Bowring, S.A., Sadler, P.M., Erwin, D.H., Abdala, F.
+and Rubidge, B.S., 2015. When and how did the terrestrial mid-Permian
+mass extinction occur. Evidence from the tetrapod record of the Karoo
+Basin, South Africa. Proceedings of the Royal Society B: Biological Sciences,
+282, 20150834
+Duncan, R.A., Hooper, P.R., Rehacek, J., Marsh J.S. and Duncan, A.R., 1997.
+The timing and duration of the Karoo igneous event, southern Gondwana.
+Journal of Geophysical Research, 102, 18127-18138.
+Du Toit, A.L., 1954. Geology of South Africa, 3rd edition. Edinburgh and
+London: Oliver and Boyd, 611pp.
+Gastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, J. and Looy, C.V., 2015.
+Is the vertebrate-deﬁned Permian-Triassic boundary in the Karoo Basin, South
+Africa, the terrestrial expression of the end-Permian marine event? Geology,
+43, 939-942.
+Gastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, J., Looy, C.V. and Martini, A.M.,
+2020. The base of the Lystrosaurus Assemblage Zone, Karoo Basin, predates
+the end-Permian marine extinction. Nature Communications, 11, 1428.
+Hancox P.J., 1998. A Stratigraphic, Sedimentological and Palaeo-environmental
+Synthesis of the Beaufort-Molteno Contact in the Karoo Basin. Unpublished
+PhD thesis, University of the Witwatersrand, Johannesburg, 404pp.
+Hotton, N. and Kitching, J.W., 1963. Speculation on Upper Beaufort deposition.
+South African Journal of Science, 59, 254-258.
+Johnson, M.R., 1991. Sandstone petrography, provenance and plate tectonic
+setting in Gondwana of the south-eastern Cape Karoo Basin. South African
+Journal of Geology, 94, 137-154.
+Keyser A.W., 1979. A review of the biostratigraphy of the Beaufort Group in
+the Karoo Basin of South Africa Abstracts Geocongress 79, Part 2,
+Geological Society of South Africa. 13-31.
+Keyser, A.W. and Smith, R.H.M., 1979. Vertebrate biozonation of the Beaufort
+Group with special reference to the Western Karoo Basin. Annals
+Geological Survey South Africa, 12, 1-36.
+Kitching, J.W., 1970. A short review of the Beaufort zoning in South Africa.
+In: S.H. Haughton (Editor), I.U.G.S., 2nd Gondwana Symposium Proceedings
+and Papers, 309-312.
+
+Kitching, J.W., 1977. The Distribution of the Karroo Vertebrate Fauna. Memoirs
+of the Bernard Price Institute for Palaeontological Research, Memoir No.
+1, 1-131.
+Kitching, J.W. and Raath, M.A., 1984. Fossils from the Elliot and Clarens
+Formations (Karoo Sequence) of the northeastern Cape, Orange Free
+State and Lesotho, and a suggested biozonation based on tetrapods.
+Palaeontologia africana, 25, 111-125.
+MacRae, C., 1999. Life Etched in Stone- Fossils of South Africa. The geological
+Society of South Africa. Johannesburg, 305pp.
+Neveling, J., 2002. Biostratigraphic and sedimentological investigation of the
+contact between the Lystrosaurus and Cynognathus Assemblage Zones
+(Beaufort Group: Karoo Supergroup). Unpublished PhD thesis, University
+of the Witwatersrand, Johannesburg, 232pp.
+Nicolas, M. and Rubidge, B.S., 2009. Changes in Permo-Triassic terrestrial
+tetrapod ecological representation in the Beaufort Group (Karoo
+Supergroup) of South Africa. Lethaia, 43, 45-49
+Nicolas, M.V.M., 2007. Tetrapod Biodiversity through the Permo Triassic
+Beaufort Group (Karoo Supergroup) of South Africa. Unpublished PhD
+thesis, University of the Witwatersrand, Johannesburg. 356pp.
+Ottone, E.G., Monti, M., Marsicano, C.A., de la Fuente, M.S., Naipauer, M.,
+Armstrong, R. and Mancuso, A.C., 2014. A new Late Triassic age for the
+Puesto Viejo Group (San Rafael depocenter, Argentina): SHRIMP U-Pb
+zircon dating and biostratigraphic correlations across southern Gondwana.
+Journal of South American Earth Sciences, 56, 186-199.
+Owen, R., 1845. Description of certain fossil crania discovered by
+A.G. Bain Esq., in the sandstones rocks in the south western extremity of
+Africa, referable to different species of an extinct genus of Reptilia
+(Dicynodon), and indicative of a new tribe or suborder of Sauria.
+Transactions of the Geological Society of London, 2, 59-84
+Roopnarine, P.D., Angielczyk, K.D., Olroyd, S., Nesbitt, S.J., BothaBrink, J., Peecook, B.R., Day, M.O. and Smith, R.M.H., 2017. Comparative
+ecological dynamics of Permian-Triassic communities from the Karoo,
+Luangwa and Ruhuhu basins of southern Africa. Journal of Vertebrate
+Paleontology, 37 (sup1), 254-272.
+Rubidge, B.S., 2005. Re-uniting lost continents – fossil reptiles from the ancient
+Karoo and their wanderlust. South African Journal of Geology, 108, 135-172.
+Rubidge B.S., 1995 Biostratigraphy of the Beaufort Group (Karoo Supergroup).
+South African Committee for Stratigraphy Biostratigraphic Series 1: 1-46
+Pretoria South African Committee for Stratigraphy and Biostratigraphy
+Rubidge, B.S., Erwin, D.H., Ramezani, J., Bowring, S.A. and de Klerk, W. J.,
+2013. High-precision temporal calibration of Late Permian vertebrate
+biostratigraphy: U-Pb zircon constraints from the Karoo Supergroup, South
+Africa. Geology, 41, 363-366.
+S.A.C.S. (South African Committee for Stratigraphy), 1980. Stratigraphy of
+South Africa. Part 1. Lithostratigraphy of the Republic of South Africa, South
+West Africa/Namibia, and the Republics of Bophuthatswana, Transkei and
+Venda. Handbook of the Geological Survey of South Africa, 8, 690pp.
+Seeley, H.G., 1892. Researches on the structure, organisation and classiﬁcation
+of the fossil Reptilia. Philosophical Transactions of the Royal Society, 179,
+59-109.
+Smith R.M.H., 1990. A review of stratigraphy and sedimentary environments
+in the Karoo Basin of South Africa. Journal of African Earth Sciences, 10,
+117-137.
+Turner, B.R., 1999. Tectonostratigraphical development of the Upper Karoo
+foreland basin orogenic unloading versus thermally-induced Gondwana
+rifting. Journal of African Earth Sciences, 28, 215-238.
+Von Huene, F., 1925. Die Sudafrikanische Karroo-Formation als geologisches
+und faunitisches Lebensbild. Fortschritte der Geologie und Palaeontologie,
+12: 1-24.
+
+Editorial handling: R.M.H. Smith.
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+139
+
+INTRODUCTION TO THE TETRAPOD BIOZONATION OF THE KAROO SUPERGROUP
+
+JAMES WILLIAM KITCHING
+
+1922 TO 2003
+James Kitching was a world-renowned fossil-ﬁnder and the doyen of Karoo palaeontology. Throughout his
+working career (1945 to 1990) he was employed at the Bernard Price Institute for Palaeontological Research
+(now Evolutionary Studies Institute) at the University of the Witwatersrand, and has the distinction of
+having been the ﬁrst member of staff hired by the institute as a fossil-ﬁnder and ending his career as the
+director. This volume is a tribute to his lifelong interest in Karoo fossils, and his passion for ﬁeldwork. There
+is no doubt that he laid the foundation for the latest biozonation scheme presented here, and his efforts
+are gratefully acknowledged by every author.
+
+140
+
+SOUTH AFRICAN JOURNAL OF GEOLOGY
+
+Downloaded from https://pubs.geoscienceworld.org/gssa/sajg/article-pdf/123/2/131/5083358/131_0009_introduction.pdf
+by University of Exeter user
+
+

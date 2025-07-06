@@ -1,0 +1,3881 @@
+Journal Pre-proof
+New geochemical and palaeontological data from the PermianTriassic boundary in the South African Karoo Basin test the
+synchronicity of terrestrial and marine extinctions
+
+Jennifer Botha, Adam K. Huttenlocker, Roger M.H. Smith, Rose
+Prevec, Pia Viglietti, Sean P. Modesto
+PII:
+
+S0031-0182(19)30728-X
+
+DOI:
+
+https://doi.org/10.1016/j.palaeo.2019.109467
+
+Reference:
+
+PALAEO 109467
+
+To appear in:
+
+Palaeogeography, Palaeoclimatology, Palaeoecology
+
+Received date:
+
+4 August 2019
+
+Revised date:
+
+11 November 2019
+
+Accepted date:
+
+14 November 2019
+
+Please cite this article as: J. Botha, A.K. Huttenlocker, R.M.H. Smith, et al., New
+geochemical and palaeontological data from the Permian-Triassic boundary in the South
+African Karoo Basin test the synchronicity of terrestrial and marine extinctions,
+Palaeogeography, Palaeoclimatology, Palaeoecology (2018), https://doi.org/10.1016/
+j.palaeo.2019.109467
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such
+as the addition of a cover page and metadata, and formatting for readability, but it is
+not yet the definitive version of record. This version will undergo additional copyediting,
+typesetting and review before it is published in its final form, but we are providing this
+version to give early visibility of the article. Please note that, during the production
+process, errors may be discovered which could affect the content, and all legal disclaimers
+that apply to the journal pertain.
+
+© 2018 Published by Elsevier.
+
+Journal Pre-proof
+New geochemical and palaeontological data from the Permian-Triassic boundary in the South
+African Karoo Basin test the synchronicity of terrestrial and marine extinctions
+
+Jennifer Botha1, 2, Adam K. Huttenlocker3, Roger M. H. Smith4, 5, Rose Prevec6,7, Pia
+Viglietti8 and Sean P. Modesto9
+
+National Museum, PO Box 266, Bloemfontein, 9300, South Africa
+
+2
+
+Department of Zoology and Entomology, University of the Free State, Bloemfontein, 9300,
+
+of
+
+1
+
+Department of Integrative Anatomical Sciences, University of Southern California, Los
+
+-p
+
+3
+
+ro
+
+South Africa, jbotha@nasmus.co.za
+
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, 2050 South
+
+Africa, Roger.Smith4@wits.ac.za
+
+lP
+
+4
+
+re
+
+Angeles, CA 90033, USA, ahuttenlocker@gmail.com
+
+Karoo Palaeontology, Iziko South African Museum, Cape Town, 8000, South Africa
+
+6
+
+Department of Earth Sciences, Albany Museum, Makhanda, 6139, South Africa,
+
+Jo
+ur
+
+r.prevec@am.org.za
+
+na
+
+5
+
+7
+
+Department of Botany, Rhodes University, Makhanda, 6140, South Africa
+
+8
+
+Integrative Research Center, Field Museum of Natural History, 1400 South Lake Shore
+
+Drive, Chicago, IL, 60605, United States, pviglietti@fieldmuseum.org
+9
+
+Department of Biology, Cape Breton University, Sydney, NS, Canada,
+
+sean_modesto@cbu.ca
+
+Keywords: End-Permian; Early Triassic; Mass Extinction; Gondwana
+
+Journal Pre-proof
+Abstract
+The end-Permian mass extinction (EPME) is widely recognized as the largest mass extinction
+in Phanerozoic history. In marine strata the main extinction event is well constrained, and has
+been radiometrically-dated to an interval of some 60 kyr, approximately 251.9 million years
+ago. However, the age and duration of the EPME in the terrestrial realm, as well as its
+possible synchronicity with that of the marine realm, is debated. Here, we shed light on issues
+pertaining to the identification and position of the terrestrial EPME in southern Africa. Using
+
+of
+
+recently collected sedimentological (facies sequences), palaeontological (biostratigraphic
+
+ro
+
+ranges), geochemical (stable isotope analyses) and detrital zircon (ID-TIMS) data from a new
+
+-p
+
+site in the Xhariep District of the South African Karoo Basin, we demonstrate that the
+
+re
+
+Permian-Triassic boundary sequence containing evidence for phased tetrapod extinctions is
+time equivalent with the marine extinction. We conclude that the terrestrial EPME recorded
+
+lP
+
+in the Karoo may be regarded as essentially synchronous with the EPME currently defined in
+
+na
+
+the marine realm, and was likely the result of the same volcanically-induced atmospheric
+disturbances. This study describes the first single, vertical succession of vertebrate and plant
+
+Jo
+ur
+
+fossils that span the terrestrial Permian-Triassic boundary that are also well-constrained both
+by relative (stable isotopes) and absolute (detrital zircon geochronology) dating methods.
+
+Journal Pre-proof
+1. Introduction
+
+1.1 The end-Permian mass extinction
+The end-Permian mass extinction (EPME) was the most devastating ecological crisis
+in Phanerozoic history. Its effect on both marine and terrestrial ecosystems substantially
+changed community structure causing a severe reduction in global biodiversity (Xie et al.,
+2005; Yin et al., 2007; Chen et al., 2009; Shen et al., 2011; Smith and Botha-Brink 2014).
+
+of
+
+Recent geochronological evidence constrains the event to between 251.941 ± 0.037 and
+
+ro
+
+251.880 ± 0.031 million years ago (Ma) using U-Pb dated zircons from ash beds sampled in
+
+-p
+
+the marine Global Boundary Stratotype Section and Point (GSSP) at Meishan, South China
+
+re
+
+(Burgess et al., 2014). Although many causes for the extinction have been proposed, there is
+broad consensus that ecosystem collapse was catalyzed by emission of greenhouse gases
+
+lP
+
+during prolonged volcanic eruption and subsequent sill intrusions in northern Pangaea, as
+
+na
+
+evidenced by the extensive Siberian Traps flood basalts (Renne et al., 1995; Payne and
+Kump, 2007; Grasby et al., 2011; Black et al., 2012; Burgess et al., 2017). The proposed
+
+Jo
+ur
+
+effects of this volcanogenic gas and dust pollution on the marine realm include benthic
+acidification, anoxia, hypercapnia, euxinia, and excessive methane release from deep sea gas
+hydrates, leading to a rapid decline in biodiversity (Alroy, 2008; Wignall et al., 2010;
+Brennecka et al., 2011; Loope and Kump, 2013; Foster and Twitchett, 2014; Lau et al.,
+2016). In the continental realm in Gondwana, increasingly warmer and drier climatic
+conditions along with considerably less reliable rainfall triggered a similar large-magnitude
+reduction in primary productivity and terrestrial biodiversity in general (Smith and BothaBrink, 2014; Rey et al., 2016; MacLeod et al., 2017). These conditions have been argued to
+have resulted in unstable communities and heightened extinction risks for the survivors for at
+
+Journal Pre-proof
+least five million years after the event, based on trophic network models (Roopnarine et al.,
+2007, 2019; Roopnarine and Angielczyk, 2015).
+
+1.2 Rationale for the present study
+South Africa’s Karoo Basin has provided the most complete record of the effect of the
+terrestrial EPME, and numerous field investigations have yielded precise biostratigraphic
+records of Karoo tetrapods throughout the uppermost Permian to lowermost Triassic (e.g.
+
+of
+
+Smith, 1995; Smith and Ward, 2001; Hancox et al., 2002; Retallack et al., 2003; Smith and
+
+ro
+
+Botha, 2005; Botha and Smith, 2006; Smith and Botha-Brink, 2014; Viglietti et al., 2018a).
+
+-p
+
+By integrating sedimentological, biostratigraphic, palaeomagnetic and geochemical data,
+
+re
+
+these studies have led to the identification of a relatively continuous PTB interval in the
+Karoo Basin. The interval is characterised by a basin-wide sequence of sedimentary facies
+
+lP
+
+associations that indicate progressive lowering of regional groundwater, increased
+
+Viglietti et al., 2018a).
+
+na
+
+seasonality, and climate drying (Smith and Botha-Brink, 2014; MacLeod et al., 2017;
+
+Jo
+ur
+
+The PTB sequence coincides with a three-phased extinction of tetrapods and the
+apparent disappearance of glossopterid-dominated floras (Smith and Botha Brink, 2014).
+Within the lower Palingkloof Member, an interval of laminated reddish-brown and olive-grey
+siltstone-mudstone couplets has been used as a marker for the main extinction pulse. This is
+associated with the basin-wide last appearance of the Permian dicynodonts Daptocephalus
+leoniceps, Dicynodontoides recurvidens, Dinanomodon rubidgei and Lystrosaurus maccaigi.
+The overlying massive siltstone facies of the upper Palingkloof Member marks the first
+appearance of the archosauriform Proterosuchus fergusi, Lystrosaurus declivis and L.
+murrayi (Smith and Botha-Brink, 2014). This sequence records substantial turnover and
+alterations to community structure and resilience (Roopnarine and Angielczyk, 2012, 2015,
+
+Journal Pre-proof
+2016; Roopnarine et al., 2007, 2019), while also preserving the distinctive geochemical
+signatures of the PTB. The latter include a negative δ13C excursion (MacLeod et al., 2000;
+Ward et al., 2005) in addition to other chemostratigraphic and radiometric age constraints
+(Coney et al., 2007).
+Nevertheless, a few recent studies have disputed the placement of the
+biostratigraphically-defined PTB in South Africa (Steiner et al., 2003, Gastaldo et al., 2009,
+2015, 2019), calling into question the synchronicity of intrabasinal faunal turnover (Gastaldo
+
+of
+
+et al., 2015), as well as the evidence for basin-wide aridification in the earliest Triassic
+
+ro
+
+(Tabor et al., 2007, Gastaldo et al., 2014, 2017). Consequently, these studies have catalyzed a
+
+-p
+
+reinvestigation of the timing of the main extinction event and its correlation to that of the
+
+re
+
+marine realm (Gastaldo et al., 2015), an effort that has been aided by new geochronologic age
+constraints including radiometric dates presented here by our team. Here, we present new
+
+lP
+
+sedimentological, biostratigraphic, and geochemical data, including radiometric dates from
+
+na
+
+detrital zircons, collected from a recently recognised terrestrial PTB site in the main Karoo
+Basin. Our multidisciplinary study evaluated the accuracy of the widely accepted position of
+
+Jo
+ur
+
+the EPME in the main Karoo Basin, and contributes to the debate about its synchronicity with
+the marine EPME.
+
+2. Historical context
+
+Until the turn of the century, most research on the EPME focused on marine strata
+(Jin et al., 2000), whereas complete terrestrial Permian-Triassic boundary (PTB) sequences
+were considered to be rare or absent within continental basins. More recently, however,
+relatively continuous terrestrial PTB sections have been investigated in South Africa, Russia,
+Antarctica, Australia and China, allowing researchers to examine the timing and mechanisms
+
+Journal Pre-proof
+of terrestrial extinctions using multi-proxy approaches (e.g. Ward et al., 2000; Smith and
+Ward, 2001; Benton et al., 2004; Retallack et al., 2005; Collinson et al., 2006; Metcalfe et al.,
+2009, 2015; Cui et al., 2017; Fielding et al., 2019). Consequently, several techniques have
+been used to identify sedimentological and geochemical signatures of the mass extinction, in
+addition to the floral and faunal turnovers that are apparent across the PTB. Sedimentological
+studies have revealed changes in fluvial style and modification of floodplain environments
+across the PTB in Antarctica (Webb and Fielding, 1993; Collinson et al., 2006), South Africa
+
+of
+
+(Smith, 1995; Ward et al., 2000; Smith and Botha-Brink, 2014), Spain (Arche and López-
+
+ro
+
+Gómez, 2005), Russia (Newell et al., 1999), China (Metcalfe et al., 2009; Yang et al., 2010;
+
+-p
+
+Zhang et al., 2016) and some parts of Australia (Retallack et al., 1998; Michaelsen, 2002; but
+
+re
+
+see Fielding et al., 2019). These generally manifest as a change from high-sinuosity,
+meandering river systems with expansive, wet floodplains through a straightening transition
+
+lP
+
+stage to low-sinuosity, braided ephemeral river channels with seasonally dry floodplains
+
+na
+
+subject to flash floods (Ward et al., 2000; Smith and Botha-Brink, 2014).
+Associated with these large-scale environmental changes, a distinctive
+
+Jo
+ur
+
+chemostratigraphic signature, represented by a steep negative δ13C excursion at the PTB, has
+been observed at sites in South Africa (MacLeod et al., 2000, 2017; Ward et al., 2005; Coney
+et al., 2007), Antarctica (Retallack et al., 2005) and China (Cao et al., 2008; Thomas et al.,
+2011; Cui et al., 2017), mirroring that preserved in marine sediments (Korte and Kozur,
+2010). Investigations of δ13C excursions in combination with precise zircon ages from
+multiple ash beds at the GSSP at Meishan have allowed precise dating of this geochemical
+signature (Shen et al., 2011, 2012, 2013), tying it to similar chemostratigraphic records in the
+terrestrial Karoo Basin of South Africa (MacLeod et al., 2000; Ward et al., 2005; Coney et
+al., 2007) as well as to the famous Siberian Traps (Burgess et al., 2014, 2017). Ongoing
+studies have shown that excursions recorded in terrestrial sediments, such as those in the
+
+Journal Pre-proof
+Permo-Triassic Palingkloof Member (Balfour Formation) of the Karoo Basin, mark the
+beginning of a series of δ13C excursions that occurred throughout much of the Early Triassic.
+Importantly, they provide evidence for prolonged carbon cycle fluctuations indicating
+extreme climate perturbations and environmental stress (Retallack et al. 2005, Payne et al.,
+2004; Payne and Kump, 2007; Clarkson et al., 2013; Sanson-Barrera et al., 2015).
+Although the magnitude and timing of resulting extinctions has been studied
+extensively in marine sections (Erwin et al., 2002; Foster and Twitchett, 2014; Zaton et al.,
+
+of
+
+2016), the extent and rate of biodiversity loss in the terrestrial realm are still debated.
+
+ro
+
+Terrestrial vertebrate fossil assemblages spanning the PTB reveal a complex scenario of
+
+-p
+
+extinctions and reduced diversity in some clades, and increased abundance and diversity in
+
+re
+
+others (Benton et al., 2004; Irmis and Whiteside, 2011; Irmis et al., 2013; Fröbisch, 2013;
+Smith and Botha-Brink, 2014). For example, temnospondyl amphibians, procolophonid
+
+lP
+
+parareptiles, archosauromorph reptiles and cynodont therapsids continued to diversify after
+
+na
+
+the extinction event (in the Induan stage), becoming key players in Triassic ecosystems (Ruta
+and Benton, 2008; Nesbitt et al., 2013; Ruta et al., 2013a; MacDougall et al., 2019). By
+
+Jo
+ur
+
+contrast, pareiasaurian parareptiles and gorgonopsian therapsids disappeared completely,
+while the surviving therocephalian and dicynodont therapsids persisted with reduced diversity
+and low rates of cladogenesis despite fairly strong abundances (Ruta et al., 2013b;
+Huttenlocker et al., 2011; Huttenlocker, 2014; Smith and Botha-Brink, 2014). Most notable
+among these is the disaster taxon Lystrosaurus, the most common tetrapod found in the
+earliest Triassic of the Karoo Basin, South Africa, but also known from Triassic beds on
+multiple continents such as the marine-to-terrestrial Panchet beds of India where its
+connection to the marine Triassic was first established (Tripathi and Puri, 1961, 1962). With
+the exceptions of L. maccaigi and L. curvatus, which have both been found in the latest
+Permian, the other species of South African Lystrosaurus are exclusively Triassic in age
+
+Journal Pre-proof
+(Botha and Smith, 2006, 2007; Smith and Botha-Brink, 2014). As in therocephalians and
+cynodonts (Huttenlocker, 2013; Huttenlocker and Botha-Brink, 2013, 2014), histologic and
+taphonomic evidence show that Early Triassic Lystrosaurus exemplified a general pattern of
+elevated early mortality and attenuated growth typical of most post-extinction therapsids
+(Viglietti et al., 2013; Botha-Brink et al., 2016).
+The effects of end-Permian extinctions on plants remain poorly understood. At a very
+coarse resolution, the changes in Gondwanan floras from the late Permian to the Middle
+
+of
+
+Triassic are profound, where the distinctive Glossopteris-dominated forests of the Permian
+
+ro
+
+gave way to the much more diverse gymnosperm floras of the Middle-to-Late Triassic
+
+-p
+
+typified by the peltasperm Dicroidium (Anderson and Anderson, 1985; Retallack, 2005,
+
+re
+
+2013; Anderson et al., 2007; Lindström and McLoughlin, 2007). Some studies of macrofloral
+and particularly palynological evidence indicate that the global PTB turnover was more of a
+
+lP
+
+transition than a mass die-off (Gastaldo et al, 2005; Lindström and McLoughlin, 2007;
+
+na
+
+Saxena et al., 2018; Fielding et al, 2019) or even that, at the generic level, the floras of the
+world were minimally affected (Nowak et al., 2019). Fielding et al. (2019) even noted that
+
+Jo
+ur
+
+the terrestrial turnover in Australia was asynchronous with the marine extinction.
+Additionally, as more localities are studied it appears that key index taxa such as Glossopteris
+and Dicroidium had overlapping ranges in some regions (Kerp et. al, 2006; Saxena et al,
+2018). However, other authors have maintained that gymnosperm-dominated late Permian
+floral communities experienced a devastating crisis during the EPME (McElwain and
+Punyasena, 2007; Cascales-Miñana and Cleal, 2014; Yu et al., 2015; Cascales-Miñana et al.,
+2016), and were in some regions succeeded by pioneering fern and lycopsid floras that
+persisted into the early Middle Triassic (Retallack, 1995; Wang, 1996; Looy et al., 2001;
+Grauvogel-Stamm and Ash, 2005). As suggested by Rees (2002), it is likely that plant
+communities showed different patterns of extinction and recovery in different parts of the
+
+Journal Pre-proof
+world, and in the absence of high resolution studies of the changes in macrofloras across the
+PTB, the pace and nature of this transition continues to be a source of debate (eg. Fielding et
+al., 2019; Nowak et al., 2019). One of the greatest challenges facing palaeobotanists is the
+rarity of earliest Triassic plant fossils (Gastaldo et al., 2005; Nowak et al., 2019). Increasing
+global temperatures at the close of the Permian and into the Triassic, and the postulated
+increase in aridification and seasonality (with accompanying fluctuations in water table) in
+the interior regions of Pangaea, may provide a taphonomic explanation for this rarity. These
+
+of
+
+conditions would have decreased the preservation potential of fossil plants regionally and the
+
+ro
+
+likelihood of encountering those rare habitats that favoured plant preservation (Gastaldo,
+
+-p
+
+2005). These effects are certainly apparent in the Karoo Basin, where there is generally a
+
+re
+
+decline in plant fossil abundance and quality in the late Changhsingian, with the first wellpreserved floras and coal seams above the PTB only reappearing in the lower parts of the
+
+lP
+
+Upper Triassic (Anderson and Anderson, 1985; Anderson et al., 2007; Gastaldo et al., 2005).
+
+na
+
+While the fossil macrofloras of the upper Permian and Middle Triassic clearly represent
+highly disparate plant communities, the pace and nature of the changes that took place over
+
+Jo
+ur
+
+this interval remain poorly understood within the context of the Karoo Basin. Only through
+continued and concerted efforts to find the sparse macroplant fossil evidence in the
+uppermost Permian and lowermost Triassic strata, at multiple sites across the basin, will
+progress be made towards reconstructing the floral changes that occurred in concert with the
+patterns of extinction seen in the vertebrate faunas.
+
+3. Study site and techniques
+
+3.1. Field techniques
+
+Journal Pre-proof
+The field site extends over three adjoining farms (Nooitgedacht 68 [site locality
+30°19’37.49”S 25°55’57.99”E], Vogelstruis-fontein 69, now called Droogefontein 176 [site
+locality 30°20’22.08”S 25°55’45.39”E], and Geluksfontein 204 [site locality 30°20’28.03”S
+25°55’46.7”E]) approximately 20 km north of the town Bethulie in the Xhariep Municipal
+District (previously Bethulie District), Free State Province, South Africa (Fig. 1A, B).
+Previously, Botha-Brink et al. (2014) described the sedimentary sequence and palaeontology
+of PTB exposures on the farm Nooitgedacht 68, reporting a diverse assemblage dominated by
+
+of
+
+the end-Permian synapsid Lystrosaurus maccaigi. A subset of these specimens is presented in
+
+ro
+
+Table 1. The current study area includes two neighboring localities, namely an isolated flat-
+
+-p
+
+topped butte called ‘Loskop,’ and a pinnacle and adjacent ridge called ‘Spitskop’
+
+re
+
+approximately 800 m southwest of Loskop (Fig. 1C, D). Loskop is on the farm Nooitgedacht
+68, whereas Spitskop extends over Nooitgedacht 68, Vogelstruis-fontein 69 and
+
+lP
+
+Geluksfontein 204 (Fig. 1B). Both localities contain an apparently complete sequence of
+
+na
+
+uppermost Permian and lowermost Triassic strata preserving the terrestrial PTB and its
+
+zones (Fig. 2).
+
+Jo
+ur
+
+associated faunal turnover from the upper Daptocephalus to lower Lystrosaurus assemblage
+
+Initial stratigraphic logging by Botha-Brink et al. (2014) suggested that the two
+prominences are equivalent in age, based on their lateral continuity over a short distance,
+apparently continuous sedimentation, and similar vertical changes in the faunal assemblages
+at both localities. In this study, a new stratigraphic section totaling 122 m was logged on
+Spitskop from its lowermost exposures in the Balfour Formation to its summit in the middle
+Katberg Formation. The logs were measured using standard field techniques, using a Jacob’s
+staff and Abney level, to an accuracy of 10 cm. The lithology, rock colour (using Munsell
+geological rock colour-chart 2009 revision), sedimentary structures, bedding planes, scour
+surfaces, nodules, root traces, fossils and burrows were recorded onto each log (Fig. 3, Table
+
+Journal Pre-proof
+1, Supplementary Fig. S1, Supplementary Table S1). A list of in situ fossil taxa incorporating
+all of the Bethulie (northern basin) and Graaff Reinet (southern basin) study sites to date is
+presented in Supplementary Table S2.
+
+3.2. Stable isotope geochemistry
+In-situ carbonate nodules collected from Permian and Triassic palaeosols on both
+Loskop (17 horizons) and Spitskop (12 horizons), were consumptively sampled for carbon
+
+of
+
+and oxygen stable isotope analysis (Fig. 3). Nodules were impact fractured and fresh surfaces
+
+ro
+
+milled for rock powder. Septarian nodules with visible crystalline structure in hand samples
+
+-p
+
+were excluded from the analysis. Diagenetic calcite veins were also sampled where possible
+
+re
+
+to control for diagenetic signatures. At least one nodule from each palaeosol profile was
+milled, although multiple nodules were sampled closer to the palaeontologically-defined
+
+lP
+
+EPME in order to identify potential variability in the isotopic signatures. Enamel samples
+
+na
+
+were also taken from Permian theriodont therapsid teeth in order to compare their carbon and
+oxygen isotope signatures with those of the pedogenic nodules.
+
+Jo
+ur
+
+Micritic or finely-crystalline nodules and enamel samples were milled into a fine
+powder using a Dremel tool with diamond-tipped bit, deposited onto a wax paper sheet, and
+poured into small microcentrifuge tubes. For the theriodont enamel samples, only about one
+milligram of sample was taken from two positions on either the mesial or lingual surfaces of
+the teeth. Both basal and apical enamel samples were taken to account for variations in
+isotopic signatures of individual teeth during their biomineralization.
+Analyses were performed at the University of Utah, Salt Lake City, USA. The sample
+powders were weighed into silver capsules (approximately 50–100 micrograms of powder
+per capsule) and dried under a vacuum at a temperature of 200°C approximately two hours
+before analysis. The samples were analysed for δ13C and δ18O on a Finnigan MAT 252
+
+Journal Pre-proof
+coupled to a Carboflo dual-inlet carbonate device. The stable isotope ratios are reported as δ
+values relative to the international standard Vienna Pee Dee Belemnite (V-PDB), using the
+standard per mil (‰) notation. SD of an internal carbonate standard was ± 0.1 ‰. For each
+microcentrifuge tube of enamel powder, approximately 400 micrograms of sample were
+weighed into silver capsules to ensure sufficient yield, and the above steps were followed
+using an internal enamel standard. Carbonate standards used included Carrara Marble and
+LCVEC lithium carbonate. Enamel standards included FGS (fossil gomphothere) and FRS
+
+ro
+
+of
+
+(fossil rhino). All standards have been calibrated to NBS 19.
+
+-p
+
+3.3 Detrital zircon U-Pb radiometric dating
+
+re
+
+A sandstone bed bearing volcaniclastics in the lower portion of the Spitskop section—
+approximately 6.5 m below the palaeontologically-defined EPME and within facies B (lower
+
+lP
+
+Palingkloof Member) (Fig. 3)—was identified during our 2015 collecting trip and was found
+
+na
+
+to contain a high yield of detrital zircons. Hand samples were collected from unweathered
+rock, stored in clean, plastic collecting bags, and transported to the laboratory where zircons
+
+Jo
+ur
+
+were isolated using standard separation techniques. The samples yielded approximately 3.3
+zircon crystals per cc. Up to 80 crystals were picked at random and mounted in epoxy,
+polished, and imaged using SEM cathodoluminescence to visualize internal zoning and to
+select ablation spots.
+
+We first assessed age probabilities of zircon populations using laser ablation
+inductively coupled plasma mass spectrometry (LA-ICPMS), and then estimated maximum
+depositional age of the youngest zircons using high-precision isotope dilution thermal
+ionization mass spectrometry (ID-TIMS). Determination of age probabilities was first
+conducted at the University of Utah LA-ICPMS laboratory, although age profiles from
+additional beds were also assessed at the Central Analytical Facilities of Stellenbosch
+
+Journal Pre-proof
+University for comparison, following a subsequent collecting trip in 2017 (Supplementary
+Information). Of the LA-ICPMS sample from facies B, 15 crystals from among the youngest
+population were selected and analyzed at the Berkeley Geochronology Center using IDTIMS. Prior to ID-TIMS, the sample was abraded chemically and thermally annealed to
+remove zones of potential Pb loss.
+
+of
+
+4. Results
+
+-p
+
+ro
+
+4.1. Palaeoenvironmental interpretation and biostratigraphy of the PTB facies sequence
+
+re
+
+Despite slight differences in thickness, the sequence of sedimentary facies across the
+PTB on both Loskop and Spitskop is the same (A–E in Figs. 1C, D and 3A, B) and similar to
+
+lP
+
+that described by Smith and Botha-Brink (2014) from the farm Bethel 763 (a.k.a, “Bethal”)
+
+Jo
+ur
+
+as follows:
+
+na
+
+some 35 km southeast of the study site. From the lowest (A) to the highest (E) the sequence is
+
+4.1.1. Facies A–Massive greyish-brown mudrock
+This facies (Fig. 3, Table 1, Supplementary Fig. S1, Table S1) comprises stacked 1 mthick tabular beds of blocky-weathering structureless greyish-brown (2.5Y/2) mudstone, and
+rare erosionally-based, fine-grained sandstone bodies. The latter are generally light grey
+(5Y7/1) on Loskop and more olive-grey (5Y4//2) on Spitskop. The sandstones range from 1-5
+m thick and are structured by massive bedding at the base, grading and fining upwards into
+ripple cross-laminated fine-grained sandstone stringers with irregular, low-angle (10–15°)
+erosive bases that have previously been interpreted as lateral accretion units (Smith, 1987).
+The massive greyish-brown muddy siltstone commonly hosts laterally continuous 1 m-thick
+
+Journal Pre-proof
+horizons containing scattered oblate smooth-surfaced brown-weathering nodules. The
+nodules range from 5–20 cm in diameter and internally they commonly display small
+brecciated mudrock clasts floating within a grey micritic siltstone matrix.
+The interpreted depositional setting for the massive greyish-brown mudrock facies is
+an expansive, generally dry, but seasonally wet, floodplain between meanderbelt ridges
+comprising multi-lateral sand-dominated point bars (Jackson, 1981; Labrecque et al., 2011).
+Floodwaters periodically overtopped, and in places broke through, the leveed channel banks,
+
+of
+
+inundating the floodplain. In the proximal floodplain areas the floods deposited thin layers of
+
+ro
+
+silt that were generally readily incorporated into the soil A horizon. However, some flood
+
+-p
+
+events resulted in much thicker deposits that effectively killed the soil profile and
+
+re
+
+simultaneously raised the water table. These events are preserved in the section as mottled
+massive siltstones with horizons of oblate smooth-surfaced carbonate nodules containing
+
+lP
+
+brecciated mudrock, which are interpreted as having been precipitated subsurface in pond
+
+na
+
+margin environments on generally wet floodplains that are subjected to seasonal drying
+(Alonso-Zarza, 2003). Near the base of the section (+/-1.5 m on Fig. 3A) a conspicuous
+
+Jo
+ur
+
+horizon of vertically and horizontally-oriented calcareous rhizocretions is evidence of
+fluctuating water tables in a lower part of a calcic palaeosol (Klappa, 1980). In summary, we
+interpret the pedogenic mottling of the massive grey mudrock facies as evidence of gleyed
+alluvium affected by a high watertable for most of the year with a short, warmer, dry season.
+Within the seasonally fluctuating vadose zone of the floodplain alluvium, calcite was
+precipitated around roots and clots of decaying plant matter resulting in the horizons of
+carbonate rhizocretions and nodules.
+An impression of a large tree branch was found approximately 24 m below the PTB
+on Loskop (Fig. 3A; figured in Botha-Brink et al., 2014). Dicynodont therapsids identified as
+Daptocephalus leoniceps (Fig. 5A) and Lystrosaurus maccaigi, which are index species of
+
+Journal Pre-proof
+the upper Permian Daptocephalus Assemblage Zone (AZ) (previously Dicynodon AZ see
+Viglietti et al., 2016), were recovered from facies A around the base of Loskop and Spitskop.
+Botha-Brink et al. (2014) previously assigned several dicynodont specimens to Dicynodon
+lacerticeps based on the absence of nasal bosses and the presence of a narrow intertemporal
+region and tusks, but the last two features apply to Daptocephalus leoniceps as well. Viglietti
+et al. (2016) re-examined the stratigraphic placement of dicynodont specimens re-identified
+in a recent study by Kammerer et al. (2011) and found that none of the Dicynodon specimens
+
+of
+
+were from the uppermost part of the biozone. As only Daptocephalus was found to extend to
+
+ro
+
+the upper boundary of the zone, Viglietti et al. (2016) renamed the biozone the
+
+-p
+
+Daptocephalus AZ. The specimens from Loskop and Spitskop were re-examined and
+
+re
+
+reassigned to Daptocephalus leoniceps based on the presence of a long, narrow, straight (in
+dorsal view) intertemporal bar and tusks that are at the level of the anterior margin of the
+
+na
+
+2016; Kammerer 2019).
+
+lP
+
+orbits and the newly constrained biostratigraphy (Kammerer et al., 2011; Viglietti et al.,
+
+The presence of theriodonts such as a new species of gorgonopsian (based on Botha-
+
+Jo
+ur
+
+Brink et al., 2014) and the therocephalians Ictidosuchoides longiceps and Moschorhinus
+kitchingi confirm that the lower slopes represent the upper Daptocephalus AZ (Botha-Brink
+et al., 2014).
+
+4.1.2. Facies B–Massive mottled dark reddish-brown / olive-grey mudrock
+This facies (Fig. 3, Table 1, Supplementary Fig. S1, Supplementary Table S1) on
+Loskop and Spitskop comprises vertically stacked 0.25–5 m-thick tabular beds of mottled
+dark reddish-brown (2.5YR 2.5/4) and olive-grey mudstone with light grey (on Loskop) or
+olive-grey (on Spitskop) siltstones with interbedded thin (<0.5m) lenticular siltstone and finegrained sandstone bodies displaying distinctively “gullied” basal contacts and climbing ripple
+
+Journal Pre-proof
+cross-stratification indicative of rapid scour-and-fill sedimentation. The degree of mottling
+varies, but notably irregularly-shaped dusky-red (5Y4/2) mottles appear within this facies.
+The mottled mudstones contain claystone-lined root moulds and horizons of brownweathering calcareous nodules some of which contain fossil bone. Of possible regional
+significance is a horizon of large “stellate” nodular masses that occur in the upper part of this
+facies on both sections (23.5 m on Spitskop log and 14.5 m on Loskop log of fig 3,
+Supplementary Fig. S3A). Each nodular mass comprises 3–5 radially-arranged fissures that
+
+of
+
+taper outwards from a central cavity and are filled with vertically-orientated calcareous
+
+ro
+
+laminae. In cliff outcrops these large (+/- 0.5 m diameter) nodules are evenly-spaced along
+
+-p
+
+strike approximately 10 m apart. They are interpreted to be part of a large scale polygonal
+
+re
+
+network of shrinkage cracks possibly related to drying of the alluvium on the ancient
+floodplain as regional water tables dropped (Khadkikar et al., 1998; Smith and Botha, 2005).
+
+lP
+
+We begin to observe at both Spitskop and Loskop, distinctive tubular Katbergia burrow casts
+
+na
+
+in this facies (Supplementary Fig. S3B). These 2–3 cm diameter, straight, cylindrical burrow
+casts dip at a consistent 45°, but are randomly oriented. They display a knobbly outer surface
+
+Jo
+ur
+
+with many small ridges mostly at a low angle to the long axis of the cast, that have been
+interpreted as grooves in the tunnel walls made by a scratch-digging decapod (Gastaldo and
+Rolerson, 2008).
+
+The sandstone bodies are composed of two to three vertically-stacked units structured
+by horizontal lamination that grades upwards into climbing ripple cross-lamination. A few of
+the elongated basal scours contain lenses of reworked mudrock pebbles and flakes, but
+pedogenic glaebules are rare.
+This facies marks the first appearances of patchy reddening in the mudrocks along
+with vertically stacked sheet sandstones with fluted and gullied basal surfaces, and Katbergia
+burrows. The onset of mudrock reddening in the upper Balfour Formation has been
+
+Journal Pre-proof
+previously recognized as a feature marking the base of the Palingkloof Member (Johnson,
+1976). We also find increased maturity of the palaeo-pedogenic carbonate horizons,
+xeromorphic taproot structures and changes in the taphonomic style of the tetrapod fossils in
+this facies. Smith and Botha-Brink (2014) noted that the majority of the in situ tetrapod
+fossils recovered from this facies comprised partial rather than complete bones with evidence
+of pre-burial breakage and the preferential preservation of maxillary caniniform processes,
+basioccipitals and isolated cervical vertebrae of both Moschorhinus kitchingi and L.
+
+of
+
+maccaigi. Although colour alone does not indicate increased aridity (Li et al., 2017), we
+
+ro
+
+consider the combination of the features listed above to be linked to a lowering of the
+
+-p
+
+watertable in the floodplains along with a change from seasonally fluctuating yet still
+
+re
+
+perennial flow to more ephemeral flash flood-type hydrology in the distributary channels
+(Smith and Botha-Brink, 2014). This interpretation is supported by recent isotopic studies
+
+lP
+
+that have found climatic changes such as increased aridity in the upper Daptocephalus
+
+na
+
+Assemblage Zone (MacLeod et al., 2017; Rey et al., 2016, 2017).
+Plant fossils were found in the uppermost Permian facies (Fig.4A–F) on both Spitskop
+
+Jo
+ur
+
+and Loskop. Sphenophyte axes with longitudinal ribbing continuous through the nodes are
+common in both facies A and B. Paracalamites stems preserve well in the fossil record and
+are one of the few types of plant remains that survive palaeosol formation, probably due to
+their tough, silica-imbued cell walls. Unfortunately, in the absence of attached leaves, they
+provide little information, other than demonstrating the abundance of equisetalean horsetail
+ferns in these latest Permian settings. Paracalamites stems are also one of the few plant body
+fossils that have been found in the lowermost Katberg Formation as defined here, eg. Bethel
+763 in the Free State (Gastaldo et al, 2005; see later comments in Gastaldo et al., 2017).
+Glossopteris leaf impressions occur in facies B at Spitskop (Figs 4 A–D) and are
+consistent with forms found at other latest Permian localities at Bethel 763 in the Free State,
+
+Journal Pre-proof
+the New and Old Wapadsberg Pass and Old Lootsberg Pass localities near Graaff Reinet in
+the Eastern Cape, and Ennersdale in KwaZulu-Natal in the eastern Karoo Basin (Gastaldo,
+2005; Prevec et al. 2010; Gastaldo et al., 2017; pers. obs. R. Prevec). These leaves are
+typically elongate-lanceolate, strap-like and diminutive with fine-meshed, curved venation
+arching at a steep angle, similar to forms assigned by other authors to Glossopteris
+angustifolia Brongniart and Glossopteris linearis McCoy (e.g. Lacey et al., 1975; White,
+1978).
+
+of
+
+The only fertile glossopterid specimens found at Spitskop, were several Lidgettonia
+
+ro
+
+cupules. Despite extensive bulk collecting at the Wapadsberg Pass localities (Prevec et al.,
+
+-p
+
+2010), the only glossopterid elements recovered were of this same leaf morphotype (referred
+
+re
+
+to as W1) and Lidgettonia fructifications. The association between this leaf morphotype and
+fructifications of the Lidgettoniaceae has been previously documented in detail by Anderson
+
+lP
+
+and Anderson (1985) at numerous late Permian localities in KwaZulu-Natal, providing
+
+na
+
+widespread and compelling evidence for their affiliation.
+The discovery of a short shoot bearing the small, narrow leaves of Glossopteris
+
+Jo
+ur
+
+morphotype W1, is of interest as it represents the first example of this morphotype preserved
+in attachment to a stem. The abscission scars on the shoot, the close, spiral arrangement of
+the leaves, the long leaf bases and the presence of rhombic bud-scales at the shoot terminus
+(Figs 4 C, D)., are consistent with G. linearis-bearing shoots reported by White (1978; fig. 4,
+p. 479) from the Upper Permian of Australia.
+Several insect wings were found in association with the plant fossils in facies B on
+Spitskop, all of them grylloblattids (A. Nel, pers. comm., 2018). The best preserved of these
+is illustrated in Fig. 4G, and may belong to the Liomopteridae, one of the most abundant
+families in the upper Permian fossil record of KwaZulu-Natal (eg. Aristov and Mostovski,
+2013).
+
+Journal Pre-proof
+On both Spitskop and Loskop, vertebrate fossils of the Daptocephalus AZ are fairly
+abundant in exposures of facies B. Specimens of Lystrosaurus maccaigi and Daptocephalus
+leoniceps (Fig. 5B) are relatively common, with Dinanomodon rubidgei, Dicynodontoides
+recurvidens and L. curvatus less so. Vertebrate fossils are typically preserved as isolated
+skulls, partially articulated cranial and postcranial remains, or isolated postcrania, with the
+notable exception of two near complete theriodont skeletons lying in close proximity to one
+another within massive siltstone on Spitskop. One specimen is a large (425 mm basal skull
+
+of
+
+length) gorgonopsian (NMQR 4000) comprising a complete skull, vertebral column (to the
+
+ro
+
+pelvic girdle) and partial ribs, complete right and partial left scapula, both clavicles,
+
+-p
+
+coracoids, metacoracoids, sternum, partial ilia and right femur all in articulation, and a
+
+re
+
+disarticulated humerus, ulna, radius and tibia. Approximately 15 cm away from this specimen
+lay an almost complete, articulated therocephalian, Moschorhinus kitchingi (NMQR 3939),
+
+lP
+
+with only the left manus, right forelimb, left hind limb, right pes, tail and left side of the
+
+na
+
+pelvic girdle missing (Fig. 5C, D). The disarticulated postcranial bones from the
+gorgonopsian are scattered on either side of the Moschorhinus skeleton (Fig. 5C, D). The
+
+Jo
+ur
+
+disarticulated gorgonopsian bones have all been moved in the same direction (i.e. towards the
+Moschorhinus skeleton), suggesting transportation by fluid flow rather than scavenger action.
+No tooth punctures or grooves were found on either skeleton. Interestingly, an isolated
+gorgonopsian femur was found near the base of the Moschorhinus skeleton, however the rest
+of the disarticulated gorgonopsian postcrania occurred approximately 10 cm higher up but
+still within the same bed, level with the top of the Moschorhinus skeleton. A comparable 3-D
+association of semi-articulated skeletons of two Moschorhinus and a Lystrosaurus maccaigi
+was described from the same stratigraphic level and in similar facies on Bethel 763 (Smith
+and Botha-Brink, 2014: p. 109), which was interpreted as a possible carnivore-rich miring
+
+Journal Pre-proof
+scenario similar to that of the Pleistocene Rancho La Brea bonebeds in California (Spencer et
+al., 2003).
+A relatively large non-mammalian cynodont was also recovered from facies B. The
+material consists of cranial fragments (jugal, unidentifiable fragments), a lower jaw (partial
+dentary, articular), and some postcranial fragments. To date only one large non-mammalian
+cynodont has been described from the uppermost Permian, namely Vetusodon elikhulu
+(Abdala et al., 2019). Our specimen is more robust than Procynosuchus and may therefore
+
+of
+
+represent Vetusodon (F. Abdala, pers. comm., 2019) or a particularly robust specimen of
+
+-p
+
+ro
+
+Cynosaurus.
+
+re
+
+4.1.3. Facies C–Dark reddish-brown mudstone and olive-grey mudstone-siltstone couplets
+This easily recognisable facies (Fig. 3, Table 1, Supplementary Fig. S1, S3C–E,
+
+lP
+
+Supplementary Table S1) varies from just under 2 m thick on Loskop to approximately 3 m
+
+na
+
+thick on Spitskop, but occurs at the same position in the facies sequence in both measured
+sections. The main sedimentological feature of this facies is the presence of distinctive thinly-
+
+Jo
+ur
+
+bedded mudstone-siltstone couplets, each 1–3 cm thick, with a sharp flat basal surface and an
+upward fining texture. The coarser arenaceous siltstone beds are olive-grey (5Y4/2) whereas
+the mudstone laminae are dark reddish-brown (2.5YR 2.5/4). On Spitskop (Fig. 3, 19–22 m),
+the couplets change colour midway through the unit from dark reddish-brown mudstone and
+olive-grey siltstone to olive-grey mudstone and dark reddish-brown siltstone. Individual 2
+cm-thick couplets can be traced laterally throughout the outcrop (approximately 8 m along
+strike on Spitskop) with no visible desiccation cracks, pedoturbation, calcite precipitation, or
+bioturbation (apart from isolated Katbergia burrows).
+Fern occurrences in the late Permian fossil record are extremely rare, and have been
+limited until now to fragments of Neomariopteris (Sphenopteris) lobifolia from the
+
+Journal Pre-proof
+Wuchiapingian of KwaZulu-Natal (Lacey et al., 1975; Anderson and Anderson, 1985; Prevec
+et al., 2009). The few attached pinnules found in this facies at Spitskop are poorly preserved
+and the manner of pinnule attachment is unclear. In the absence of sporangia, a conclusive
+identification is not possible (Figs 4E, F). This is the first record of a fern from the
+Palingkloof Member of South Africa.
+No vertebrate fossils were found in facies C at our study site. However, fragmented
+and isolated bones of the upper Permian taxa Daptocephalus leoniceps, Lystrosaurus
+
+of
+
+maccaigi, Dicynodontoides recurvidens and Moschorhinus kitchingi have been found in this
+
+ro
+
+facies at the nearby Bethel 763, approximately 34 km to the southwest (Smith and Botha-
+
+Moschorhinus, in the sequence.
+
+lP
+
+4.1.4. Facies D–Massive silty-mudstone
+
+re
+
+-p
+
+Brink, 2014), where they represent the last occurrences of these animals, apart from
+
+na
+
+This facies (Fig. 3, Table 1, Supplementary Fig. S1, Supplementary Table S1)
+comprises structureless dark reddish-brown silty-mudstone and olive-grey siltstone
+
+Jo
+ur
+
+interbedded with minor thin fine-grained sandstone sheets. The tabular sheet sands are
+structured with horizontal to climbing ripple lamination and have distinctive sharp flat basal
+and upper contacts, the former commonly with sand-filled desiccation polygons and the latter
+preserving patches of claystone-veneered oscillation ripples (i.e., 13 m on Spitskop log of Fig
+3). Horizons of rough-surfaced irregularly-shaped calcareous nodules and scattered small
+spherical glaebules (possible pisoliths) with internal shrinkage cracks are ubiquitous to these
+massive mudrock beds (Supplementary Fig S4A, B). The distinguishing sedimentological
+features of this facies include predominance of the dark reddish-brown (2.5 YR 2.5/4),
+massively bedded, silty mudstone, in contrast to the greyish-brown mudstone (2.5Y/2) of the
+lower facies. Upsection, this facies gives way to numerous thin beds of predominantly olive-
+
+Journal Pre-proof
+grey siltstone, which are ultimately truncated by the erosively-based conglomeratic
+sandstones of facies E of the Katberg Formation. The silt and sand-filled desiccation cracks
+and the presence of silt granules in the red mudrocks are interpreted as the first indication of
+aeolian dust in the depocentre. A loessic contribution to the thick massive silty-mudstone is
+supported by their uniform massive texture with planar or gently undulating contacts that are
+commonly veneered with claystone indicative of relatively rapid, episodic sedimentation
+(Giles et al., 2013). Weakly developed pedogenesis with textural BCa horizons showing
+
+of
+
+claystone-lined shrink/swell planes and small spherical carbonate nodules are interpreted as
+
+ro
+
+immature loessic soils similar to the Triassic loessites described by Chan (1999) from the
+
+-p
+
+Ankareh Formation of north-central Utah.
+
+re
+
+Fossils within facies D at the study site include taxa typical of the Lower Triassic
+Lystrosaurus Assemblage Zone, namely L. murrayi (Fig. 6A), L. declivis, L. curvatus and the
+
+lP
+
+archosauriform Proterosuchus fergusi (Botha-Brink et al., 2014). The therocephalians
+
+na
+
+Olivierosuchus parringtoni and Moschorhinus kitchingi have been found at this site by
+previous workers (Kitching, 1977; Botha-Brink et al., 2014), and our recent collecting has
+
+Jo
+ur
+
+yielded articulated skeletons of Tetracynodon darti (Fig. 6B), as well as several indeterminate
+baurioids. Interestingly, cynodonts such as Thrinaxodon and Galesaurus that are relatively
+common in these facies on Bethel 763, have yet to be recovered from either Loskop or
+Spitskop.
+
+A biostratigraphically important discovery is the recovery of five in-situ L. maccaigi
+specimens from Triassic facies D on both Loskop and Spitskop (Fig. 6C–E). Although
+Lystrosaurus maccaigi has been found in Triassic strata in Antarctica (Cosgriff et al., 1982),
+it was, until now, restricted to the latest Permian upper Daptocephalus AZ in the South
+African Karoo Basin where it was typically found at levels no higher than the lower
+Palingkloof Member (Botha and Smith, 2007; Smith and Botha-Brink, 2014; Viglietti et al.,
+
+Journal Pre-proof
+2016). Four of these new specimens were found in dark reddish-brown mudstone, at the same
+level as an in situ L. murrayi specimen on Loskop, approximately 7.5 m above the top of the
+mudstone/siltstone couplets of facies C (Fig. 3A, vertebrate numbers 20–23). The fifth
+specimen was found approximately 9 m above the facies C mudstone/siltstone couplets on
+Spitskop in an olive-grey siltstone (Fig. 3B, vertebrate number 40). The identification of
+these specimens as L. maccaigi is confirmed by the presence of relatively large, upward and
+forward facing orbits, prominent prefrontal and frontal bosses along the dorsal margin of the
+
+of
+
+orbit, frontal rugosities, a sharply angled, relatively wide snout and generally higher cranial
+
+ro
+
+robustness compared to other Lystrosaurus species, regardless of body size (Brink, 1951;
+
+re
+
+-p
+
+Cluver, 1971; Grine et al., 2006; Botha and Smith, 2007).
+
+4.1.5. Facies E–Conglomeratic sandstone / olive-grey mudrock
+
+lP
+
+This facies (Fig. 3, Supplementary Fig. S1, Supplementary Table S1) is composed of
+
+na
+
+vertically-stacked, tabular, generally fine-medium-grained, light-grey sandstone bodies
+separated by intervals of upwardly thinning beds of blocky-weathering olive-grey siltstone
+
+Jo
+ur
+
+and rare, fissile, dark reddish-brown mudstone. The thicker (3–5 m) multistoried channel
+sandstone bodies commonly display several (two to five) irregular accretion surfaces lined
+with platy mudrock clasts. A distinctive feature of this facies is elongate basal scours or
+gulleys eroded into the underlying mudrocks and filled with lenses of intraformational
+conglomerate (Supplementary Fig. S4C, D). The conglomerates are clast-supported and
+composed of mud pebbles, reworked bone fragments, irregular shaped pedogenic glaebules
+and smooth surfaced spheroidal pisoliths, many with distinctive internal septarian shrinkage
+cracks. Mudrock-dominated intervals comprise metre-thick beds of alternating fissile dark
+reddish brown and olive-grey mudstone with rare bodies of olive-grey siltstone interbedded
+with sporadic thin (0.25–0.5 m thick), light grey, fine-grained, single-storied, sheet sandstone
+
+Journal Pre-proof
+bodies, which commonly display sand-filled, downward tapering desiccation cracks at the
+basal contact. On both Spitskop and Loskop the dark reddish brown mudrocks change to
+predominantly olive-grey and olive colours higher up in facies D.
+King (1961) and later Stavrakis (1980) first proposed that the vertically accreted
+multi-storied conglomeratic sandstone bodies in the Katberg Formation represented inchannel deposits of wide, shallow, low-sinuosity rivers with a highly fluctuating discharge
+regime. Hiller and Stavrakis (1984) later described the characteristics that indicated an arid
+
+of
+
+fluvial setting, similar to what Smith and Botha-Brink (2014) have found. The presence of
+
+ro
+
+numerous, spherical, pea-sized, calcareous pisoliths (or glaebules) with septarian shrinkage
+
+-p
+
+cracks in the clast-supported melange of red mudrock pebbles, rolled bone fragments and
+
+re
+
+other pedogenic calcareous nodules at Loskop and Spitskop, indicate that they too are
+reworked from the alluvium into which the channel has incised. The pisoliths are similar to
+
+lP
+
+those described from Quaternary calcretes of western Australia (Arakel, 1982) and the Indo-
+
+na
+
+Gangetic alluvial plains of India (Khadkikar et al., 2000). In both instances they are formed
+by the repeated alternation between saturated and dry soil-moisture conditions under a warm
+
+Jo
+ur
+
+climate, unpredictable rainfall regime. The appearance of similar septarian glaebules in the
+PTB stratigraphic record in the main Karoo Basin serves to strengthen the sedimentological
+facies interpretation for warm climatic conditions with highly seasonal rainfall in this part of
+western Gondwana in the earliest Triassic. Pace et al (2009) interpreted the pisolitic
+conglomerates as remnants of completely degraded landscapes. Whilst undoubtedly
+indicating floodplain abandonment and incision, we regard this as normal in arid zone fluvial
+systems and can find no evidence to support that these conglomerates record basinwide
+landscape degradation involving Milankovitch-scale time intervals.
+Vertebrate fossils from facies E include taxa similar to those found in facies D, with
+increased predominance of L. murrayi and L. declivis specimens. Lystrosaurus maccaigi is
+
+Journal Pre-proof
+absent. The therocephalians Tetracynodon darti and Scaloposaurus constrictus (Fig. 6F) have
+also been recovered from the upper slopes of Spitskop, including articulated skeletons.
+
+4.2. Stable isotope results
+Up to 40 metres of section from facies B–D records a period of relatively low δ13Ccarbonate
+(V-PDB). The lowest δ13Ccarbonate values were recovered from both carbonate nodules and
+theriodont enamel in facies B, immediately below the Katbergia-bearing couplets of facies C,
+
+of
+
+where δ13Ccarbonate values are generally not above -10.0 ‰ (Fig. 7; Supplementary Table S3).
+
+ro
+
+This precipitous negative excursion immediately preceding facies C, commonly yielding
+
+-p
+
+values below -10.0 ‰, has been recognised elsewhere in the Bethulie (MacLeod et al., 2000),
+
+re
+
+Graaff Reinet (Gastaldo et al., 2014), and other study areas of the southern Karoo (Coney et
+al., 2007), and from composite sections of Karoo therapsid bioapatite (Rey et al., 2016). As
+
+lP
+
+with the carbon isotope data obtained from the nodules, δ13Ccarbonate values from theriodont
+
+na
+
+teeth obtained closer to facies C were generally more negative than those collected lower in
+section in the Daptocephalus AZ (Fig. 7).
+
+Jo
+ur
+
+Compared to the δ13C data, δ18O values showed fewer obvious trends in the Permian
+portion of the section. Nevertheless, values were slightly lower in the Permian samples
+(average, δ18O, -19.7 ‰V-PDB) than in the Triassic samples (average, δ18O, -16.2 ‰V-PDB).
+Elsewhere in the Bethulie area, primary δ18O values from carbonate nodules were also shown
+to become increasingly positive higher into the Triassic Katberg Formation, indicative of
+long-term Triassic climate warming (MacLeod et al., 2000, 2017). However, this portion of
+the section is not complete in our study area, constraining our sample to the underlying
+Balfour Formation (Palingkloof Member).
+
+4.3. Detrital zircon results
+
+Journal Pre-proof
+206
+
+Pb/238U age profiles of detrital zircons (Fig. 8A–C, Supplementary Fig. S1, S2
+
+Supplementary Table S4 University of Utah, S5 Stellenbosch University) yielded from facies
+B of the lower Palingkloof Member are consistent with a latest Permian major source and a
+maximum depositional age near the PTB. As many as four major modes were identified using
+LA-ICPMS (Fig. 8B), which included early and late Palaeozoic peaks, the largest peak
+attributed to a Permian-to-earliest-Triassic source (ca. 298–249 ± 2.7 Ma, n = 38; see Fig.
+8B). We regard the latter peak as the youngest 206Pb/238U ICPMS age due to minimum
+
+of
+
+requirements of reproducibility (Dickinson and Gehrels, 2009). Of the 15 youngest zircons
+
+ro
+
+analyzed using ID-TIMS, the youngest five yielded a mean age of 251.7 ± 0.3 Ma (2σ; mean
+
+-p
+
+square of weighted deviates, MSWD = 063) (Fig. 8C; Supplementary Table S1). This
+
+re
+
+overlaps the date of 252.4 ± 0.7 Ma from boundary beds of the Palingkloof Member near
+
+na
+
+5. Discussion
+
+lP
+
+Kommandodrift Dam (Eastern Cape Province) reported by Coney et al. (2007).
+
+Jo
+ur
+
+5.1. Chronostratigraphy of the Palingkloof Member in the Xhariep District
+The Permo-Triassic Beaufort Group succession contains what is arguably the best
+understood terrestrial PTB sequence in the world. Biostratigraphic studies focused on the
+tetrapod range zones of the Balfour and Katberg formations in the Eastern Cape and Free
+State (including the well-studied Xhariep District) established a three-phased extinction, with
+the main extinction pulse restricted to geologically “short lived” event beds in the Palingkloof
+Member of the Balfour Formation (Smith and Botha, 2005; Ward et al., 2005; Botha and
+Smith, 2006; Smith and Botha-Brink, 2014). Nevertheless, ongoing disputes over fossil taxon
+ranges and the lateral relationships of their host rocks, especially of the Palingkloof Member
+and Katberg Formation, have called into question the synchronicity of vertebrate extinctions
+
+Journal Pre-proof
+recorded across the Karoo, as well as their synchronicity with the global EPME (Gastaldo et
+al., 2009, 2014, 2015). Based on an analysis of sedimentation rates and ID-TIMS ages
+gleaned from porcellanite-derived zircons from the upper Elandsberg Member (underlying
+the Palingkloof Member) at Old Lootsberg Pass, Gastaldo et al. (2015) conjectured that the
+PTB may be situated higher in the Katberg Formation, and not in the Palingkloof Member
+where it is currently placed (Fig. 2). This would suggest that the entire extinction event
+occurred below the Permo-Triassic boundary.
+
+of
+
+It should be noted that the Old Lootsberg Pass site is biostratigraphically one of the
+
+ro
+
+most poorly constrained PTB sites, due to the paucity of vertebrate remains, and is
+
+-p
+
+taphonomically atypical with its relative abundance of plants (pers. obs., R. Prevec).
+
+re
+
+Placement of the PTB is particularly challenging on the basis of both lithofacies analysis and
+vertebrate biostratigraphy. It is not immediately clear how Gastaldo et al. (2015) positioned
+
+lP
+
+the PTB on their lithostratigraphic log, as the reference they cited in support of this placement
+
+na
+
+(Smith and Botha-Brink, 2014) only considered the Lootsberg Pass, further to the south-east,
+where a profusion of vertebrate fossils in addition to lithofacies analysis, facilitated confident
+
+Jo
+ur
+
+placement of the boundary. Gastaldo et al. (2015) interpreted the stratigraphically lowermost
+occurrence of an intraformational pedogenic nodular conglomerate (PNC) at the Old
+Lootsberg Pass as a marker for the lower Triassic (either the upper Palingkloof or the base of
+the Katberg Formation), because this facies had been described by Botha and Smith (2006)
+from the upper Palingkloof at several PTB localities in the Free State. Although
+intraformational PNCs are certainly a characteristic of the upper Palingkloof Member at all of
+the PTB sites studied in South Africa, it has never been cited as a stand-alone indicator facies
+for the lower Triassic. It seems that Gastaldo et al. (2015) used this single first occurrence of
+PNC in the Old Lootsberg Pass to calibrate the entire PTB sequence at the site, extrapolating
+outwards using stratigraphic data transplanted from sections measured at the Lootsberg Pass
+
+Journal Pre-proof
+to the south-east. The single piece of biostratigraphic information available to them, viz. what
+they acknowledged to be a typically Permian dicynodont within the PNC itself, was used to
+propose the extension of the biostratigraphic range of the Daptocephalus AZ into the upper
+Palingkloof Member, instead of acknowledging the possibility that evidence of phases of
+regional water table fluctuation may be found earlier in the sequence than previously
+recognised.
+Viglietti et al (2016, 2017, 2018a, 2018b) identified important palaeoenviromental
+
+of
+
+and biochronological changes indicative of the onset of the biotic crisis, already occurring
+
+ro
+
+below the phased extinctions of Smith and Botha-Brink (2014), and below the porcellanite of
+
+-p
+
+Gastaldo et al. (2015). This research supports the onset of a biotic crisis with the earlier
+
+re
+
+extinction phases and the EPME occurring across this stratigraphic interval, and the authors
+caution against using sedimentation rates alone such as that used by Gastaldo et al. (2015) to
+
+lP
+
+infer chronostratigraphic boundaries (Fig. 2). This applies particularly when considering
+
+na
+
+deposition during a time of great change in tectonics, climate and sedimentological regime in
+the Karoo Basin (Catuneanu et al., 2005; Viglietti et al., 2017).
+
+Jo
+ur
+
+The GSSP of the EPME near Meishan, South China, is well constrained at 251.9 ±
+0.03 Ma and is immediately preceded by a major δ13Ccarbonate excursion on a scale of 104–105
+years (Shen et al., 2011, 2012, 2013; Burgess and Bowring, 2015; Baresel et al., 2017).
+Previous authors have argued that simultaneous isotopic shifts manifest in δ13C and δ18O
+records from Karoo pedogenic nodules and therapsid bioapatite, and that these shifts bear
+important climatic and geochronologic significance (e.g., MacLeod, 2000). Taken together
+with the δ13C data, corresponding long-term positive excursions in δ18O during the
+subsequent Triassic (Rey et al., 2016; MacLeod et al., 2017) have been linked to a more than
+4–6 °C increase in global temperatures, as inferred from studies of several peri-Tethys marine
+sections (e.g., Joachimski et al., 2012; Sun et al., 2012; Schobben et al., 2014). Our high-
+
+Journal Pre-proof
+resolution geochemical evidence corroborates that the δ13C shift leading up to the PTB was
+indeed rapid in the Karoo Basin, and in our sampled portion of the Bethulie part of the basin,
+it showed a negative peak within the Palingkloof Member, some 10 to 20 m below the base of
+the Katberg Formation.
+Our research at Nooitgedacht 68 and surrounding farms has consequently produced
+the first detailed vertebrate and floral collections within a terrestrial PTB sequence that are
+constrained by both relative (stable isotopes) and absolute (detrital zircon geochronology)
+
+of
+
+dating methods. Latest Permian detrital zircons of Karoo-aged basins have been linked to
+
+ro
+
+Choyio volcanism in western Gondwana during this time (Sato et al., 2015; McKay et al.,
+
+-p
+
+2015). Notably, our age distributions from LA-ICPMS support such a source (Fig. 8B,
+
+re
+
+Supplementary Fig. S1), and our mean age of 251.7 ± 0.3 Ma based on ID-TIMS (Fig. 8C)
+overlaps with the only previous TIMS date reported from the Palingkloof Member more than
+
+lP
+
+200 km south of the study area in the Eastern Cape (Coney et al., 2007). Both of these dates,
+
+na
+
+however, are significantly younger than beds from the stratigraphically lower Elandsberg
+Member of Old Lootsberg Pass dated to 253.4 ± 0.15 Ma (Gastaldo et al., 2015). Our zircon
+
+Jo
+ur
+
+date corroborates that the uppermost strata of the Palingkloof Member in the Bethulie area
+are latest Permian but, within the margins of error of the calibration, it encompasses the
+Permo-Triassic boundary. Consequently, support for the placement of the PTB much higher
+in the succession within the Katberg Formation (Gastaldo et al., 2015), and much lower in the
+Old Lootsberg Pass, is lacking in the Bethulie area.
+Further support for the synchronicity of the marine and terrestrial extinction events is
+provided by several studies from China (Chu et al., 2016, 2018, 2019) where these authors
+have found mixed continental-marine taxa from the post-extinction stratigraphic interval.
+These data provide biostratigraphical correlation between marine and continental PTB beds
+
+Journal Pre-proof
+and Chu et al. (2019) suggest that the assemblages may be considered as PTB transitional
+beds in marine-continental siliciclastic settings.
+
+5.2 Identifying the terrestrial EPME interval in the Karoo Basin
+We use a combination of features to identify the extinction interval in the South
+African Karoo Basin. The last appearance of the dicynodont therapsids Daptocephalus
+leoniceps, Dicynodontoides recurvidens and Dinanomodon rubidgei represents the
+
+of
+
+disappearance of the uppermost Permian fauna. The first fossils of the Lystrosaurus AZ are
+
+ro
+
+typically found approximately 5 metres above the LAD of the Daptocephalus AZ fauna.
+
+-p
+
+These taxa include the archosauriform Proterosuchus fergusi and the dicynodonts
+
+re
+
+Lystrosaurus declivis and L. murrayi. The latter two taxa are found by an order of magnitude
+in more abundance compared to any other vertebrates from the Daptocephalus and
+
+lP
+
+Lystrosaurus AZ, thus displaying typical features of disaster taxa in a post-extinction
+
+na
+
+environment. Lystrosaurus curvatus and L. maccaigi as well as the therocephalians
+Promoschorhynchus platyrhinus and Moschorhinus kitchingi are found throughout this
+
+Jo
+ur
+
+interval throughout the Karoo Basin. This faunal turnover is found in association with the
+transition from Glossopteris-dominated flora to Dicroidium-dominated flora. Specimens of
+Glossopteris may be found above the vertebrate extinction interval and Dicroidium below,
+but it is the change from predominantly Glossopteris to predominantly Dicroidium flora that
+is found at this interval. A series of very thin, alternating dark reddish-brown and olive-grey
+mudstone-siltstone couplets are found in association with the faunal turnover, which
+represent periodic drying and wetting of small ephemeral water bodies. The presence of these
+couplets at most PTB sites in the Karoo Basin does not suggest that a single large water body
+covered the Karoo region, but that numerous small ephemeral water bodies were becoming
+the norm over the large, high sinuosity, permanent rivers of the upper Permian. Mudstone-
+
+Journal Pre-proof
+siltstone couplets have been found at other stratigraphic levels in the upper Palingkloof
+Member, but they are not associated with the biotic extinction interval, making these
+particular couplets unique. These couplets are also found in association with a negative δ13C
+excursion at or just below the extinction interval. It is the combination of these features that
+allows for the identification of this interval as the terrestrial expression of the EPME and
+coincides with facies C. The same facies has been logged in the same sequence at all the
+southern PTB sections in the Sarah Baartman (previously Graaff-Reinet and Nieu Bethesda)
+
+of
+
+District as well as at the northern section at Bethel 763 in the Xhariep District. Our ID-TIMS
+
+ro
+
+date supports this interpretation.
+
+-p
+
+The extinction interval represents a transition zone and thus, it is difficult to draw a
+
+re
+
+line within the zone. The top of the extinction interval originally coincided with the PTB and
+was originally placed at the bottom of facies C when it was first described (Smith and Ward,
+
+lP
+
+2001), but after the recovery of Lystrosaurus maccaigi and Moschorhinus kitchingi within the
+
+na
+
+mudstone-siltstone couplets it and the PTB were placed at the top of this facies because these
+taxa were thought to be entirely Permian. Further collecting has shown these taxa to be
+
+Jo
+ur
+
+survivors of the EPME as specimens have also been recovered from the upper Palingkloof
+Member. Given that the last Permian taxa (Daptocephalus leoniceps and Dicynodontoides
+recurvidens) have been recovered from the middle of facies C we now place the PTB at the
+centre from the transition from predominantly dark reddish-brown to predominantly olivegrey mudstone-siltstone couplets. Further radiometric dating may further constrain the
+position of the boundary. The extinction interval is considered a transition zone and a line
+was only drawn in previous work and this study to make it easier to place the fossils on the
+lithostratigraphic logs.
+
+5.3. Palaeoenvironment and palaeoecology
+
+Journal Pre-proof
+Global responses to the terrestrial EPME appear to have been varied, similar to those
+found in the marine realm. For example, despite a recent literature-based study suggesting
+that land plants did not experience a mass extinction because generic diversity remained
+fairly constant across the PTB (Nowak et al., 2019), another recent study, using empirical
+palynological and geochemical data collected from the Sydney Basin in Australia, proposed
+that the floral extinction began as soon as 252.3 Ma, some 400 000 years prior to the main
+marine extinction (Fielding et al., 2019). Fielding et al. (2019) also found no evidence of
+
+of
+
+aridification in the Sydney Basin, in contrast to what has been reported for the Karoo Basin
+
+ro
+
+(Smith 1995; Smith and Ward 2001; Smith and Botha 2005; Smith and Botha-Brink, 2014).
+
+-p
+
+Although Retallack et al. (2003) and Tabor et al. (2007) suggested increased precipitation
+
+re
+
+during the earliest Triassic, the conclusions in these studies have since been debated due to
+the unreliability of the methods used (in the case of Retallack et al., 2003, see Tabor et al.,
+
+lP
+
+2018) or independent evidence for increased aridity has been found using further
+
+na
+
+geochemical analysis (MacLeod et al., 2017).
+
+Li et al. (2017) collected data from Old Lootsberg Pass and argued against increased
+
+Jo
+ur
+
+aridity as their investigation suggested that the increased reddening near the boundary (which
+is caused by the high incidence of Fe3+ in an oxidizing environment indicating a dry climate
+and low water table) was due to diagenesis and not related to the climate. However, colour is
+only one feature that may be used as supporting evidence for the presence of aridity.
+Sedimentological evidence for increased aridity in the Early Triassic at all Karoo PTB sites
+studied to date includes the presence of claystone breccias, spheroidal glaebules with septaria,
+sand-filled desiccation cracks, rough-surfaced ferricrete and rhizocretions. Taphonomic
+evidence for aridity includes a high concentration of carcasses alongside floodplain deposits,
+numerous Lystrosaurus bonebeds containing disarticulated skeletons within floodplain
+depressions, mummified carcasses and vertebrate burrow casts. These features do not indicate
+
+Journal Pre-proof
+the absence of wet conditions, but that flooding events were interspersed with long periods of
+extreme drought.
+Fielding et al. (2019) did find increased seasonality leading to the EPME with warmer
+summer temperatures in the Early Triassic similar to what has been found in South Africa
+and the differences in aridity are likely due to the Sydney Basin being closer to the coast
+compared to the Karoo Basin. In Australia, coal seams occur right up to the end of the
+Permian, which indicates that conditions in Australia were much wetter than in the Karoo
+
+of
+
+basin, even before the onset of EPME-linked climate change (Michaelsen, 2002; Fielding et
+
+ro
+
+al, 2019). Heterogeneity of environmental conditions across the globe would have led to
+
+-p
+
+differing responses in both the floras and faunas from region to region.
+
+re
+
+Notably, we found Glossopteris impression fossils at Spitskop up to 9 m below facies
+C and Gastaldo et al. (2015, 2017) even reported Glossopteris from the Early Triassic
+
+lP
+
+Lystrosaurus AZ, although the vertebrate used to identify the assemblage zone at the position
+
+na
+
+in which the Glossopteris was found is equivocal (see Viglietti et al., 2016), and their
+placement of the PTB was based on different criteria to those used by previous workers. It is
+
+extinction zone.
+
+Jo
+ur
+
+clear, however, that Glossopteris fossils occur within the vertebrate-defined three-phased
+
+The Glossopteris leaf morphotype tends to be smaller in size in the uppermost
+Permian compared to those lower down in the Wuchiapingian (Lacey et al., 1975; Anderson
+and Anderson 1985; Prevec et al., 2009, 2010). Prevec et al (2010) suggested that the
+diminutive size of the W1 Glossopteris morphotype could be a phenotypic response to
+potentially toxic ashfall associated with the Wapadsberg Pass deposits, or alternatively could
+reflect regional variation in this group of glossopterids. It seems most likely that this was a
+regional phenomenon, given the widespread occurrence of this small-leaved form that has
+been found as the dominant (and in most instances the only), leaf type in the uppermost
+
+Journal Pre-proof
+Permian Palingkloof Member at multiple sites across the Karoo Basin (Gastaldo et al, 2005,
+2017; Prevec et al, 2010), and as far afield as Australia (Fielding et al, 2019; their fig. 2) and
+in India, where a general reduction in size of glossopterid leaves at the Permo-Triassic
+transition was also observed (Saxena et al, 2018). The tendency of plants to produce small,
+narrow leaves under water stress is a well-recognised phenotypic response, as is the tendency
+for plant communities to exhibit a low diversity. The prevalence of the W1 morphotype
+during the latest Permian of South Africa may have been the result of the general warming
+
+of
+
+and drying of the climate or to the intensification of seasonal extremes in the prelude to and
+
+ro
+
+during the EPME.
+
+-p
+
+The discovery of a fern impression from within the PTB transition zone at Spitskop
+
+re
+
+represents the first pteridophyte found in the late Permian of the southern Karoo Basin.
+Additionally, the discovery of fern fragments in palaeosols is taphonomically highly unlikely.
+
+lP
+
+Given the very low odds of plant fossilization in these strata, it indicates that they were likely
+
+na
+
+abundant, at least within this localized habitat during times of water availability.
+Updating the biostratigraphic ranges of the recently recovered vertebrates moves the
+
+Jo
+ur
+
+lower limit of Smith and Botha-Brink’s (2014) Extinction Phase 2 slightly higher to 15 m
+below the boundary interval (Fig. 9). Our radiometric date of 251.7 ± 0.3 Ma gives a
+maximum age of 252 Ma at 6.5 m below the extinction interval, suggesting that Phase 2 may
+have lasted as long as 300 000 years (similar to the onset of the floral extinction in the
+Sydney Basin, Fielding et al., 2019). We accept that our new date was derived from detrital
+rather than primary airfall tuff bed material and consequently has a large error margin. Until
+more datable tuff horizons are recovered from the Extinction Phase 2 interval, the duration of
+this phase must remain speculative. It is clear, however, that the vertebrate fossils collected
+from Loskop and Spitskop are indicative of the upper Permian Daptocephalus and Triassic
+Lystrosaurus AZ, and show facies associations (facies A–E) similar to those documented at
+
+Journal Pre-proof
+PTB sites in other areas of the Karoo Basin, suggesting that the facies and associated
+vertebrate succession reported in previous studies (e.g. Smith and Botha-Brink, 2014) were
+not isolated, local events (Fig. 10). Sites in the southern part of the Karoo Basin contain
+thicker facies compared to those in the northern part of the basin (Fig. 10), but the sequence
+of each facies and pattern of faunal extinctions remains similar. To account for the
+heterogenous nature of Karoo Basin strata, it is important to examine as many sites
+containing the extinction interval as possible. All sites studied to date have a suite of features
+
+of
+
+that allow us to identify the extinction zone and conclude that the transition from Permian to
+
+ro
+
+Triassic ecosystems at these sites was essentially contemporaneous. However, each site also
+
+-p
+
+has unique characteristics that makes some sites clearer than others. The site at Old Lootsberg
+
+re
+
+Pass, for example, is one such problematic site (based on the presence of a fault), which
+makes any data from this site dubious. There are, however, several other sites that do not
+
+lP
+
+have this problem, where the couplets (e.g. Bethel 763, Commandodrift Dam, Nooitgedacht
+
+na
+
+68), vertebrate biostratigraphy (e.g. Bethel 763, Old Wapadsberg, Nooitgedacht 68),
+geochemistry (e.g. Bethel 763, Carlton Heights, Nooitgedacht 68) etc. are particularly clear.
+
+Jo
+ur
+
+We recommend utilizing all available information to define the extinction or transition zone,
+and caution against basing the position of the terrestrial PTB in the Karoo Basin on
+palaeomagnetic data alone (Gastaldo et al., 2015), given the abundance of dolerite dykes and
+sills affecting the data.
+
+6. Conclusions
+Multiple lines of evidence, including a new radiometric date, provide a compelling
+argument for the placement of the extinction interval within the Palingkloof Member of the
+Balfour Formation, Beaufort Group, Karoo Supergroup. These include the recognition of a
+distinctive sequence of facies from A–E that portray a consistent trend in sedimentary
+
+Journal Pre-proof
+features resulting from regional changes in climate and fluvial regimes, a strong ??13C
+negative excursion within facies C, and most critically, the same patterns in faunal and floral
+turnover within this interval. We suggest that facies C consistently coincides with the major
+end-Permian pulse of extinctions, and together with the rich associated fossil record of the
+Karoo Basin, presents the most consistent and compelling means of identifying the PermoTriassic transition in South Africa.
+
+of
+
+Acknowledgments
+
+ro
+
+AKH thanks S. Blumenthal, K. Chritz, and the Cerling Stable Isotopes Laboratory at
+
+-p
+
+the University of Utah, Salt Lake City, for technical assistance during the stable isotope
+
+re
+
+analysis. We also thank R. Irmis, D. Fernandez, and M. Stearns of the University of Utah,
+and R. Mundil of the Berkeley Geochronology Center for assistance with U-Pb detrital zircon
+
+lP
+
+dating. JB thanks M. Grobbelaar and L. Bracciali from the Central Analytical Laboratories,
+
+na
+
+University of Stellenbosch for their aid in processing, analyzing and writing the detailed
+methodology for the LA-ICP-MS results. JB was funded by the National Research
+
+Jo
+ur
+
+Foundation (GUN 98819), the DST-NRF Centre of Excellence in Palaeosciences (CoE-Pal)
+and the Palaeontological Scientific Trust (PAST). AKH has been funded by the National
+Science Foundation (NSF-PRFB-1309040). SPM was funded by an RP grant from Cape
+Breton University. RP was funded by the National Research Foundation (African Origins
+Platform, UID98822) and the DST-NRF Centre of Excellence in Palaeosciences (CoE-Pal).
+
+References
+
+Abdala, F., Gaetano, L.C., Smith, R.M.H., Rubidge, B.S., 2019. A new large cynodont from
+the Late Permian (Lopingian) of the South African Karoo Basin and its phylogenetic
+
+Journal Pre-proof
+significance. Zoological Journal of the Linnean Society.
+https://doi.org/10.1093/zoolinnean/zlz004.
+Alonso-Zarza, A.M., 2003. Palaeoenvironmental significance of palustrine carbonates and
+calcretes in the geological record. Earth-Science Reviews 60, 261–298.
+Alroy, J., 2008. Dynamics of origination and extinction in the marine fossil record.
+Proceedings of the National Academy of Sciences 105, 11536–11542.
+Anderson, J.M., Anderson, H.M., 1985. Palaeoflora of southern Africa. Prodomus of South
+
+of
+
+African megafloras. Devonian to Lower Cretaceous. Rotterdam, Balkema.
+
+ro
+
+Anderson, J.M., Anderson, H.M., Cleal, C.J. 2007. Brief history of the gymnosperms:
+
+-p
+
+classification, biodiversity, phytogeography and ecology. Strelitzia 20, South African
+
+re
+
+National Biodiversity Institute, Pretoria.
+
+Arakel, A.V., 1982. Genesis of calcrete in Quaternary soil profiles, Hutt and Leeman lagoons,
+
+lP
+
+Western Australia. Journal of Sedimentary Research 52, 109–125.
+
+na
+
+Arche, A., López-Gómez, J., 2005. Sudden changes in fluvial style across the PermianTriassic boundary in the eastern Iberian Ranges, Spain: Analysis of possible causes.
+
+Jo
+ur
+
+Palaeogeography, Palaeoclimatology, Palaeoecology 229, 104–126.
+Aristov, D.S., Mostovski, M.B., 2013. Grylloblattids (Insecta, Grylloblattida) from the Upper
+Permian of South Africa. Paleontological Journal 47, 495–502.
+Baresel, B., Bucher, H., Brosse, M., Cordey, F., Guodun, K., Schaltegger, U., 2017. Precise
+age for the Permian–Triassic boundary in South China from high-precision U-Pb
+geochronology and Bayesian age–depth modeling. Solid Earth 8(2), 361–378.
+Benton, M.J., Tverdokhlebov, V.P., Surkov, M.V., 2004. Ecosystem remodeling among
+vertebrates at the Permian-Triassic boundary in Russia. Nature 432, 97–100.
+
+Journal Pre-proof
+Black, B.A., Elkins-Tanton, L.T., Rowe, M.C., Ukstins Peate, I., 2012. Magnitude and
+consequences of volatile release from the Siberian Traps. Earth and Planetary Science
+Letters 317–318, 363–373.
+Botha, J., Smith, R.M.H., 2006. Rapid vertebrate recuperation in the Karoo Basin following
+the End-Permian extinction. Journal of African Earth Sciences 45, 502–514.
+Botha J., Smith, R.M.H., 2007. Lystrosaurus species composition across the Permian-Triassic
+boundary of South Africa. Lethaia 40, 125–137.
+
+of
+
+Botha-Brink, J., Huttenlocker, A.K., Modesto, S.P., 2014. Vertebrate Paleontology of
+
+ro
+
+Nooitgedacht 68: A Lystrosaurus maccaigi-rich Permian-Triassic boundary locality in
+
+-p
+
+South Africa. In: Kammerer, C.F, Angielczyk, K.D., Fröbisch, J. (Eds.), The Early
+
+re
+
+Evolutionary History of the Synapsida. Springer, Dordrecht, Netherlands, pp. 289–304.
+Botha-Brink, J., Huttenlocker, A., Angielczyk, K.D., Codron, D., Ruta, M., 2016. Breeding
+
+lP
+
+young as a survival strategy during Earth’s greatest mass extinction. Scientific
+
+na
+
+Reports 6, 24053. https://doi.org/10.1038/srep24053.
+Brennecka, G.A., Herrmann, A.D., Algeo, T.J., Anbar, A.D., 2011. Rapid expansion of
+
+Jo
+ur
+
+oceanic anoxia immediately before the end-Permian mass extinction. Proceedings of
+the National Academy of Sciences USA 108(43), 17631–17634.
+Brink, A.S., 1951. On the genus Lystrosaurus Cope. Transactions of the Royal Society of
+South Africa 33, 107–120.
+
+Burgess, S. D., Bowring, S.A., 2015. High-precision geochronology confirms voluminous
+magmatism before, during, and after Earth’s most severe extinction. Science
+Advances 1(7), e1500470.
+Burgess, S.D., Bowring, S.A. Shen, S.-Z., 2014. High-precision timeline for Earth’s most
+severe extinction. Proceedings of the National Academy of Science 111, 3316–3321.
+
+Journal Pre-proof
+Burgess, S.D., Muirhead J.D., Bowring S.A., 2017. Initial pulse of Siberian Traps sills as the
+trigger of the end-Permian mass extinction. Nature Communications.
+https://doi.org/10.1038/s41467-017-00083-9.
+Cao, C., Wang, W., Liu, L., Shen, S., Summons, R.E., 2008. Two episodes of 13C-depletion
+in organic carbon in the latest Permian: Evidence from the terrestrial sequences in
+northern Xinjiang, China. Earth and Planetary Science Letters. 270, 251–257.
+Cascales-Minana B, Cleal CJ. 2014. The plant fossil record reflects just two great extinction
+
+of
+
+events. Terra Nova. 26(3):195–200.
+
+ro
+
+Cascales-Miñana, B., Diez, J.B, Gerrienne, P., Cleal, C.J. 2016. A palaeobotanical
+
+-p
+
+perspective on the great end-Permian biotic crisis. Historical Biology 28:8, 1066–
+
+re
+
+1074.
+
+Catuneanu O., Wopfner, H., Eriksson, P.G., Cairncross, B., Rubidge, B.S., Smith, R.M.H,
+
+na
+
+Sciences 43, 211–253.
+
+lP
+
+Hancox, P.G. 2005. The Karoo basins of south-central Africa Journal of African Earth
+
+Chan, M.A., 1999. Triassic loessite of North-Central Utah: stratigraphy, petrophysical
+
+485.
+
+Jo
+ur
+
+character, and paleoclimate implications. Journal of Sedimentary Research 69, 477–
+
+Chen, Z-q., Kaiho, K., George, A.D., 2005. Early Triassic recovery of the brachiopod faunas
+from the end-Permian mass extinction: A global review. Palaeogeography,
+Palaeoclimatology, Palaeoecology 22, 270–290.
+Chu, D.L., Yu, J.X., Tong, J.N., Benton, M.J., Song, H.J., Huang, Y.F., Song, T., Tian, L.,
+2016. Biostratigraphic correlation and mass extinction during the Permian-Triassic
+transition in continental-marine siliciclastic settings of South China. Global and
+Planetary Change 146, 67–88.
+
+Journal Pre-proof
+Chu, D.L., Yu, J.X., Tong, J.N., Benton, M.J., Song, H.J., Huang, Y.F., Song, T., and Tian,
+L. 2018. Biostratigraphic correlation and mass extinction during the Permian-Triassic
+transition in terrestrial-marine siliciclastic settings of South China. Global and
+Planetary Change 146, 67-88. https://doi: 10.1016/j.gloplacha.2016.09.009.
+Chu, D.L., Tong, J.N., Benton, M.J., Yu, J.X., and Huang, Y.F. 2019. Mixed continentalmarine biotas following the Permian-Triassic mass extinction in South and North
+China. Palaeogeography, Palaeoclimatology, Palaeoecology 519, 95-107. https://doi:
+
+of
+
+10.1016/j.palaeo.2017.10.028.
+
+ro
+
+Clarkson, M.O., Richoz, S., Wood, R.A., Maurer, F., Krystyn, L., McGurty, D.J., Astratti, D.,
+
+-p
+
+2013. A new high-resolution δ13C record for the Early Triassic: Insights from the
+
+re
+
+Arabian Platform. Gondwana Research 24, 233–242.
+Cluver, M.A., 1971. The cranial morphology of the dicynodont genus Lystrosaurus. Annals
+
+lP
+
+of the South African Museum 56, 155–274.
+
+na
+
+Collinson, J.W., Hammer, W.R., Askin, R.A., Elliot, D.H., 2006. Permian-Triassic boundary,
+central Transantarctic Mountains, Antarctica, Geological Society of America Bulletin
+
+Jo
+ur
+
+118, 747–763.
+
+Coney, L., Reimold, W.U., Hancox, P.J., Mader, D., Koeberl, C., McDonald, I., Struck, U.,
+Vajda, V., Kamo, S.L., 2007. Geochemical and mineralogical investigation of the
+Permian-Triassic boundary in the continental realm of the southern Karoo Basin,
+South Africa. Palaeoworld 16, 67–104.
+Cosgriff, J.W., Hammer, W.R. Ryan, W.R., 1982. The Pangaean reptile, Lystrosaurus
+maccaigi, in the Lower Triassic of Antarctica. Journal of Paleontology 56, 371–385.
+Cui, Y., Bercovici, A., Yu, J., Kump, L.R., Freeman, K.H., Su, S., Vajda, V., 2017. Carbon
+cycle perturbation expressed in terrestrial Permian-Triassic boundary sections in
+South China. Global and Planetary Change 148, 272–285.
+
+Journal Pre-proof
+Dickinson, W.R., Gehrels, G.E., 2009. Use of U-Pb ages of detrital zircons to infer maximum
+depositional ages of strata: a test against a Colorado Plateau Mesozoic database. Earth
+and Planetary Science Letters 288, 115–125.
+Erwin, D.H., Bowring, S.A., Yugan, J., 2002. End-Permian mass extinctions: A review. I n:
+Koeberl, C., MacLeod, K.G., (Eds.), Catastrophic Events and Mass Extinctions:
+Impacts and Beyond, Boulder, Colorado, Geological Society of America Special
+Paper 356, pp. 363–383.
+
+of
+
+Fielding, C.R., Frank, T.D., McLoughlin, S., Vajda, V., Mays, C., Tevyaw, A.P., Winguth,
+
+ro
+
+A., Winguth, C., Nicoll, R.S., Bocking, M., Crowley, J.L., 2019 Age and pattern of
+
+-p
+
+southern high-latitude continental end-Permian extinction constrained by multiproxy
+
+re
+
+analysis. Nature Communications 10:385. https://doi.org/10.1038/s41467-018-07934z.
+
+lP
+
+Foster, W.J., Twitchett, R.J., 2014. Functional diversity of marine ecosystems after the Late
+
+na
+
+Permian mass extinction event. Nature Geoscience 7, 233–238.
+Fröbisch, J., 2013. Vertebrate diversity across the end-Permian mass extinction—separating
+
+Jo
+ur
+
+biological and geological signals. Palaeogeography, Palaeoclimatology,
+Palaeoecology 372, 50–61.
+
+Gastaldo, R.A., Rolerson, M.W., 2008. Katbergia gen. nov., a new trace fossil from Upper
+Permian and Lower Triassic rocks of the Karoo Basin: implications for
+palaeoenvironmental conditions at the P⁄Tr Extinction event. Palaeontology 51(1),
+215–229.
+Gastaldo, R.A., Adendorff, R., Bamford, M., Labandeira, C.C., Neveling, J., Sims, H.,
+2005.Taphonomic trends of macrofloral assemblages across the Permian-Triassic
+boundary, Karoo Basin, South Africa. Palaios 20, 479–497.
+
+Journal Pre-proof
+Gastaldo, R.A., Neveling, J.C., Kittinger, C., Newbury, S.S., 2009. The terrestrial Permian–
+Triassic boundary event bed is a nonevent. Geology 37, 199–202.
+Gastaldo, R.A., Knight, C.L., Neveling, J., Tabor, N.J., 2014. Latest Permian paleosols from
+Wapadsberg Pass, South Africa: Implications for Changhsingian climate. GSA
+Bulletin 126, 665–679.
+Gastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, J.W., Bamford, M., Looy, C.V., 2015. Is
+the vertebrate-defined Permian-Triassic boundary in the Karoo Basin, South Africa,
+
+of
+
+the terrestrial expression of the end-Permian marine event? Geology 43, 939–942.
+
+ro
+
+Gastaldo, R.A., Neveling, J., Looy, C.V., Bamford, M., Kamo, S.L., Geissman, J.W., 2017.
+
+-p
+
+Paleontology of the Blaauwater 67 and 65 farms, South Africa: testing the
+
+re
+
+Daptocephalus/Lystrosaurus biozone boundary in a stratigraphic framework. Palaios
+32, 349–366.
+
+lP
+
+Gastaldo, R.A., Neveling, J., Geissman, J.W., Li, J., 2019. A multidisciplinary approach to
+
+na
+
+review the vertical and lateral facies relationships of the purported vertebrate-defined
+terrestrial Permian–Triassic boundary interval at Bethulie, Karoo Basin, South Africa.
+
+Jo
+ur
+
+Earth-Science Reviews 189, 220–243.
+https://doi.org/10.1016/j.earscirev.2017.08.002.
+Giles, J.A., Soreghan, M.J., Benison, K.C., Soreghan, G.S., Hasiotis, S.T., 2013. Lakes, loess
+and paleosols in the Permain Wellington Formation of Oklahoma, USA: implications
+for palaeoclimate and palaeogeography of the midcontinent. Journal of Sedimentary
+Research 83, 825–846.
+Gradstein, F.M., Ogg, J.G., Hilgen, F.J., 2012. On the geologic time scale. Newsletter on
+Stratigraphy 45, 171–188.
+Grasby, S.E., Sanei, H., Beauchamp, B., 2011. Catastrophic dispersion of coal fly ash into
+oceans during the latest Permian extinction. Nature Geoscience 4, 104–107.
+
+Journal Pre-proof
+Grauvogel-Stamm, L., Ash, S.R., 2005. Recovery of the Triassic land flora from the endPermian life crisis. Comptes Rendus Palevol 4, 593–608.
+Grine, F.E., Forster, C.A., Cluver, M.A., Georgi, J.A., 2006. Cranial variability, ontogeny and
+taxonomy of Lystrosaurus from the Karoo Basin of South Africa. In: Carrano, M.,
+Blob, R.W, Gaudin, T.J., Wible, J.R., (Eds.). Amniote Paleobiology: Perspectives on
+the Evolution of Mammals, Birds, and Reptiles. University of Chicago Press,
+Chicago, pp. 403–503.
+
+of
+
+Hancox, P.J., Brandt, D., Reimold, W.U., Koeberl, C., Neveling, J., 2002. Permian-Triassic
+
+ro
+
+boundary in the northwest Karoo basin: Current stratigraphic placement, implications
+
+-p
+
+for basin development models, and the search for evidence of impact. In: Koeberl, C.,
+
+re
+
+MacLeod, K.G., (Eds.), Catastrophic Events and Mass Extinctions: Impacts and
+
+429–444.
+
+lP
+
+Beyond, Boulder, Colorado, Geological Society of America Special Paper 356, pp.
+
+na
+
+Hiller, N., Stavrakis, N., 1984. Permo-Triassic fluvial systems in the southeastern Karoo
+basin, South Africa. Palaeogeography, Palaeoclimatology, Palaeoecology 45, 1–21.
+
+Jo
+ur
+
+Huttenlocker, A. K., 2013. The paleobiology of South African therocephalian therapsids
+(Amniota, Synapsida) and the effects of the end-Permian extinction on size, growth,
+and bone microstructure. PhD Dissertation, University of Washington, 414 pp.
+Huttenlocker, A.K., 2014. Body size reductions in nonmammalian eutheriodont therapsids
+(Synapsida) during the End-Permian mass extinction. PLoS ONE 9(2), e87553.
+Huttenlocker, A. K., Botha-Brink, J., 2013. Body size and growth patterns in the
+therocephalian Moschorhinus kitchingi (Therapsida: Eutheriodontia) before and after
+the end-Permian extinction in South Africa. Paleobiology 39(2), 253–277.
+
+Journal Pre-proof
+Huttenlocker, A. K., Botha-Brink, J., 2014. Bone microstructure and the evolution of growth
+patterns in Permo-Triassic therocephalians (Amniota, Therapsida) of South Africa.
+PeerJ 2, e325.
+Huttenlocker, A. K., Sidor, C.A., Smith, R.M., 2011. A new specimen of
+Promoschorhynchus (Therapsida: Therocephalia: Akidnognathidae) from the Lower
+Triassic of South Africa and its implications for theriodont survivorship across the
+Permian-Triassic boundary. Journal of Vertebrate Paleontology, 31(2), 405–421.
+
+of
+
+Irmis, R.B., Whiteside, J.H., 2011. Delayed recovery of non-marine tetrapods after the end-
+
+ro
+
+Permian mass extinction tracks global carbon cycle. Proceedings of the Royal Society
+
+-p
+
+B, 279. http://doi.org/10.1098/rspb.2011.1895.
+
+re
+
+Irmis, R.B., Whiteside, J.H., Kammerer, C.F., 2013. Non-biotic controls of observed diversity
+in the paleontologic record: an example from the Permo-Triassic Karoo Basin of
+
+lP
+
+South Africa. Palaeogeography, Palaeoclimatology, Palaeoecology, 372, 62–77.
+
+na
+
+Jackson II, R.G., 1981. Sedimentology of muddy fine-grained channel deposits in
+meandering streams of the American Middle West. Journal of Sedimentary Petrology
+
+Jo
+ur
+
+51, 1169–1192.
+
+Jin Y.G., Wang, Y., Wang, W., Shang, Q.H., Cao, C.Q., Erwin, D.H., 2000. Pattern of marine
+mass extinction near the Permian-Triassic boundary in South China. Science 289,
+432–436.
+
+Joachimski, M.M., Lai, X.L., Shen, S.Z., Jiang, H.S., Luo, G.M., Chen, B., Chen, J., Sun,
+Y.D., 2012. Climate warming in the latest Permian and the Permian-Triassic mass
+extinction: Geology, 40, 195–198. http://doi.org/10 .1130 /G32707.1.
+Johnson, M.R., 1976. Stratigraphy and sedimentology of the Cape and Karoo Sequences in
+the Eastern Cape Province. Unpublished PhD thesis, Rhodes University, 336 pp.
+
+Journal Pre-proof
+Kammerer, C.F., 2019. Revision of the Tanzanian dicynodont Dicynodon huenei
+(Therapsida: Anomodontia) from the Permian Usili Formation. PeerJ e7420.
+Kammerer, C.F., Angielczyk, K.D., Frobisch, J., 2011. A comprehensive taxonomic revision
+of Dicynodon (Therapsida, Anomodontia) and its implications for dicynodont
+phylogeny, biogeography, and biostratigraphy. Society of Vertebrate Paleontology
+Memoir 11 31, 1–158.
+Kerp, H., Hamad, A.A., Vörding, B., Bandel, K. 2006. Typical Triassic Gondwanan floral
+
+of
+
+elements in the Upper Permian of the paleotropics. Geology 34(4), 265–268.
+
+ro
+
+Khadkikar, A.S., Merh, S.S., Malik, J.N., ChaMal, L.S., 1998. Calcretes in Semi-Arid
+
+-p
+
+Alluvial Systems: Formative Pathways and Sinks. Sedimentary Geology 116, 251–
+
+re
+
+260.
+
+Khadkikar, A.S., ChaMal, L.S., Ramesh, R., 2000. The character and genesis of calcrete in
+
+lP
+
+Late Quaternary alluvial deposits, Gujarat, western India, and its bearing on the
+
+na
+
+interpretation of ancient climates. Palaeogeography, Palaeoclimatology,
+Palaeoecology 162, 239–261.
+
+Jo
+ur
+
+King, L.C., 1961. The Palaeoclimatology of Gondwanaland during the Palaeozoic and
+Mesozoic eras. In: Nairn, E.M (Ed), Descriptive Paleoclimatology. Interscience New
+York, pp. 307–331.
+
+Kitching, J.W., 1977. Distribution of the Karoo vertebrate fauna. Bernard Price Institute for
+Palaeontological Research Memoir 1, 1–131.
+Klappa, C.F., 1980. Rhizoliths in terrestrial carbonates: classification, recognition, genesis
+and significance Sedimentology 27, 613–629.
+Korte, C., Kozur, H.W., 2010. Carbon-isotope stratigraphy across the Permian-Triassic
+boundary: A review. Journal of Asian Earth Sciences 39, 215–235.
+
+Journal Pre-proof
+Labrecque, P.A., Hubbard, S.M., Jensen, J.L., Nielsen, H., 2011. Sedimentology and
+stratigraphic architecture of a point bar deposit, Lower Cretaceous McMurray
+Formation, Alberta, Canada. Bulletin of Canadian Petroleum Geology 59, 147–171.
+Lacey, W.S., van Dijk, D.E., Gordon-Gray, K.D., 1975. Fossil plants from the Upper Permian
+in the Mooi River district of Natal, South Africa. Annals of the Natal Museum 22,
+349–420.
+Lau, K.V., Maher, K., Altiner, D., Kelley, B.M., Kump, L.R., Lehrmann, D.J., Silva-Tamayo,
+
+of
+
+J.C., Weaver, K.L., Yu, M., Payne, J.L., 2016. Marine anoxia and delayed Earth
+
+ro
+
+system recovery after the end-Permian extinction. Proceedings of the National
+
+-p
+
+Academy of Sciences. http://www.pnas.org/cgi/doi/10.1073/pnas.1515080113.
+
+re
+
+Li, J., Gastaldo, R.A., Neveling, J., Geissman, J.W., 2017. Siltstones Across the
+Daptocephalus (Dicynodon) and Lystrosaurus Assemblage Zones, Karoo Basin,
+
+lP
+
+South Africa, Show No Evidence For Aridification. Journal of Sedimentary Research
+
+na
+
+87, 653-671.
+
+Lindström, S., McLoughlin, S. 2007. Synchronous palynofloristic extinction and recovery
+
+Jo
+ur
+
+after the end-Permian event in the Prince Charles Mountains, Antarctica: Implications
+for palynofloristic turnover across Gondwana. Review of Palaeobotany and
+Palynology 145, 89–122.
+
+Loope, G.R., Kump, L.R., Arthur, M.A., 2013. Shallow water redox conditions from the
+Permian–Triassic boundary microbialite: The rare earth element and iodine
+geochemistry of carbonates from Turkey and South China. Chemical Geology 351,
+195–208.
+Looy, C.V., Twitchett, R.J., Dilcher, D.L., Van Konijnenburg-Van Cittert, J.H.A., Visscher,
+H., 2001. Life in the end-Permian dead zone. Proceedings of the National Academy of
+Sciences 98(14), 7879–7883.
+
+Journal Pre-proof
+MacDougall, M.J., Brocklehurst, N., Fröbisch, J., 2019. Species richness and disparity of
+parareptiles across the end-Permian mass extinction. Proceedings of the Royal Society
+B 286: 20182572.
+MacLeod, G.K., Smith, R.M.H., Koch, P.L., Ward, P.D., 2000. Timing of mammal-like
+reptile extinctions across the Permian Triassic boundary in South Africa. Geology 28,
+227–230.
+MacLeod, G.K., Quinton, P.C., Bassett, D.J., 2017. Warming and increased aridity during the
+
+of
+
+earliest Triassic in the Karoo Basin, South Africa. Geology 45(6), 483–486.
+
+ro
+
+McElwain JC, Punyasena SW. 2007. Mass extinction events and the plant fossil record.
+
+-p
+
+Trends in Ecology and Evolution 22(10), 548–557.
+
+re
+
+McKay, M.P., Weislogel, A.L., Fildani, A., Brunt, R.L., Hodgson, D.M., Flint, S.S., 2015. UPB zircon tuff geochronology from the Karoo Basin, South Africa: implications of
+
+na
+
+393–410.
+
+lP
+
+zircon recycling on stratigraphic age controls. International Geology Review 57(4),
+
+Metcalfe, I., Foster, C.B., Afonin, S.A., Nicoll, R.S., Mundill, R., Xiaofeng, W., Lucas, S.G.,
+
+Jo
+ur
+
+2009. Stratigraphy, biostratigraphy and C-isotopes of the Permian-Triassic nonmarine sequence at Dalongkou and Lucaogou, Xinjiang Province, China. Journal of
+Asian Earth Sciences. 36, 503–520.
+Metcalfe, I., Crowley, J., Nicoll, R.S., Schmitz, M., 2015. High-precision U-Ph CA-TIMS
+calibration of middle Permian to Lower Triassic sequences, mass extinction and
+extreme climate-change in Eastern Australian Gondwana. Gondwana Research 28,
+61–81.
+Michaelsen, P., 2002. Mass extinction of peat-forming plants and the effect on fluvial styles
+across the Permian-Triassic boundary, northern Bowen Basin, Australia.
+Palaeogeography Palaeoclimatology Palaeoecolgy 179, 173–188.
+
+Journal Pre-proof
+Nesbitt, S.J., Barrett, P.M., Werning, S., Sidor, C.A., Charig, A.J., 2013. The oldest dinosaur?
+A Middle Triassic dinosauriform from Tanzania. Biology Letters 9.
+http://doi.org/10.1098/rsbl.2012.0949.
+Newell, A.J., Tverdokhlebov, V.P., Benton, M.J., 1999. Interplay of tectonics and climate on
+a transverse fluvial system, Upper Permian, southern Uralian foreland basin, Russia.
+Sedimentary Geology 127, 11–29.
+Nowak, H., Schneebeli-Hermann, E., Kustatscher, E., 2019. No mass extinction for land
+
+ro
+
+https://doi.org/10.1038/s41467-018-07945-w.
+
+of
+
+plants at the Permian-Triassic transition. Nature Communications 10:384.
+
+-p
+
+Pace, D.W., Gastaldo, R.A., Neveling, J., 2009. Early Triassic aggradational and
+
+re
+
+degradational landscapes of the Karoo Basin and evidence for climate oscillation
+following the P–Tr Event. Journal of Sedimentary Research, 79, 316–331.
+
+lP
+
+https://doi.org/10.2110/jsr.2009.036.
+
+na
+
+Payne, J.L., Kump, L.R., 2007. Evidence for recurrent Early Triassic massive volcanism from
+quantitative interpretation of carbon isotope fluctuations. Earth and Planetary Science
+
+Jo
+ur
+
+Letters 256, 264–277. Science 305, 506–508.
+Payne, J.L., Lehrmann, D.J., Wei, J., Orchard, M.J., Schrag, D.P., Knoll, A.H., 2004. Large
+perturbations of the carbon cycle during recovery from the end-Permian extinction.
+Prevec, R., Labandeira, C.C., Neveling, J., Gastaldo, R.A., Bamford, M.K., Looy, C.V.,
+2009. Portrait of a Gondwanan ecosystem: a new Late Permian locality from
+Kwazulu-Natal, South Africa. Review of Palaeobotany and Palynology 156, 454–493.
+Prevec, R., Gastaldo, R.A., Neveling, J., Reid, S.B., Looy, C.V., 2010. An autochthonous
+glossopterid flora with latest Permian palynomorphs and its depositional setting in the
+Dicynodon Assemblage Zone of the southern Karoo Basin, South Africa.
+Palaeogeography, Palaeoclimatology, Palaeoecology 292(3-4), 391–408.
+
+Journal Pre-proof
+Rees, P.M., 2002. Land-plant diversity and the end-Permian mass extinction. Geology, 30,
+827–830.
+Renne, P.R., Zichao, Z., Richards, M.A., Black, M.T., Basu, A.R., 1995. Synchrony and
+causal relations between Permian–Triassic boundary crises and Siberian flood
+volcanism. Science 269, 1413–1416.
+Retallack, G.J. 1995. Permian–Triassic life crisis on land. Science 267, 77–80.
+Retallack GJ. 2013. Permian and Triassic greenhouse crises. Gondwana Research 24(1), 90–
+
+of
+
+103.
+
+ro
+
+Retallack, G.J., Jahren, A.H., Sheldon, N.D., Chakrabarti, R., Metzger, C.A., Smith, R.M.H.
+
+-p
+
+2005. The Permian-Triassic boundary in Antarctica. Antarctic Science 17, 241–258.
+
+re
+
+Retallack, G.J., Seyedolali, A., Krull, E.S., Holser, W.T., Ambers C.P., Kyte, F.T., 1998.
+Search for evidence of impact at the Permian-Triassic boundary in Antarctica and
+
+lP
+
+Australia Geology 26(11), 979–982. https://doi.org/10.1130/0091-7613.
+
+na
+
+Retallack, G.J., Smith, R.M.H., Ward, P.D., 2003. Vertebrate extinction across Permian–
+Triassic boundary in Karoo Basin, South Africa. Geological Society of America
+
+Jo
+ur
+
+Bulletin 115, 1133–1152.
+
+Rey, K., Amiot, R., Fourel, F., Rigaudier, T., Abdala, F., Day, M.O., Fernandez, V., Fluteau,
+F., France-Lanord, C., Rubidge, B.S., Smith, R.M., Viglietti, P.A., Zipfel, B.,
+Lécuyer, C., 2016. Global climate perturbations during the Permo-Triassic mass
+extinctions recorded by continental tetrapods from South Africa. Gondwana Research
+37, 384–396.
+Rey, K., Amiot, R., Fourel, F., Abdala, F., Fluteau, F., Jalil, N.-E., Liu, J., Rubidge, B.S.,
+Smith, R.M., Steyer, J.S., Viglietti, P.A., Wang, X., Lécuyer, C., 2017. Oxygen
+isotopes suggest elevated thermometabolism within multiple Permo-Triassic therapsid
+clades. eLife 6.
+
+Journal Pre-proof
+Roopnarine, P.D., Angielczyk, K.D., 2012. The evolutionary palaeoecology of species and
+the tragedy of the commons. Biology Letters 8, 147–150.
+Roopnarine, P.D., Angielczyk, K.D., 2016. The stability of ecological communities as an
+agent of evolutionary selection. In: Eldredge, N., Pievani, T., Serrilli, E., Temkin, I.,
+(Eds.), Evolutionary Theory. A Hierarchical Perspective, Chicago, University of
+Chicago Press, pp. 307–333.
+Roopnarine, P.D., Angielczyk, K.D., 2015. Community stability and selective extinction
+
+of
+
+during the Permian-Triassic mass extinction. Science 350 (6256), 90–93.
+
+ro
+
+Roopnarine, P.D., Angielczyk, K.D., Wang, S.C., Hertog, R., 2007. Trophic network models
+
+-p
+
+explain instability of Early Triassic terrestrial communities. Proceedings of the Royal
+
+re
+
+Society B 274, 2077–2086.
+
+Roopnarine, P.D., Angielczyk, K.D., Weik, A., Dineen, A., 2019. Ecological persistence,
+
+lP
+
+incumbency and reorganization in the Karoo Basin during the Permian-Triassic
+
+na
+
+transition. Earth-Science Reviews 189, 244–263.
+Ruta, M., Benton, M.J., 2008. Calibrated diversity, tree topology and the mother of mass
+
+Jo
+ur
+
+extinctions: the lesson of temnospondyls. Palaeontology 51, 1261–1288.
+Ruta, M., Botha-Brink, J., Mitchell, S.A., Benton, M.J., 2013a. The radiation of cynodonts
+and the ground plan of mammalian morphological diversity. Proceedings of the Royal
+Society of London B 280. https://doi.org/10.1098/rspb.2013.1865.
+Ruta, M., Angielczyk, K.D., Fröbisch, J., Benton, M.J., 2013b. Decoupling of morphological
+disparity and taxic diversity during the adaptive radiation of anomodont therapsids.
+Proceedings of the Royal Society of London B 280.
+https://doi.org/10.1098/rspb.2013.1071.
+Sanson-Barrera, A., Hochuli, P.A., Bucher, H., Schneebeli-Hermann, E., Weissert, H.,
+Adatte, T., Bernasconi, S.M., 2015. Late Permian-earliest Triassic high-resolution
+
+Journal Pre-proof
+organic carbon isotope and palynofacies records from Kap Stosch (East Greenland).
+Global and Planetary Change 133, 149–166.
+Sato, A.M., Llambías, E.J., Basei, M.A., Castro, C.E., 2015. Three stages in the Late
+Paleozoic to Triassic magmatism of southwestern Gondwana, and the relationships
+with the volcanogenic events in coeval basins. Journal of South American Earth
+Sciences 63, 48–69.
+Saxena, A., Singh, K. J., Cleal, C. J., Chandra, S., Goswami, S., Shabbar, H. 2018.
+
+of
+
+Development of the Glossopteris flora and its end Permian demise in the Tatapani-
+
+ro
+
+Ramkola Coalfield, Son-Mahanadi Basin, India. Geological Journal.
+
+-p
+
+Schobben, M., Joachimski, M.M., Korn, D., Leda, L., Korte, C., 2014. Palaeotethys seawater
+
+re
+
+temperature rise and an intensified hydrological cycle following the end-Permian
+mass extinction: Gondwana Research 26, 675–683.
+
+lP
+
+https://doi.org/10.1016/j.gr.2013.07.019.
+
+na
+
+Shen, S-z, Crowley, J.L., Wang, Y., Bowring, S.A., Erwin, D.H., Sadler, P.M., Cao, C-q.,
+Rothman, D.H., Henderson, C.M., Ramezani, J., Zhang, H., Shen, Y., Wang, X-d.,
+
+Jo
+ur
+
+Wang, W., Mu, L., Li, W-z., Tang, Y-g., Liu, X-l., Liu, L-j., Zeng, Y., Jiang, Y-f., Jin,
+Y-g., 2011. Calibrating the end-Permian mass extinction. Science 334, 6061, 1367–
+1372.
+
+Shen, J., Algeo, T. J., Hu, Q., Zhang, N., Zhou, L., Xia, W., Xie, S., Feng, Q., 2012. Negative
+C-isotope excursions at the Permian-Triassic boundary linked to volcanism. Geology
+40(11), 963–966.
+Shen, S. Z., Cao, C. Q., Zhang, H., Bowring, S. A., Henderson, C. M., Payne, J. L., Davydov,
+V.I., Chen, B., Yuan, D-x., Zhang, Y-c., Wang, W., Zheng, Q-f., 2013. Highresolution δ13Ccarb chemostratigraphy from latest Guadalupian through earliest
+Triassic in South China and Iran. Earth and Planetary Science Letters, 375, 156–165.
+
+Journal Pre-proof
+Smith, R.M.H., 1987. Morphology and depositional history of exhumed Permian point-bars
+in the southwestern Karoo, South Africa. Journal of Sedimentary Petrology 57, 19–
+29.
+Smith, R.M.H., 1995. Changing fluvial environments across the Permian–Triassic boundary
+in the Karoo Basin, South Africa, and possible causes of the extinctions.
+Palaeogeography, Palaeoclimatology, Palaeoecology 117, 81–104.
+Smith, R.M.H., Botha, J., 2005. The recovery of terrestrial vertebrate diversity in South
+
+of
+
+African Karoo basin after the End-Permian extinction. Comptes Rendus Palevol 4,
+
+ro
+
+555–568.
+
+-p
+
+Smith R.M.H., Botha-Brink, J., 2014. Anatomy of a mass extinction: sedimentological and
+
+re
+
+taphonomic evidence for drought-induced die-offs at the Permian-Triassic boundary
+in the main Karoo Basin, South Africa. Palaeogeography, Palaeoclimatology,
+
+lP
+
+Palaeoecology, 316, 99–118.
+
+na
+
+Smith, R.M.H., Ward, P.D., 2001. Pattern of vertebrate extinctions across an event bed at the
+Permian–Triassic boundary in the Karoo Basin of South Africa. Geological Society of
+
+Jo
+ur
+
+America Bulletin 29, 1147–1150.
+
+Spencer, L.M., Van Valkenburgh, B., Harris, J.M., 2003. Taphonomic analysis of large
+mammals recovered from the Pleistocene Rancho La Brea tar seeps. Paleobiology 29,
+561–575.
+
+Stavrakis, N., 1980. Sedimentation of the Katberg Sandstone and Adjacent Formations in the
+South-Eastern Karoo Basin. Transactions of the Geological Society of South Africa 83,
+361–374.
+Steiner M.B., Eshet Y., Rampino M.R., Schwindt, D.M., 2003. Fungal abundance spike and
+the Permian-Triassic boundary in the Karoo Supergroup (South Africa).
+Palaeogeography, Palaeoclimatology, Palaeoecology, 194, 405–414.
+
+Journal Pre-proof
+Sun, Y.D., Joachimski, M.M., Wignall, P.B., Yan, C.B., Chen, Y.L., Jiang, H.S., Wang, L.N.,
+Lai, X.L., 2012. Lethally hot temperatures during the Early Triassic greenhouse.
+Science 338, 366–370.
+Tabor, N.J., Montañez, I.P., Steiner, M.B., Schwindt, D., 2007. δ13C values of carbonate
+nodules across the Permian-Triassic boundary in the Karoo Supergroup (South
+Africa) reflect a stinking sulfurous swamp, not atmospheric CO2. Palaeogeography,
+
+https://doi.org/10.1016/j.palaeo.2006.11.047.
+
+of
+
+Palaeoclimatology, Palaeoecology 252, 370–381.
+
+ro
+
+Tabor, N.J., Sidor, C.A., Smith, R.M.H., Nesbitt, S.J., Angielczyk, K.D., 2018. Paleosols of
+
+-p
+
+the Permian-Triassic: proxies for rainfall, climate change, and major changes in
+
+re
+
+terrestrial tetrapod diversity. Journal of Vertebrate Paleontology 37(6), 240–253.
+Thomas, S.G., Tabor, N.J., Yang, W., Myers, T.S., Yang, Y., Wang, D., 2011. Palaeosol
+
+lP
+
+stratigraphy across the Permian-Triassic boundary, Bogda Mountains, NW China:
+
+na
+
+Implications for palaeoenvironmental transition through earth’s largest mass
+extinction. Palaeogeography, Palaeoclimatology, Palaeoecology 308, 41–64.
+
+Jo
+ur
+
+Tripathi, C., Puri, S. N., 1961. On the remains of Lystrosaurus from the Panchets of the
+Raniganj coalfield. Records of the Geological Survey of India 89, 407–419.
+Tripathi, C., Puri, S. N., 1962. On the Lystrosaurus remains from Panchets of Raniganj
+Coalfield. Records of the Geological Survey of India 89(Pt 2), 407–23.
+Viglietti, P.A., Smith, R.M.H., Compton, J.S., 2013. Origin and palaeoenvironmental
+significance of Lystrosaurus bonebeds in the earliest Triassic Karoo Basin, South
+Africa. Palaeogeography, Palaeoclimatology, Palaeoecology 392, 9–21.
+Viglietti, P.A., Smith, R.M.H., Angielczyk, K.D., Kammerer, C.F., Fröbisch, J., Rubidge,
+B.S., 2016. The Daptocephalus Assemblage Zone (Lopingian), South Africa: A
+
+Journal Pre-proof
+proposed biostratigraphy based on a new compilation of stratigraphic ranges. Journal
+of African Earth Sciences 113, 1–12.
+Viglietti, P.A., Rubidge, B.S., Smith, R.M.H., 2017. New Late Permian tectonic model for
+South Africa’s Karoo Basin: foreland tectonics and climate change before the endPermian crisis. Nature Scientific Reports 7, 10861. https://doi.org/10.1038/s41598017-09853-3.
+Viglietti, P.A., Smith, R.M., Rubidge, B.S., 2018a. Changing palaeoenvironments and
+
+of
+
+tetrapod populations in the Daptocephalus Assemblage Zone (Karoo Basin, South
+
+ro
+
+Africa) indicate early onset of the Permo-Triassic mass extinction. Journal of African
+
+-p
+
+Earth Sciences 138, 102-111.
+
+re
+
+Viglietti, P.A., Frei, D., Rubidge, B.S., Smith, R.M., 2018b. U-Pb detrital zircon dates and
+provenance data from the Beaufort Group (Karoo Supergroup) reflect sedimentary
+
+lP
+
+recycling and air-fall tuff deposition in the Permo-Triassic Karoo foreland basin.
+
+na
+
+Journal of African Earth Sciences, 143, 59–66.
+Wang, Z., 1996. Recovery of vegetation from the terminal Permian mass extinction in North
+
+Jo
+ur
+
+China. Review of Palaeobotany and Palynology 91, 121–142.
+Ward, P.D., Montgomery, D.R., Smith, R.M.H., 2000. Altered river morphology in South
+Africa related to the Permian Triassic extinction. Science, 289(5485), 1740–1743.
+Ward, P.D., Botha, J., Buick, R., De Kock, M.O., Erwin, D.H., Garrison, G.H., Kirschvink,
+J.L., Smith, R., 2005. Abrupt and gradual extinction among Late Permian land
+vertebrates in the Karoo Basin, South Africa. Science, 307(5710), 709–714.
+Webb, J.A., Fielding, C.R., 1993. Permo-Triassic sedimentation within the Lambert Graben,
+northern Prince Charles Mountains, Antarctica. In: Finlay, R.H., Unrug, R., Banks,
+M.R., Veevers, J.J. (Eds.), Gondwana Eight. A.A. Balkema, Rotterdam, pp. 357–369.
+
+Journal Pre-proof
+White, M. E., 1978. Reproductive structures of the Glossopteridales in the plant fossil
+collection of the Australian Museum. Records of the Australian Museum 31(12), 473–
+505.
+Wignall, P.B., Bond, D.P.G., Kuwahara, K., Kakuwa, Y., Newton, R.J., Poulton, S.W., 2010.
+An 80 million year oceanic redox history from Permian to Jurassic pelagic sediments
+of the Mino-Tamba terrane, SW Japan, and the origin of four mass extinctions. Global
+
+of
+
+Planet Change 71(1-2), 109–123.
+Xie, S., Pancost, R.D., Yin, H., Wang, H., Evershed, R.P., 2005. Two episodes of microbial
+
+ro
+
+change coupled with Permo/Triassic faunal mass extinction. Nature 434, 494–497.
+
+-p
+
+Yang, W., Feng, Q., Liu, Y., Tabor, N., Miggins, D., Crowley, J.L., Lin, J., Thomas, S.,
+
+re
+
+2010. Depositional environments and cyclo- and chronostratigraphy of uppermost
+
+lP
+
+Carboniferous–Lower Triassic fluvial-lacustrine deposits, southern Bogda Mountains,
+NW China – A terrestrial paleoclimatic record of mid-latitude NE Pangea. Global and
+
+na
+
+Planetary Change 73, 15–113.
+
+Yin, H., Feng, Q., Lai, X., Baud, A., Tong, J., 2007. The protracted Permo-Triassic crisis and
+
+Jo
+ur
+
+multi-episode extinction around the Permian-Triassic boundary. Global and Planetary
+Change 55, 1–20.
+
+Yu, J., Broutin, J., Chen, Z., Shi, X., Li, H., Chua, D., Huang, Q. 2015. Vegetation
+changeover across the Permian–Triassic Boundary in Southwest China Extinction,
+survival, recovery and palaeoclimate: A critical review. Earth-Science Reviews 149,
+203–224.
+Zaton, M., Niedźwiedzki, G., Blom, H., Kear, B.P., 2016. Boreal earliest Triassic biotas
+elucidate globally depauperate hard substrate communities after the end-Permian
+mass extinction. Scientific Reports 6, 36345.
+
+Journal Pre-proof
+Zhang, H., Cao, C-q., Liu, X-l., Mu, L., Zheng, Q-f., Liu, F., Xiang, L., Liu, L-j., Shen, S-z.,
+2016. The terrestrial end-Permian mass extinction in South China. Palaeogeography,
+
+Jo
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Palaeoclimatology, Palaeoecology 448, 108–124.
+
+Journal Pre-proof
+Figure Captions
+
+Fig. 1. Location of the study area. (A) Map of South Africa, star indicates the study area. (B)
+Map of the two study sites, Loskop and Spitskop. The red line surrounds the two sites, which
+cover three farms. (C) Outcrop of Loskop on the farm Nooitgedacht 68 (start of log
+30°19’35.21”S 25°55’53.71”E). (D) Outcrop of Spitskop, which extends over the farms
+Nooitgedacht 68, Droogefontein 176 and Geluksfontein 204 (start of log 30°20’20.13”S
+
+of
+
+25°55’32.25”E). Right columns in (C) and (D) with A–E indicates the facies sequence
+
+ro
+
+through the PTB sensu Smith and Botha-Brink (2014), where A indicates massive greyish-
+
+-p
+
+brown mudrock, B massive mottled dark reddish brown/olive grey mudrock, C dark reddish-
+
+re
+
+brown mudstone/olive-grey siltstone couplets, D massive silty-mudstone, E conglomeratic
+sandstone/olive mudrock facies. B: Bloemfontein; CT: Cape Town; D: Durban; EM:
+
+lP
+
+Elandsberg Member; F: Formation; JHB: Johannesburg; PM: Palingkloof Member; SM:
+
+na
+
+Swartberg member. [2 column width]
+
+Jo
+ur
+
+Fig. 2. Stratigaphic position of the study area (in grey). AZ: Assemblage Zone; Bdp:
+Burgersdorp; Chs: Changhsingian; Fm: Formation; Mbr: Member. Dates follow Gradstein et
+al., 2012 and Burgess et al., 2014). [2 column width]
+
+Fig. 3. Stratigraphic logs of (A) Loskop and (B) Spitskop up to the base of the Katberg
+Formation. A–E facies as in Fig. 1. See Table 1 for taxonomic identifications of the in situ
+fossils. Blue and red circles represent nodules taken for isotope analysis on Loskop and
+Spitskop, respectively. KF: Katberg Formation; PM: Palingkloof Member; PTB: PermianTriassic boundary. [2 column width]
+
+Journal Pre-proof
+Fig. 4. Plant and insect fossils recovered from Spitskop. (A, B) Long,
+narrow Glossopteris leaves typical of the latest Permian Karoo Basin, showing abundant
+evidence of insect interactions in the form of prominent rows of elliptical oviposition scars
+(arrows) (N3-58a). (C) A short shoot with a whorl of Glossopteris leaves attached; the
+growth tip bears multiple attached rhombic bud scales (upper arrow), and leaf abscission
+scars are visible along the length of the shoot (lower arrow) (N3-35a). (D) Enlarged section
+of one of the attached leaves, showing typical glossopterid venation (N3-35c). (E, F)
+
+of
+
+Indeterminate fern pinnules (N4-01). (G) One of several grylloblattid insect wing impressions
+
+-p
+
+ro
+
+(N3-9a). [2 column width]
+
+re
+
+Fig. 5. Permian tetrapod fossils from Loskop. (A) Dicynodont Lystrosaurus maccaigi NMQR
+3647 (log number 13). (B) Dicynodont Daptocephalus leoniceps NMQR 3943. (C)
+
+lP
+
+Photograph and line drawing of gorgonopsian NMQR 4000 (green) (log number 9) and
+
+na
+
+therocephalian Moschorhinus kitchingi NMQR 3939 (brown) (log number 8) found semiarticulated in close association with one another. (D) Enlargement of the articulated, almost
+
+Jo
+ur
+
+complete skeleton of Moschorhinus kitchingi NMQR 3939. [2 column width]
+
+Fig. 6. Early Triassic tetrapod fossils from Loskop and Spitskop. (A) Dicynodont
+Lystrosaurus murrayi NMQR 4152 (log number 24). (B) Therocephalian Tetracynodon darti
+NMQR 4160. (C) Dicynodont L. maccaigi NMQR 3689 (log number 22) lateral view. (D)
+Dicynodont L. maccaigi NMQR 3689 dorsal view. (E) Dicynodont L. maccaigi NMQR 3641
+(log number 21). (F) Therocephalian Scaloposaurus NMQR 3923. C, clavicle; f, frontal; f b,
+frontal boss; f r, frontal rugosities; fe, femur; h, humerus; j, jugal; l, lacrimal; m, maxilla; n,
+nasal; p, parietal; pif, pineal foramen; pm, premaxilla; po, postorbital; prf, prefrontal; prf b,
+
+Journal Pre-proof
+prefrontal boss; r, radius, ri, rib; s, scapula; sq, squamosal; t, tibia; u, ulna; v, vertebra. [2
+column width]
+
+Fig. 7. δ18O and δ13C isotopes from pedogenic carbonate and theriodont therapsid tooth
+enamel plotted against the Loskop (blue) and Spitskop (red) stratigraphic logs. [1.5 column
+width]
+
+of
+
+Fig. 8. ICP-MS and TIMS analyses of detrital zircons from a volcaniclastic sandstone within
+
+ro
+
+the Palingkloof Member (Balfour Formation) at Spitskop. (A) Detrital zircons. (B) Four
+
+-p
+
+major modes were identified, the largest peak is attributed to Permian-to-earliest-Triassic
+
+re
+
+sources. (C) Of the 15 youngest zircons, the youngest five yielded a mean age of 251.7 ±0.3
+
+lP
+
+Ma. [1 column width]
+
+na
+
+Fig. 9. Summary figure of the end-Permian Mass Extinction in the South African Karoo
+Basin correlated with the marine extinction at Meishan, China. Radiometric dates: 1, Burgess
+
+Jo
+ur
+
+et al., 2014; 2, this study. Terrestrial beds in metres, marine beds in centimetres. AZ,
+Assemblage Zone; Fm, Formation; Mbr, Member. [2 column width]
+
+Fig. 10. Stratigraphic logs of the PTB logs from the southern to the northern part of the
+Karoo Basin (stars) on a map of South Africa showing similarities in the boundary interval
+from various parts of the basin. See Fig. 9 for facies A–E colours. Purple portion indicates
+Facies C, which contains the PTB in each log. Black arrows indicate the lower boundary of
+the Katberg Formation in all logs apart from the Verkykerskop log, which indicates the
+equivalent Verkykerskop Formation. Increments are in 10 metre intervals. B: Bloemfontein;
+
+Journal Pre-proof
+CT: Cape Town; D: Durban; GR: Graaff-Reinet. Sections adapted from Smith and Botha
+
+Jo
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+(2014) and Viglietti (2016). [2 column width]
+
+Journal Pre-proof
+Declaration of interests
+X☐ The authors declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this paper.
+
+Jo
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+☐The authors declare the following financial interests/personal relationships which may be
+considered as potential competing interests:
+
+Journal Pre-proof
+Table 1. Identification, stratigraphic position and locality of the specimens numbered on the
+
+Field
+No.
+
+Accession
+Number
+
+Taxon
+
+PTB
+
+Locality Farm
+
+1
+
+JB031143
+
+NMQR 3942
+
+-29
+
+Loskop
+
+Nooitgedacht 68
+
+2
+
+JB031137
+
+NMQR 3938
+
+Daptocephalus
+leoniceps
+Lystrosaurus maccaigi
+
+-24
+
+Loskop
+
+Nooitgedacht 68
+
+3
+
+JB021030
+
+NMQR 3706
+
+Lystrosaurus maccaigi
+
+-24
+
+Loskop
+
+Nooitgedacht 68
+
+4
+
+JB021013
+
+NMQR 3694
+
+Lystrosaurus maccaigi
+
+-22
+
+Loskop
+
+Nooitgedacht 68
+
+5
+
+JB080813
+
+NMQR 3644
+
+-21
+
+Loskop
+
+Nooitgedacht 68
+
+6
+
+JB080814
+
+NMQR 3645
+
+-20
+
+Loskop
+
+Nooitgedacht 68
+
+7
+
+JB021032
+
+OBSERVED
+
+Daptocephalus
+leoniceps
+Daptocephalus
+leoniceps
+Lystrosaurus maccaigi
+
+-16
+
+Loskop
+
+Nooitgedacht 68
+
+8
+
+JB031138
+
+NMQR 3939
+
+Moschorhinus kitchingi
+
+-13.5
+
+Loskop
+
+Nooitgedacht 68
+
+9
+
+JB031138
+
+NMQR 4000
+
+Gorgonopidae
+
+-13.5
+
+Loskop
+
+Nooitgedacht 68
+
+10
+
+JB031142
+
+OBSERVED
+
+Lystrosaurus maccaigi
+
+-13.5
+
+Loskop
+
+Nooitgedacht 68
+
+11
+
+JB021024
+
+NMQR 3701
+
+-12.5
+
+Loskop
+
+Nooitgedacht 68
+
+12
+
+JB031139
+
+NMQR 3940
+
+Daptocephalus
+leoniceps
+Lystrosaurus maccaigi
+
+Loskop
+
+Nooitgedacht 68
+
+13
+
+JB080816
+
+NMQR 3647
+
+re
+
+-12.5
+
+Lystrosaurus maccaigi
+
+-12
+
+Loskop
+
+Nooitgedacht 68
+
+14
+
+JB031133
+
+NMQR 3935
+
+Lystrosaurus maccaigi
+
+-11
+
+Loskop
+
+Nooitgedacht 68
+
+15
+
+JB021015
+
+NMQR 3696
+
+Dinanomodon rubidgei
+
+-8
+
+Loskop
+
+Nooitgedacht 68
+
+16
+
+JB031134
+
+NMQR 3936
+
+Lystrosaurus maccaigi
+
+-8
+
+Loskop
+
+Nooitgedacht 68
+
+17
+
+JB080815
+
+NMQR 3646
+
+Lystrosaurus maccaigi
+
+Loskop
+
+Nooitgedacht 68
+
+JB021012
+
+NMQR 3693
+
+Lystrosaurus maccaigi
+
+5
+
+Loskop
+
+Nooitgedacht 68
+
+19
+
+JB021009
+
+na
+
+-2
+
+18
+
+OBSERVED
+
+Lystrosaurus
+
+7
+
+Loskop
+
+Nooitgedacht 68
+
+20
+
+JB080818
+
+NMQR 3648
+
+Lystrosaurus maccaigi
+
+7.5
+
+Loskop
+
+Nooitgedacht 68
+
+21
+
+JB080810
+
+NMQR 3641
+
+Lystrosaurus maccaigi
+
+7.5
+
+Loskop
+
+Nooitgedacht 68
+
+22
+
+JB021006
+
+NMQR 3689
+
+Lystrosaurus maccaigi
+
+7.5
+
+Loskop
+
+Nooitgedacht 68
+
+23
+
+JB021007
+
+NMQR 3690
+
+Lystrosaurus maccaigi
+
+7.5
+
+Loskop
+
+Nooitgedacht 68
+
+24
+
+Jo
+ur
+
+logs in Figure 3.
+Log No.
+
+JB041642
+
+NMQR 4152
+
+Lystrosaurus murrayi
+
+8
+
+Loskop
+
+Nooitgedacht 68
+
+25
+
+JB041625
+
+NMQR 4175
+
+Lystrosaurus
+
+10
+
+Loskop
+
+Nooitgedacht 68
+
+26
+
+JB021008
+
+NMQR 3691
+
+Lystrosaurus murrayi
+
+12
+
+Loskop
+
+Nooitgedacht 68
+
+27
+
+JB031123
+
+NMQR 3928
+
+Lystrosaurus murrayi
+
+14
+
+Loskop
+
+Nooitgedacht 68
+
+28
+
+JB080835
+
+NMQR 3663
+
+Lystrosaurus maccaigi
+
+-17
+
+Spitskop
+
+Nooitgedacht 68
+
+29
+
+JB080836
+
+NMQR 3664
+
+-17
+
+Spitskop
+
+30
+
+JB031101
+
+NMQR 3919
+
+Daptocephalus
+leoniceps
+Lystrosaurus maccaigi
+
+-17
+
+Spitskop
+
+Droogefontein
+176
+Nooitgedacht 68
+
+31
+
+JB021045
+
+NMQR 3713
+
+Lystrosaurus maccaigi
+
+-15.5
+
+Spitskop
+
+32
+
+JB031530
+
+NMQR 4092
+
+Cynodontia
+
+-11
+
+Spitskop
+
+33
+
+JB031118
+
+OBSERVED
+
+Lystrosaurus maccaigi
+
+-9
+
+Spitskop
+
+34
+
+JB031132
+
+OBSERVED
+
+Daptocephalus
+
+-9
+
+Spitskop
+
+lP
+
+-p
+
+ro
+
+of
+
+VERTEBRATES
+
+Droogefontein
+176
+Nooitgedacht 68
+Droogefontein
+176
+Droogefontein
+
+Journal Pre-proof
+176
+
+JB021036
+
+NMQR 3707
+
+Gorgonopidae
+
+-8
+
+Spitskop
+
+Nooitgedacht 68
+
+36
+
+JB031107
+
+NMQR 3922
+
+-6
+
+Spitskop
+
+37
+
+JB031106
+
+NMQR 3921
+
+L. maccaigi & L.
+curvatus
+Moschorhinus kitchingi
+
+-5
+
+Spitskop
+
+38
+
+RS 638
+
+tuskless dicynodont
+
+-5
+
+Spitskop
+
+39
+
+JB031544
+
+SAM-PKK011534
+NMQR 4105
+
+-3
+
+Spitskop
+
+40
+
+JB031534
+
+NMQR 4095
+
+Daptocephalus
+leoniceps
+Lystrosaurus maccaigi
+
+9
+
+Spitskop
+
+41
+
+JB041671
+
+NMQR 4173
+
+Lystrosaurus curvatus
+
+11
+
+Spitskop
+
+Droogefontein
+176
+Droogefontein
+176
+Droogefontein
+176
+Geluksfontein
+204
+Geluksfontein
+204
+Nooitgedacht 68
+
+42
+
+JB031117
+
+OBSERVED
+
+Lystrosaurus
+
+11
+
+Spitskop
+
+Nooitgedacht 68
+
+43
+
+JB031105
+
+OBSERVED
+
+Lystrosaurus
+
+12
+
+Spitskop
+
+44
+
+JB031104
+
+NMQR 3920
+
+Lystrosaurus declivis
+
+12
+
+Spitskop
+
+45
+
+RS 641
+
+2 X L. murrayi
+
+15
+
+Spitskop
+
+46
+
+JB041658
+
+SAM-PKK011535
+NMQR 4164
+
+15
+
+Spitskop
+
+Droogefontein
+176
+Droogefontein
+176
+Geluksfontein
+204
+Nooitgedacht 68
+
+47
+
+JB041657
+
+NMQR 4176
+
+Lystrosaurus murrayi
+
+15.5
+
+Spitskop
+
+Nooitgedacht 68
+
+48
+
+JB031109
+
+OBSERVED
+
+Lystrosaurus
+
+16
+
+Spitskop
+
+Nooitgedacht 68
+
+49
+
+JB041664
+
+OBSERVED
+
+Lystrosaurus
+
+16.5
+
+Spitskop
+
+Nooitgedacht 68
+
+50
+
+RS 640
+
+OBSERVED
+
+Lystrosaurus declivis
+
+17
+
+Spitskop
+
+Nooitgedacht 68
+
+51
+
+JB031535
+
+NMQR 4096
+
+Lystrosaurus declivis
+
+17
+
+Spitskop
+
+Nooitgedacht 68
+
+impression of tree
+branch (Botha-Brink et
+al., 2014)
+Paracalamites
+
+-24
+
+Loskop
+
+Nooitgedacht 68
+
+-11.5
+
+Spitskop
+
+Glossopteris,
+Paracalamites
+Glossopteris,
+Paracalamites, Trizygia,
+insect wings
+Fern rachis
+
+-9
+
+Spitskop
+
+-11
+
+Spitskop
+
+Droogefontein
+176
+Droogefontein
+176
+Droogefontein
+176
+
+0
+
+Spitskop
+
+Site NP1
+Site NP2
+Site NP3
+
+Site NP4
+
+ro
+
+-p
+
+lP
+
+Jo
+ur
+
+Site W1
+
+Lystrosaurus murrayi
+
+na
+
+PLANTS AND INSECTS
+
+of
+
+35
+
+re
+
+leoniceps
+
+Droogefontein
+176
+
+Journal Pre-proof
+Table 2. Summary of 206P/238Ub ages from Spitskop detrital zircons.
+Sample Unit
+name
+
+Relative age
+(global stage)
+
+Major mode*
+(Ma)
+
+Maximum age** ± 2σ**
+(Ma)
+(Ma)
+
+MSWD
+
+Ka01
+
+Changxingian
+stage
+
+298–249 ± 2.7
+(n = 38)
+
+251.7
+(n = 5)
+
+0.63
+
+lower Palingkloof
+Member (Balfour
+Formation),
+facies B
+
+0.3
+
+Jo
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+*age profiles of multiple detrital zircon populations determined by LA-ICPMS results (the major mode reported
+here is also the youngest; see Fig. 8B);
+**based on youngest zircons selected from ID-TIMS
+
+Journal Pre-proof
+
+Highlights
+A new site containing a complete sequence through the terrestrial PTB.
+
+
+
+A new radiometric date for the terrestrial end-Permian extinction.
+
+
+
+Data suggests the marine and terrestrial extinctions were synchronous.
+
+
+
+The current placement of the PTB in the Karoo Basin of South Africa is retained.
+
+Jo
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+
+
+Figure 1
+
+Figure 2
+
+Figure 3
+
+Figure 4
+
+Figure 5
+
+Figure 6
+
+Figure 7
+
+Figure 8
+
+Figure 9
+
+Figure 10
+
+

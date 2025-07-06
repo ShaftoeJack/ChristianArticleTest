@@ -1,0 +1,868 @@
+Proc. R. Soc. B (2009) 276, 2667–2674
+doi:10.1098/rspb.2009.0352
+Published online 29 April 2009
+
+Dinosaur diversity and the rock record
+Paul M. Barrett1,*, Alistair J. McGowan1,† and Victoria Page2
+1
+
+Department of Palaeontology, The Natural History Museum, Cromwell Road, London SW7 5BD, UK
+2
+Department of Earth Science and Engineering, Royal School of Mines, Prince Consort Road,
+Imperial College, London SW7 2BP, UK
+
+Palaeobiodiversity analysis underpins macroevolutionary investigations, allowing identification of mass
+extinctions and adaptive radiations. However, recent large-scale studies on marine invertebrates indicate
+that geological factors play a central role in moulding the shape of diversity curves and imply that many
+features of such curves represent sampling artefacts, rather than genuine evolutionary events. In order to
+test whether similar biases affect diversity estimates for terrestrial taxa, we compiled genus-richness
+estimates for three Mesozoic dinosaur clades (Ornithischia, Sauropodomorpha and Theropoda). Linear
+models of expected genus richness were constructed for each clade, using the number of dinosaur-bearing
+formations available through time as a proxy for the amount of fossiliferous rock outcrop. Modelled
+diversity estimates were then compared with observed patterns. Strong statistically robust correlations
+demonstrate that almost all aspects of ornithischian and theropod diversity curves can be explained by
+geological megabiases, whereas the sauropodomorph record diverges from modelled predictions and may
+be a stronger contender for identifying evolutionary signals. In contrast to other recent studies, we identify
+a marked decline in dinosaur genus richness during the closing stages of the Cretaceous Period, indicating
+that the clade decreased in diversity for several million years prior to the final extinction of non-avian
+dinosaurs at the Cretaceous–Palaeocene boundary.
+Keywords: dinosaurs; Mesozoic; rock record; extinction; macroevolution; sampling bias
+
+1. INTRODUCTION
+A central goal of palaeobiology is to establish the trajectory
+of biodiversity through time ( Valentine 1985; Rosenzweig
+1995). Knowledge of this pattern, at various hierarchical
+levels, can identify important macroevolutionary signals,
+including mass extinctions and episodes of competitive
+displacement, as well as revealing the tempo and mode of
+adaptive radiations (e.g. Jablonski et al. 1996; Sepkoski
+1997; Schluter 2000; Stanley 2007). To date, the majority
+of palaeobiodiversity investigations have focused on the
+marine realm, whereas trends in terrestrial biodiversity
+through time have received less attention (e.g. Valentine
+1985; Fara & Benton 2000; Benton 2001).
+Diversity curves for Mesozoic dinosaurs have been
+proposed by several authors, based mostly on raw counts of
+genera (e.g. Weishampel & Norman 1989; Dodson 1990;
+Barrett & Willis 2001; Taylor 2006) or phylogenetically
+corrected genus-richness estimates (e.g. Weishampel &
+Jianu 2000; Upchurch & Barrett 2005): the majority of
+these studies dealt with individual dinosaur clades rather
+than dinosaur diversity as a whole. Fastovsky et al. (2004)
+and Wang & Dodson (2006) used more sophisticated
+statistical approaches, including rarefaction and the
+abundance-based coverage estimator, to estimate total
+dinosaur diversity, but provided only coarse temporal
+sampling that may have obscured or conflated important
+* Author for correspondence ( p.barrett@nhm.ac.uk).
+†
+Present address: Museum für Naturkunde, Leibniz Institute for
+Research on Evolution and Biodiversity at Humboldt University,
+Berlin, Invalidenstraße 43, Berlin 10115, Germany.
+Electronic supplementary material is available at http://dx.doi.org/10.
+1098/rspb.2009.0352 or via http://rspb.royalsocietypublishing.org.
+Received 2 March 2009
+Accepted 6 April 2009
+
+features of the curve. Lloyd et al. (2008) presented the
+most comprehensive account of dinosaur diversification to
+date: these authors used a variety of metrics and attempted
+to correct for possible sampling biases in their diversity
+estimates by using a form of rarefaction and controlling for
+differences in the number of known dinosaur localities
+between time intervals.
+Recent investigations into marine invertebrate palaeobiodiversity indicate that the quality and amount of rock
+available for palaeontologists to search for fossils (e.g. the
+areal extent of fossiliferous rock outcrop per unit time)
+have a major influence on interpretations of diversity
+patterns, and also demonstrate that many features of
+diversity curves could be artefacts caused by changes in
+global sea-level, tectonics and other geological processes
+affecting fossil preservation (e.g. Peters & Foote 2001;
+Smith 2001, 2007; Peters 2005; Smith & McGowan 2007;
+McGowan & Smith 2008). Most previous studies on
+dinosaur diversity have ignored or downplayed these
+geological megabiases. Upchurch & Barrett (2005)
+found limited correspondence between sauropod dinosaur
+genus-richness and the number of dinosaur-bearing
+formations (DBF, a measure used as a proxy for the
+amount of available rock outcrop); by contrast, Wang &
+Dodson (2006) concluded that rock availability had a
+strong influence on the observed pattern of North
+American dinosaur diversity.
+Here, we document the palaeobiodiversity of Mesozoic
+dinosaurs (inclusive of birds) through time and investigate
+the relationship between clade diversity and the rock
+record. We construct models of expected dinosaur genus
+richness based on the number of dinosaur-bearing rock
+units and compare these models with observed diversity
+
+2667
+
+This journal is q 2009 The Royal Society
+
+2668 P. M. Barrett et al.
+
+Dinosaur diversity and the rock record
+
+patterns. It is demonstrated that many features of dinosaur
+diversity curves are sampling artefacts that reflect changes
+in the amount of available fossiliferous rock and thus
+reflect geological, rather than biological, events. However,
+some of the reconstructed diversity curves exhibit
+deviations from the palaeobiodiversity patterns predicted
+by the geological model, suggesting that several of the
+observed fluctuations in dinosaur diversity reflect genuine
+macroevolutionary signals. This study represents the first
+attempt to apply the modelling approach of Smith &
+McGowan (2007; McGowan & Smith 2008) to a
+terrestrial group of organisms, and thus has broader
+implications for assessing diversity patterns in other
+terrestrial clades.
+
+2. MATERIAL AND METHODS
+(a) Diversity estimation
+Temporal ranges of 662 valid dinosaur taxa, ranging in age
+from Ladinian (Middle Triassic: 237.0 Myr ago) to the end of
+the Maastrichtian (end Cretaceous: 65.6 Myr ago), were
+extracted from a recent global compendium of dinosaur
+distribution and taxonomy ( Weishampel et al. 2004).
+Dinosauria was treated as a monophyletic clade, with
+Mesozoic birds included (other recent studies excluded
+birds and were therefore confined to examining a paraphyletic
+array of non-avian dinosaur taxa: Wang & Dodson 2006;
+Lloyd et al. 2008). These temporal ranges were used to
+construct taxic diversity estimates (TDE) by summing the
+number of dinosaur genera present during each Mesozoic
+timeslice. Genus richness was selected as the taxonomic rank
+of choice, as the analyses of Robeck et al. (2000) demonstrated that data collected at lower taxonomic ranks are more
+reliable than those obtained for higher ranks (families and
+orders). Genus richness is preferred over species richness as
+most dinosaur genera are easily diagnosed and monospecific
+( Weishampel et al. 2004), with the effect that genus- and
+species-level curves are exceptionally similar (P. M. Barrett
+2007, unpublished data). By contrast, dinosaur species
+determinations (in multi-specific genera) are often problematic and many individual specimens can only be identified
+accurately at the generic level (see also Benton 2008).
+Unfortunately, many geological formations that have
+yielded dinosaur material cannot be dated precisely: as a
+result, the timeslices used herein are based on subdivisions of
+standard international stages, thereby reflecting the relative
+coarseness of the dataset. Conversion of this information to
+absolute ages (in millions of years) was rejected, as it would
+introduce false precision. Use of stage subdivisions allows the
+identification of many short-term fluctuations in the diversity
+curves and provides a larger number of data points for
+statistical analyses, contrasting with other studies that used
+more inclusive time bins composed of several sequential
+stages spanning tens of millions of years (e.g. Fastovsky et al.
+2004; Wang & Dodson 2006; Lloyd et al. 2008). Nevertheless,
+finer splitting of the time scale can lead to several problems
+(Sepkoski & Koch 1996). The most significant of these occurs
+if taxa are assigned to the wrong interval, as is more likely
+with smaller bin sizes. Some studies, notably those of Alroy
+et al. (2001, 2008), generated a series of time bins of equal
+duration, following the methodology suggested by Sepkoski &
+Koch (1996). However, we did not adopt this approach as it
+would obscure the finer-scale patterns that can be resolved. As
+this study focused on diversity rather than extinction or
+Proc. R. Soc. B (2009)
+
+origination, it is also likely that shifts in assignment of taxa to
+intervals would tend to negate each other. For each taxon that
+moved out of a bin, another would probably be reassigned to
+that bin. Such assumptions have dominated the construction of
+large-scale biodiversity curves (see Hallam & Wignall (1997) for
+discussion).
+Phylogenetic diversity estimates (PDE) were generated on
+the basis of published cladograms for each dinosaur group,
+which were obtained from Weishampel et al. (2004: see the
+electronic online supplementary material). The more recent
+cladogram of Butler et al. (2008) was used to provide a
+broader framework for exploring ornithischian diversity.
+Evolutionary trees for each clade were constructed by plotting
+dinosaur cladograms against time, allowing the inference of
+ghost lineages. The latter results from discrepancies between
+the proposed time of taxon origination (based on the age
+of the oldest-known sister group) and the first appearance of
+the taxon in the fossil record ( Norell & Novacek 1992).
+The temporal ranges of these ghost lineages were then
+summed with the known temporal ranges of the taxa included
+within the cladogram to produce a phylogenetically corrected
+diversity estimate for each timeslice.
+(b) Modelling rock availability and its
+relationship to diversity
+Relationships between rock record quality, TDE and PDE
+were investigated using the number of dinosaur-bearing
+geological formations as a proxy for the total amount of
+rock with the potential to yield dinosaur fossils. Similar
+approaches have been employed in several previous studies
+( Fara & Benton 2000; Wang & Dodson 2006; Lloyd et al.
+2008), and it has been demonstrated that the number of
+formations correlates well with other measures of rock record
+quality, including estimates of total rock volume and numbers
+of sedimentary rock sections (Peters 2005). Peters & Foote
+(2001) argued that formations are an appropriate proxy as
+they record variability in the range of habitats (both ecological
+and geological) preserved through time. By contrast, outcrop
+area is more problematic, as a single, areally extensive
+formation could be devoid of fossils. As DBF contain the
+taxa of interest, this is a more credible subset of formations to
+use than the total number of formations available (similarly,
+modern ecological surveys do not expend significant search
+effort in habitats unfrequented by the target group of
+organisms), and the use of DBF provides some taphonomic
+control. Moreover, it has been demonstrated that relationships between the rock record and diversity are not strongly
+affected if unfossiliferous formations are also taken into
+account (Smith & McGowan 2008). Information on the
+number of DBF in each timeslice (1033 units in total) was
+obtained from Weishampel et al. (2004). The resulting curve
+of DBF distributions through time (figure 1a) was compared
+with the TDE and PDE obtained for each dinosaur clade
+(figure 1b–d ) using three statistical measures (Pearson’s
+product-moment correlation [ r ], Spearman’s rank correlation [rs] and Kendall’s t coefficient) to elucidate the degree
+of fit between the two time-series.
+The method of Smith & McGowan (2007) was used to
+develop a sequence of models in which rock availability
+(represented by the number of DBF) was assumed to be a
+perfect predictor of the TDE for each dinosaur clade. This
+procedure involves sorting the rock and diversity time series
+independently, ordering each of the timeslices in a sequence
+from the lowest to the highest, and then fitting linear
+
+Dinosaur diversity and the rock record P. M. Barrett et al.
+
+2669
+
+(a)
+
+no. of DBF
+
+150
+
+100
+
+50
+
+0
+
+genus-richness
+
+(b) 60
+
+40
+
+20
+
+0
+
+genus-richness
+
+(c) 60
+
+40
+
+20
+
+0
+
+genus-richness
+
+(d) 25
+20
+15
+10
+5
+0
+M Tr
+
+U Tr
+
+E Jur
+
+Triassic
+245.0
+
+M Jur U Jur
+Jurassic
+
+200.0
+
+E Cre
+
+L Cre
+
+Cretaceous
+
+150.0
+age (Ma)
+
+100.0
+
+65.6
+
+Figure 1. Time-series plots of rock-record quality and diversity for each of the three major dinosaur clades. Alternating
+grey/white bins mark durations of standard international stages (see Gradstein et al. 2004) starting with the Anisian stage of the
+Middle Triassic. Individual substage data points are marked on the curve. (a) Number of DBF. (b) Ornithischia TDE (unfilled
+circles) and PDE (unfilled triangles). (c) Theropoda TDE (unfilled circles) and PDE (unfilled triangles). (d ) Sauropodomorpha
+TDE (unfilled circles) and PDE (unfilled triangles). The y-axis in figure 1a represents the number of DBF; in figure 1b–d,
+it represents the number of valid dinosaur genera (inclusive of Mesozoic birds).
+least-squares regression models of the general form yZmxCc
+to the ordered datasets (where x is equal to the number of
+DBF; y is the predicted number of dinosaur taxa present; m is
+the gradient of the line; and c is a constant). These equations
+Proc. R. Soc. B (2009)
+
+were then applied to the DBF time series in its original order
+allowing derivation of modelled diversity estimates (MDE).
+Using R scripts ( R Development Core Team 2008),
+the MDE and TDE were compared using Pearson’s
+
+2670 P. M. Barrett et al.
+
+Dinosaur diversity and the rock record
+
+product-moment correlations, in order to assess their
+similarity to each other. Finally, MDE were subtracted from
+TDE to obtain residual values representing diversity signals
+that could not be accounted for by variation in the rock record
+alone. The last step was repeated, with PDE replacing TDE,
+to obtain residuals of PDE from MDE. All relevant data files
+are provided in the electronic online supplementary material.
+
+3. RESULTS
+(a) Dinosaur diversity through time
+Ornithischian TDE and PDE present almost identical
+diversity profiles (see the electronic online supplementary
+material for statistical comparisons between TDE and
+PDE for all three dinosaur clades). Ornithischian diversity
+is low from the Late Triassic to the end of the Middle
+Jurassic (figure 1b), although a small earliest Jurassic peak
+represents the radiation of heterodontosaurids and other
+basal ornithischian taxa. Ornithischian diversity shows a
+marked increase during the Late Jurassic and plateaus in
+the earliest Cretaceous before reaching another higher
+peak in the late Early Cretaceous (Barremian–Albian).
+A severe drop in diversity followed in the early Late
+Cretaceous, but from the late Santonian onward,
+ornithischian diversity climbed rapidly to attain its highest
+peak in the late Campanian, with over 50 genera
+worldwide. However, diversity declines to Late Jurassic
+levels in the latest Cretaceous (Maastrichtian) with a drop
+in taxonomic richness of 45 per cent (PDE) or 67 per cent
+(TDE) between the late Campanian and the Cretaceous–
+Palaeocene (K–P) boundary, although a small rebound
+occurs in the latest Maastrichtian.
+The theropod TDE (figure 1c) is very similar to that
+obtained for Ornithischia, with significant diversity
+increases during the Late Jurassic, late Early Cretaceous
+and latest Cretaceous and a notable decline in diversity
+during the Maastrichtian; however, the latter is less
+marked than that observed in the ornithischian record
+(25% decrease in taxonomic richness). A notable
+deviation between the theropod and ornithischian curves
+occurs in the Late Triassic, which exhibits a small peak in
+theropod diversity at a time when ornithischians are
+exceptionally rare (Butler et al. 2007; Irmis et al. 2007).
+There are several discrepancies between the theropod
+TDE and PDE: (i) the PDE show a prominent diversity
+increase over the Triassic–Jurassic boundary that is not
+present in the TDE; (ii) the heights of the Middle and Late
+Jurassic diversity peaks are approximately equal in the
+PDE, whereas, in the TDE, the Late Jurassic diversification is greater in magnitude; (iii) a significant diversity
+trough is present in the PDE between the Aptian and late
+Santonian, while a more complex pattern of peaks and
+troughs occurs in the TDE; and (iv) the PDE indicates
+that theropod decline during the Late Cretaceous began in
+the Campanian (not the Maastrichtian as in the TDE) and
+was more severe than predicted by the TDE (79%
+decrease in taxonomic richness between the Campanian
+peak and the K–P boundary).
+Sauropodomorph diversity patterns share some similarities with those of theropods and ornithischians,
+including peaks during the Late Jurassic, late Early
+Cretaceous and latest Cretaceous and a major decline in
+diversity during the early Late Cretaceous (figure 1d ).
+However, the sauropodomorph TDE and PDE both
+Proc. R. Soc. B (2009)
+
+diverge significantly from the general pattern of increasing
+diversity observed in the other clades: (i) peak sauropodomorph diversity occurs in the Late Jurassic, in contrast
+to the other clades whose diversity peaks during the
+Campanian (Late Cretaceous); (ii) numerous sauropodomorph taxa were present during the Late Triassic to
+Middle Jurassic interval, while ornithischian diversity was
+low throughout this period; (iii) the Jurassic–Cretaceous
+boundary represents a major extinction event for sauropodomorphs (loss of 82 and 58% of taxonomic diversity
+for the TDE and PDE, respectively), whereas this event
+had little impact on other dinosaur clades (compare with
+figure 1b–c); (iv) the earliest Cretaceous has low-diversity
+sauropodomorph faunas, but witnessed rapid increases in
+theropod and ornithischian taxonomic richness; and
+(v) sauropodomorph diversity levels are maintained at an
+almost constant level during the final latest Cretaceous
+radiation of this clade (seen in the TDE only) and did not
+decline prior to the K–P boundary. In general, the
+sauropodomorph TDE and PDE are exceptionally
+similar, but the curves diverge in two respects: (i) the
+PDE record higher diversity in the early Middle Jurassic,
+and (ii) taxic diversity peaks present in the late Early
+Cretaceous and latest Cretaceous are not detected in the
+PDE (figure 1d ).
+(b) Influence of the rock record
+in dinosaur diversity
+As a first approximation, the number of DBF rises through
+time. However, there are notable dips in the DBF curve
+during the Early–Middle Jurassic and the early Late
+Cretaceous (figure 1a). The TDE and PDE for
+Ornithischia and Theropoda are strongly positively
+correlated with the DBF curve ( p!0.01 in all cases;
+table 1). Kendall’s t tests measure the synchronicity of
+increases and decreases in rock availability and TDE or
+PDE values: Ornithischia has the strongest positive
+correlation with DBF, followed by Theropoda (table 1).
+By contrast, the sauropodomorph TDE has a lower
+positive correlation with the DBF curve ( p!0.01) and a
+much weaker positive correlation is obtained for the PDE.
+The rs test for the sauropodomorph PDE shows a weak,
+negative correlation with DBF ( pZ0.02; table 1), and the
+Kendall’s t comparison is also weak and negative.
+Theropod and ornithischian diversities exhibit a general
+(though not smooth) increase through time, with each
+clade experiencing a notable reduction in diversity prior to
+the end of the Maastrichtian, in spite of a peak in DBF
+numbers at this time.
+Models relating diversity to rock availability were
+developed using TDE (see the electronic online supplementary material, table S3). The MDE are strongly
+correlated with TDE in both ornithischians and theropods
+and explain a large amount of the variance in the TDE
+( rZ0.808 and 0.840, respectively), whereas the amount
+of variance explained in the TDE of sauropods is
+exceptionally low (rZ0.071). Correlations between MDE
+and PDE are slightly different: values for ornithischians
+(rZ0.826) and sauropodomorphs ( rZ0.077) are similar to
+those obtained from comparisons between the MDE and
+TDE, whereas those obtained for theropods are weaker than
+that for the TDE ( rZ0.704). Although ornithischian and
+theropod diversity trajectories are similar (figure 1b–c),
+analysis of covariance demonstrates that the slope and
+
+Dinosaur diversity and the rock record P. M. Barrett et al.
+
+2671
+
+Table 1. Correlations between number of DBF, TDE and PDE for each of the three dinosaur clades. (All of these results are
+statistically significant (see text), but the low amount of variance explained for Sauropodomorpha (as measured by adjusted r)
+contrasts strongly with the values for the other two clades.)
+
+Ornithischia TDE
+Ornithischia PDE
+Theropoda TDE
+Theropoda PDE
+Sauropodomorpha TDE
+Sauropodomorpha PDE
+
+Pearson’s ( r)
+
+adjusted r
+
+Spearman’s (rs )
+
+Kendall’s (t)
+
+0.900
+0.953
+0.841
+0.841
+0.554
+0.298
+
+0.808
+0.907
+0.840
+0.704
+0.298
+0.077
+
+0.910
+0.909
+0.902
+0.769
+0.261
+K0.257
+
+0.750
+0.766
+0.742
+0.632
+0.232
+K0.174
+
+intercept of the rock models for each clade are all highly
+significantly different ( p!0.01), indicating that genuine
+differences exist, based on current data.
+The modelling approach assumes that diversity within
+a clade has been constant and varies only as a function of
+DBF numbers per time interval. Consequently,
+ornithischian and (to a lesser extent) theropod diversities
+appear to be closely related to the number of available
+DBF, whereas the latter measure is an exceptionally poor
+predictor of sauropodomorph diversity. Residuals
+obtained after removing MDE from the relevant TDE
+reveal that in the case of ornithischians, most of the
+diversity signals can plausibly be explained by variations
+in rock availability: the only major exceptions to this
+pattern are in the Early and Middle Jurassic, when
+ornithischians are significantly less diverse than would be
+expected on the basis of DBF numbers (figure 2a). Similar
+comments apply to theropod diversity: a few residuals lie
+below the expected range during the earliest and early Late
+Jurassic, and two significant positive residuals occur in the
+Late Triassic (figure 2b). Considerable differences
+between the sauropodomorph TDE and MDE result in
+the generation of high residual values in almost every
+timeslice (figure 2c). Sauropodomorphs appear to be overrepresented in relationship to the number of DBF for
+almost the entire duration of the Jurassic, whereas the
+converse situation prevails throughout the Cretaceous.
+Notable peaks occur during the earliest Cretaceous and
+the Turonian–Coniacian. However, the wide confidence
+limits mean that these results are not statistically
+significant. Nevertheless, the weaker, sometimes negative,
+correlations between the sauropodomorph TDE/PDE and
+DBF (table 1 and the electronic online supplementary
+material) suggest that this pattern may be informative, and
+that the trajectory of sauropodomorph diversity did
+deviate substantially from that predicted by the rock
+record. The lack of statistical significance of the residuals
+from the MDE is due to the wide confidence limits for
+Sauropodomorpha relative to the other two clades
+(compare figure 2a,b with 2c), which results from a
+combination of factors: (i) sample sizes for sauropodomorphs in each time bin are generally lower than those for
+ornithischians and theropods, and (ii) sauropodomorphs
+exhibit high diversity in the Late Triassic to Late Jurassic
+at a time when DBF numbers are generally low, in direct
+contradiction to the assumption in the MDE: consequently, the MDE is poor at explaining variance in
+the sauropodomorph dataset. Residuals obtained by
+subtracting PDEs from MDEs show similar patterns to
+those described for TDEs (see the electronic online
+supplementary material).
+Proc. R. Soc. B (2009)
+
+4. DISCUSSION
+Consideration of possible geological megabiases indicates
+that many of the peaks and troughs apparent in dinosaur
+diversity curves may not represent genuine biological
+events, but should probably be regarded as artefacts
+caused by variations in the amount of fossil-bearing rock
+preserved through time. Caution is therefore necessary
+when attempting to infer macroevolutionary patterns and
+processes from direct reading of the fossil record (see also
+Peters 2005; Smith & McGowan 2007; McGowan &
+Smith 2008). Nevertheless, when such biases are
+accounted for, several genuine diversity signals do appear
+to be present. Perhaps the most intriguing of these is the
+diminution of ornithischian and theropod dinosaur
+lineages several million years prior to the K–P extinction
+event: both clades underwent a drastic decline in both
+absolute terms (as shown in TDE and PDE) and relative
+to their predicted diversities (as shown by comparisons
+between TDE/PDE and MDE, although this decline is
+only statistically significant in the case of theropods;
+figure 2a,b and the electronic online supplementary
+material). This result contrasts strongly with other recent
+analyses that either found no evidence for a reduction in
+dinosaur diversification prior to the K–P boundary
+( Wang & Dodson 2006; Lloyd et al. 2008), or that
+explained the drop in diversity from the Campanian to the
+Maastrichtian as a consequence of sampling issues
+(Fastovsky et al. 2004, 2005): this difference that may be
+due to the fact that the diversity estimates presented herein
+are not based on methods that extensively resample the
+raw diversity/collections data (such as rarefaction). This
+observation supports the suggestion that factors other
+than the end-Cretaceous bolide impact were responsible
+for instigating a downward trend in taxonomic richness
+that preceded the unquestionably abrupt disappearance of
+many dinosaur taxa at the boundary itself (see also
+Archibald 1996; Archibald & MacLeod 2008). It is
+particularly notable that this diversity decline comes at a
+point in the Earth’s history when the opportunities for
+collecting dinosaur fossils are at their peak: DBF numbers
+reach their acme during the Maastrichtian, suggesting that
+this diversity signal cannot be accounted for by geological
+biases. However, our results agree with those of previous
+authors in identifying a pulse of diversification in the
+Campanian (e.g. Fastovsky et al. 2004; Wang &
+Dodson 2006).
+In contrast to the theropod and ornithischian diversity
+curves, sauropodomorph genus richness deviates strongly
+from that predicted by rock availability models. The
+reasons for this difference are unclear, however, as
+sauropodomorphs are often found in the same geological
+
+2672 P. M. Barrett et al.
+
+Dinosaur diversity and the rock record
+
+(a) 0.8
+
+residuals
+
+0.4
+0
+– 0.4
+– 0.8
+(b) 0.8
+
+residuals
+
+0.4
+0
+– 0.4
+– 0.8
+(c) 0.8
+
+residuals
+
+0.4
+0
+– 0.4
+– 0.8
+M Tr
+245.0
+
+U Tr
+Triassic
+
+E Jur
+
+M Jur U Jur
+Jurassic
+
+200.0
+
+150.0
+age (Ma)
+
+E Cre
+
+L Cre
+Cretaceous
+100.0
+
+65.6
+
+Figure 2. Time series of residuals of observed TDE from predicted MDE based on power-law models. Time-scale divisions as in
+figure 1. Dashed lines mark 95% confidence limits. (a) Ornithischia, (b) Theropoda and (c) Sauropodomorpha. See text for
+further details.
+
+formations as the other clades (see Weishampel et al.
+2004). It is possible that taphonomic factors may have
+played as part, as there is some evidence for habitat
+separation of sauropodomorphs and various ornithischian
+clades during the Cretaceous (Butler & Barrett 2008), but
+this observation requires further investigation. Nevertheless, our results suggest that geological megabiases had
+less influence on the sauropodomorph fossil record than
+expected. Changes in diversity recorded for this clade,
+such as their explosive radiation in the Late Triassic, the
+major extinction at the Jurassic/Cretaceous boundary and
+the radiation of Late Cretaceous sauropods, might
+either be attributable to other environmental factors or
+represent genuine macroevolutionary signals (Upchurch &
+Barrett 2005).
+Lloyd et al. (2008) expressed concern that consideration
+of geological megabiases might seriously compromise our
+ability to recover genuine biological signals. However,
+although we have presented strong evidence for the role
+of rock record quality in explaining dinosaur diversity
+changes, we have also provided evidence of independent
+Proc. R. Soc. B (2009)
+
+diversification trajectories for each of the three clades
+investigated and figure 2 illustrates some intervals where
+diversity is significantly higher or lower than predicted by the
+MDE (see the electronic online supplementary material).
+Lloyd et al.’s (2008) call for more refined models to
+investigate the relationship between the number of DBF
+and diversity should be addressed as it would clarify the
+factors that are the most significant in changing our
+estimates of diversity. However, it is striking that the amount
+of variance explained by the MDE is so high for theropods
+and ornithischians, especially in comparison with results
+obtained for marine taxa (Peters 2005; Smith & McGowan
+2007; McGowan & Smith 2008).
+Studies are now taking advantage of the availability of
+large, stable phylogenies that can be used to compensate
+for some of the shortcomings of the geological record.
+However, these serve to provide alternative models that
+are dependent on the strength of the phylogenies involved:
+just as the fossil record can be imperfect, so can
+phylogenies. Combining geological and phylogenetic
+data has a major role to play in constraining diversification
+
+Dinosaur diversity and the rock record P. M. Barrett et al.
+trajectories: simultaneous consideration of multiple independent clades may prove critical in developing better
+models to correct for the influence of geological megabiases and to reveal the genuine biological signals sought
+by all evolutionary biologists.
+R. J. Butler, M. T. Carrano, A. B. Smith, P. Upchurch and
+three anonymous referees provided much useful discussion.
+A.J.M. thanks W. Kiessling, H. Scholz and C. Simpson for
+their help with R scripts. A.J.M. acknowledges the Leverhulme Trust and Alexander von Humboldt Foundation
+postdoctoral funding that supported him during completion
+of this work.
+
+REFERENCES
+Alroy, J. et al. 2001 Effects of sampling standardization on
+estimates of Phanerozoic marine diversification. Proc. Natl
+Acad. Sci. USA 98, 6261–6266. (doi:10.1073/pnas.1111
+44698)
+Alroy, J. et al. 2008 Phanerozoic trends in the global diversity
+of marine invertebrates. Science 321, 97–100. (doi:10.
+1126/science.1156963)
+Archibald, J. D. 1996 Dinosaur extinction and the end of an era:
+what the fossils say. New York, NY: Columbia University
+Press.
+Archibald, J. D. & MacLeod, N. 2008 Dinosaurs, extinction
+theories for. In Encyclopedia of biodiversity (ed. S. Levin),
+pp. 1–9. London, UK: Academic Press.
+Barrett, P. M. & Willis, K. J. 2001 Did dinosaurs invent
+flowers? Dinosaur-angiosperm coevolution revisited. Biol.
+Rev. 76, 411–447. (doi:10.1017/S1464793101005735)
+Benton, M. J. 2001 Biodiversity on land and in the sea. Geol.
+J. 36, 211–230. (doi:10.1002/gj.877)
+Benton, M. J. 2008 How to find a dinosaur, and the role of
+synonymy in biodiversity studies. Paleobiology 34,
+516–533. (doi:10.1666/06077.1)
+Butler, R. J. & Barrett, P. M. 2008 Palaeoenvironmental
+controls on the distribution of Cretaceous herbivorous
+dinosaurs. Naturwissenschaften 95, 1027–1032. (doi:10.
+1007/s00114-008-0417-5)
+Butler, R. J., Smith, R. M. H. & Norman, D. B. 2007
+A primitive ornithischian dinosaur from the Late Triassic
+of South Africa, and the early evolution and diversification
+of Ornithischia. Proc. R. Soc. B 274, 2041–2046. (doi:10.
+1098/rspb.2007.0367)
+Butler, R. J., Upchurch, P. & Norman, D. B. 2008
+The phylogeny of the ornithischian dinosaurs. J. Syst.
+Palaeontol. 6, 1–40. (doi:10.1017/S1477201907002271)
+Dodson, P. 1990 Counting dinosaurs: how many kinds were
+there? Proc. Natl Acad. Sci. USA 87, 7608–7612. (doi:10.
+1073/pnas.87.19.7608)
+Fara, E. & Benton, M. J. 2000 The fossil record of Cretaceous
+tetrapods. Palaios 15, 161–165. (doi:10.1669/0883-1351
+(2000)015!0161:TFROCTO2.0.CO;2)
+Fastovsky, D. E., Huang, Y.-F., Hsu, J., Martin-McNaughton, J.,
+Sheehan, P. M. & Weishampel, D. B. 2004 Shape of
+Mesozoic dinosaur richness. Geology 32, 877–880.
+(doi:10.1130/G20695.1)
+Fastovsky, D. E., Huang, Y.-F., Hsu, J., Martin-McNaughton, J.,
+Sheehan, P. M. & Weishampel, D. B. 2005 Shape of
+Mesozoic dinosaur richness: reply. Geol. Online Forum
+2005, e75. (doi:10.1130/0091-7613(2005)31!e75:RO2.
+0.CO;2)
+Gradstein, F. M. Ogg, J. G. & Smith, A. G (eds) 2004
+A geologic timescale, Cambridge, UK: Cambridge
+University Press.
+Hallam, A. & Wignall, P. 1997 Mass extinctions and their
+aftermath. Oxford, UK: Oxford University Press.
+Proc. R. Soc. B (2009)
+
+2673
+
+Irmis, R. B., Parker, W. G., Nesbitt, S. J. & Jun, L. 2007 Early
+ornithischian dinosaurs: the Triassic record. Hist. Biol. 19,
+3–22. (doi:10.1080/08912960600719988)
+Jablonski, D., Erwin, D. H. & Lipps, J. H. (eds) 1996
+Evolutionary paleobiology, Chicago, IL: Chicago University
+Press.
+Lloyd, G. T., Davis, K. E., Pisani, D., Tarver, J. E., Ruta, M.,
+Sakamoto, M., Hone, D. W. E., Jennings, R. &
+Benton, M. J. 2008 Dinosaurs and the Cretaceous
+terrestrial revolution. Proc. R. Soc. B 275, 2483–2490.
+(doi:10.1098/rspb.2008.0715)
+McGowan, A. J. & Smith, A. B. 2008 Are global Phanerozoic
+marine diversity curves truly global? A study of the
+relationship between regional rock records and global
+Phanerozoic marine diversity. Paleobiology 34, 80–103.
+(doi:10.1666/07019.1)
+Norell, M. A. & Novacek, M. J. 1992 Congruence between
+suprapositional phylogenetic patterns: comparing cladistic
+patterns with the fossil record. Cladistics 8, 319–337.
+(doi:10.1111/j.1096-0031.1992.tb00074.x)
+Peters, S. E. 2005 Geological constraints on the macroevolutionary history of marine animals. Proc. Natl Acad.
+Sci. USA 102, 12 326–12 331. (doi:10.1073/pnas.05026
+16102)
+Peters, S. E. & Foote, M. 2001 Biodiversity in the
+Phanerozoic: a reinterpretation. Paleobiology 27,
+583–601. (doi:10.1666/0094-8373(2001)027!0583:BI
+TPARO2.0.CO;2)
+R Development Core Team 2008 R: a language and
+environment for statistical computing. Vienna, Austria:
+R Foundation for Statistical Computing. See http://www.
+R-project.org.
+Robeck, H. E., Maley, C. C. & Donoghue, M. J. 2000
+Taxonomy and temporal diversity patterns. Paleobiology
+26, 171–187. (doi:10.1666/0094-8373(2000)026!0171:
+TATDPO2.0.CO;2)
+Rosenzweig, M. L. 1995 Species diversity in space and time.
+Cambridge, UK: Cambridge University Press.
+Schluter, D. 2000 The ecology of adaptive radiation. Oxford,
+UK: Oxford University Press.
+Sepkoski Jr, J. J. 1997 Biodiversity: past, present and future.
+J. Paleontol. 71, 533–539.
+Sepkoski Jr, J. J. & Koch, C. F. 1996 Evaluating paleontologic
+data relating to bio-events. In Global events and event
+stratigraphy in the Phanerozoic (ed. O. H. Walliser), pp. 21–34.
+Berlin, Germany: Springer.
+Smith, A. B. 2001 Large-scale heterogeneity of the fossil
+record: implications for Phanerozoic diversity studies.
+Phil. Trans. R. Soc. Lond. B 356, 351–367. (doi:10.1098/
+rstb.2000.0768)
+Smith, A. B. 2007 Marine diversity through the Phanerozoic:
+problems and prospects. J. Geol. Soc. Lond. 164, 731–745.
+(doi:10.1144/0016/76492006-184)
+Smith, A. B. & McGowan, A. J. 2007 The shape of the
+Phanerozoic palaeodiversity curve: how much can be
+predicted from the sedimentary rock record of Western
+Europe. Palaeontology 50, 765–774. (doi:10.1111/j.14754983.2007.00693.x)
+Smith, A. B. & McGowan, A. J. 2008 Temporal patterns of
+barren intervals in the Phanerozoic. Paleobiology 34,
+155–161. (doi:10.1666/07042.1)
+Stanley, S. M. 2007 An analysis of the history of marine
+animal diversity. Paleobiology 33(4 Suppl.), 1–55. (doi:10.
+1666/06020.1)
+Taylor, M. P. 2006 Dinosaur diversity analysed by clade, age,
+place and year of description. In Ninth international
+symposium on Mesozoic terrestrial ecosystems and biota:
+abstracts and proceedings (eds P. M. Barrett & S. E. Evans),
+pp. 134–138. London, UK: The Natural History Museum.
+
+2674 P. M. Barrett et al.
+
+Dinosaur diversity and the rock record
+
+Upchurch, P. & Barrett, P. M. 2005 Phylogenetic and taxic
+perspectives on sauropod diversity. In The sauropods:
+evolution and paleobiology (eds K. A. Curry-Rogers &
+J. A. Wilson), pp. 104–124. Berkeley, CA: University of
+California Press.
+Valentine, J. W. (ed.) 1985 Phanerozoic diversity patterns:
+profiles in macroevolution, Princeton, NJ: Princeton
+University Press.
+Wang, S. C. & Dodson, P. 2006 Estimating the diversity of
+dinosaurs. Proc. Natl Acad. Sci. USA 103, 13 601–13 605.
+(doi:10.1073/pnas.0606028103)
+
+Proc. R. Soc. B (2009)
+
+Weishampel, D. B. & Jianu, C.-M. 2000 Plant-eaters and
+ghost lineages: dinosaurian herbivory revisited. In
+Evolution of herbivory in terrestrial vertebrates: perspectives
+from the fossil record (ed. H.-D. Sues), pp. 123–143.
+Cambridge, UK: Cambridge University Press.
+Weishampel, D. B. & Norman, D. B. 1989 Vertebrate
+herbivory in the Mesozoic: jaws, plants and evolutionary
+metrics. Spec. Pap. Geol. Soc. Am. 238, 87–100.
+Weishampel, D. B. Dodson, P. & Osmólska, H. (eds) 2004
+The Dinosauria, 2nd edn. Berkeley, CA: University of
+California Press.
+
+

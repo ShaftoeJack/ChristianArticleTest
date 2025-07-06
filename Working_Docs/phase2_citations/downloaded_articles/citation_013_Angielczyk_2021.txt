@@ -1,0 +1,1408 @@
+Journal of Vertebrate Paleontology
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/ujvp20
+
+A Redescription of Kunpania Scopulusa,
+a Bidentalian Dicynodont (Therapsida,
+Anomodontia) from the ?Guadalupian of
+Northwestern China
+Kenneth D. Angielczyk, Jun Liu & Wan Yang
+To cite this article: Kenneth D. Angielczyk, Jun Liu & Wan Yang (2021): A Redescription of
+Kunpania�Scopulusa, a Bidentalian Dicynodont (Therapsida, Anomodontia) from the ?Guadalupian
+of Northwestern China, Journal of Vertebrate Paleontology, DOI: 10.1080/02724634.2021.1922428
+To link to this article: https://doi.org/10.1080/02724634.2021.1922428
+
+View supplementary material
+
+Published online: 28 May 2021.
+
+Submit your article to this journal
+
+Article views: 167
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ujvp20
+
+Journal of Vertebrate Paleontology e1922428 (16 pages)
+© by the Society of Vertebrate Paleontology
+DOI: 10.1080/02724634.2021.1922428
+
+ARTICLE
+
+A REDESCRIPTION OF KUNPANIA SCOPULUSA, A BIDENTALIAN DICYNODONT
+(THERAPSIDA, ANOMODONTIA) FROM THE ?GUADALUPIAN OF NORTHWESTERN CHINA
+KENNETH D. ANGIELCZYK,*,1 JUN LIU, 2,3 and WAN YANG4
+Negaunee Integrative Research Center, Field Museum of Natural History, 1400 South Lake Shore Drive, Chicago, Illinois 60605,
+U.S.A., kangielczyk@ﬁeldmuseum.org;
+2
+Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Paleontology
+and Paleoanthropology, CAS Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing 100044,
+China;
+3
+University of Chinese Academy of Sciences, Beijing 100049, China, liujun@ivpp.ac.cn;
+4
+Geology and Geophysics Program, Missouri University of Science and Technology, Rolla, MO 65409, U.S.A., yangwa@mst.edu
+1
+
+ABSTRACT—Permian dicynodonts were discovered in strata exposed on the ﬂanks of the Bogda Mountains (Xinjiang, China) in
+1928. Nearly all known specimens were collected in the Guodikeng Formation (= upper Wutonggou low-order cycle); the single
+exception is the holotype of Kunpania scopulusa, which originated in the underlying Quanzijie Formation. The Quanzijie
+Formation is generally considered Capitanian in age, which would make Kunpania one of the oldest known bidentalian
+dicynodonts, but the type of K. scopulusa has received little attention. Here we redescribe K. scopulusa and investigate its
+phylogenetic relationships. Kunpania scopulusa is a valid species diagnosed by the absence of anterior palatal ridges; a robust
+crista oesophagea; a prominent lateral dentary shelf; a posteriorly curving projection on the angular; and a large, triangular
+attachment area for M. latissimus dorsi on the humerus. Our phylogenetic analysis recovered K. scopulusa as a stemward
+member of Dicynodontoidea and the sister taxon of the South African species Sintocephalus alticeps. Depending on the precise
+age of the uppermost Quanzijie Formation, three scenarios describe the potential phylogenetic implications of K. scopulusa: (1)
+bidentalian dicynodonts diversiﬁed before the end-Guadalupian extinction, with little of their early history preserved; (2) the
+main diversiﬁcations of cryptodont and dicynodontoid bidentalians occurred in the aftermath of the end-Guadalupian
+extinction, with K. scopulusa representing the latter; (3) K. scopulusa is a contemporary of other mid–late Wuchiapingian
+dicynodontoids and the initial radiation of Dicynodontoidea is not preserved in the known fossil record.
+SUPPLEMENTAL DATA—Supplemental materials are available for this article for free at www.tandfonline.com/UJVP
+Citation for this article: Angielczyk, K. D., J. Liu, and W. Yang. 2021. A redescription of Kunpania scopulusa, a bidentalian
+dicynodont (Therapsida, Anomodontia) from the ?Guadalupian of northwestern China. Journal of Vertebrate Paleontology.
+DOI: 10.1080/02724634.2021.1922428
+
+INTRODUCTION
+By almost every standard, Bidentalia (sensu Kammerer and
+Angielczyk, 2009) is the most successful clade of dicynodont therapsids. Not only are the two most diverse groups of late Permian
+dicynodonts, the (possibly paraphyletic) Cryptodontia and the
+Dicynodon-grade dicynodontoids, part of Bidentalia (e.g.,
+Angielczyk et al., 2019; Kammerer, 2019a; Olivier et al., 2019;
+Liu, 2020), it also includes the two dominant Triassic dicynodont
+clades, Lystrosauridae and Kannemeyeriiformes. Bidentalia has
+the longest temporal range of any major dicynodont clade (Fröbisch, 2008) and it achieved a global distribution, with bidentalian remains having been recovered from every continent
+(Fröbisch, 2009). The clade displays considerable morphological
+disparity (Ruta et al., 2013), perhaps most impressively exempliﬁed by the recent description of the elephant-size Lisowicia
+bojani from the Upper Triassic of Poland (Sulej and Niedźwiedzki, 2019; although see Romano and Manucci, 2019).
+Despite its ubiquity in the late Permian and the Triassic, the
+early history of Bidentalia is mysterious. The presence of
+
+*Corresponding author.
+Color versions of one or more of the ﬁgures in the article can be found
+online at www.tandfonline.com/ujvp.
+
+Published online 28 May 2021
+
+Emydopoidea, the sister taxon of Bidentalia, in the middle
+Permian (Angielczyk et al., 2005; Angielczyk and Cox, 2015;
+Day et al., 2018; Day and Rubidge, 2020) implies that the clade
+must have originated by this time. However, the middle
+Permian fossil record of Bidentalia is almost non-existent. The
+single specimen of Rastodon procurvidens from the Rio do
+Rasto Formation of Brazil (Boos et al., 2016) is the only probable
+bidentalian record from the Guadalupian so far described;
+Australobarbarus from the Port Kotel’nich locality of Russia is
+likely Lopingian in age (Kurkin, 2011; Benton et al., 2012; Sennikov and Golubev, 2017; Kammerer and Masyutin, 2018). As
+expected, given its phylogenetic position, Rastodon lacks many
+of the distinctive characters found in later-diverging bidentalians
+(Boos et al., 2016; Simão-Oliveira et al. 2020), and it provides
+only limited insight into the subsequent diversiﬁcation of Cryptodontia and Dicynodontoidea. The same is true for other potential
+basal bidentalians or basal cryptodonts that occur in the Lopingian such as Keyseria or Daqingshanodon (see discussion in
+Angielczyk and Kammerer, 2017), although the recent discovery
+of Bulbasaurus from the Tropidostoma Assemblage Zone of
+South Africa has shed new light on the early history of the
+Geikiidae (Kammerer and Smith, 2017). The ‘elphids’ Elph,
+Interpresosaurus, and Katumbia, from the Lopingian of Russia
+and Tanzania (Kurkin, 1999, 2001; Angielczyk, 2007) may be
+basal dicynodontoids, but their phylogenetic position is
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-2)
+contentious (Angielczyk and Kammerer, 2017) and they are
+contemporaries of more advanced dicynodontoids such as
+Peramodon, Vivaxosaurus, Dicynodon, and Euptychognathus
+instead of true early occurrences of Dicynodontoidea (Sidor
+et al., 2010; Sennikov and Golubev, 2017).
+Dicynodont fossils were ﬁrst discovered in the Permo-Triassic
+strata exposed on the ﬂanks of the Bogda Mountains of Xinjiang
+by P. Yuan in 1928 as part of the Sino-Swedish expedition of
+1925–1931 led by Sven Hedin (Yuan and Young, 1934; Yuan,
+1935). Nearly all of the Permian dicynodont material collected in
+this area over the past eight decades originated in outcrops of the
+Guodikeng Formation exposed on the northern and southern
+ﬂanks of the Bogda Mountains (e.g., Lucas, 2001; Li and Sun,
+2008). The Guodikeng Formation is thought to span the PermoTriassic boundary, although the exact placement of the boundary
+within the formation has been the subject of much debate (see
+review in Liu and Abdala, 2017). However, one important specimen,
+the holotype of Kunpania scopulusa Sun, 1978 was collected lower in
+the section, in the upper Quanzijie Formation (QZJ). The description of the specimen presented by Sun (1978) is quite brief, and
+K. scopulusa has never been included in a modern phylogenetic
+analysis. Furthermore, when discussed in the vertebrate paleontology literature, K. scopulusa generally has been portrayed as Lopingian in age, roughly coeval with the Daptocephalus Assemblage
+Zone of the South African Karoo Basin, based on its frequently
+assumed synonymy with Dicynodon (e.g., Lucas, 1998, 2001, 2005,
+2006, 2018; Metcalfe et al., 2009). This age estimate conﬂicts with
+the palynology of the QZJ and radiometric dates of surrounding
+strata, however, which are more consistent with a Capitanian age
+(e.g., Zhu et al., 2005; Yang et al., 2010; Liu et al., 2020). If
+K. scopulusa is Capitanian, it would be a key early record of Bidentalia. Moreover, its at least superﬁcial similarity to taxa such as
+Dicynodon and Daptocephalus raises the possibility that it could
+be the oldest occurrence of Dicynodontoidea yet known, offering
+new insight into the early stages of the clade’s evolution.
+Here, we redescribe the holotype of K. scopulusa, including
+new information resulting from additional preparation of the
+ventral surface of the skull. We also address the persistent question of whether K. scopulusa is a valid taxon, include it in a cladistic analysis of dicynodonts for the ﬁrst time, and discuss its
+potential implications for the timing and geographic location of
+the early diversiﬁcation of Bidentalia.
+Institutional Abbreviations—BP, Evolutionary Studies Institute, Johannesburg, South Africa; IVPP, Institute of Vertebrate
+Paleontology and Paleoanthropology, Beijing, China; LPB,
+Savannakhet Dinosaur Museum, Savannakhet, Laos; NHCC,
+National Heritage Conservation Commission, Lusaka, Zambia;
+NMT, National Museum of Tanzania, Dar es Salaam, Tanzania;
+SAM, Iziko Museums of South Africa, Cape Town, South Africa.
+Anatomical Abbreviations—acp, acromion process; al, tusk
+alveolus; an, angular; caf, articular facet for coracoid plate; cf,
+coracoid foramen; cn, cnemial crest; co, crista oesophagea; cp,
+capitulum; den, dentary; dt, dentary table; dpc, deltopectoral
+crest; ec, ectopterygoid; ect, ectepicondyle; en, external naris;
+ent, entepicondyle; gl, gelnoid; gr, groove; h, humeral head; ipv,
+interpterygoid vaculity; ju, jugal; la, lacrimal; lc, lateral
+condyle; ld, latissimus dorsi insertion; lds, lateral dentary shelf;
+lpf, lateral palatal foramen; mc, medial condyle; mcr, metacoracoid; mf, mandibular fenestra; mx, maxilla; na, nasal; pc, procoracoid; pds, posterior dentary sulcus; pl, palatine; pm, premaxilla,
+ppr, posterior median palatal ridge; pt, pterygoid; ri, ridge; rla,
+reﬂected lamina of angular; sm, septomaxilla; sq, squamosal; tr,
+origin of scapular head of triceps; tro, trochlea; vo, vomer.
+GEOLOGICAL SETTING
+The holotype of K. scopulusa (IVPP V 4695) was collected in the
+upper 18 m of the QZJ (Zhao, 1980) on cliff of gray-green sandstone
+
+overlying a conglomerate bed (Sun, 1989). The QZJ exposed in the
+Bogda Mountains was deposited in grabens of the greater TurpanJunggar intracontinental rift basin (Yang et al., 2010). The basin
+was located at approximately paleo-mid-latitude of northeast
+Pangea on the easternmost Kazakhstan Plate, near the northwest
+coast of the Paleo-Tethys (Sengor et al., 1993; Sengor and Nat’lin,
+1996; Ziegler et al., 1997; Scotese, 2001; Liu et al., 2020).
+The QZJ Formation ranges from approximately 70–180 m thick,
+and is composed of conglomerate, sandstone, mudrock, and paleosols (Yang et al., 2010; Obrist-Farner and Yang, 2015, 2016, 2017).
+The formation contains two depositional cycles, the lower and
+upper QZJ low-order cycles (LCs; Obrist-Farner and Yang, 2015).
+The base of the lower QZJ LC is an erosional unconformity and disconformity with high topographic relief, juxtaposing the underlying
+lacustrine deposits with the overlying meandering stream deposits.
+The top of the lower QZJ LC is variable, taking the form of a disconformity, local erosional unconformity, or conformity, and it juxtaposes stacked Vertisols, Calcisols, and/or Argillisols with the
+overlying upper QZJ LC. The upper QZJ LC contains laterally persistent, thick, and massive red mudrocks and laterally discontinuous
+conglomerates. The former is interpreted as loess deposits and the
+latter as ephemeral braided and meandering stream deposits
+(Obrist-Farner and Yang, 2016, 2017). In the Dalongkou section
+in Jimsar, at the northern foothills of Bogda Mountains, argillic Protosols occur within the LC; and thick Gleysols in the upper part are
+overlain conformably by upper Permian lacustrine deltaic and
+ﬂuvial deposits. The age of the lower and upper QZJ LCs was interpreted as Capitanian by Obrist-Farner and Yang (2015) on the basis
+of absolute ages in the underlying and overlying strata reported by
+Yang et al. (2010; see also XBGMR, 1993; Cai, 1999; Wartes et al.,
+2002; Zhu et al., 2005; Yang et al., 2007) and cyclostratigraphic correlation between sections at the northern and southern foothills of
+the Bogda Mountains (Obrist-Farner and Yang, 2015, 2016).
+However, it is important to note that direct radiometric dates currently are not available for the upper QZJ LC, so it is possible
+that its upper part could be early Wuchiapingian in age. An
+upper bound on the minimum age of the upper QZJ LC is a date
+of 254.22 Ma in the overlying Wutonggou LC (Yang et al., 2010).
+Obrist-Farner and Yang (2016) suggested that the Argillisols in
+the lower QZJ LC in the Dalongkou section indicate landscape
+stability, a prolonged period of subaerial exposure, and subhumid
+climate in the Jimsar area. The ﬂuvial-loessial deposits and argillic Protosols in the upper QZJ LC indicate subhumid conditions
+alternating with arid–semiarid episodes and a change in the
+atmospheric circulation pattern. The Gleysols in the uppermost
+part indicate a change to subhumid–humid conditions at the
+end of QZJ time. In general, persistent aridity, eolian processes,
+and dust-trapping mechanisms had existed in northeast Pangea
+during Capitanian time. The gradual but dramatic climatic
+change from arid–semiarid to subhumid–humid conditions at
+the end of the Capitanian correlates with and is the result of
+the global demise of the Late Paleozoic Ice Age.
+SYSTEMATIC PALEONTOLOGY
+THERAPSIDA Broom, 1905
+ANOMODONTIA Owen, 1860
+DICYNODONTIA Owen, 1860
+THEROCHELONIA Seeley, 1894
+BIDENTALIA Bain vide Owen, 1860
+DICYNODONTOIDEA Olson, 1944
+KUNPANIA SCOPULUSA Sun, 1978
+(Figs. 1A–D, 2A–E, 3A–L)
+Kunpania scopulusa Sun, 1978:22
+Kunpania scopulusa Zhao, 1980:37
+Kunpania scopulusa Brink, 1986
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-3)
+
+FIGURE 1. Skulls of Kunpania scopulusa and Sintocephalus alticeps. Photographs of the holotype of K. scopulusa (IVPP V 4695) in A, left lateral, B,
+right lateral, C, anterior, and D, ventral views. The shaded area in C is the broken surface that suggests the snout tapered anteriorly to a narrow tip.
+Photographs of the holotype of Sintocephalus alticeps (SAM-PK-2347) in E, dorsal, F, ventral, and G, left lateral views. Sintocephalus alticeps is recovered as the sister taxon of K. scopulusa in the phylogentic analysis and may be a useful model for the complete skull of K. scopulusa. Scale bars are
+2 cm; upper scale bar applies to A–D, lower scale bar applies to E–G.
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-4)
+
+FIGURE 2. Mandibles of Kunpania scopulusa and comparative specimens. Photographs of the holotype of K. scopulusa (IVPP V 4695) in A, right
+lateral, B, left lateral, C, anterior, and D, dorsal views. E, photograph of the right side of the holotype of K. scopulusa (IVPP V 4695) in ventrolateral
+view. Gray shading highlights the mandibular fenestra; arrows highlight the curved ridge on the angular near the likely location of the reﬂected lamina
+of the angular. F, photograph of the holotype of Jimusaria sinkianensis (IVPP RV 341407) in right lateral view. A short, wide, straight ridge (arrow)
+arises vertically from the reﬂected lamina. G, photograph of Diictodon feliceps (IVPP V 3260; holotype of Dicynodon tienshanensis) in left lateral view
+(reﬂected for comparison). A straight, posteriorly angled ridge (arrows) arises from the reﬂected lamina. H, photograph of the holotype of
+Daqingshanodon limbus (IVPP V 7940) in left lateral view (reﬂected for comparison). A straight, posteriorly angled ridge (arrows) arises from
+the reﬂected lamina. I, photograph of the holotype of Taoheodon baizhijuni (IVPP V 25335) in right lateral view. A straight, posteriorly angled
+ridge (arrows) arises from the reﬂected lamina. J, photograph of the holotype of Lystrosaurus youngi (IVPP V 8532) in right lateral view. A straight,
+anteriorly angled ridge (arrows) arises from the reﬂected lamina. K, photograph of Compsodon helmoedi (NHCC LB211) in left lateral view.
+Although the reﬂected lamina was lost during preservation, the straight, vertical ridge is still visible (arrows). Upper scale bar applies to A–D and
+is 2 cm. Middle scale bar applies to E–F and is 2 cm. Lower left scale bar applies to G–J and is 2 cm. Lower right scale bar applies to K and is 1 cm.
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-5)
+
+FIGURE 3. Postcrania of Kunpania scopulusa and comparative specimens. Photographs of the right scapula of holotype of K. scopulusa (IVPP V
+4695) in A, lateral, B, medial, and C, posterior views. Photograph of the right coracoid plate of holotype of K. scopulusa (IVPP V 4695) in D,
+lateral view. The gray overlay masks portions of the medial surface of the right mandibular ramus that are visible in the image. Right clavicle of
+the holotype of K. scopulusa (IVPP V 4695) in E, anterior and F, posterior views. Right humerus of the holotype of K. scopulusa (IVPP V 4695)
+in G, dorsal and H, ventral views. Left proximal tibia of the holotype of K. scopulusa (IVPP V 4695) in I, anterior, J, posterior, K, lateral, and L,
+medial views. Right humerus of the crypdotont Oudenodon bainii (NMT RB27) in M, dorsal and N, ventral views. Right humerus of an indeterminate
+dicynodontoid species (NMT RB44) in O, dorsal and P, ventral views.
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-6)
+Kunpania scopulusa Cheng, 1986:209
+Kunpania scopulusa King, 1988:95
+Dicynodon scopulusa Lucas, 1998:84
+Dicynodon scopulusa Lucas, 2001:83
+Kunpania? scopulusa Li and Sun, 2008:388
+Dicynodon scopulusa Kammerer et al., 2011:91
+Holotype—IVPP V 4695, partial skull, partial mandible, right
+scapula, right procoracoid and metacoracoid, partial right clavicle, right humerus, proximal left tibia.
+Type Locality and Horizon—Gongbangou, Jimsar, Xinjiang,
+China. Upper Quanzijie Formation, ?Capitanian.
+Referred Material—None.
+Revised Diagnosis—A large dicynodontoid diagnosed by the
+following combination of characters (* = autapomorphy): anterior
+lateral and median palatal ridges absent; crista oesophagea robust,
+block-like; lateral dentary shelf large, dorsoventrally thick, triangular in dorsal view; small, posteriorly curving lateral projection
+on the angular at the level of the mandibular fenestra; *attachment area for M. latissimus dorsi on the humerus large, triangular.
+DESCRIPTION
+The material of K. scopulusa described and ﬁgured by Sun
+(1978) includes a partial skull, partial mandible, right scapula,
+right coracoid plate, and right humerus (Figs. 1–3). In addition
+to these specimens, a partial right clavicle and proximal left
+tibia with the same specimen number are present in the IVPP
+collections (Fig. 3). The preservation style of the latter specimens
+is identical to the rest of the K. scopulusa holotype, and the size
+of the elements is consistent with the other material, so we consider the clavicle and tibia to be part of the same individual.
+Skull
+The preserved portion of the skull has been laterally compressed and consists of the snout, the anterior section of the
+left suborbital bar, and the choanal region extending back to
+the median pterygoid plate (Fig. 1). The anterior tip of the premaxilla and the dorsal surface of the snout are missing. The left
+side of the snout is well preserved, but the right side is heavily
+damaged. The specimen is very large. Its preserved basal
+length is approximately 307 mm, and this would translate to an
+estimated snout-occipital condyle length of approximately
+442 mm if skull proportions similar to Daptocephalus leoniceps
+(based on BP/1/3927) are assumed.
+The premaxillae are fused into a single element that forms the
+anterior portion of the snout (Fig. 1A, D). Although the bone
+surface of the snout is roughly preserved, the general path of the
+premaxilla-nasal suture can be traced, and it seems clear that the
+posterior tip of the ascending process of the premaxilla was not
+bifurcated. The loss of the skull roof makes it impossible to
+assess whether the anterior edge of the mid-frontal suture closely
+approached the ascending process of the premaxilla. As preserved,
+a distinct longitudinal ridge is not present on the anterior surface of
+the snout, although lateral compression of the specimen gives the
+area a slightly ridged appearance (Fig. 1C). The premaxillary contribution to the palatal rim narrows anteriorly, and although the tip
+of the snout is damaged, it is suggestive of originally having tapered
+to something resembling the hooked beak of Dinanomodon (Kammerer et al., 2011). The facial suture between the premaxilla and
+maxilla is not well preserved, but it appears to have extended
+from near the ventral corner of the external naris to the palatal
+rim. The septomaxilla does not appear to have contacted the premaxilla along the external margin of the naris, but it is uncertain
+whether a contact between the elements was present within the
+narial opening (Fig. 1A).
+Sutures are not well preserved on the ventral surface of the
+skull, but the premaxilla seems to form the majority of the
+
+secondary palate, as is typical of dicynodonts (Fig. 1D). Importantly, both lateral and medial anterior palatal ridges are
+absent. The absence of lateral anterior palatal ridges is expected
+in a bidentalian given the distribution of this character among
+dicynodonts (e.g., see data matrix in Supplementary Data), but
+median anterior ridges are present in nearly all members of
+Bidentalia (occlusion of the lower jaw prevents the character
+from being assessed in Rastodon and the ridges are somewhat
+reduced in Pelanomodon; Kammerer et al., 2015; Boos et al.,
+2016). A posterior median palatal ridge is present (Fig. 1C).
+The ridge does not expand anteriorly, nor is it ﬂanked by
+strong longitudinal depressions. Posteriorly, the premaxilla contacts the palatine and the vomer. Premaxillary teeth are absent.
+The external naris is large (Fig. 1A, B). The left narial opening
+is nearly circular, but the right has a ﬂatter dorsal edge, giving it
+an appearance that is somewhat reminiscent of the saddleshaped naris in Dinanomodon (Kammerer et al., 2011). As is
+typical in dicynodonts, the naris is surrounded by the premaxilla,
+maxilla, nasal, and septomaxilla. The septomaxilla is unusually
+large and has a signiﬁcant crescentic exposure on the facial
+surface of the skull, forming the entire posterior rim of the
+naris and preventing the lacrimal from reaching the narial
+margin (Fig. 1A). A shallow postnarial depression is present
+near the posterodorsal corner of the naris.
+The maxilla contributes to the facial and palatal portions of the
+skull (Fig. 1A, B, D). On the facial surface, the maxilla meets the
+premaxilla along a short suture near the ventral corner of the external naris. As preserved, the suture is ﬂush with the surrounding surfaces of the snout, not located in a groove as in Oudenodon
+(Keyser, 1975). The large facial exposure of the septomaxilla and
+the lacrimal appear likely to prevent a contact between the nasal
+and maxilla, and a prefrontal-maxilla contact also seems very unlikely, although the prefrontal-lacrimal suture cannot be clearly discerned. Posteriorly, the posterior process of the maxilla extends
+towards the zygomatic arch. A small fragment of bone present at
+the posterior end of the preserved area of the suborbital bar
+appears to be the anteriormost tip of the squamosal. Assuming
+this identiﬁcation is correct, a maxilla-squamosal contact is present.
+The caniniform processes are broken off at the level of the palatal
+rim on both sides of the skull, so it is uncertain how far they
+extended ventrally (Fig. 1A, B). As preserved the caniniform
+process merges smoothly with the palatal rim and there is no evidence of the notch in the palatal rim seen in pylaecephalids (e.g.,
+Angielczyk and Sullivan, 2008; Angielczyk and Rubidge, 2010).
+The medial surface of the palatal rim anterior to the caniniform
+process is smooth and lacks the embayment common in emydopoids
+(e.g., Kammerer and Angielczyk, 2009). A weakly developed lateral
+caniniform buttress is present, but it lacks a posterior furrow. The
+posterior margin of the caniniform process merges smoothly with
+the suborbital bar and pterygoid girder, and there is no postcaniniform keel or crest.
+Sutures between the premaxilla and maxilla are not well preserved on the ventral surface of the skull, but it appears that
+the maxilla formed the lateral margins of the secondary palate
+and much of the palatal rim (Fig. 1D). The maxilla contacts the
+ectopterygoid, pterygoid, and palatine posteriorly, although
+damage associated with lateral compression has led to the displacement of some of these elements on the left side of the skull.
+Maxillary ‘postcanine’ teeth are absent, but tusks are present in
+IVPP V 4695. The left tusk is broken off at the level of the
+palatal rim, but the root is still embedded in the maxilla. A
+portion of the right tusk alveolus is visible within the broken
+right maxilla, but the right tusk itself is not preserved (Fig. 1B).
+The left side of the specimen indicates that the erupted portion
+of the tusk was located anterior to the anterior orbital margin.
+Only the anteriormost portion of the nasals is preserved. Anteriorly, the nasals contact the ascending process of the premaxilla
+along a v-shaped suture (Fig. 1A), but too little of the mid-nasal
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-7)
+suture is preserved to determine whether an anterior process of the
+frontal approached the premaxilla. As preserved, strongly developed nasal bosses are not present. However, general damage to
+the nasals and rough preservation of the bone surface make it
+unclear how well the preserved appearance reﬂects the original
+morphology. Some large vascular pits are present on the surface
+of the nasals, which are comparable to those seen in Turfanodon
+(Kammerer et al., 2011). As noted above, the septomaxilla and
+lacrimal may separate the nasal from the maxilla.
+Part of the lacrimal is preserved on the left side of the skull,
+although the sutures delimiting it are difﬁcult to trace (Fig.
+1A). The facial portion of the lacrimal likely was approximately
+square. An anterior contact with the nasal is almost certain, but it
+is less clear if the lacrimal originally contacted the septomaxilla.
+If a lacrimal-septomaxilla contact was present, the large facial
+exposure of the septomaxilla would exclude the lacrimal from
+the rim of the external naris. It is unclear if a small portion of
+the prefrontal is preserved (a prefrontal-lacrimal suture is not
+obvious), but the conﬁguration of the nasal, lacrimal, and septomaxilla preclude the presence of a prefrontal-maxilla contact.
+Posteriorly, the lacrimal forms the anteroventral corner of the
+orbital rim. A change in bone surface color from gray to red
+appears to mark the approximate boundary between the lacrimal
+and the jugal on the ventral rim of the orbit. The lacrimal contacts the maxilla ventrally, but breakage has resulted in the loss
+of much of the external expression of this suture.
+The anterior portion of the jugal is preserved on the left side of
+the skull (Fig. 1A). It contacts the lacrimal anteriorly and the
+maxilla ventrally, and contributes to the ﬂoor of the orbit. A
+contact between the jugal and the palatine likely was present
+medially, but damage to this area on both sides of the skull
+makes this uncertain. IVPP V 4695 is too damaged to determine
+whether a labial fossa (sensu Angielczyk, 2001) was present.
+Parts of the vomer are visible on the ventral surface of IVPP V
+4695 (Fig. 1D). The anterior end of the mid-ventral vomerine
+plate is visible near the anterior end of the choanal space, where it
+contacts the posterior end of the premaxilla. The plate is very
+thin, of constant width, and lacks a ventral trough. At the posterior
+end of the choanal space, the vomer bifurcates to form the anterior
+margins of the teardrop-shaped interpterygoid vacuity. Assuming an
+original basal skull length of about 44 cm (see above), the length of
+the interpterygoid vacuity is about 8% of basal skull length, a value
+that is lower than that observed in most basal bidentalians, cryptodonts, and Dicynodon-grade dicynodontoids, although it is close to
+values seen in some lystrosaurids and kannemeyeriiforms.
+Although it is not fully exposed on either side of the specimen,
+the palatine seems to have the typical form of dicynodonts, consisting of an anterior pad that contacts the secondary palate and a
+plate-like posterior section that forms part of the choanal roof
+(Fig. 1D). The palatine pad is best preserved on the right side
+of the specimen, where it is oval and has a somewhat rugose
+surface texture. This rugosity is of a constant degree for the
+length of the pad, in contrast to the palatines of cryptodonts,
+which have a raised, rugose posterior section and a smoother
+anterior section that is ﬂush with the premaxillary secondary
+palate (e.g., Angielczyk, 2002). There is no evidence of a palatine
+foramen that pierces the palatine pad. Anteriorly, the palatine
+pad contacts the maxilla and premaxilla. Based on consistent
+aspects of cranial architecture across dicynodonts, the palatine
+likely also contacted the vomer, ectopterygoid, pterygoid, and
+jugal, but these sutures are not clearly preserved in IVPP V
+4695. An oval lateral palatal foramen can be seen on the left
+side of the skull at the level of the palatine pad.
+It is difﬁcult to state with certainty whether an ectopterygoid
+was present in IVPP V 4695. The best evidence of this element
+is found on the right side of the specimen, where a slightly
+raised, lozenge-shaped piece of bone is present between the posterior surface of the caniniform process and the anterior end of
+
+the anterior pterygoid ramus (Fig. 1B). The size, shape, and position of this piece of bone is similar to ectopterygoids seen in
+other Permian bidentalians, and a somewhat interdigitated
+suture appears to be visible slightly posterior to it. Therefore, we
+tentatively identify this area as a poorly preserved ectopterygoid.
+The pterygoids of dicynodonts consist of three main portions: the
+anterior pterygoid rami, which extend between the snout and
+median pterygoid plate, framing the choana; the median pterygoid
+plate, which is situated between the choana and the basicranium,
+and the posterior (or quadrate) rami, which arise from the posterolateral surface of the median pterygoid plate and extend posteriorly
+to wedge between the quadrate, squamosal, and paroccipital
+process. The anterior rami and the median pterygoid plate are
+more or less complete in IVPP V4695, but the posterior rami are
+not preserved (Fig. 1D). The lateral compression that has affected
+the specimen has caused the left anterior ramus to be displaced
+from its contact with the snout, but the right anterior ramus
+seems to be close to its original position. The anterior rami are relatively straight in ventral view and contact the maxilla, ectopterygoid,
+and palatine anteriorly. The right side of the specimen indicates that
+a low anterior keel was present on the ventral edge of the anterior
+ramus. More posteriorly, the anterior ramus bears a thin ventral
+ridge that converges with the crista esophagea on the median pterygoid plate (best seen on the left side of the specimen).
+The median pterygoid plate seems to be fairly wide relative to
+basal skull length (about 13% of skull length, assuming a length
+of about 44 cm) (Fig. 1D), more similar to the condition in
+Rastodon and Dicynodon-grade dicynodontoids than to the
+somewhat narrower median plates typical of most cryptodonts.
+Anteriorly, the median plate forms the posterior margin of the
+interpterygoid vacuity and contacts the vomer. Twisting of the
+choanal region has resulted in the ventral margins of the interpterygoid vacuity more closely approaching the level of the
+ventral surface of the median pterygoid plate on the left side of
+the skull than on the right side. However, it appears that the
+margins of the vacuity were dorsal to the level of the median
+plate originally. New preparation of IVPP V 4695 has revealed
+the crista oesophagea for the ﬁrst time. It is robust and blocklike, with a rounded, somewhat rugose ventral surface. In this
+way, the crista is more similar to those of some more basal dicynodonts, such as Eosimops (Angielcyk and Rubidge, 2013), than
+it is to the thinner and more blade-like cristae of most basal
+bidentalians, cryptodonts, and Dicynodon-grade dicynodontoids.
+Mandible
+The preserved portion of the mandible of IVPP V 4695 consists of the symphysis and the anterior portion of both mandibular rami (Fig. 2A–E). Slightly more of the right ramus is
+preserved than the left. The right coracoid plate is preserved
+lying across the medial surface of the right mandibular ramus.
+The overall appearance of the mandible is reminiscent of that
+of Daptocephalus leoniceps (e.g., BP/1/3927, SAM-PK-K10494;
+also see Ewer, 1961).
+As is typical for dicynodonts, the left and right dentaries are
+fused (Fig. 2A–D). Some cracks are visible in the symphyseal
+region, but there is no evidence of a suture between the dentaries. The symphysis is robust and blocky in appearance, with
+a ﬂat anterior surface that is roughly perpendicular to the
+lateral surfaces. The surface details are roughly preserved, but
+the remains of a longitudinal ridge appear to be present on the
+anterior surface of the symphysis (Fig. 2C). As preserved, this
+ridge appears to have been more strongly developed ventrally,
+becoming less well-deﬁned moving towards the dorsal margin
+of the jaw. The dorsal edge of the symphysis forms an upturned
+beak that projects above the dorsal surface of the jaw rami,
+and it bears a median groove along its posterior surface, similar
+to the morphology seen in most bidentalians. In lateral view,
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-8)
+there is some evidence of a curved ridge that follows the proﬁle
+of the symphysis on the right side of the mandible. A comparable
+ridge is not evident on the left side of the specimen, but this could
+be a preservational artifact. Sutures between the dentary and the
+splenial cannot be clearly discerned, so it is uncertain whether
+the splenial possessed an anterior process that contributed to
+the symphysis.
+In dorsal view, the symphysis is relatively elongate anteroposteriorly (Fig. 2D). Dentary tables (sensu Angielczyk and
+Rubidge, 2013) are present. Each table is bounded medially by
+a low ridge that forms the lateral wall of the median groove on
+the posterior surface of the symphyseal beak. The dorsal
+surface of the dentary table is slightly ventrolaterally angled.
+The posterior dentary sulcus is visible on the left side of the
+mandible (it is obscured by the coracoid plate on the right
+side). As typical of bidentalians, it is relatively narrow mediolaterally and dorsoventrally deep (Angielczyk and Rubidge, 2013).
+A thin ridge projects laterally from the lateral wall of the posterior dentary sulcus on the left side of the mandible, but a comparable feature is not evident on the right side. Anteriorly, the
+sulcus grades into the dentary table and it extends posteriorly
+over the preserved length of the dorsal surface of the dentary.
+Dentary teeth are absent.
+A prominent lateral dentary shelf is present on the lateral
+surface of the mandible, overhanging the mandibular fenestra
+(Fig. 2A, B, D). The dorsal surface of the shelf is ﬂat, and its
+anterior and posterior edges angle laterally and meet near its
+midpoint, giving the shelf a triangular appearance in dorsal
+view that is reminiscent of the morphology seen in Dicynodontoides (Cox, 1959). On the left side of the mandible, it appears
+that the shelf grades anteriorly into a sub-circular swelling
+similar to that observed in most bidentalians, although the area
+is imperfectly preserved. In lateral view the shelf is quite thick
+dorsoventrally, differentiating Kunpania from dicynodontoids,
+such as Jimusaria or Daptocephalus, in which the shelf is also prominent but much thinner dorsoventrally (e.g., IVPP RV 341407,
+BP/1/3927; also see Yuan and Young, 1934; Ewer, 1961). The
+lateral surface of the shelf on the left side of the mandible
+bears an oval depression (Fig. 2B) that is somewhat reminiscent
+of the lateral fossa that has been described in Kombuisia (Fröbisch, 2007; Fröbisch et al., 2010). However, we consider this
+feature to represent damage in IVPP V 4695 because a corresponding depression is not present on the right side (Fig. 2A).
+The mandibular fenestra is more completely preserved on the
+right side of the mandible and is framed by the dentary and the
+angular (Fig. 2E). The dorsal margin of the fenestra is straight
+and formed by the ventral surface of the lateral dentary shelf,
+whereas the ventral margin bows ventrally. Aside from its contribution to the mandibular fenestra, little of the angular is preserved in IVPP V 4695. The only noteworthy character of the
+preserved portion of the angular is a small lateral projection
+just behind the posterior margin of the mandibular fenestra
+(Fig. 2E), which King (1988) described as a protuberance for
+muscular attachment and included in her diagnosis of
+K. scopulusa. Anteriorly, this projection is a rounded swelling
+that curves ventrally; posteriorly, the swelling grades into a thin
+horizontal shelf. The bone surface of the ventral portion of the
+swelling appears to be damaged, so it might have been more prominent originally. The projection is close to the expected origin
+of the reﬂected lamina of the angular and may have been associated with that structure when the jaw was complete.
+Postcrania
+The scapula is a robust element, and the blade is strongly
+concave medially, presumably to match the contour of the
+body wall (Fig. 3A–C). The preserved straight-line dorsoventral
+length of the scapula is approximately 307 mm, and the element
+
+is approximately 340 mm long when measured along the curve of
+the blade. The lateral surface of the scapula is smooth and gently
+convex, and there is no evidence of a prominent lateral crest
+along the anterior edge, such as that seen in Dicynodontoides
+(Cox, 1959). A prominent, sub-triangular acromion process is
+present, although its dorsal margin is a smooth vertical continuation of the anterior edge of the scapula instead of a more horizontal surface that projects anteriorly from the edge of the
+scapula. Ventral to the acromion process the scapula widens to
+form the glenoid and the articular surface for the coracoid
+plate. A shallow fossa is present on the lateral surface of the
+base of the scapula, just above the articular surface for the procoracoid,
+which
+may
+represent
+the
+origin
+of
+M. supracoracoideus (DeFauw, 1986). The glenoid of the
+scapula is oval and projects strongly medially. The articular
+surface is relatively ﬂat and appears to have faced posterolaterally when the scapula was in life position. A raised, oval rugosity
+located just above the glenoid on the posterior surface of the
+scapula appears to represent the origin of the scapular head of
+M. triceps. Anterior to the glenoid, a deep groove that widens
+ventrally is present on the medial surface of the scapula. The cleithrum appears to be absent. There is no sign of the element itself
+among the preserved material, and the anterior margin of the
+scapula lacks a fossa to receive it.
+The right coracoid plate is preserved lying across the medial
+side of the right dentary ramus, so only the lateral surface of
+the plate is visible (Fig. 3D). The procoracoid is roughly rectangular, and it completely encloses the coracoid foramen. As
+preserved, the metacoracoid is triangular, with the apex directed
+posteriorly. However, its ventral edge is somewhat damaged, so it
+probably was more crescent-shaped originally, similar to the
+metacoracoids of other dicynodonts. The glenoid portion of the
+metacoracoid is strongly demarcated by a rounded rim that overhangs the lateral and posterior surfaces of the element. In lateral
+view, the glenoid is convex dorsally, giving it a domed appearance. The procoracoid and metacoracoid meet along a slightly
+undulating suture near the midpoint of the coracoid plate, but
+it is unclear whether the procoracoid would have contributed
+to the glenoid when all of the pectoral elements were in
+articulation.
+The clavicle is boomerang-shaped in anterior view, and the
+medial end is missing (Fig. 3E, F). The lateral end is also
+damaged, but it is complete enough to show that the element
+widened dorsoventrally as it approached the scapula. Matrix
+still partially covers the anterior surface of the clavicle, but it is
+sufﬁciently exposed to show that it is slightly convex. The posterior surface is ﬂat near the medial end of the element.
+Moving laterally, the ventral half of the surface becomes gently
+concave, whereas the surface dorsal to it forms a rounded,
+convex surface. As a result, the posterior surface is convex dorsally and concave ventrally at its (preserved) lateral end, presumably to facilitate articulation with the scapulocoracoid. The
+preserved length of the clavicle is 220 mm.
+The right humerus is one of the more complete postcranial
+elements, with only part of the deltopectoral crest missing and
+minor damage to the ectepicondyle, but many surface details
+are obscured by repaired breaks and rough preservation of the
+bone surface (Fig. 3G, H). The overall shape of the humerus is
+similar to that of many cryptodonts (e.g., Angielczyk et al.,
+2009:ﬁg. 4), particularly the seemingly square shape of the deltopectoral crest. The humerus is approximately 301 mm long, with
+proximal, mid-shaft, and distal widths of 168 mm, 92 mm, and
+174 mm, respectively. The proximal and distal ends are offset
+by approximately 31°.
+The humeral head is narrower anteroposteriorly than proximodistally, giving it an oval shape that contrasts with the anteroposteriorly wider heads of many dicynodonts (Fig. 3G). It
+extends well onto the dorsal surface of the humerus, and its
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-9)
+long axis is angled slightly posteriorly relative to the long axis of
+the humerus. The head is located on a broadly rounded central
+ridge that narrows towards the midshaft region. Posterior to
+this ridge, the dorsal surface bears a wide fossa that extends
+from near the proximal edge of the element to the attachment
+area for M. latissimus dorsi. The rounded insertion of
+M. subcoracoscapularis is located at the corner between the
+proximal and posterior edges of the humerus, and it has an
+unusual oval depression on its posterior surface that trends proximodistally. Just proximal to the mid-shaft, a prominent, triangular process projects posteriorly from the posterior edge of
+humerus. We interpret this as a homologue of the “pinna-like
+process” of DeFauw (1986:123), representing the insertion of
+M. latissimus dorsi (e.g., King, 1981; DeFauw, 1986; Angielczyk
+and Kurkin, 2003). Although they might be slightly exaggerated
+by damage, the size and shape of this process in K. scopulusa are
+unusual and the process may represent an autapomorphy for the
+species. Anteriorly, the dorsal surface of the deltopectoral crest is
+slightly depressed relative to the central ridge. The deltopectoral
+crest is damaged, but it appears to have had a squared-off shape
+similar to that found in many cryptodonts (Fig. 3M, N) instead of
+the more rounded shape typical of dicynodontoids (Fig. 3O, P).
+Most of the ventral surface of the proximal half of the humerus
+is occupied by a triangular depression that narrows towards the
+midshaft region and likely represents the insertion of
+M. coracobrachialis (e.g., King, 1981; DeFauw, 1986; Ray and
+Chinsamy, 2003; Angielczyk et al., 2009). The ectepicondylar
+foramen is absent.
+The distal half of the humerus expands from the mid-shaft
+constriction to about the same anteroposterior width as the
+proximal end (Fig. 3G, H). The ectepicondyle is damaged
+but appears to have been relatively robust and dorsoventrally
+thickened, with an approximately diamond-shaped crosssection. The proximal apex of this diamond likely represents
+the remains of a low supinator crest. In contrast to the ectepicondyle, the entepicondyle is more ﬂattened dorsoventrally.
+Posterior to the ectepicondyle, the central portion of the
+dorsal surface of the distal humerus is relatively ﬂat. Distal
+to this ﬂattened region, parts of the trochlea and capitulum
+extend onto the dorsal surface of the humerus, and they
+form one continuous articular surface. On the ventral
+surface of the distal humerus, a raised area extends diagonally
+from the distal margin of the deltopectoral crest to the entepicondyle. This area typically is pierced by the entepicondylar
+foramen in dicynodonts, but the foramen is still ﬁlled with
+matrix in IVPP V 4695. A subtriangular fossa is located
+anterior to the raised area, with its apex directed towards
+the entepicondyle. The anterior margin of this fossa is
+framed by the oval ventral portion of the capitulum. The
+ventral expression of the trochlea is much smaller and is
+elongated anteroposteriorly.
+The proximal end and most of the diaphysis of the left tibia
+are preserved (Fig. 3I–L). The preserved length of the element
+is 197 mm, the proximal width is 137 mm, and the approximate
+mid-shaft width is 59 mm. The proximal articular surface is
+oval and its anterior margin ﬂares dorsally, forming a prominent raised anterior rim. A low, rounded ridge divides the
+articular surface into distinct facets for the lateral and
+medial condyles of the femur. The cnemial crest is weakly
+developed, consisting of little more than the corner between
+the anterior and lateral sides of the proximal end of the
+element. A prominent sulcus is present on the lateral surface
+of the tibia. It begins slightly posterior and distal to the
+cnemial crest, and is narrower towards the proximal end,
+widening distally. The medial surface of the diaphysis also
+bears a longitudinal sulcus near the proximal end, but this
+gradually ﬂattens such that the surface is convex near the preserved end of the tibia.
+
+PHYLOGENETIC ANALYSIS
+Methods
+To investigate the phylogenetic relationships of K. scopulusa,
+we added it to a version of data matrix of Liu (2020) that we
+modiﬁed in several ways. The Liu (2020) matrix is a useful starting point because it includes several new dicynodont species that
+were described by Kammerer (2018, 2019a, b), Kammerer et al.
+(2019), Olivier et al. (2019), and Liu (2020), as well as three new
+characters that were added by Kammerer (2019a). It also encompasses the most recent taxonomic revision of Dicynodon-grade
+dicynodontoids (Kammerer, 2019a), which may be relevant in
+establishing the phylogenetic placement of Kunpania. We
+further increased the taxon sample of the data matrix by
+adding codings for Abajudon and Kembawacela from Olroyd
+et al. (2018) and Angielczyk et al. (2019). Finally, we made
+several updates to character state codings for Biseridens,
+Suminia, Tiarajudens, Turfanodon, Lystrosaurus hedini, and
+Jachaleria (see Supplemental Data for details).
+The ﬁnal dataset included 114 OTUs and 197 characters (Supplemental Data). Of these characters, 174 are discrete binary or
+multistate characters, of which seven characters were ordered
+and 167 were treated as unordered. All discrete-state characters
+were weighted equally. The remaining 23 characters are continuous. We treated the continuous characters as additive using the
+method of Goloboff et al. (2006), with mean values used as the
+codings for the OTUs except in cases when only a single
+measurement was available for an OTU. Unknown and inapplicable discrete state and continuous characters were coded as ‘?’
+(Strong and Lipscomb, 2000).
+We conducted a parsimony analysis of the dataset using TNT 1.5
+(October 2019 version) (Goloboff et al., 2008; Goloboff and Catalano, 2016), using two tree search strategies. The ﬁrst search used
+the new technology methods of TNT, speciﬁcally a driven search
+with the initial search level set at 65, which was checked every
+ﬁve hits. The initial number of addition sequence replicates was
+1,000, and the search was required to ﬁnd the shortest length
+trees 20 times. The analysis started with default settings for sectorial searching, tree drifting, parsimony ratchet and tree fusing. In
+the second analysis, we used the traditional search method of
+TBR branch swapping with 10,000 replicates and 10 trees held
+per replicate. Biarmosuchus served as the outgroup to root the
+most parsimonious cladograms from both analyses.
+We utilized symmetric resampling (Goloboff et al., 2003), jackknife analysis (Mueller and Ayala, 1982; Farris et al., 1996) and
+decay analysis (Bremer, 1988, 1994) to measure support for the
+most parsimonious cladograms. The symmetric resampling
+results are based on 10,000 replicates with a change probability
+of 33%; each replicate included a new technology search with
+default settings for tree drifting, parsimony ratchet and tree
+fusing, and 10 random addition sequence replicates. Absolute
+frequency values were used to summarize the results (Kopuchian
+and Ramírez, 2010). For the jackknife analysis of clade support
+we utilized 10,000 resampling replicates, with a 36% probability
+of character removal, and the same search parameters as for the
+symmetric resampling analysis. The decay analysis results are
+based on a sample of 904,707 suboptimal cladograms with
+lengths up to six steps longer than the most parsimonious cladograms. Following the recommendations of Goloboff et al. (2008),
+the suboptimal trees were generated through a series of traditional searches in which the length of suboptimal cladograms
+retained as well as the number of suboptimal cladograms were
+incrementally increased. The resulting cladograms were ﬁltered
+to remove duplicates before the decay analysis, so all 904,707 cladograms in the sample are unique. Finally, a 50% majority-rule
+consensus of the 904,707 cladograms was calculated to gain
+insight into how frequently the clades recovered in the most parsimonious cladograms are represented in suboptimal trees.
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-10)
+Results
+Three most parsimonious cladograms of length 1223.362 steps
+(consistency index = 0.226; retention index = 0.714) were recovered by the new technology search, and one additional cladogram was found by the traditional search. The strict consensus
+of the four cladograms can be found in Figure 4. Kunpania was
+nested well within Bidentalia in the most parsimonious cladograms, falling within Dicynodontoidea as the sister taxon of the
+South African species Sintocephalus alticeps. One unambiguous
+discrete-state synapomorphy supports the sister-group relationships of Sintocephalus and Kunpania: anterior tip of snout
+rounded (character (ch.) 12 state (st.) 0). More broadly, ﬁve
+unambiguous discrete-state synapomorphies support Dicynodontoidea (here treated as all descendants of the common ancestor of Basilodon woodwardi and Kannemeyeria simocephalus):
+keel-like extension of the palatal rim posterior to the caniniform
+process absent (ch. 31, st. 0); zygomatic portion of the squamosal
+without folded edge (ch. 61, state 0; unknown in Kunpania);
+contact of pterygoid and maxilla present (ch. 90, st. 1); intertuberal ridge present (ch. 103, st. 1; unknown in Kunpania and
+Sintocephalus); lateral dentary shelf present and well-developed
+(ch. 127, st. 2; unknown in Sintocephalus). Three unambiguous
+discrete-state synapomorphies support Bidentalia: keel-like
+extension of the palatal rim posterior to the caniniform process
+absent (ch. 30, st. 0); parietals exposed in midline groove or
+channel (ch. 49, st. 1; unknown in Kunpania); prootic rectangular
+alar process that forms a plate raised above surface of temporal
+fenestra wall, in front of fossa absent (ch. 108, st. 0; unknown in
+Kunpania and Sintocephalus). Finally, ﬁve unambiguous discretestate synapomorphies support Bidentalia exclusive of Rastodon:
+basisphenoid contribution to the basisphenoid-basioccipital
+tubera slopes anterodorsally at a steeper angle such that the
+parabasisphenoid contribution is still somewhat ridge-like but
+the portion of the ridge on the anterior surface of the tuber is
+more vertically oriented (ch. 98, st. 1; unknown in Kunpania
+and Sintocephalus); jaw ramus straight in dorsal view bends
+strongly laterally posterior to symphysis (ch. 115, st. 1;
+unknown in Sintocephalus); lateral dentary shelf present but
+relatively small (ch. 127, st. 1; altered in dicynodontoids; see
+above); anterodorsal edge of lateral dentary shelf developed
+into a rounded swelling (ch. 128, st. 2; unknown in Sintocephalus);
+lateral dentary shelf a thin ventrolaterally directed sheet that
+forms the dorsal margin of the mandibular fenestra (ch. 129, st.
+1; 0 in Kunpania and unknown in Sintocephalus).
+The results of the symmetric resampling, jackknife, and decay
+analyses indicate that the most parsimonious cladograms are
+weakly supported overall (Fig. 4; also see Figs. S1–S4), and that
+support for the placement of K. scopulusa within Dicynodontoidea also is weak. The branches surrounding it decay in 0.172 steps
+and mostly have symmetric resampling and jackknife values
+under 50%. Support for Bidentalia including K. scopulusa is
+slightly more robust. However, the hypothesized relationships
+for K. scopulusa in the most parsimonious cladograms also are
+found in 90% of the 904,707 cladograms used in the decay analysis (Fig. 4).
+DISCUSSION
+Taxonomic Status of Kunpania scopulusa
+The holotype of K. scopulusa is the only known specimen of
+the species, and its fragmentary nature and incomplete preparation have resulted in differing conclusions about the validity
+of the genus and species following Sun’s (1978) initial description. King (1988) was the ﬁrst author to consider whether
+K. scopulusa was valid, and she retained both the genus and
+the species. She included features of the dorsal surface of the
+dentary in her diagnosis of Kunpania (King, 1988:95): “Groove
+
+on biting surface of the mandible and another placed laterally
+… similar to Dicynodon except for the lateral groove on the
+dentary which is quite distinctive.” From this wording it is somewhat unclear what characters she is referencing, but we suspect
+the groove on biting surface of the mandible corresponds to
+the median groove on the posterior surface of the symphyseal
+beak, and the lateral groove is either the dentary table or the posterior dentary sulcus. However, her characterization of the
+dentary table and/or posterior dentary sulcus as being quite distinctive is surprising because similar morphologies were well
+documented in other Dicynodon-grade dicynodonts at the time
+King was writing (e.g., Ewer, 1961; Cluver and Hotton, 1981;
+King, 1981).
+Lucas (1998, 2001) synonymized the genus Kunpania with
+Dicynodon, but retained the species D. scopulusa as valid. Like
+King (1988), Lucas used characters of the mandible in his diagnosis, speciﬁcally the long mandibular fenestra, the prominent
+lateral dentary shelf, and the presence of a fossa dorsal to the
+shelf. However, he later reconsidered this conclusion and
+instead suggested that K. scopulusa was a nomen dubium
+(Lucas, 2005). This taxonomy has been carried forward in subsequent works (e.g., Lucas 2006, 2018; Metcalfe et al., 2009),
+although it is clear that Lucas considers K. scopulusa to
+conform to his conception of Dicynodon because it is the basis
+for his contention that the QZJ can be correlated with the
+Dicynodon (now Daptocephalus; Viglietti, 2020) Assemblage
+Zone of the Karoo Basin.
+Li and Sun (2008) tentatively treated K. scopulusa as a distinct
+and valid taxon, but their diagnosis simply paraphrases that of
+King (1988) and does not add any new information. Most
+recently, Kammerer et al. (2011) included K. scopulusa (as Dicynodon scopulusa) in their comprehensive taxonomic revision of
+Dicynodon. They noted similarities between IVPP V 4965 and
+the holotype of Jimusaria sinkianensis (anterior angulation of
+the tusks, long lateral dentary shelf), but they also observed
+that the much larger size of K. scopulusa made it unlikely to be
+a synonym of J. sinkianensis. Ultimately, they left the taxonomic
+status of K. scopulusa unresolved, and suggested that additional,
+better preserved material might be necessary to settle the issue.
+Our re-examination of IVPP V 4695 has uncovered several
+additional characters of K. scopulusa that can be used to diagnose the species. Perhaps the most obvious of these characters
+is the apparent absence of anterior median palatal ridges.
+Although these ridges are absent in some non-bidentalian dicynodonts (e.g., many emydopoids), they are present in all other
+members of Bidentalia for which this character can be assessed.
+Therefore, while not a true autapomorphy (i.e., a unique character state found only in K. scopulusa), the absence of anterior
+median palatal ridges differentiates K. scopulusa from other
+bidentalians, including all other taxa described from the
+Permian of China. Admittedly, the secondary palate of IVPP
+V4695 is imperfectly preserved and the initial preparation it
+received was coarse. Kammerer et al. (2015) documented that
+the relatively small anterior palatal ridges of Pelanomodon
+could sometimes appear to be absent in poorly preserved or prepared specimens. This raises the possibility that the absence of
+anterior ridges in IVPP V 4695 is also an artifact. However,
+because the area in question was still covered in matrix before
+our additional preparation was undertaken, and no evidence of
+the ridges was found during the new preparation, we consider
+the absence of ridges to be a genuine character.
+The robust, block-like crista oesophagea is another distinctive
+character in K. scopulusa. As with the absence of the anterior
+median ridges, this is not a true autapomorphy because a similarly
+wide crista oesophagea can be found in several stemward dicynodonts such as Eodicynodon, Colobodectes, Lanthanostegus, and
+Eosimops (Rubidge, 1990; Modesto et al., 2003a, b; Angielczyk
+and Rubidge, 2009, 2013). However, among bidentalians only
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-11)
+
+FIGURE 4. Strict consensus of four most parsimonious cladograms from the phylogenetic analysis. Scores: 1223.362 steps; consistency index = 0.226;
+retention index = 0.714. Support values are shown for non-kannemeyeriiform dicynodontoids and the basal node of Kannemeyeriiformes. Numbers at
+nodes represent decay index (left/top), symmetric resampling (middle), and the percentage of the 904,707 suboptimal trees in which the node is
+resolved (bottom/right). Results of the jackknife analysis are similar to those of the symmetric resampling analysis. For complete support values,
+including jackknife results, see Supplemental Data.
+
+Kitchinganomodon has a crista esophagea that approaches the
+morphology of K. scopulusa, which is part of the former taxon’s
+unusual pterygoid morphology (Maisch, 2002).
+
+A third potential diagnostic character of K. scopulusa is the
+small lateral projection on the angular posterior to the mandibular fenestra. The projection is only preserved on the right side of
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-12)
+the mandible because the corresponding area of the angular is
+missing on the left side. However, nothing about the right side
+of the mandible suggests that the projection is an artifact of preservation or preparation, so we interpret it as being a real morphological feature. King (1988; also see Li and Sun, 2008)
+included it in her diagnosis of K. scopulusa, suggesting that it
+may have served as a muscle attachment. However, the position
+of the projection on the angular near the posterior margin of the
+mandibular fenestra is close to the point of origin of the reﬂected
+lamina of the angular in dicynodonts, so it may be associated with
+that structure instead. Many dicynodonts possess a vertical or
+subvertical ridge on the angular posterior to the mandibular
+fenestra that supports the base of the reﬂected lamina and that
+often continues dorsally to near the edge of the mandible. The
+projection in IVPP V 4695 differs from this morphology in
+curving posteriorly at the level of the mandibular fenestra, and
+there is no dorsal continuation towards the margin of the mandible. Moreover, it seems unlikely that the projection’s unusual morphology is the result of breakage: specimens in which the reﬂected
+lamina has been broken off often still possess a clear vertical ridge,
+not a horizontal structure (Fig. 2K). Mandibles are known for all
+other currently recognized Chinese Permian dicynodont genera
+except Turfanodon bogdaensis and the unnamed cryptodont
+from the Sunjiagou Formation (Yuan and Young, 1934; Sun,
+1973; Zhu, 1989; Liu, 2020; Yi and Liu, 2020), and none shows a
+comparable projection in this area of the angular (Fig. 2F–J).
+Therefore, even if the projection is associated with the reﬂected
+lamina, it is still useful for differentiating K. scopulusa from
+other dicynodonts and raises the possibility that the reﬂected
+lamina had an unusual morphology in the species.
+In the postcranial skeleton, the large, triangular process for the
+attachment of M. latissimus dorsi on the posterior surface of the
+humerus is perhaps the most unequivocal autapomorphy for
+K. scopulusa. Although it has been known for some time that a
+“pinna-like” process for the latissimus dorsi is widely distributed
+among bidentalian dicynodonts (e.g., DeFauw, 1986; also see discrete-state character 152 in the current data matrix), typically it is
+a low, sinuous, dorsoventrally ﬂattened ridge on the posterior
+surface of the humeral diaphysis (Fig. 3M–P). We are unaware
+of any other described dicynodont species whose humerus
+bears such a prominent process. This character, along with the
+relatively narrow but well-deﬁned humeral head, raise the possibility of some functional specialization in the forelimb in
+K. scopulusa. The scapulocoracoid and the clavicle seem more
+generalized, however, and a detailed functional analysis of the
+forelimb would beneﬁt from the discovery of more complete,
+better preserved material.
+Taken together, these observations indicate that despite its
+poor preservation, the holotype of K. scopulusa presents a
+suite of diagnostic characters that is distinct from other dicynodont species, including at least one autapomorphy. Therefore,
+we uphold Kunpania scopulusa as valid. It is also important to
+note that K. scopulusa falls well away from the two currently
+recognized species of Dicynodon in our most parsimonious cladograms, indicating that previous suggestions that K. scopulusa
+can be treated as part of Dicynodon (Lucas, 1998, 2001; Kammerer et al., 2011) are unlikely to be correct. The hypothesized
+sister group relationship between Kunpania and Sintocephalus
+is interesting because it raises the possibility that the more completely known skull of Sintocephalus (Fig. 1E–G) could be used
+as a model for predicting anatomical features that are not
+preserved in IVPP V 4965. In particular, the temporal bar of
+Sintocephalus differs from most other Dicynodon-grade dicynodontoids in being relatively wide anteriorly and having greater
+exposure of the parietals on the skull roof (Kammerer et al.,
+2011). This morphology might be a useful search image for identifying other potential specimens of K. scopulusa if additional
+collecting in the QZJ is undertaken.
+
+The Age and Phylogenetic Implications of Kunpania
+scopulusa
+As noted above, the lower and upper QZJ LCs are generally
+considered to be Capitanian in age on the basis of palynology,
+radiometric dates, and cyclostratigraphic correlations (Zhu et al.,
+2005; Yang et al., 2010; Obrist-Farner and Yang, 2015, 2016).
+However, the age of the uppermost QZJ is somewhat poorly constrained because the radiometric dates that bracket the QZJ are
+based on samples from the underlying Hongyanchi and overlying
+Wutonggou LCs, which are stratigraphically well separated from
+the top of the QZJ LC (Yang et al., 2010). Therefore, although
+we can say that K. scopulusa is older than 254.22 Ma (the age of
+the date from the Wutonggou LC; Yang et al., 2010), it is difﬁcult
+to determine precisely how much older. We will consider three
+possible ages for K. scopulusa in our discussion of its phylogenetic
+implications (Fig. 5): (1) a late Capitanian age (i.e., >260 Ma;
+roughly equivalent to the Diictodon–Styracocephalus Subzone of
+the Tapinocephalus Assemblage Zone in the Karoo Basin; Day
+and Rubidge, 2020); (2) an early–mid Wuchiapingian age (i.e.,
+∼257 Ma; roughly equivalent to the Tropidostoma–Gorgonops
+Subzone of the Endothiodon Assemblage Zone in the Karoo
+Basin; Day and Smith, 2020); and (3) a mid–late Wuchiapingian
+age (i.e., ∼255 Ma; roughly equivalent to the Cistecephalus Assemblage Zone of the Karoo Basin; Smith, 2020).
+If K. scopulusa is late Capitanian in age (Scenario 1; lower line
+in Fig. 5), it would be one of only two bidentalian dicynodonts
+deﬁnitively known from the Capitanian (the other being
+Rastodon procurvidens from the Rio do Rasto Formation of
+Brazil; Boos et al., 2016) and the only member of Dicynodontoidea recorded from this interval. Assuming this scenario is
+correct, it implies that the early part of Bidentalian history is
+extremely poorly sampled because it requires ghost lineages of
+varying lengths for the elphids (sensu Angielczyk and Kammerer, 2017), all of the traditional cryptodont lineages, and at
+least three dicynodontoid lineages (Basilodon, Sintocephalus,
+and ‘higher’ dicynodontoids). These numerous ghost lineages
+also would indicate that the diversiﬁcation of Bidentalia began
+before the end-Guadalupian extinction. Indeed, the situation
+implied by this scenario, with a disaster taxon (Diictodon; Day
+et al., 2018) ﬂourishing in the extinction’s aftermath while a signiﬁcant diversiﬁcation takes place out of sight echoes the situation with Lystrosaurus and the radiation of kannemeyeriiform
+dicynodonts following the end-Permian extinction (e.g., Fröbisch, 2008; Ruta et al., 2013). Finally, Scenario 1 necessitates
+that bidentalians achieved a global distribution very quickly
+given the presence of Rastodon in southwestern Gondwana
+and Kunpania in northeastern Laurasia presumably shortly
+after the origin of the clade.
+An early–mid Wuchiapingian age for K. scopulusa (Scenario 2;
+middle line in Fig. 5) is more consistent with the known fossil
+record of Bidentalia. This age would make it a contemporary
+of early members of several cryptodont lineages such as
+Australobarbarus,
+Tropidostoma,
+Rhachiocephalus,
+and
+Bulbasaurus (e.g., Sennikov and Golubev, 2017; Kammerer and
+Masyutin, 2018; Day and Smith, 2020). Kunpania would still be
+the oldest known dicynodontoid, in keeping with its relatively
+stemward position on the phylogeny, and it would help to resolve
+the ghost lineage that currently exists at the base of Dicynodontoidea. In terms of the end-Guadalupian extinction, Scenario 2
+implies that although bidentalians originated before the extinction
+(as documented by Rastodon), their main radiation did not occur
+until after the event. The biogeographic expansion of Bidentalia
+would be relatively rapid, with several taxa present in Gondwana
+as well as Kunpania and Australobarbarus in Laurasia, but it too
+would likely follow the end-Guadalupian extinction.
+The mid–late Wuchiapingian age for K. scopulusa used in
+Scenario 3 (upper line in Fig. 5) results in essentially no
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-13)
+
+FIGURE 5. Phylogeny of bidentalian dicynodonts with the approximate stratigraphic ranges of included taxa plotted against the Standard Global
+Chronostratigraphic Scale (SGCS) and the vertebrate biozonation of the Beaufort Group (Karoo Basin, South Africa). The terms ‘cryptodonts’
+and ‘dicynodontoids’ are used informally to refer to the bidentalians that are sometimes recovered in a monophyletic Cryptodontia and non-kannemeyeriiform Dicynodontoidea, respectively. Capitanian records of the sister group of Bidentalia (Emydopoidea) and the bidentalian Rastodon indicate that the clade diverged in the middle Permian. The stratigraphic range shown for Kunpania encompasses the three alternative age estimates for
+the upper Quanzijie Formation discussed in the main text; the actual range for the genus was likely shorter. A Capitanian age for Kunpania (Scenario
+1; S1) implies that the bidentalian radiation began before the end-Guadalupian extinction and that much of the clade’s early history is unsampled. An
+early Wuchiapingian age (Scenario 2; S2) implies that the main bidentalian radiation occurred after the end-Guadalupian extinction and helps to
+resolve the dicynodontoid ghost lineage. A mid–late Wuchiapingian age (Scenario 3; S3) would make Kunpania a contemporary of other dicynodontoids, offering little insight into the early history of Bidentalia. Black stratigraphic ranges correspond to taxa known primarily or exclusively from the
+South African Karoo Basin and are taken from Smith et al. (2020); white stratigraphic ranges correspond to taxa known primarily or exclusively from
+outside the Karoo Basin. The Capitanian age of Rastodon is based on its co-occurrence with dinocephalians in the Rio do Rasto Formation (e.g.,
+Olroyd and Sidor, 2017). Ranges for the Chinese taxa (Daqingshanodon, Jimusaria, Kunpania, Lystrosaurus hedini, Taoheodon, Turfanodon) are
+based primarily on correlations presented in Liu (2018) and Liu et al. (2020). The range of Daqingshanodon has been shown as equivalent to that
+of Turfanodon based on the presence of Jimusaria- and Turfanodon-like dicynodonts in the Naobaogou Formation (Liu, 2019). The range of
+L. hedini assumes the presence of one Lystrosaurus species in western China whose range spans the Guodikeng, Jiucaiyuan, and Shaofanggou formations (see Liu, 2018 for ages). Ranges for the Laotian taxa (Counillonia, Repelinosaurus) reﬂect uncertainty over whether they are late
+Permian or Early Triassic in age (Olivier et al. 2019; Liu 2020). Ranges for Russian taxa (Australobarbarus, Elph, Idelesaurus, Interpresosaurus,
+Peramodon, Delectosaurus, Vivaxosaurus) are based on Sennikov and Golubev (2017). Ranges for Scottish taxa (Geikia elginensis, Gordonia) are
+based on the broad correlation between the Cuttie’s Hillock Sandstone Formation, the Hopeman Sandstone, and the Daptocephalus Assemblage
+Zone (e.g., Lucas, 2018). Ranges for taxa best known from Tanzania and Zambia (Euptychognathus, Dicynodon angielczyki, Daptocephalus
+huenei, Geikia locusticeps, Katumbia, Syops) are based on the hypothesis that the Usili Formation and upper Madumabisa Mudstone Formation
+span the boundary between the Cistecephalus and Daptocephalus assemblage zones of the Karoo Basin (Angielczyk and Kammerer, 2017; Angielczyk,
+2019). The Early Triassic occurrence of Kannemeyeriiformes is based on the presence of Sungeodon in the Early Triassic Jiucaiyuan Formation
+(Maisch and Matzke, 2014). Abbreviations: Cap, Capitanian; Chx, Changhsingian; Ci, Cistecephalus Assemblage Zone; Di–St, Diictodon–
+Styracocephalus Subzone (Tapinocephalus Assemblage Zone); Dy–Th, Dicynodon–Theriognathus Subzone (Daptocephalus Assemblage Zone);
+Eo-Gl, Eosimops–Glanosuchus Subzone (Tapinocephalus Assemblage Zone); Ind, Induan; Ld, Lystrosaurus declivis Assemblage Zone; Lm–Mo,
+Lystrosaurus maccaigi–Moschorhinus Subzone (Daptocephalus Assemblage Zone); Ly–Eu, Lycosuchus–Eunotosaurus Subzone (Endothiodon
+Assemblage Zone); Ole, Olenekian; Tr, Triassic; Tr–Go; Tropidostoma–Gorgonops Subzone (Endothiodon Assemblage Zone); Wuc, Wuchiapingian.
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-14)
+improvement in our knowledge of the early history of Bidentalia
+or Dicynodontoidea. Currently, the oldest members of Dicynodontoidea have their ﬁrst occurrences in the mid–late Wuchiapingian Cistecephalus Assemblage Zone strata in the Karoo
+Basin or time-equivalent strata in other basins (e.g., Fröbisch,
+2008; Sidor et al., 2010; Angielczyk et al., 2014; Sennikov and
+Golubev, 2017; Liu, 2020; Smith, 2020), and K. scopulusa would
+be a contemporary of these taxa. A ghost lineage of about
+three million years would separate the oldest dicynodontoids
+from their sister group (Geikiidae in the most parsimonious
+cladograms recovered here), which ﬁrst appears in the
+Tropidostoma–Gorgonops Subzone of the Endothiodon Assemblage Zone in the Karoo Basin (Day and Smith, 2020). Consistent with this missing history, dicynodontoids would have
+achieved a near global distribution by the time they ﬁrst
+appear in the fossil record, and the tempo and mode of their
+diversiﬁcation following the end-Guadalupian extinction would
+remain uncertain.
+At this time, it is difﬁcult to state which of these scenarios is
+most strongly supported. Scenario 1 is most consistent with
+current biostratigraphic and geochronologic estimates for the
+QZJ as a whole but suffers from the fact that the age of the uppermost QZJ is not well constrained. It is also problematic because
+of the substantial number of ghost lineages it requires. Although
+Scenario 2 requires a modest extension of the length of time represented by the upper QZJ LC, it is attractive because it ﬁts well
+with dicynodont phylogeny and suggests that the diversiﬁcation
+of both cryptodonts and dicynodontoids began shortly after the
+end-Guadalupian extinction. Scenario 3 is congruent with
+Lucas’ contention that K. scopulusa can be used as an index
+fossil to make correlations with Dicynodon- or dicynodontoidbearing strata in other basins (e.g., Lucas, 1998, 2001, 2005,
+2006, 2018; Metcalfe et al., 2009), but it requires that the age of
+the upper QZJ LC has been signiﬁcantly underestimated and
+the lower Wutonggou LC represents a very short period of
+time. A full resolution of this issue will only be possible with
+improved geochronologic data for the Permian strata exposed
+in the Bogda Mountains.
+ACKNOWLEDGMENTS
+We thank H.-L. Fu for undertaking additional preparation of
+IVPP V 4695. J. Lungmus provided assistance during collections
+visits. Photos in Fig. 1E–G were taken by C. Kammerer. Funding
+for this research was provided by NSF EAR-1714829 (to K.D.A.),
+NSF EAR-1714749 (to W.Y.), and Strategic Priority Research
+Program of CAS (XDB26000000) and NSFC 41661134047 (to
+J.L.). We thank the two anonymous reviewers for helpful comments
+that improved the quality of the manuscript.
+ORCID
+Jun Liu
+
+http://orcid.org/0000-0003-2205-9671
+
+LITERATURE CITED
+Angielczyk, K. D. 2001. Preliminary phylogenetic analysis and stratigraphic congruence of the dicynodont anomodonts (Synapsida;
+Therapsida). Palaeontologia Africana 37:53–79.
+Angielczyk, K. D. 2002. Redescription, phylogenetic position, and stratigraphic signiﬁcance of the dicynodont genus Odontocyclops (synapsida: Anomodontia). Journal of Paleontology 76:1047–1059.
+Angielczyk, K. D. 2007. New specimens of the Tanzanian dicynodont
+“Cryptocynodon” parringtoni von Huene, 1942 (Therapsida,
+Anomodontia), with an expanded analysis of Permian dicynodont
+phylogeny. Journal of Vertebrate Paleontology 27:116–131.
+Angielczyk, K. D. 2019. First occurrence of the dicynodont Digalodon
+(Therapsida, Anomodontia) from the Lopingian upper
+
+Madumabisa Mudstone Formation, Luangwa Basin, Zambia.
+Palaeontologia Africana 53:219–225.
+Angielczyk, K. D., and C. B. Cox. 2015. Distinctive emydopoid dicynodont (Therapsida, Anomodontia) mandibles from the Permian
+Ruhuhu and Usili formations (Songea Group), Ruhuhu Basin,
+Tanzania. Journal of Vertebrate Paleontology 35:e1008699.
+Angielczyk, K. D., and C. F. Kammerer. 2017. The cranial morphology,
+phylogenetic position, and biogeography of the upper Permian dicynodont Compsodon helmoedi van Hoepen (Therapsida,
+Anomodontia). Papers in Palaeontology 3:513-545.
+Angielczyk, K. D., and A. A. Kurkin. 2003. Phylogenetic analysis of
+Russian Permian dicynodonts (Therapsida: Anomodontia): implications for Permian biostratigraphy and Pangaean biogeography.
+Zoological Journal of the Linnean Society 139:157–212.
+Angielczyk, K. D., and B. S. Rubidge. 2009. The Permian dicynodont
+Colobodectes cluveri (Therapsida, Anomodontia), with notes on
+its ontogeny and stratigraphic range in the Karoo Basin, South
+Africa. Journal of Vertebrate Paleontology 29:1162–1173.
+Angielczyk, K. D., and B. S. Rubidge. 2010. A new pylaecephalid dicynodont (Therapsida, Anomodontia) from the Tapinocephalus
+Assemblage Zone, Karoo Basin, Middle Permian of South Africa.
+Journal of Vertebrate Paleontology 30:1396–1409.
+Angielczyk, K. D., and B. S. Rubidge. 2013. Skeletal morphology, phylogenetic relationships and stratigraphic range of Eosimops newtoni
+Broom, a pylaecephalid dicynodont (Therapsida, Anomodontia)
+from the Middle Permian of South Africa. Journal of Systematic
+Palaeontology 11:191–231.
+Angielczyk, K. D., and C. Sullivan. 2008. Diictodon feliceps (Owen, 1876),
+a dicynodont (Therapsida, Anomodontia) species with a Pangaean
+distribution. Journal of Vertebrate Paleontology 28:788–802.
+Angielczyk, K. D., J. Benoit, and B. S. Rubidge. 2019. A new tusked cistecephalid dicynodont (Therapsida, Anomodontia) from the upper
+Permian upper Madumabisa Mudstone Formation, Luangwa Basin,
+Zambia. Papers in Palaeontology 7:405–446.
+Angielczyk, K. D., J. Fröbisch, and R. M. H. Smith. 2005. On the stratigraphic range of the dicynodont taxon Emydops (Therapsida:
+Anomodontia) in the Karoo Basin, South Africa. Palaeontologia
+Africana 41:23–33.
+Angielczyk, K. D., C. A. Sidor, S. J. Nesbitt, R. M. H. Smith, and L. A.
+Tsuji. 2009. Taxonomic revision and new observations on the postcranial skeleton, biogeography, and biostratigraphy of the dicynodont genus Dicynodontoides, the senior subjective synonym of
+Kingoria (Therapsida, Anomodontia). Journal of Vertebrate
+Paleontology 29:1174–1187.
+Angielczyk, K. D., J.-S. Steyer, C. A. Sidor, R. M. H. Smith, R. L.
+Whatley, and S. Tolan. 2014. Permian and Triassic dicynodont
+(Therapsida: Anomodontia) faunas of the Luangwa Basin,
+Zambia: taxonomic update and implications for dicynodont biogeography and biostratigraphy; pp. 93–138 in Kammerer, C. F., K. D.
+Angielczyk, and J. Fröbisch (eds.), Early Evolutionary History of
+the Synapsida. Springer, Dordrecht.
+Benton, M. J., A. J. Newell, A. Y. Khlyupin, I. S. Shumov, G. D. Price, and
+A. A. Kurkin. 2012. Preservation of exceptional vertebrate assemblages in Middle Permian ﬂuviolacustrine mudstones of
+Kotel’nich, Russia: stratigraphy, sedimentology, and taphonomy.
+Palaeogeography, Palaeoclimatology, Palaeoecology 319–320:58–
+83.
+Boos, A. D. S., C. F. Kammerer, C. L. Schultz, M. B. Soares, and A. L. R.
+Ilha. 2016. A new dicynodont (Therapsida: Anomodontia) from the
+Permian of southern Brazil and its implications for bidentalian
+origins. PLOS One 11:e0155000.
+Bremer, K. 1988. The limits of amino acid sequence data in angiosperm
+phylogenetic reconstruction. Evolution 42:795–803.
+Bremer, K. 1994. Branch support and tree stability. Cladistics 10:295–304.
+Broom, R. 1905. On the use of the term Anomodontia. Albany Museum
+Records 1:266–269.
+Brink, A. S. 1986. Illustrated bibliographical catalogue of the Synapsida.
+Geological Survey of South Africa Handbook 10.
+Cai, T. 1999. Stratigraphy of Xinjiang Uygur Autonomous Region.
+Wuhan, China University of Geosciences Press, 430pp. [in
+Chinese with English abstract].
+Cheng, Z. 1986. Vertebrates; pp.207–218 in Permian and Triassic Strata
+and Fossil Assemblages in the Dalongkou Area of Jimsar,
+Xinjiang. People’s Republic of China Ministry of Geology and
+Mineral Resources Geological Memoirs Series 2 3. [in Chinese].
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-15)
+Cluver, M. A., and N. Hotton III. 1981. The genera Dicynodon and
+Diictodon and their bearing on the classiﬁcation of the
+Dicynodontia (Reptilia, Therapsida). Annals of the South African
+Museum 83:99–146.
+Cox, C. B. 1959. On the anatomy of a new dicynodont genus with evidence of the position of the tympanum. Proceedings of the
+Zoological Society of London 132:321–367.
+Day, M. O., and B. S. Rubidge. 2020. Biostratigraphy of the
+Tapinocephalus Assemblage Zone (Beaufort Group, Karoo
+Supergroup), South Africa. South African Journal of Geology
+123:149–164.
+Day, M. O., and R. M. H. Smith. 2020. Biostratigraphy of the
+Endothiodon Assemblage Zone (Beaufort Group, Karoo
+Supergroup), South Africa. South African Journal of Geology
+123:165–180.
+Day, M. O., R. B. J. Benson, C. F. Kammerer, and B. S. Rubidge. 2018.
+Evolutionary rates of mid-Permian tetrapods from South Africa
+and the role of temporal resolution in turnover reconstruction.
+Paleobiology 44:347–367.
+DeFauw, S. L. 1986. The Appendicular Skeleton of African Dicynodonts.
+Ph.D. Dissertation, Wayne State University, Detroit, Michigan, 284
+pp.
+Ewer, R. F. 1961. The anatomy of Daptocephalus leoniceps (Owen).
+Proceedings of the Zoological Society of London 136:375–402.
+Farris, J. S., V. A. Albert, M. Källersjö, D. Lipcomb, and A. G. Kluge.
+1996. Parsimony jackkniﬁng outperforms neighbor-joinning.
+Cladistics 12:99–124.
+Fröbisch, J. 2007. The cranial anatomy of Kombuisia frerensis Hotton
+(Synapsida, Dicynodontia) and a new phylogeny of anomodont
+therapsids. Zoological Journal of the Linnean Society 150:117–144.
+Fröbisch, J. 2008. Global diversity of anomodonts (Tetrapoda,
+Therapsida) and the terrestrial rock record across the PermianTriassic Boundary. PloS ONE 3(11):e3733.
+Fröbisch, J. 2009. Composition and similarity of global anomodontbearing tetrapod faunas. Earth-Science Reviews 95:119–157.
+Fröbisch, J., K. D. Angielczyk, and C. A. Sidor. 2010. The Triassic dicynodont Kombuisia (Synapsida, Anomodontia) from Antarctica, a
+refuge from the terrestrial Permian-Triassic mass extinction.
+Naturwissenschaften 97:187–196.
+Goloboff, P. A., and S. A. Catalano. 2016. TNT version 1.5, including a
+full implementation of phylogenetic morphometrics. Cladistics
+32:221–238.
+Goloboff, P. A., J. S. Faris, and K. C. Nixon. 2008. TNT, a free program for
+phylogenetic analysis. Cladistics 24:774–786.
+Goloboff, P. A., C. I. Mattoni, and A. S. Quinteros. 2006. Continuous
+characters analyzed as such. Cladistics 22:589–601.
+Goloboff, P. A., J. A. Farris, M. Källersjö, B. Oxelman, M. J. Ramírez, and
+C. A. Szumik. 2003. Imporvements to resampling measures of group
+support. Cladistics 19:324–332.
+Kammerer, C. F. 2018. The ﬁrst skeletal evidence of a dicynodont from
+the lower Elliot Formation of South Africa. Palaeontologia
+Africana 52:102–128.
+Kammerer, C. F. 2019a. Revision of the Tanzanian dicynodont
+Dicynodon huenei (Therapsida: Anomodontia) from the Permian
+Usili Formation. PeerJ 7:e7420.
+Kammerer, C. F. 2019b. A new dicynodont (Anomodontia:
+Emydopoidea) from the terminal Permian of KwaZulu-Natal,
+South Africa. Palaeontologia Africana 53:179–191.
+Kammerer, C. F., and K. D. Angielczyk. 2009. A proposed higher taxonomy of anomodont therapsids. Zootaxa 2018:1–24.
+Kammerer, C. F., and V. Masyutin. 2018. Gorgonopsian therapsids
+(Nochnitsa gen. nov. and Viatkogorgon) from the Permian
+Kotelnich locality of Russia. PeerJ 6:e4954.
+Kammerer, C. F., and R. M. H. Smith. 2017. An early geikiid dicynodont
+from the Tropidostoma Assemblage Zone (late Permian) of South
+Africa. PeerJ 5:e2913.
+Kammerer, C. F., K. D. Angielczyk, and J. Fröbisch. 2011. A comprehensive taxonomic revision of Dicynodon (Therapsida, Anomodontia)
+and its implications for dicynodont phylogeny, biogeography, and
+biostratigraphy. Society of Vertebrate Paleontology Memoir 11:1–
+158.
+Kammerer, C. F., K. D. Angielczyk, and J. Fröbisch. 2015. Redescription
+of the geikiid Pelanomodon (Therapsida, Dicynodontia), with a
+reconsideration of ‘Propelanomodon’. Journal of Vertebrate
+Paleontology 36: e1030408. DOI:10.1080/02724634.2015.1030408.
+
+Kammerer, C. F., P. A. Viglietti, P. J. Hancox, R. J. Butler, and J. N.
+Choiniere. 2019. A new kannemeyeriiform dicynodont
+(Ufudocyclops mukanelai, gen. et sp. nov.) from Subzone C of the
+Cynognathus Assemblage Zone, Triassic of South Africa, with
+implications for biostratigraphic correlation with other African
+Triassic faunas. Journal of Vertebrate Paleontology 39: e1596921.
+DOI: 10.1080/02724634.2019.1596921.
+Keyser, A. W. 1975. A re-evaluation of the cranial morphology and systematics of some tuskless anomodonts. Memoirs of the Geological
+Survey of South Africa 67:1–110.
+King, G. M. 1981. The functional anatomy of a Permian dicynodont.
+Philosophical Transactions of the Royal Society Series B 291:243–
+322.
+King, G. M. 1988. Anomodontia. Handbuch der Paläoherpetologie, 17 C.
+Gustav Fischer Verlag, Stuttgart, 174 pp.
+Kopuchian, C., and M. J. Ramírez. 2010. Behaviour of resampling
+methods under different weighting schemes, measures and variable
+sampling strengths. Cladistics 26:86–97.
+Kurkin, A. A. 1999. A new dicynodont from the Malaya Severnaya Dvina
+River excavations. Paleontological Journal 33:297–301.
+Kurkin, A. A. 2001. New Late Permian dicynodonts from the Vyazniki
+Assemblage of terrestrial deposits of eastern Europe.
+Paleontological Journal 35:53–59
+Kurkin, A. A. 2011. Permian anomodonts: paleobiogeography and distribution of the group. Paleontological Journal 45:432–444.
+Li, J., and A. Sun. 2008. Subclass Synapsida; pp. 379–417 in Li, J., X. Wu,
+and F. Zhang (eds.) The Chinese Fossil Reptiles and Their Kin.
+Second Edition. Science Press, Beijing.
+Liu, J. 2018. New progress on the correlation of Chinese terrestrial
+Permo-Triassic strata. Vertebrata PalAsiatica 56:327–342.
+Liu, J. 2019. The tetrapod fauna of the upper Permian Naobaogou
+Formation of China– 4. the diversity of dicynodonts. Vertebrata
+PalAsiatica 57:173–180.
+Liu, J. 2020. Taoheodon baizhijuni, gen. et sp. nov. (Anomodontia,
+Dicynodontoidea), from the upper Permian Sunjiagou Formation
+of China and its implications. Journal of Vertebrate Paleontology.
+DOI: 10.1080/02724634.2020.1762088.
+Liu, J., and F. Abdala, 2017. Therocephalian (Therapsida) and chroniosuchian (Reptilomorpha) from the Permo-Triassic transitional
+Guodikeng Formation of the Dalongkou Section, Jimsar,
+Xinjiang, China. Vertebrata PalAsiatica 55:24–40.
+Liu, J., J. Yi, and J.-Y. Chen. 2020. Constraining assembly time of some
+blocks on eastern margin of Pangea using Permo-Triassic nonmarine tetrapod records. Earth-Science Reviews 207:103215.
+Lucas, S. G. 1998. Toward a tetrapod biochronology of the Permian;
+pp. 71–91 in Lucas, S. G., J. W. Estep, and J. M. Hoffer (eds.),
+Permian Stratigraphy and Paleontology of the Robledo
+Mountains, New Mexico. New Mexico Museum of Natural
+History and Science Bulletin 12.
+Lucas, S. G. 2001. Chinese Fossil Vertebrates. Columbia University Press,
+New York, 375pp.
+Lucas, S. G. 2005. Age and correlation of Permian tetrapod assemblages
+from China; pp. 187–191 in Lucas, S. G., and K. E. Zeigler (eds.),
+The Nonmarine Permian. New Mexico Museum of Natural
+History and Science Bulletin 30.
+Lucas, S. G. 2006. Global Permian tetrapod biostratigraphy and biochronology; pp. 65–93 in Lucas, S. G., G. Cassinis, and J. W. Schneider
+(eds.), Non-Marine Permian Biostratigraphy and Biochronology.
+Geological Society, London Special Publication 265.
+Lucas, S. G. 2018. Permian tetrapod biochronology, correlation and evolutionary events; pp. 405–444 in Lucas, S. G., and S. Z. Shen (eds.),
+The Permian Timescle. Geological Society, London Special
+Publication 450.
+Maisch, M. W. 2002. Observations on Karoo and Gondwana vertebrates.
+Part 4: The taxonomic status of the Late Permian rhachiocephalid
+Platycyclops crassus Broom, 1948 (Therapsida: Dicynodontia)
+from the South Africa Karoo. Neues Jahrbuch für Geologie und
+Paläontologie, Monatshefte 2202:362–372.
+Maisch, M. W., and A. T. Matzke. 2014. Sungeodon kimkraemerae
+n. gen. n. sp., the oldest kannemeyeriiform (Therapsida,
+Dicynodontia) and its implications for the early diversiﬁcation of
+large herbivores after the P/T boundary. Neues Jahrbuch für
+Geologie und Paläontologie, Abhandlungen 272:1–12.
+Metcalfe, I., C. B. Foster, S. A. Afonin, R. S. Nicoll, R. Mundil, W.
+Xiaofeng, and S. G. Lucas. 2009. Stratigraphy, biostratigraphy and
+
+Angielczyk et al.—Redescription of Kunpania (e1922428-16)
+C-isotopes of the Permian–Triassic non-marine sequence at
+Dalongkou and Lucaogou, Xinjiang Province, China. Journal of
+Asian Earth Sciences 36:503–520.
+Modesto, S. P., B. S. Rubidge, and J. Welman. 2003a. A new dicynodont
+therapsid from the lowermost Beaufort Group, Upper Permian of
+South Africa. Canadian Journal of Earth Sciences 39:1755–1765.
+Modesto, S. P., B. Rubidge, I. Visser, and J. Welman. 2003b. A new basal
+dicynodont from the Upper Permian of South Africa.
+Palaeontology 46:211–223.
+Mueller, L. D., and F. J. Ayala. 1982. Estimation and interpretation of
+genetic distance in empirical studies. Genetical Research 40:127–137.
+Obrist-Farner, J., and W. Yang. 2015. Nonmarine time-stratigraphy in a
+rift setting: An example from the Mid-Permian lower Quanzijie
+low-order cycle, Bogda Mountains, NW China: Journal of
+Palaeogeography 4:27-51.
+Obrist-Farner, J., and W. Yang. 2016. Implications of loess and ﬂuvial
+deposits on paleoclimatic conditions during an icehouse–hothouse
+transition, Capitanian upper Quanzijie low-order cycle, Bogda
+Mountains, NW China. Palaeogeography, Palaeoclimatology,
+Palaeoecology 441:959–981.
+Obrist-Farner, J., and W. Yang. 2017. Provenance and depositional conditions of ﬂuvial conglomerates and sandstones and their controlling processes in a rift setting, mid-Permian lower and upper
+Quanzijie low order cycles, Bogda Mountains, NW China. Journal
+of Asian Earth Sciences 138:317–340.
+Olivier, C., B. Battail, S. Bourquin, C. Rossignol, J.-S. Steyer, and N.-E.
+Jalil. 2019. New dicynodonts (Therapsida, Anomodontia) from the
+near the Permo-Triassic boundary of Laos: implications for survivorship across the Permo-Triassic mass extinction and the paleobiogeography of Southeast Asian blocks. Journal of Vertebrate
+Paleontology 39: e1584745. DOI: 10.1080/02724634.2019.1584745.
+Olroyd, S. L., and C. A. Sidor. 2017. A review of the Guadalupian
+(middle Permian) global tetrapod fossil record. Earth-Science
+Reviews 171:583–597.
+Olroyd, S. L., C. A. Sidor, and K. D. Angielczyk. 2018. New materials of
+the enigmatic dicynodont Abajudon kaayi (Therapsida,
+Anomodontia) from the lower Madumabisa Mudstone Formation,
+middle Permian of Zambia. Journal of Vertebrate Paleontology
+37: e1403442. DOI: 10.1080/02724634.2017.1403442.
+Olson, E. C. 1944. Origin of mammals based upon cranial morphology of
+the therapsid suborders. Geological Society of America Special
+Paper 55:1–136.
+Owen, R. 1860. On the orders of fossil and recent Reptilia, and their distribution in time. Report of the Twenty-Ninth Meeting of the British
+Association for the Advancement of Science, 1859:153–166.
+Ray, S., and A. Chinsamy. 2003. Functional aspects of the postcranial
+anatomy of the Permian dicynodont Diictodon and their ecological
+implications. Palaeontology 46:151–183.
+Romano, M., and F. Manucci. 2019. Resizing Lisowicia bojani: volumetric
+body mass estimate and 3D reconstruction of the giant Late Triassic
+dicynodont. Historical Biology. DOI: 10.1080/08912963.2019.1631819.
+Rubidge, B. S. 1990. Redescription of the cranial morphology of
+Eodicynodon oosthuizeni (Therapsida: Dicynodontia). Navorsinge
+van die Nasionale Museum Bloemfontein 7:1–25.
+Ruta, M., K. D. Angielczyk, J. Fröbisch, and M. J. Benton. 2013.
+Decoupling of morphological disparity and taxic diversity during
+the adaptive radiation of anomodont therapsids. Proceedings of
+the Royal Society of London Series B 280:20131071.
+Scotese, C. R., 2001. Atlas of Earth History vol. 1. PALEOMAP Project,
+Arlington, 52 pp.
+Seeley, H. G. 1894. Researches on the structure, organisation, and classiﬁcation of the fossil Reptilia. Part IX., Section 1. On the
+Therosuchia. Philosophical Transactions of the Royal Society B
+185:987–1018.
+Sengor, A.M.C., and B. A. Natal’in. 1996. Paleotectonics of Asia: fragments of a synthesis; pp. 486–640 in: A. Yin, and T M. Harrison
+(eds.), The Tectonic Evolution of Asia. Cambridge University
+Press, New York.
+Sengor, A.M.C., B. A. Natal’in, and V S. Burtman. 1993. Evolution of the
+Altaid tectonic collage and Palaeozoic crustal growth in Eurasia.
+Nature 364:299–307.
+Sennikov, A. G., and V. K. Golubev. 2017. Sequence of Permian tetrapod
+faunas of Eastern Europe and the Permian–Triassic ecological crisis.
+Paleontological Journal 51:600–611.
+
+Sidor, C. A., K. D. Angielczyk, D. M. Weide, R. M. H. Smith, S. J. Nesbitt,
+and L. A. Tsuji. 2010. Tetrapod fauna of the lowermost Usili
+Formation (Songea Group, Ruhuhu Basin) of southern Tanzania,
+with a new burnetiid record. Journal of Vertebrate Paleontology
+30:696–703.
+Simão-Oliveira, D. de, L. Kerber, and F. L. Pinheiro. 2020. Endocranial
+morphology of the Brazilian Permian dicynodont Rastodon
+procurvidens (Therapsida: Anomodontia). Journal of Anatomy
+236:384–397.
+Smith, R. M. H. 2020. Biostratigraphy of the Cistecephalus Assemblage
+Zone (Beaufort Group, Karoo Supergroup), South Africa. South
+African Journal of Geology 123:181–190.
+Smith, R. M. H., B. S. Rubidge, M. O. Day, and J. Botha. 2020.
+Introduction to the tetrapod biozonation of the Karoo
+Supergroup. South African Journal of Geology 123:131–140.
+Strong, E. E., and D. Lipscomb. 2000. Character coding and inapplicable
+data. Cladistics 15:363–371.
+Sulej, T., and G. Niedźwiedzki. 2019. An elephant-sized Late Triassic
+synapsid with erect limbs. Science 363:78–80.
+Sun, A. 1973. Permo-Triassic dicynodonts from Turfan, Sinkiang.
+Memoirs of the Institute of Vertebrate Paleontology and
+Paleoanthropology Academia Sinica 10:53–68.
+Sun, A. 1978. Two new genera of Dicynodontidae. Memoirs of the
+Institute of vertebrate Paleontology and Paleoanthropology,
+Academia Sinica 13:19–25. [in Chinese]
+Sun, A. 1989. Before the Dinosaurs: Land Vertebrates of China 200
+Million Years Ago. China Ocean Press, Beijing, 109pp.
+Viglietti, P. A. 2020. Biostratigraphy of the Daptocephalus Assemblage
+Zone (Beaufort Group, Karoo Supergroup), South Africa. South
+African Journal of Geology 123:191–206.
+Wartes, M. A., A. R. Carroll, and T. J. Greene. 2002. Permian sedimentary record of the Turpan–Hami basin and adjacent regions, northwest China: constraints on postamalgamation tectonic evolution.
+Geological Society of America Bulletin 114:131–152.
+Xinjiang Bureau of Geology and Mineral Resources (XBGMR), 1993.
+Regional geology of Xinjiang Uygur Autonomous Region.
+Geological Memoirs, Series 1 32:1–762. [in Chinese with English
+abstract]
+Yang, W., Q. Feng, Y. Liu, N. Tabor, D. Miggins, J. L. Crowley, J. Lin, and
+S. Thomas. 2010. Depositional environments and cyclo- and chronostratigraphy of uppermost Carboniferous–Lower Triassic ﬂuvial–
+lacustrine deposits, southern Bogda Mountains, NW China – A terrestrial paleoclimatic record of mid-latitude NE Pangea. Global and
+Planetary Change 73:15–113.
+Yang, W., Y. Q. Liu, Q. Feng, J. Y. Lin, D. W. Zhou, and D. Wang. 2007.
+Sedimentary evidence on Early to Late Permian mid-high latitude
+continental climate variability, southern Bogda Mountains, NW
+China: Palaeogeography, Palaeoclimatology, Palaeoecology
+252:239–258.
+Yi, J., and J. Liu. 2020. Pareiasaur and dicynodont fossils from upper
+Permian of Shouyang, Shanxi, China. Vertebrata PalAsiatica
+58:16–23
+Yuan, P. L. 1935. The discovery of theromorph reptiles in the Mesozoic
+strata, on the north of Tianshan. Geograﬁska Annaler 17:225–228.
+Yuan, P. L., and C. C. Young. 1934. On the discovery of a new Dicynodon
+in Sinkiang. Bulletin of the Geological Society of China 13:563–573.
+Ziegler, A. M., M. L. Hulver, and D. B. Rowley. 1997. Permian world
+topography and climate; pp. 111–146 in Martini, I. P. (ed.), Late
+Glacial and Postglacial Environmental Changes: Pleistocene,
+Carboniferous–Permian, and Proterozoic. Oxford University
+Press, Oxford.
+Zhao, X. 1980. Mesozoic vertebrates and strata in northern Xinjiang.
+Memoirs of the Institute of Vertebrate Palaeontology and
+Palaeoanthropology, Academia Sinica 15:1–119. [in Chinese]
+Zhu, H.-C., S. Ouyang, J.-Z Zhan, Z. Wang. 2005. Comparison of
+Permian palynological assemblages from the Junggar and Tarim
+Basins and their phytoprovincial signiﬁcance. Review of
+Palaeobotany and Palynology 136:181–207.
+Zhu, Y. 1989. The discovery of dicynodonts in Daqingshan Mountain, Nei
+Mongol (Inner Mongolia). Vertebrata PalAsiatica 27:9–27.
+Submitted November 3, 2020; revisions received January 8, 2021;
+accepted January 10, 2021.
+Handling Editor: Pia A. Viglietti.
+
+

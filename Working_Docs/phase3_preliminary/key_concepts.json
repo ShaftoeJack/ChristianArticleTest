@@ -1,0 +1,316 @@
+{
+  "concepts": [
+    {
+      "term": "Dicynodontia",
+      "technical_definition": "An extinct order of herbivorous therapsids that lived from the Permian to Late Triassic periods, characterized by turtle-like beaks and typically two large upper canine teeth (tusks)",
+      "accessible_definition": "An extinct group of plant-eating mammal-like reptiles that lived 270-200 million years ago, known for their distinctive turtle-like beaks and tusks",
+      "importance": "high",
+      "context_usage": "The main taxonomic group being studied - all specimens belong to this order",
+      "related_terms": ["Therapsida", "Synapsida", "Anomodontia", "Kannemeyeriiformes"]
+    },
+    {
+      "term": "Kannemeyeriiformes",
+      "technical_definition": "A major clade within Dicynodontia that includes the most diverse and widespread dicynodonts of the Triassic period, typically large-bodied forms",
+      "accessible_definition": "A major evolutionary group of dicynodonts that became very successful during the Triassic period, including many large species",
+      "importance": "high",
+      "context_usage": "The specific group that the new species Woznikella belongs to",
+      "related_terms": ["Dicynodontia", "Stahleckeriidae", "Placeriinae", "Stahleckeriinae"]
+    },
+    {
+      "term": "Stahleckeriidae",
+      "technical_definition": "A family of large kannemeyeriiform dicynodonts from the Middle to Late Triassic, characterized by specific cranial and postcranial features",
+      "accessible_definition": "A family of large dicynodonts that lived during the middle to late Triassic period, representing some of the most advanced forms",
+      "importance": "high",
+      "context_usage": "The family that Woznikella is most closely related to based on anatomical features",
+      "related_terms": ["Kannemeyeriiformes", "Placeriinae", "Stahleckeriinae", "Woznikella"]
+    },
+    {
+      "term": "Therapsida",
+      "technical_definition": "A major group of synapsids that includes the ancestors of mammals, characterized by specific skull features and more advanced metabolic capabilities",
+      "accessible_definition": "A group of ancient reptiles that were the ancestors of mammals, with more advanced features than earlier reptiles",
+      "importance": "medium",
+      "context_usage": "The broader evolutionary group that dicynodonts belong to",
+      "related_terms": ["Synapsida", "Dicynodontia", "Anomodontia"]
+    },
+    {
+      "term": "Synapsida",
+      "technical_definition": "A major group of amniotes distinguished by having a single temporal fenestra (opening) in the skull behind each eye socket",
+      "accessible_definition": "A major group of vertebrate animals that includes mammals and their extinct relatives, identified by a specific skull opening",
+      "importance": "medium",
+      "context_usage": "The highest taxonomic level discussed in the paper's classification scheme",
+      "related_terms": ["Therapsida", "Anomodontia", "Dicynodontia"]
+    },
+    {
+      "term": "Autapomorphy",
+      "technical_definition": "A unique derived character state that is found only in a single terminal taxon and serves to distinguish it from all other taxa",
+      "accessible_definition": "A unique evolutionary characteristic that is found only in one species and helps distinguish it from all other species",
+      "importance": "high",
+      "context_usage": "Used to describe the unique anterodorsally directed acromion that distinguishes Woznikella from all other dicynodonts",
+      "related_terms": ["Synapomorphy", "Character state", "Phylogenetic analysis"]
+    },
+    {
+      "term": "Synapomorphy",
+      "technical_definition": "A shared derived character state that is present in two or more taxa and their common ancestor but not in more distantly related taxa",
+      "accessible_definition": "A shared evolutionary characteristic that indicates two or more species descended from a common ancestor",
+      "importance": "high",
+      "context_usage": "Used to identify evolutionary relationships between different dicynodont species",
+      "related_terms": ["Autapomorphy", "Character state", "Phylogenetic analysis", "Monophyly"]
+    },
+    {
+      "term": "Phylogenetic analysis",
+      "technical_definition": "A method for reconstructing evolutionary relationships among organisms using shared derived characteristics and computational algorithms",
+      "accessible_definition": "A scientific method for determining how different species are related to each other through evolution",
+      "importance": "high",
+      "context_usage": "The primary method used to determine where Woznikella fits in the dicynodont family tree",
+      "related_terms": ["Cladistics", "Character matrix", "Parsimony", "Bootstrap", "Consensus tree"]
+    },
+    {
+      "term": "Cladistics",
+      "technical_definition": "A method of phylogenetic analysis that groups organisms based on shared derived characteristics and constructs branching diagrams called cladograms",
+      "accessible_definition": "A way of organizing species into family trees based on shared evolutionary characteristics",
+      "importance": "high",
+      "context_usage": "The analytical framework used to understand dicynodont relationships",
+      "related_terms": ["Phylogenetic analysis", "Character matrix", "Parsimony", "Synapomorphy"]
+    },
+    {
+      "term": "Character matrix",
+      "technical_definition": "A data structure used in phylogenetic analysis where rows represent taxa and columns represent morphological or molecular characters with different states",
+      "accessible_definition": "A data table that organizes anatomical features of different species to compare their evolutionary relationships",
+      "importance": "medium",
+      "context_usage": "The dataset of 199 characters used to analyze dicynodont relationships",
+      "related_terms": ["Phylogenetic analysis", "Character state", "Discrete characters", "Continuous characters"]
+    },
+    {
+      "term": "Bootstrap",
+      "technical_definition": "A statistical resampling technique used to assess the reliability of phylogenetic tree branches by measuring support values",
+      "accessible_definition": "A statistical method for testing how confident we can be in different parts of an evolutionary family tree",
+      "importance": "medium",
+      "context_usage": "Used to test the reliability of the phylogenetic relationships found in the analysis",
+      "related_terms": ["Phylogenetic analysis", "Consensus tree", "Statistical support"]
+    },
+    {
+      "term": "Consensus tree",
+      "technical_definition": "A phylogenetic tree that summarizes the common branching patterns found across multiple equally parsimonious trees",
+      "accessible_definition": "A family tree that represents the most agreed-upon relationships when multiple possible trees are found",
+      "importance": "medium",
+      "context_usage": "The final tree used for biogeographic analysis after resolving conflicting phylogenetic signals",
+      "related_terms": ["Phylogenetic analysis", "Parsimony", "Majority rule", "Strict consensus"]
+    },
+    {
+      "term": "Biogeographic analysis",
+      "technical_definition": "The study of the geographic distribution of organisms and the historical processes that have shaped these distributions",
+      "accessible_definition": "The study of where different species live around the world and how they got there through geological time",
+      "importance": "high",
+      "context_usage": "Used to understand how dicynodonts spread across the ancient supercontinent Pangea",
+      "related_terms": ["Paleobiogeography", "Dispersal", "Vicariance", "Ancestral reconstruction"]
+    },
+    {
+      "term": "Ancestral reconstruction",
+      "technical_definition": "A phylogenetic method for inferring the characteristics of extinct common ancestors based on the traits of their descendants",
+      "accessible_definition": "A method for figuring out what extinct ancestor species were like based on their living or fossilized descendants",
+      "importance": "medium",
+      "context_usage": "Used to determine where different dicynodont groups originally lived before spreading to other continents",
+      "related_terms": ["Biogeographic analysis", "Phylogenetic analysis", "Dispersal", "Vicariance"]
+    },
+    {
+      "term": "Scapula",
+      "technical_definition": "The shoulder blade bone that forms part of the pectoral girdle and provides attachment sites for limb muscles",
+      "accessible_definition": "The shoulder blade bone that connects to muscles controlling the front leg",
+      "importance": "high",
+      "context_usage": "The most distinctive bone of Woznikella, with unique shape and acromion orientation",
+      "related_terms": ["Acromion", "Coracoid", "Pectoral girdle", "Postcranial skeleton"]
+    },
+    {
+      "term": "Acromion",
+      "technical_definition": "A bony process projecting from the scapula that serves as an attachment point for shoulder muscles",
+      "accessible_definition": "A bony projection from the shoulder blade where shoulder muscles attach",
+      "importance": "high",
+      "context_usage": "The part of the scapula that has unique anterodorsal orientation in Woznikella",
+      "related_terms": ["Scapula", "Process", "Muscle attachment", "Autapomorphy"]
+    },
+    {
+      "term": "Premaxilla",
+      "technical_definition": "A paired bone forming the anterior part of the upper jaw and snout in vertebrates",
+      "accessible_definition": "The bone that forms the front tip of the upper jaw and snout",
+      "importance": "high",
+      "context_usage": "Shows diagnostic triradiate ridge pattern in Woznikella",
+      "related_terms": ["Skull", "Nasal process", "Triradiate", "Cranial"]
+    },
+    {
+      "term": "Triradiate",
+      "technical_definition": "Having three radiating branches or projections from a central point",
+      "accessible_definition": "Having three branches that spread out from a central point, like a three-pointed star",
+      "importance": "high",
+      "context_usage": "Describes the distinctive three-branched ridge pattern on Woznikella's premaxilla",
+      "related_terms": ["Premaxilla", "Ridge", "Morphology", "Diagnostic feature"]
+    },
+    {
+      "term": "Dentary",
+      "technical_definition": "The tooth-bearing bone of the lower jaw in vertebrates",
+      "accessible_definition": "The main bone of the lower jaw that would normally hold teeth",
+      "importance": "medium",
+      "context_usage": "Part of the mandible preserved in Woznikella, showing specific ridge patterns",
+      "related_terms": ["Mandible", "Angular", "Surangular", "Articular"]
+    },
+    {
+      "term": "Neural arch",
+      "technical_definition": "The dorsal portion of a vertebra that surrounds and protects the spinal cord",
+      "accessible_definition": "The upper part of a backbone bone that forms a protective arch over the spinal cord",
+      "importance": "medium",
+      "context_usage": "Multiple neural arches preserved in Woznikella specimen",
+      "related_terms": ["Vertebra", "Centrum", "Dorsal vertebra", "Cervical vertebra"]
+    },
+    {
+      "term": "Centrum",
+      "technical_definition": "The main body of a vertebra, typically cylindrical and bearing the weight-bearing function",
+      "accessible_definition": "The main round body of a backbone bone that bears the animal's weight",
+      "importance": "medium",
+      "context_usage": "Several vertebral centra preserved in Woznikella specimen",
+      "related_terms": ["Vertebra", "Neural arch", "Dorsal vertebra", "Cervical vertebra"]
+    },
+    {
+      "term": "Carnian",
+      "technical_definition": "The first stage of the Late Triassic period, approximately 237-227 million years ago",
+      "accessible_definition": "A time period about 230 million years ago during the late Triassic when dinosaurs were first appearing",
+      "importance": "high",
+      "context_usage": "The geological age when Woznikella lived in Poland",
+      "related_terms": ["Triassic", "Norian", "Rhaetian", "Late Triassic"]
+    },
+    {
+      "term": "Norian",
+      "technical_definition": "The middle stage of the Late Triassic period, approximately 227-208 million years ago",
+      "accessible_definition": "A time period about 215 million years ago during the late Triassic",
+      "importance": "medium",
+      "context_usage": "Possible alternative age for some of the Polish dicynodont localities",
+      "related_terms": ["Triassic", "Carnian", "Rhaetian", "Late Triassic"]
+    },
+    {
+      "term": "Rhaetian",
+      "technical_definition": "The final stage of the Late Triassic period, approximately 208-201 million years ago",
+      "accessible_definition": "The last time period of the Triassic, about 205 million years ago, just before the major extinction event",
+      "importance": "medium",
+      "context_usage": "The latest possible age for some dicynodont occurrences before their extinction",
+      "related_terms": ["Triassic", "Carnian", "Norian", "Late Triassic"]
+    },
+    {
+      "term": "Pangea",
+      "technical_definition": "The supercontinent that existed during the late Paleozoic and early Mesozoic eras, before breaking apart into the modern continents",
+      "accessible_definition": "The ancient supercontinent when all of today's continents were joined together as one giant landmass",
+      "importance": "high",
+      "context_usage": "The geographic context for understanding dicynodont distribution and migration patterns",
+      "related_terms": ["Biogeography", "Dispersal", "Continental drift", "Triassic"]
+    },
+    {
+      "term": "Dispersal",
+      "technical_definition": "The movement of organisms from their area of origin to new geographic areas, leading to range expansion",
+      "accessible_definition": "The process by which animals spread from their original home to new areas",
+      "importance": "high",
+      "context_usage": "The primary mechanism explaining how dicynodonts spread from Africa to other continents",
+      "related_terms": ["Biogeography", "Migration", "Vicariance", "Range expansion"]
+    },
+    {
+      "term": "Vicariance",
+      "technical_definition": "The geographic separation of populations due to the formation of barriers such as mountain ranges or seas",
+      "accessible_definition": "When populations of animals get separated by geographic barriers like mountains or oceans",
+      "importance": "medium",
+      "context_usage": "An alternative explanation for dicynodont distribution patterns",
+      "related_terms": ["Biogeography", "Dispersal", "Geographic isolation", "Continental drift"]
+    },
+    {
+      "term": "Hotspot",
+      "technical_definition": "A region with exceptionally high biodiversity or evolutionary activity",
+      "accessible_definition": "An area where many different species live or where lots of evolution happens",
+      "importance": "high",
+      "context_usage": "Southeastern Africa identified as the main center of dicynodont diversity and evolution",
+      "related_terms": ["Biodiversity", "Evolutionary radiation", "Biogeography", "Southeastern Africa"]
+    },
+    {
+      "term": "Southeastern Africa",
+      "technical_definition": "The biogeographic region including modern-day South Africa, Namibia, Botswana, Zimbabwe, Mozambique, Malawi, Zambia, and Tanzania",
+      "accessible_definition": "The southern and eastern parts of the African continent",
+      "importance": "high",
+      "context_usage": "Identified as the primary center of dicynodont evolution and diversity",
+      "related_terms": ["Hotspot", "Karoo Basin", "Biogeography", "Gondwana"]
+    },
+    {
+      "term": "Morphology",
+      "technical_definition": "The study of the form and structure of organisms, including their external appearance and internal anatomy",
+      "accessible_definition": "The study of the shape, size, and structure of living things",
+      "importance": "high",
+      "context_usage": "The primary type of data used to identify and classify dicynodont species",
+      "related_terms": ["Anatomy", "Comparative morphology", "Character", "Trait"]
+    },
+    {
+      "term": "Taphonomy",
+      "technical_definition": "The study of what happens to organisms after death, including decay, burial, and fossilization processes",
+      "accessible_definition": "The study of how dead organisms become fossils and what happens to them during that process",
+      "importance": "medium",
+      "context_usage": "Used to explain the different preservation states of bones on different sides of the Woznikella specimen",
+      "related_terms": ["Fossilization", "Preservation", "Burial", "Diagenesis"]
+    },
+    {
+      "term": "Holotype",
+      "technical_definition": "The single specimen designated as the name-bearing type of a species for taxonomic purposes",
+      "accessible_definition": "The official reference specimen that defines what a species looks like",
+      "importance": "high",
+      "context_usage": "ZPAL V. 34/1 is designated as the holotype of Woznikella triradiata",
+      "related_terms": ["Type specimen", "Taxonomy", "Nomenclature", "Species description"]
+    },
+    {
+      "term": "Ontogeny",
+      "technical_definition": "The development of an individual organism from embryo to adult, including growth and maturation changes",
+      "accessible_definition": "The process of how an individual animal grows and develops from baby to adult",
+      "importance": "medium",
+      "context_usage": "Used to explain some of the anatomical features seen in the Woznikella specimen",
+      "related_terms": ["Development", "Maturation", "Growth", "Juvenile"]
+    },
+    {
+      "term": "Sister taxa",
+      "technical_definition": "Two evolutionary lineages that are each other's closest relatives, sharing an immediate common ancestor",
+      "accessible_definition": "Two species or groups that are most closely related to each other in the evolutionary family tree",
+      "importance": "medium",
+      "context_usage": "Used to describe evolutionary relationships between different dicynodont groups",
+      "related_terms": ["Phylogeny", "Monophyly", "Clade", "Common ancestor"]
+    },
+    {
+      "term": "Monophyly",
+      "technical_definition": "A group of organisms that includes a common ancestor and all of its descendants",
+      "accessible_definition": "A natural evolutionary group that includes an ancestor species and all species that descended from it",
+      "importance": "medium",
+      "context_usage": "Used to evaluate whether taxonomic groups represent natural evolutionary units",
+      "related_terms": ["Clade", "Phylogeny", "Common ancestor", "Natural group"]
+    },
+    {
+      "term": "Postcranial skeleton",
+      "technical_definition": "All parts of the skeleton excluding the skull, including the vertebral column, ribs, and limb bones",
+      "accessible_definition": "All the bones in the body except for the skull - the backbone, ribs, and leg bones",
+      "importance": "medium",
+      "context_usage": "Important source of diagnostic features for Woznikella, especially the distinctive scapula",
+      "related_terms": ["Cranial", "Scapula", "Vertebra", "Appendicular skeleton"]
+    },
+    {
+      "term": "Foramen",
+      "technical_definition": "A natural opening or hole in a bone, often for the passage of nerves or blood vessels",
+      "accessible_definition": "A natural hole in a bone where nerves or blood vessels pass through",
+      "importance": "low",
+      "context_usage": "Various foramina mentioned in anatomical descriptions of Woznikella bones",
+      "related_terms": ["Anatomy", "Bone", "Opening", "Passage"]
+    },
+    {
+      "term": "Suture",
+      "technical_definition": "The joint between two bones, especially in the skull, where bones meet and often fuse during development",
+      "accessible_definition": "The place where two bones meet and join together, especially in the skull",
+      "importance": "low",
+      "context_usage": "Used to describe how different skull bones connect in Woznikella",
+      "related_terms": ["Skull", "Bone", "Joint", "Fusion"]
+    },
+    {
+      "term": "Parsimony",
+      "technical_definition": "A principle in phylogenetic analysis that favors the evolutionary tree requiring the fewest number of character changes",
+      "accessible_definition": "The idea that the simplest evolutionary explanation requiring the fewest changes is usually the best",
+      "importance": "medium",
+      "context_usage": "The method used to select the best phylogenetic trees from the analysis",
+      "related_terms": ["Phylogenetic analysis", "Most parsimonious tree", "Character change", "Optimization"]
+    }
+  ]
+}

@@ -1,0 +1,1660 @@
+The first skeletal evidence of a dicynodont from the
+lower Elliot Formation of South Africa
+Christian F. Kammerer
+North Carolina Museum of Natural Sciences, 11 W. Jones Street, Raleigh, North Carolina 27604, U.S.A., and
+Evolutionary Studies Institute, University of the Witwatersrand, Private Bag 3, WITS, Johannesburg, 2050 South Africa
+E-mail: christian.kammerer@naturalsciences.org
+Received 24 October 2017. Accepted 14 February 2018
+
+Historical fossil specimens from the lower Elliot Formation are identified as representing a large-bodied dicynodont, the first known
+from skeletal material in the Late Triassic of South Africa. Although fragmentary, these fossils differ from all other known Triassic
+dicynodonts and are here described as a new taxon, Pentasaurus goggai gen. et sp. nov. Pentasaurus can be distinguished from other
+Triassic dicynodonts by a number of mandibular characters, most importantly the well-developed, unusually anteriorly-positioned
+lateral dentary shelf. Phylogenetic analysis indicates that Pentasaurus is a placeriine stahleckeriid. Placeriines include the latestsurviving dicynodonts but their remains are primarily known from the Northern Hemisphere, with their only previously-known
+Southern Hemisphere representative being the Middle Triassic Zambian taxon Zambiasaurus. The discovery of a placeriine in the Late
+Triassic of South Africa supports recent proposals that local climatic conditions, not broad-scale biogeographic patterns, best explain the
+observed distribution of Triassic tetrapods. The tetrapod fauna of the lower Elliot Formation is highly unusual among Triassic assemblages in combining ‘relictual’ taxa like dicynodonts and gomphodont cynodonts with abundant, diverse sauropodomorph dinosaurs.
+Keywords: Synapsida, Therapsida, Dicynodontia, Triassic, Karoo Basin, biogeography.
+Palaeontologia africana 2018. ©2018 Christian F. Kammerer. This is an open-access article published under the Creative Commons Attribution 4.0 Unported License
+(CC BY 4.0). To view a copy of the license, please visit http://creativecommons.org/licenses/by/4.0/. This license permits unrestricted use, distribution, and reproduction in
+any medium, provided the original author and source are credited.
+The article is permanently archived at: http://wiredspace.wits.ac.za/handle/10539/24148 — Supplementary data are available for download at the same handle.
+
+INTRODUCTION
+The Naturhistorisches Museum Wien houses a small but
+historically important collection of vertebrate fossils from
+the Karoo Supergroup of South Africa. The vast majority
+of these specimens were collected by the famous fossil
+hunter Alfred Brown, a reclusive and eccentric Englishman who spent most of his life in Aliwal North, Eastern
+Cape Province. Brown was one of the first collectors to
+find tetrapod fossils in the Late Triassic–Early Jurassic
+Stormberg Group; previous Karoo tetrapod fossils had
+mostly been found in the stratigraphically lower (midPermian–Middle Triassic) Beaufort Group (e.g. Bain 1845;
+Owen 1859). Brown’s earliest fossil discoveries were made
+in the 1860s, and in 1866 he shipped a crate containing 350
+fossil specimens to the noted geologist Sir Roderick Impey
+Murchison in London. The contents of this crate were
+immediately recognized by Thomas Huxley as containing
+the first definitive dinosaur remains from South Africa,
+including ‘the thigh-bones of a great Dinosaurian reptile
+as big as Megalosaurus [sic] and probably nearly allied to
+it’ (Drennan 1938, p. 37), which were soon described as
+Euskelesaurus brownii (Huxley 1866; note that although
+another South African dinosaur, Massospondylus carinatus,
+had been described earlier [Owen 1854], Owen did not
+recognize that taxon as dinosaurian, instead classifying it
+as a lacertilian). Brown promised to send additional crates
+
+of material following the recognition of Euskelesaurus,
+but because of late replies and general disinterest on
+Murchison’s part, Brown soured on the deal and the
+London palaeontological establishment in general. Subsequent interactions with Parisian researchers left him similarly cold and increasingly skeptical of collaboration with
+European scientists, but he later accepted an offer from
+Nathaniel Adler, Consul for the Austrian Empire in Port
+Elizabeth, to send fossil shipments to the K.k. Naturhistorisches Hofmuseum (Imperial Museum of Natural
+History) in exchange for recognition as a Fellow of the
+Imperial and Royal Geographical Society of Vienna
+(Drennan 1938).
+The Brown collections in Vienna consist of two major
+lots, accessioned in 1876 and 1886. The 1886 lot is composed primarily of fossils from the Middle Triassic
+Burgersdorp Formation (mostly specimens of the kannemeyeriiform dicynodont Kannemeyeria simocephalus,
+including the holotype skull of that species; Fig. 1D) and
+the Early Jurassic upper Elliot Formation (mostly specimens of small sauropodomorph dinosaurs; Fig. 1C). The
+1876 lot is more intriguing, as it seems to be made up
+almost entirely of specimens from the Late Triassic lower
+Elliot Formation. Galton & Van Heerden (1998) reviewed
+the complicated history of Brown’s early finds in the
+lower Elliot and their subsequent diaspora into European
+
+Palaeontologia africana 52: 102–128 — ISSN 2410-4418 [Palaeontol. afr.] Online only
+ZooBank: urn:lsid:zoobank.org:pub:71989008-7163-4267-BD31-8023AB826FFE (http://www.zoobank.org)
+Permanently archived on the 14th of March 2018 at the University of the Witwatersrand, Johannesburg, South Africa.
+The article is permanently archived at: http://wiredspace.wits.ac.za/handle/10539/24148 — Supplementary data are available for download at the same handle.
+
+102
+
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 1. Representative vertebrate fossils from the Brown Collection at the Naturhistorisches Museum Wien, showing differences in preservation
+style between formations. Dinosaur fossils from the upper Elliot Formation (Lower Jurassic): NHMW 1886-XV-38, distal half of the left femur of an
+indeterminate dinosaur in (A) posterior and (B) distal views; NHMW 1886-XV-22, right humerus of a basal sauropodomorph in (C) anterior view.
+Dicynodont fossil from the Burgersdorp Formation (Middle Triassic): NHMW 1886-XV-4, holotype skull of Kannemeyeria simocephalus in (D) dorsal
+view. Dinosaur fossils from the lower Elliot Formation (Upper Triassic): NHMW 1886-XV-39, proximal portion of a left femur, part of the holotype of
+‘Aliwalia rex’ (=Eucnemesaurus fortis) in (E) anterior, (F) medial, and (G) posterior views; NHMW 1876-VII-B-124, distal portion of ‘Aliwalia rex’ femur in
+(H) anterior, (I) posterior, and (J) distal views. Note distinctive brownish-grey colouration of the ‘Aliwalia’ fossils compared to the reddish bones
+typical of the Burgersdorp and upper Elliot formations. Different views of single specimens to scale with one another. Scale bars equal 5 cm.
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+103
+
+collections. They concluded that the London, Paris, and
+Vienna shipments were, per Brown’s own testimony
+(Broom 1911), all collected at the same locality. Seeley
+(1894) identified this locality as Barnard’s Spruit (a stream
+to the south of Aliwal North), and although alternatives
+have been proposed (Haughton 1924), current scholarship supports Barnard’s Spruit as the type locality for
+‘Euskelesaurus brownii’ and associated material (Yates
+2007).
+Much to Brown’s chagrin, nearly nothing was done
+with his fossils by researchers in Vienna, other than the
+description by Weithofer (1888) of the skull of Dicynodon
+(=Kannemeyeria) simocephalus. Huene (1906) later described
+a massive partial femur (broken into proximal [NHMW
+1886-XV-39] and distal [NHMW 1876-VII-B-124] portions)
+from this collection as a specimen of Euskelosaurus (?) sp.
+[sic]. Galton (1985) reexamined this specimen (Fig. 1E–J)
+and made it the holotype of a new taxon of enormous
+herrerasaurian dinosaur, Aliwalia rex. Referral of Aliwalia
+to the predatory clade Herrerasauria was based on its possession of a well-defined and medially-directed femoral
+head with a constricted neck, prominent lesser trochanter
+lacking a dorsal process, and a large, protruding, proximally-positioned fourth trochanter. Seemingly corroborating this identification was a large maxilla bearing
+serrated, blade-like teeth (NHMUK R3301) among the
+material from Barnard’s Spruit (Seeley 1894), which
+
+Galton (1985) referred to A. rex. Paul (1988) estimated that
+Aliwalia would have weighed ~1.5 tons, making it easily
+the largest dinosaurian carnivore of the Triassic and rivalling later Mesozoic taxa such as Allosaurus in size. Unfortunately for fans of giant theropods, however, Yates (2007)
+recognized that the type femur of A. rex actually represents a basal sauropodomorph (‘prosauropod’), and
+furthermore could be referred to the long-ignored lower
+Elliot taxon Eucnemesaurus fortis van Hoepen, 1920. As part
+of this revision, Yates (2007) removed the referred maxilla
+from the hypodigm of ‘Aliwalia’, recognizing it only as
+belonging to an indeterminate predatory archosaur.
+In addition to the ‘Aliwalia rex’ holotype, almost all of the
+other elements in the 1876 lot can be identified as lower
+Elliot fossils probably collected along Barnard’s Spruit.
+These elements all show a similar style of preservation,
+concordant with that of ‘Aliwalia’ in that they are fragmentary, weathered, and consist of brownish-grey bone in a
+fine-grained brown sandstone. Among these elements are
+three jaw fragments (NHMW 1876-VII-B-111, 112, and
+113; Fig. 2) preserving the roots of large teeth comparable
+in proportions to those of NHMUK R3301. Although too
+fragmentary for definite identification, given their size
+they likely represent a ‘rauisuchian’ (a group previously
+considered present in the lower Elliot Formation based on
+dental [Kitching & Raath 1984] and footprint [Olsen &
+Galton 1984] records). The preservation of these elements
+
+Figure 2. Jaw fragments of a large predatory reptile from the lower Elliot Formation, possibly the enigmatic lower Elliot ‘rauisuchian’ Basutodon ferox.
+NHMW 1876-VII-B-111, fragment of a left maxilla in (A) lateral, (B) medial, and (H) ventral views. NHMW 1876-VII-B-113, fragment of a right jaw
+symphysis in (C) lateral, (D) medial, and (G) dorsal views. NHMW 1876-VII-B-112, fragment of left dentary in (E) lateral and (F) medial views. All
+specimens to scale. Scale bar equals 5 cm.
+104
+
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+is in obvious contrast to the reddish bones in purplish-red
+mudstone characterizing Brown’s Burgersdorp and
+upper Elliot collections (Fig. 1). Although Barnard’s Spruit
+cuts through both the lower and upper Elliot formations
+(E. Bordy pers. comm.), Eucnemesaurus (= ‘Aliwalia’) is
+considered restricted to the lower Elliot based on subsequent discoveries of the taxon (McPhee et al. 2015). Thus,
+all available evidence indicates that the ‘Aliwalia rex’
+holotype and most of the rest of the 1876 lot originated
+in the lower Elliot Formation. The only specimens in
+the 1876 lot that do not appear to be from the lower
+Elliot Formation are a pair of Lystrosaurus skulls (NHMW
+1876-VII-B-106, L. declivis, and NHMW 1876-VII-B-107,
+L. murrayi) preserved in a greenish-grey mudstone typical
+of the Early Triassic Katberg Formation (Groenewald
+1996; Damiani et al. 2003).
+Recent reexamination of the entirety of Brown’s collection in Vienna has revealed that in addition to the
+‘Aliwalia’ femur and aforementioned jaw fragments,
+several clearly non-archosaurian elements are present
+among the materials of the 1876 lot. Remarkably, a number of these elements can be positively identified as
+belonging to a kannemeyeriiform dicynodont. Although
+dicynodonts are known from the Late Triassic of Europe
+(Dzik et al. 2008) and the Americas (Kammerer et al. 2013),
+dicynodont body fossils have never previously been
+reported from the Elliot Formation. There are, however,
+previous suggestions of a dicynodont in the lower Elliot
+based on the ichnofossil record. Ellenberger (1970, 1972)
+described a series of large, short-toed, pentadactyl tracks
+(Pentasauropus incredibilis) and identified the trackmaker
+as either a sauropod or dicynodont, with the latter identification supported by most subsequent authors (e.g.
+Olsen & Galton 1984; Anderson et al. 1998; D’Orazi
+Porchetti & Nicosia 2007). Hunt & Lucas (2007) admitted
+that the only obvious trackmaker for Pentasauropus is a
+dicynodont, but still questioned this identification
+because of the absence of dicynodont body fossils in the
+later Triassic (Norian–Rhaetian). The discovery of dicynodont remains among Brown’s lower Elliot collections
+provides the first skeletal evidence for this clade in the
+Late Triassic of South Africa and supports the identification of Pentasauropus as a dicynodont track. The lower
+Elliot dicynodont is part of a surprisingly robust assortment of ‘relictual’ therapsid elements in this fauna (e.g.
+the large, herbivorous cynodonts Scalenodontoides and a
+Diademodon-like taxon; Gow & Hancox 1993; Abdala et al.
+2007) and suggests that patterns of faunal replacement in
+the Late Triassic of southern Africa were more complex
+than previously thought.
+MATERIALS AND METHODS
+The following specimens were examined by the author
+for comparative purposes: Angonisaurus cruickshanki
+(NHMUK R9732); Aulacephalodon bainii (BP/1/766);
+Daptocephalus leoniceps (GPIT/RE/7176); Dicynodon
+lacerticeps (SAM-PK-K11431 [=B88 of Cluver & Hotton
+1981]); ‘Dicynodon tener’ (GPIT/RE/9642); Dicynodontoides
+recurvidens (SAM-PK-K6131); Dinodontosaurus pedroanum
+(MCN 3584; UFRGS PV0115T, PV0117T); Ischigualastia
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+jenseni (MACN 18055; PVL 3807); Jachaleria candelariensis
+(UFRGS PV0147T, PV0150T); Jachaleria colorata (PVL 3841);
+‘Kannemeyeria’ latirostris (BP/1/3636); Kannemeyeria
+lophorhinus (BP/1/3638); Kannemeyeria simocephalus
+(BP/1/4524; ELM 1; FMNH UC 1514; NHMUK R3602,
+R3760; NHMW 1886-XV-4, 1886-XV-5; SAM-PK-3017;
+UCMP 42916; USNM 410298); Moghreberia nmachouensis
+(MNHN.ALM.38, ALM.80, ALM.167, ALM.280); Placerias
+hesternus (GPIT/RE/9578, 9582, 9585, 9588, 9590; MNA
+V2714, V2950, V8464; UCMP 24782, 24865, 24871, 24878,
+25093, 25246, 25361, 25373, 25433, 27532, 32445, 32447;
+USNM 2198); Sangusaurus parringtonii (NMT RB42);
+Sinokannemeyeria yingchiaoensis (IVPP V974); Stahleckeria
+potens (AMNH FARB 7804; BSPG AS-XXV-14, AS-XXV-15;
+GPIT/RE/7106, 7107, 9599, 9600); Tetragonias njalilus
+(GPIT/RE/7110; UMZC T753); Zambiasaurus submersus
+(NHMUK R9039, R9040, R9098, R9109, R9113, R9140).
+The phylogenetic analysis was run in TNT v1.1
+(Goloboff et al. 2008) using New Technology search
+parameters (sectorial searching, parsimony ratchet,
+drift, and tree fusing) set to find minimum length at least
+20 times. Support metrics were based on symmetric
+resampling using 10 000 replicates. The data matrix for
+this analysis is included as Supplementary material for
+this paper. The data matrix consists of 104 operational taxonomic units (mostly species-level anomodont taxa) and
+197 characters, of which 23 are continuous and 174 are
+discrete. Continuous characters were treated as additive,
+following the method of Goloboff et al. (2006).
+
+SYSTEMATIC PALAEONTOLOGY
+Synapsida Osborn, 1903
+Therapsida Broom, 1905
+Anomodontia Owen, 1860
+Dicynodontia Owen, 1860
+Kannemeyeriiformes Maisch, 2001
+Stahleckeriidae Lehman, 1961
+Placeriinae King, 1988
+Pentasaurus goggai gen. et sp. nov.
+LSID. urn:lsid:zoobank.org:pub:71989008-7163-4267BD31-8023AB826FFE
+Holotype. NHMW 1876-VII-B-114, a partial mandible.
+Given the lack of overlapping elements and comparable
+sizes of all the referred material, it is probable that all
+of these elements represent a single individual. In the
+absence of detailed collection information this must be
+considered speculative, however, particularly given the
+past history of chimaerical associations from this locality.
+Referred material. NHMW 1876-VII-B-115, a partial left
+ulna; NHMW 1876-VII-B-121, a partial left scapulocoracoid; NHMW 1876-VII-B-122, a partial left pubis and
+ischium; NHMW 1876-VII-B-123, the distal end of a left
+humerus; NHMW 1876-VII-B-128, the proximal tip of a
+right tibia; NHMW 1876-VII-B-129, a partial long bone
+(?radius); NHMW 1886-XV-15, a partial cervical vertebra.
+Type locality and horizon. Probably Barnard’s Spruit (per
+Galton & Van Heerden 1998), ~24 kilometres south of
+105
+
+Aliwal North, Eastern Cape Province, South Africa. Lower
+Elliot Formation, Stormberg Group, Karoo Supergroup;
+Late Triassic.
+Etymology. From the ichnogenus Pentasauropus Ellenberger, 1970, in a reversal of the historical tendency to
+name tetrapod track ichnogenera by appending the suffix
+‘-pus’ (meaning ‘foot’) to the generic stem of the supposed
+trackmaker (e.g. Anchisauripus, Dicynodontipus, Megalosauropus). Named in reference to its status as the probable
+trackmaker of the Pentasauropus tracks from the lower
+Elliot Formation. Species named in honor of its collector,
+Alfred Brown (1834–1920), nicknamed ‘Gogga’ (pronounced 'PZPc [IPA]; Afrikaans for ‘bug’) in reference to
+his eccentric habits. Initially derogatory, this nickname
+was later celebrated (Drennan 1938). Brown was greatly
+disappointed in the lack of attention given to his discoveries by European researchers; this species name may be
+taken as extremely belated recognition of his collection efforts on behalf of the Imperial Natural History Museum of
+Austria-Hungary.
+Diagnosis. Distinguished from all other known dicynodonts by the morphology of the lateral dentary shelf
+(highly discrete and robust, nearly straight, and positioned very anteriorly on the dentary ramus, with no
+apparent contact with the mandibular fenestra). Distinguished from non-stahleckeriid dicynodonts by the
+remarkably large contribution of the splenial to the
+anteroventral face of the jaw symphysis. Distinguished
+from non-placeriine stahleckeriids by the relatively tall,
+steeply-sloping mandibular symphysis and the presence
+of a midline ridge on the anteroventral face of the
+symphysis. In addition to the aforementioned morphology of the lateral dentary shelf, distinguished from
+Placerias by the generally broader symphysis with more
+rounded edges, shallower mid-dentary groove on the
+dorsal surface of the symphysis, larger, rounder dentary
+table, and absence of accessory grooves lateral to the
+midline symphysial ridge. Based on referred elements,
+further distinguished from all other dicynodonts
+by the extreme robusticity of the distal humerus (greatly
+anteroposteriorly expanded) and the presence of
+paired rugosities on the posterolateral margin of the
+frontals.
+DESCRIPTION
+NHMW 1876-VII-B-114. Holotype. A partial mandible
+preserving the symphysis (missing the tip of the beak)
+and part of the left mandibular ramus (Figs 3A, 4A, 5B, 6,
+7A, 8E). This is a large, fused element unmistakably
+dicynodontian in morphology. The anterior face of the
+symphysis is 15.1 cm high and 9.7 cm wide. Dorsally, the
+mid-dentary groove is very shallow compared to other
+kannemeyeriiforms, even Placerias (a taxon in which the
+mid-dentary groove is already shallower than in
+stahleckeriines or kannemeyeriids; Fig. 3B). Lateral to the
+mid-dentary groove are paired dentary tables (sensu
+Angielczyk & Rubidge 2013; Fig. 3A). The right dentary
+table is worn but the left is intact and well preserved. It is a
+rounded structure, flattened dorsally, similar in morphol106
+
+ogy to that of Stahleckeria (Fig. 7C) but transversely
+broader than that of Placerias (Fig. 3B). It is separated
+by a short depression from the raised edge of the dentary
+that would surround the posterior dentary sulcus anterolaterally (the sulcus itself is not preserved). The anteroventral face of the jaw symphysis bears a well-developed
+midline ridge (Fig. 4A). This ridge is most prominent at the
+dorsal edge of the symphysis, sloping downwards
+posteroventrally and seemingly terminating before the
+suture with the splenial (although damage in this region
+makes this somewhat uncertain). This morphology differs
+sharply from that of Kannemeyeria, in which the ridge is
+longer (potentially correlated with the proportionally
+shorter splenial in that taxon) and flanked on both
+sides by elongate symphysial grooves (Figs 4B, 5E). It
+also differs from Placerias, in which the midline ridge is
+similar in position and morphology but is also flanked
+by well-developed accessory grooves. These grooves
+extend far enough ventrally in Kannemeyeria and Placerias
+that their absence in NHMW 1876-VII-B-114 cannot be
+explained solely by loss of the beak tip in this specimen.
+The jaw symphysis of Pentasaurus further differs from that
+of Placerias in being proportionally broader (Figs 3A, 4A)
+and gently rounded between its anterior and lateral faces,
+unlike the sharp edges between these surfaces in Placerias
+and Stahleckeria (Fig. 5C,F).
+The lateral dentary shelf is preserved on the left mandibular ramus (Figs 6, 7A). The shelf is nearly horizontal
+for most of its length, but curves slightly dorsally at
+its posterior end. It is remarkably robust and situated
+unusually far forward on the jaw compared to the condition in other kannemeyeriiforms (Fig. 7). In most dicynodonts the lateral dentary shelf is intimately associated
+with the mandibular fenestra (King 1988); in NHMW
+1876-B-VII-114 there is no clear evidence of the mandibular fenestra being preserved, yet a clear posterior terminus
+of the lateral dentary shelf appears to be present. The
+atypical morphology of this structure raises the question
+of whether it represents a lateral dentary shelf at all or
+could be an affixed, unrelated bone fragment. However,
+careful examination of this specimen indicates that this
+structure is indeed contiguous with the rest of the jaw.
+It may have been somewhat distorted by taphonomic
+processes (its anterior tip is highly abrupt and appears
+damaged), but does appear to represent a natural part of
+the jaw bone.
+The splenial makes a very large contribution to the
+ventral portion of the symphysis, as is typical of dicynodontoids in general and stahleckeriids in particular
+(Fig. 5). It is extremely broad at the base of the symphysis,
+but attenuates in width anterodorsally before ending at a
+point ventral to the terminus of the midline dentary ridge.
+The anteroventral face of the splenial is worn, so it is
+uncertain whether any surface ornamentation (ridges,
+etc.) was present on this element. Posterolateral to the
+splenial, the anterior tip of the angular is preserved on the
+left side of the specimen. The preserved portion of the
+angular is attenuate, but remarkably broad compared to
+that of non-stahleckeriid dicynodonts (compare Fig. 5B,
+C,F with Fig. 5A,D).
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 3. Stereopairs of kannemeyeriiform mandibles in dorsal view: A, Pentasaurus goggai (NHMW 1876-VII-B-114); B, Placerias hesternus
+(GPIT/RE/9578). dt, dentary table. Anterior is up. Scale bars equal 5 cm.
+
+NHMW 1876-VII-B-115. The proximal portion of a left ulna
+(Fig. 8A–C), maximum length 14.8 cm. The radial notch is
+well preserved (Fig. 8B,C), and the bases of the lateral and
+coronoid processes are also preserved, although their tips
+are worn off. In general, this element is badly worn but is
+similar in morphology to that of Stahleckeria (Fig. 8D,E).
+Poor preservation makes it difficult to determine whether
+the olecranon was fused with the ulna or was a separate
+element, as is the case in some other kannemeyeriiforms.
+A separate olecranon is present in Placerias (Camp &
+Welles 1956) and Ischigualastia (Cox 1965), but it is fused
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+with the ulna in most specimens of Stahleckeria (Huene
+1935). However, at least some Stahleckeria specimens lack a
+fused olecranon (Fig. 8D,E), suggesting that fusion of
+this element could be variable within stahleckeriid taxa.
+Because the tip of the ulna in NHMW 1876-VII-B-115
+appears to be rounded and worn but not clearly broken, it
+is likely that the olecranon was not fused in this particular
+specimen.
+NHMW 1876-VII-B-118. A cranial fragment of maximum
+width 10.8 cm (Fig. 9A,C). This element is interpreted as
+107
+
+Figure 4. Stereopairs of kannemeyeriiform mandibles in anteroventral view: A, Pentasaurus goggai (NHMW 1876-VII-B-114); B, Kannemeyeria
+simocephalus (NHMW 1886-XV-5). Anterior is down. Scale bars equal 5 cm.
+
+part of the skull roof at the anterior edge of the intertemporal region, consisting of portions of both frontals,
+the left postorbital, and the preparietal. The left
+ventrolateral edge of the element is markedly curved
+and bears an elongate, prominent dorsal depression,
+which is interpreted as the muscle attachment site for the
+adductor mandibulae on the postorbital. A large channel
+cuts through this element at its posterior edge, which is
+interpreted as the pineal foramen. The bone surface
+108
+
+immediately anterior to this foramen is depressed, where
+the preparietal would be in other kannemeyeriiforms
+(sutures are difficult to discern because of incomplete
+preparation, but their interpreted locations are shown
+in Fig. 9A). Outside of the depressed regions, the bone
+surface is notably rugose. In particular, there are paired,
+mound-like rugosities on the frontals at their borders with
+the postorbitals (the right postorbital is not preserved, and
+this rugosity projects freely at the edge of the specimen;
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 5. Dicynodont mandibles in anteroventral view, showing variation in symphysial composition and ornamentation: A, Dicynodontoides
+recurvidens (SAM-PK-K6131), representative of the non-dicynodontoid condition; B, Pentasaurus goggai (NHMW 1876-VII-B-114); C, Placerias
+hesternus (GPIT/RE/9578), a placeriine stahleckeriid; D, Dicynodon lacerticeps (SAM-PK-K11431), representative of the non-kannemeyeriiform
+dicynodontoid condition; E, Kannemeyeria simocephalus (NHMW 1886-XV-5), a kannemeyeriiform dicynodontoid; F, Stahleckeria potens
+(GPIT/RE/7107), a stahleckeriine stahleckeriid. Splenials are highlighted in red and angulars in blue (only the dentary is preserved in E, but rough
+dimensions of the splenial can be determined from the empty, triangular notch at top of figure). Note enlargement of the splenial contribution to the
+symphysis in dicynodontoids compared to non-dicynodontoid dicynodonts (A), extreme enlargement of the splenial in stahleckeriid
+kannemeyeriiforms (B, C and F), and greater contribution of the angular to the symphysis in kannemeyeriiforms. Also note variability in ornamentation on the anterior face of the symphysis: a median ridge is absent in Dicynodontoides, Dicynodon and Stahleckeria, present but confined to the dorsal
+tip of the symphysis in Pentasaurus and Placerias, and present along the entire symphysial midline in Kannemeyeria. The median ridge is surrounded
+by a pair of well-developed grooves also running along the length of the symphysis in Kannemeyeria, whereas the accessory grooves are short and also
+restricted to the tip of the symphysis in Placerias. No accessory grooves are present in Pentasaurus. mr, median ridge; sg, symphysial groove. Anterior is
+down. Scale bars for A and D equal 1 cm, whereas those for B, C, E, and F equal 5 cm.
+
+see Fig. 9A). Paired rugosities in this region are not known
+in other kannemeyeriiforms (e.g. Fig. 9B,D) and may be
+an autapomorphy of Pentasaurus, although the circumorbital region of Placerias is generally also very rugose
+(Kammerer et al. 2013). The ventral surface of the postorbital-frontal region curves ventromedially (Fig. 9C).
+Along the ventral midline of the element is a narrow
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+channel between the frontals that would house part of the
+dorsal margin of the brain (Camp & Welles 1956).
+NHMW 1876-VII-B-121. A partial left scapulocoracoid,
+consisting of the circum-glenoid region (Fig. 10A). This
+fragment as a whole is 19.5 cm in maximum length, with
+the base of the scapular spine being 10.2 cm in width and
+109
+
+Figure 6. Stereopair of the holotype jaw of Pentasaurus goggai (NHMW 1876-VII-B-114) in left lateral view. Anterior is up. Scale bar equals 5 cm.
+
+Figure 7. Anterior portions of kannemeyeriiform mandibles in lateral view: A, Pentasaurus goggai (NHMW 1876-VII-B-114); B, Kannemeyeria
+simocephalus (NHMW 1886-XV-5); C, Stahleckeria potens (GPIT/RE/7106); D, Placerias hesternus (GPIT/RE/9578). Note autapomorphic robust lateral
+dentary shelf at unusually anterior position on dentary in A; comparable structure absent in this position and of smaller size in other taxa. Specimens
+in A, C, and D in left lateral view, B in right lateral view but mirrored for comparative purposes. dt, dentary table; lds, lateral dentary shelf. Scale bars
+equal 5 cm.
+110
+
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 8. Ulna of Pentasaurus goggai (NHMW 1876-VII-B-115) and comparison with Stahleckeria. Stereopairs of proximal portion of left ulna in
+(A) posterior, (B) anterior, and (C) proximodorsal views. Proximal portion of right ulna (mirrored for comparison) of Stahleckeria potens (GPIT/RE/9600)
+in (D) proximodorsal and (E) anterior views. aol, point of articulation with unfused olecranon; cp, coronoid process; rn, radial notch; sn, sigmoid
+notch. Different views of single specimens to scale with one another. Scale bars equal 5 cm.
+
+the glenoid fossa being 10.0 cm in height. Although poorly
+preserved, this element can be recognized as dicynodont
+and not sauropodomorph or ‘rauisuchian’ by the close
+proximity of the procoracoid foramen to the glenoid
+fossa, the strongly posterolaterally-oriented glenoid
+(more posteriorly-oriented in sauropodomorphs and
+‘rauisuchians’, related to their upright gait), and the large
+size of the glenoid relative to the scapular width. The
+procoracoid foramen is a large (2.5 × 1.0 cm), ovoid opening entirely surrounded by the procoracoid, which is
+situated anterior to the glenoid fossa and separated from
+it by a distance of 3.3 cm. The procoracoid is excluded from
+the glenoid by a narrow contact between the coracoid and
+scapula. The posterior margin of the coracoid is strongly
+concave immediately ventral to the rim of the glenoid,
+as in other stahleckeriids (Fig. 10B). Unfortunately, the
+scapula is broken beyond the glenoid rim, so it is unknown whether a tricipital tubercle was present.
+NHMW 1876-VII-B-122. A lot made up of two bones, a
+partial left pubis (10.7 cm maximum preserved length)
+and ischium (10.1 cm maximum preserved length). The
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+dorsal and ventral edges of the pubis (Fig. 11A,B) are badly
+worn, but the central shaft is well-preserved and exhibits
+the sharp ‘twisting’ typical of kannemeyeriiforms
+(Fig. 11G). The ischium (Fig. 11D,E) is highly incomplete,
+and consists of a thick, worn edge of the acetabulum and a
+thinning lamina extending ventrally.
+NHMW 1876-VII-B-123. The distal end of a left humerus
+(Figs 12, 13, 14A, 15A, 16A), with the maximum width
+across the entepi- and ectepicondyles being 15.5 cm. This
+element is broken at mid-shaft. The preserved base of the
+deltopectoral crest indicates that it was oriented at a
+nearly 90º angle relative to the long axis of the distal edge
+of the humerus (Fig. 16A), similar to that of Placerias
+(Camp & Welles 1956). A large, ovoid entepicondylar foramen pierces the ridge running proximally from the base of
+the deltopectoral crest, as is typical for therapsids. Its exit
+on the ventral face of the humerus is not visible due to
+plaster reconstruction. The entepicondyle is damaged,
+with part of its tip worn off. However, the sharp slope of
+the preserved portion of the entepicondyle indicates that
+little more of this structure would have been present, and
+111
+
+Figure 9. Skull roof fragment of Pentasaurus goggai (NHMW 1876-VII-B-118) and comparisons with other kannemeyeriiforms. Stereopairs of
+intertemporal fragment in (A) dorsal (with interpretive drawing of sutures) and (C) ventral views. B, Dinodontosaurus (lectotype of Dicynodon tener;
+GPIT/RE/9642) partial skull roof (disarticulated preparietal and frontals) in dorsal view; D, Moghreberia nmachouensis (MNHN.ALM.280)
+intertemporal bar and partial interorbital region in dorsal view. fr, frontal; pf, pineal foramen; po, postorbital; pp, preparietal. Anterior is right for all
+specimens. Scale bars equal 1 cm.
+
+its total extent would have been similar to that of
+Zambiasaurus (Fig. 14C). In general, the entepicondyle and
+ectepicondyle would have been relatively short, like those
+of other placeriines (Fig. 14B,C), and unlike the extremely
+anteroposteriorly broad condyles of stahleckeriines
+(Fig. 14D). On the anterior edge of the distal humerus is a
+very tall, subvertical supinator process (Figs 13, 14A),
+which is characteristic of placeriines (Kammerer et al.
+2013; see also Fig. 14B,C) and differs sharply from that of
+stahleckeriines, in which the supinator process is a
+tab-like structure occupying a more restricted region
+(Fig. 14D). The supinator process of Pentasaurus originates
+near the base of the humeral shaft and curves proximodorsally to distoventrally, terminating near the distal tip
+of the ectepicondyle (Fig. 13); it is not distinctly separated
+from the ectepicondyle as in stahleckeriines and numerous other Permo-Triassic amniotes (Romer 1956). The tip
+of the ectepicondyle of Pentasaurus is angled anteroventrally (Fig. 15A), as in Zambiasaurus (Fig. 15C) and unlike
+Placerias and Stahleckeria in which it is angled anterodorsally (Fig. 15B, D). The tip of the entepicondyle is angled
+112
+
+posterodorsally (Fig. 15A), as in Placerias and Zambiasaurus
+(Fig. 15B,D) but unlike Stahleckeria in which it is only
+weakly angled, but somewhat posteroventrally (Fig. 15D).
+The distal face of the humerus is massive, being very
+dorsoventrally thick even compared to that of other
+stahleckeriids (Fig. 15). The capitulum is mostly unossified
+and would have had a thick cartilage cap in life. This is
+the condition in most dicynodont humeri, including
+Zambiasaurus (Figs 14C, 15C), but a well-ossified capitulum with a bulging, rounded surface is present in Placerias
+(Figs 14B, 15B), stahleckeriines (Figs 14D, 15D), and some
+other kannemeyeriiforms (e.g. Angonisaurus, NHMUK
+R9732; Dinodontosaurus, MCN 3584; Sinokannemeyeria,
+IVPP V974). Greater ossification of the distal humerus
+occurs ontogenetically in therapsids (Kemp 1986), and
+the unossified state of the capitulum in this specimen
+(and the known Zambiasaurus humeri) may be indicative
+of immaturity (although comparably-sized Placerias
+humeri are well-ossified; USNM 2198, the holotype of
+P. hesternus, is 16.8 cm across at its distal end and has a
+prominent bony capitulum). Posterior to the capitulum on
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 10. Scapulocoracoid of Pentasaurus goggai (NHMW 1876-VII-B-121) and comparisons with other kannemeyeriiforms. (A) Stereopair of partial
+scapulocoracoid, preserving circum-glenoid region. B, Ischigualastia jenseni (MACN 18055); C, Tetragonias njalilus (GPIT/RE/7110). All specimens
+represent left scapulocoracoids in lateral view. co, coracoid; cr, coracoid rim of glenoid; gl, glenoid fossa; pc, procoracoid; pcf, procoracoid foramen;
+sc, scapula; sr, scapular rim of glenoid. Scale bars equal 5 cm.
+
+the ventral face of the humerus is the trochlea (the articular surface for the ulna; Fig. 14A), which extends across the
+distal humeral surface (Fig. 15A). Opposite the capitulum,
+on the dorsal face of the humerus, is a deep and welldeveloped intercondylar groove, which surrounds the
+terminus of the trochlea (Figs 12B, 15A). Extension of the
+trochlea onto the dorsal humeral surface is usually the
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+case in kannemeyeriiforms, correlated with depression of
+the humerus below the level of the glenoid fossa and
+resulting in the body being held higher off the ground
+than in earlier dicynodonts (Ray 2006).
+NHMW 1876-VII-B-128. The proximal end of a right tibia
+(Figs 16B, 17A, C), 10.8 × 9.4 cm across the proximal face.
+113
+
+Figure 11. Pelvic elements of Pentasaurus goggai (NHMW 1876-VII-B-122) and comparisons with other stahleckeriids. Fragment of left pubis in
+(A) medial and (B) lateral views. Fragment of left ischium in (D) medial and (E) lateral views. C, Placerias hesternus (GPIT/RE/9585), isolated left pubis
+fragment in lateral view. F, Zambiasaurus submersus (NHMUK R9109), isolated left ischium fragment in lateral view. G, Jachaleria candelariensis (UFRGS
+PV0150T), nearly complete right pelvis in lateral view, highlighting the regions preserved in NHMW 1876-VII-B-122. Note strong ‘twisting’ of the
+pubis in B, C, and G. is, ischium; pu, pubis. A, B, D, and E to scale. Scale bars equal 5 cm.
+
+The proximal surface bears a depressed articular surface
+broken into two sulci (lateral and medial), for contact with
+the distal condyles of the femur (Fig. 17C). A welldeveloped groove (the incisura tibialis) is present posterior to the cnemial crest. Unfortunately, the cnemial crest
+and medial sulcus are badly damaged, although what is
+preserved is generally consistent with that of Placerias
+(Fig. 17B,D). The medial sulcus is broader than the lateral,
+as is typical of kannemeyeriiforms (Camp & Welles 1956).
+Given the very incomplete nature of this element, the
+possibility that it could also be from a sauropodomorph
+must be carefully considered. However, in Triassic sauropodomorph tibiae the proximal condyles are typically
+more prominently projecting (Martínez & Alcober 2009;
+Apaldetti et al. 2013) than is the case in NHMW 1876-VIIB-128. Furthermore, a natural cross-section through this
+element (Fig. 16B) reveals that it has a thinner outer layer
+of cortical bone than in sauropodomorphs and is extensively filled with trabecular bone, which is typical for
+Triassic dicynodonts (Chinsamy 1993; Botha-Brink &
+Angielczyk 2010).
+NHMW 1876-VII-B-129. The fragmentary, incompletely
+prepared tip of a long bone (Fig. 18) of appropriate size
+(shaft diameter 4.9 cm) and with preservation style
+according with the other elements listed here. Rough
+proportions and the presence of a ridge running down
+the shaft on one side of the bone suggest that it may be a
+radius, but this is uncertain.
+114
+
+NHMW 1886-XV-15. A worn, isolated vertebra missing the
+neural spine (Fig. 19A–C,F,G). Maximum height from the
+base of the centrum to the base of the (broken) neural
+spine is 9.1 cm, transverse width of the centrum is 5.7 cm,
+and anteroposterior length of the centrum is 3.6 cm. The
+vertebra is amphicoelous. The pre- and postzygapophyses are broken off; their positions and rough proportions are comparable to those of other kannemeyeriiforms
+(Fig. 19). The transverse processes (=diapophyses) are
+short; although their tips are worn they could not have
+extended much further than preserved. Given the poor
+preservation of this specimen, it is difficult to be certain
+where in the axial column this vertebra originated.
+Cervical and dorsal vertebrae in kannemeyeriiforms
+are generally similar and these series grade into each
+other (Cruickshank 1975), so can be hard to tell apart
+when isolated. In general, however, kannemeyeriiform
+cervical vertebrae have anteroposteriorly and transversely narrower and dorsoventrally taller neural spines
+and stronger curvature of the ventral surface of the
+centrum than dorsals (Fig. 19; see also Pearson 1924;
+Huene 1935; Bandyopadhyay 1988). The length of the
+transverse process varies extensively along the length of
+the vertebral column (King 1988), but is usually shorter in
+the cervicals than the anterior dorsals. The position of the
+parapophysis also shifts along the length of the axial
+column: in anterior cervicals, the parapophysis is located
+low on the anterior edge of the centrum (Fig. 19I), but it is
+situated higher (near centrum mid-height) on posterior
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 12. Stereopairs of NHMW 1876-VII-B-123, distal portion of left humerus of Pentasaurus goggai, in (A) ventral and (B) dorsal views. Scale bar
+equals 5 cm.
+
+cervicals and higher still (at the anterodorsal corner of the
+lateral surface of the centrum) on anterior dorsals
+(Fig. 19H). In posterior dorsals a distinct parapophysis is
+absent, as it fuses to the base of the transverse process to
+form a synapophysis (Bandyopadhyay 1988). Although it
+is difficult to see because of wear, there appears to be the
+base of a parapophysis low on the centrum in NHMW
+1886-XV-15 (Fig. 19F). Combined with the relatively
+concave ventral surface of the centrum, short transverse
+processes, and large neural canal, this suggests that this
+specimen represents a cervical vertebra. Note that this
+specimen is one of a few of Brown’s lower Elliot fossils
+accessioned in the later NHMW lot (1886, instead of 1876),
+another being the proximal portion of the holotype femur
+of ‘Aliwalia rex’ (1886-XV-39; misnumbered 1889-XV-39 by
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Galton & van Heerden [1998], Yates [2007], and McPhee
+et al. [2015]).
+PHYLOGENETIC ANALYSIS
+Pentasaurus goggai was included in the most recent available phylogenetic data set for anomodonts, that of
+Angielczyk & Kammerer (2017). Codings were based on
+the holotype and all referred material. Three additional
+characters were added to the Angielczyk & Kammerer
+(2017) matrix to incorporate information pertinent for
+subfamily-level identification of Pentasaurus:
+172. Anterior face of dentary symphysis: 0, unornamented; 1, with median ridge.
+Primitively, the dentary symphysis of dicynodonts has a
+115
+
+Figure 13. Stereopair of NHMW 1876-VII-B-123, distal portion of left humerus of Pentasaurus goggai, in anterior view. su, supinator process. Scale bar
+equals 5 cm.
+
+weakly convex anterior face, but no distinct ridges or
+grooves. Some late Permian and most Triassic dicynodonts, however, have a well-developed midline ridge on
+the symphysial surface, sometimes bounded laterally by
+accessory grooves. The length of the ridge varies between
+taxa: in some (like Lystrosaurus) it is restricted to the dorsal
+portion of the symphysis, whereas in others (like
+Kannemeyeria) it extends down the entire length of
+the symphysis. Among cryptodonts, a midline ridge is
+present in geikiids and Oudenodon, but not Tropidostoma,
+Australobarbarus, or rhachiocephalids. A midline ridge is
+present in most dicynodontoids, albeit not ‘elphids’ (if
+indeed they are dicynodontoids), Gordonia, Jimusaria,
+Vivaxosaurus, and Dicynodon proper. Within Kannemeyeriiformes, the stahleckeriines Sangusaurus, Stahleckeria, Ischigualastia, and Jachaleria are unusual in lacking a
+midline ridge (no mandibular material is known for
+Eubrachiosaurus).
+173. Supinator process above ectepicondyle of humerus:
+0, absent; 1, present.
+The supinator process is a bony ridge on the anterior
+edge of the distal humerus, proximal to the ectepicondyle,
+which serves as an attachment site for the supinator
+muscle (Romer 1956). This process is present in many
+early amniotes, and although ancestrally absent as a discrete structure in therapsids (Hopson & Barghusen 1986),
+it re-evolved several times in various dicynodont groups.
+Outside of Bidentalia, it is present in Dicynodontoides,
+Cistecephalus, and Kawingasaurus, so may represent a synapomorphy of Kistecephalia (postcranial data is deficient
+for other kistecephalians, however). A supinator process
+is present in almost all cryptodonts for which postcranial
+data is available, being present in Rhachiocephalus,
+Oudenodon, Aulacephalodon, and Odontocyclops, but not
+116
+
+Australobarbarus. Among dicynodontoids, it is absent in all
+non-kannemeyeriiforms for which humeri are known.
+Among kannemeyeriiforms with preserved humeri, it is
+only absent in Dinodontosaurus.
+174. Morphology of supinator process: 0, low, broadly
+separated from the shaft; 1, tall and subvertical, with
+dorsal margin close to base of shaft; 2, discrete, tab-like
+process occupying restricted portion of anterior face of
+distal humerus.
+In most dicynodonts, the supinator process is a relatively small, low structure proximal to the ectepicondyle
+but still widely separated from the humeral shaft. In
+Pentasaurus, Placerias and Zambiasaurus (as well as the unnamed Polish dicynodont [Dzik et al. 2008], which is not
+included in the current analysis) the supinator process is a
+tall, subvertical ridge extending across nearly the entire
+edge of the ectepicondyle (Fig. 14A–C). By contrast, in
+Eubrachiosaurus, Ischigualastia, and Stahleckeria, the
+supinator process is much more limited in extent and
+distinct from the ectepicondyle (Fig. 14D; see also
+Kammerer et al. 2013), forming a tab-like structure prominently sticking off of the anterior edge of the humerus
+(similar to the condition in many early synapsids, e.g.
+Dimetrodon, but unlike any other dicynodonts; Romer
+1956). Intriguingly, a somewhat intermediate condition is
+present in Angonisaurus, a taxon that has recently
+(Angielczyk & Kammerer 2017; Angielczyk et al. in press)
+been recovered immediately outside of the Placeriinae+
+Stahleckeriinae split. Here, Angonisaurus is coded ‘1’, as in
+placeriines, as its supinator process is subvertical, originates near the base of the humeral shaft, and does not
+form as much of a distinctly protruding ‘tab’ as in
+stahleckeriines. However, unlike in placeriines and more
+similar to stahleckeriines, the supinator process in
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 14. Stahleckeriid distal humeri in ventral view: A, Pentasaurus goggai (NHMW 1876-VII-B-123); B, Placerias hesternus (UCMP 25361);
+C, Zambiasaurus submersus (NHMUK R9140); D, Stahleckeria potens (BSPG AS-XXV-148). A, C, and D are left humeri; B is a right humerus mirrored for
+comparative purposes. Note that the radial condyles of A and C are largely unossified and would have had extensive cartilaginous caps, whereas
+those of B and D are well ossified. ca, capitulum; ec, ectepicondyle; en, entepicondyle; enf, entepicondylar foramen; su, supinator process;
+tr, trochlea. Scale bars equal 5 cm.
+
+Angonisaurus is restricted in extent, and does not extend
+down to the base of the ectepicondyle. The kistecephalian
+emydopoids Dicynodontoides, Cistecephalus, and Kawingasaurus have also been coded ‘1’ for this character; although
+their supinator process is not likely to be homologous
+with that of placeriines, in these taxa it is also subvertical
+and originates close to the shaft.
+Three most parsimonious trees of length 1143.551 were
+recovered, differing only in the positions of Sangusaurus
+parringtonii and Pentasaurus goggai. Sangusaurus is recovered either as the sister-taxon of Stahleckeria (in two of the
+three trees) or the sister-taxon of the clade (Eubrachiosaurus+(Ischigualastia+Jachaleria)). Pentasaurus is recovered either as the sister-taxon of Zambiasaurus (in two of
+the three trees) or Placerias.
+The results of the new analysis (Fig. 21) are generally
+similar to those of Angielczyk & Kammerer (2017), with a
+few notable exceptions. Cryptodontia is again recovered
+as monophyletic, as previously found by Kammerer et al.
+(2011, 2013, 2016), Castanhinha et al. (2013), Angielczyk &
+Cox (2015), Cox & Angielczyk (2015), and Kammerer &
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Smith (2017), but unlike several recent analyses of
+anomodont phylogeny (Boos et al., 2016; Angielczyk &
+Kammerer, 2017; Angielczyk et al. in press). The composition of the cryptodont subclades largely corresponds to
+that of Angielczyk & Kammerer (2017), with Geikiidae
+containing Idelesaurus and Bulbasaurus in addition to the
+geikiines and Oudenodontidae containing Oudenodon,
+Australobarbarus, and Tropidostoma. Odontocyclops is recovered as a rhachiocephalid, a novel position for this taxon
+(in the context of a cladistic analysis; the genus itself was
+originally based on a species of Rhachiocephalus, R. dubius),
+which has otherwise been recovered as an oudenodontid
+(Kammerer & Smith 2017), a geikiid (Boos et al. 2016),
+or outside of a geikiid+rhachiocephalid clade (e.g.
+Kammerer et al. 2011).
+As discussed by Angielczyk & Kammerer (2017), the
+monophyly (or lack thereof) of Cryptodontia strongly
+influences the topology of Dicynodontoidea. In analyses
+where cryptodonts are recovered as monophyletic, the
+‘elphids’ (Elph, Interpresosaurus, and Katumbia) generally
+fall out as basal dicynodontoids (instead of basal
+117
+
+Figure 15. Stahleckeriid humeri in distal view: A, Pentasaurus goggai (NHMW 1876-VII-B-123); B, Placerias hesternus (UCMP 25361); C, Zambiasaurus
+submersus (NHMUK R9140); D, Stahleckeria potens (BSPG AS-XXV-148). A, C, and D are left humeri; B is a right humerus mirrored for comparative
+purposes. ca, capitulum; ec, ectepicondyle; en, entepicondyle; ig, intercondylar groove; tr, trochlea. Scale bars equal 5 cm.
+
+bidentalians), and the topology of the remaining Permian
+dicynodontoids is relatively pectinate. Both of these
+results are present in the current analysis, at least as
+regards the Permian dicynodontoids outside of the
+Lystrosauridae+Kannemeyeriiformes split. Lystrosauridae is expansive in the current analysis, however, and
+includes the former ‘Dicynodon’ (sensu lato) species
+Euptychognathus bathyrhynchus, Gordonia traquairi,
+Jimusaria sinkianensis, Sintocephalus alticeps, and Syops
+vanhoepeni in addition to Lystrosaurus itself. With the
+exception of Gordonia, all of these taxa have previously
+been recovered as lystrosaurids (Kammerer et al. 2011),
+
+albeit with very low support. Angielczyk & Kammerer
+(2017) recovered an unusual position for Lystrosauridae
+(restricted to Lystrosaurus in that analysis) at the base of
+Dicynodontoidea. Lystrosauridae is here recovered as the
+sister-group of Kannemeyeriiformes, as in most other
+analyses of anomodont phylogeny (e.g. Kammerer et al.
+2011, 2013; Castanhinha et al. 2013; Cox & Angielczyk
+2015; Kammerer & Smith 2017). In general, the relationships among non-kannemeyeriiform dicynodontoids
+remain extremely volatile, as indicated by the constant
+flux in dicynodontoid topology between subsequent
+analyses.
+
+Figure 16. Natural cross-sections through shafts of Pentasaurus goggai elements showing internal bone structure: A, NHMW 1876-VII-B-123, left
+humerus in proximal view (downward-pointing process is deltopectoral crest); B, NHMW 1876-VII-B-128, right tibia in distal view. Scale bars
+equal 5 cm.
+118
+
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 17. Proximal tibia of Pentasaurus goggai (NHMW 1876-VII-B-128) and comparison with Placerias. (A) Stereopair of right tibia fragment in lateral
+view and (C) element in proximal view. Right tibia of Placerias hesternus (UCMP 32447) in (B) lateral and (D) proximal views. In C and D, anterior is up.
+cn, cnemial crest; in, intercondylar notch; it, incisura tibialis; ls, lateral sulcus; ms, medial sulcus. Different views of single specimens to scale with one
+another. Scale bars equal 5 cm.
+
+Within Kannemeyeriiformes, the results of the current
+analysis are extremely similar to those of Angielczyk &
+Kammerer (2017), including the troublesome nonmonophyly of Shansiodontidae (traditionally composed
+of Shansiodon, Rhinodicynodon, Tetragonias, and Vinceria,
+
+which here form a grade at the base of Kannemeyeriiformes). It is likely that this issue is related to the mosaic of
+shansiodontid-like and stahleckeriid-like characters
+present in Dinodontosaurus, which is recovered here as
+more closely related to stahleckeriids than shansiodontids. Further research on Dinodontosaurus, which is known
+from abundant material in the Brazilian Santa Maria
+Formation (Langer et al. 2007) and less abundant but
+generally better-preserved material in the Argentine
+Chañares Formation (Mancuso et al. 2014), is required to
+help resolve this issue. The only difference between the
+current analysis and that of Angielczyk & Kammerer
+(2017) is the addition of Pentasaurus, which destabilizes
+relationships within Placeriinae. This can probably be
+attributed to missing data: because of the highly incomplete nature of the known material, Pentasaurus could
+only be coded for a small fraction of the characters in the
+phylogenetic analysis (22/197).
+DISCUSSION
+
+Figure 18. Long bone fragment (?radius) tentatively referred to Pentasaurus goggai (NHMW 1876-VII-B-129). Scale bar equals 5 cm.
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Identification of the Pentasaurus material and its
+taxonomic distinction
+Given the highly fragmentary nature of the material
+herein described as Pentasaurus goggai, further discussion
+119
+
+Figure 19. Vertebra of Pentasaurus goggai (NHMW 1886-XV-15) and comparisons with other kannemeyeriiforms. Probable cervical vertebra in
+(A) dorsal, (B) ventral, and (G) right lateral views. Stereopairs of same specimen in (C) posterior and (F) anterior views. Vertebrae of other
+kannemeyeriiforms: Stahleckeria potens (BSPG AS-XXV-153) anterior dorsal vertebra in (D) posterior and (H) right lateral views; Kannemeyeria
+simocephalus (NHMUK R3760) cervical vertebra in (E) posterior and (I) right lateral views. ce, centrum; na, neural arch; nc, neural canal; ns, neural
+spine; pa, parapophysis; poz, postzygapophysis; prz, prezyapophysis; psf, postspinal fossa; tp, transverse process. Different views of single specimens to scale with one another. Scale bars equal 5 cm.
+
+of its taxonomic unity and distinction from other Triassic
+dicynodonts is warranted. As there are no repeated
+elements among the Pentasaurus specimens and available
+evidence indicates that they were found at the same
+locality, it is tempting to suspect that they represent a
+single individual. Unfortunately, the limited collection
+data for these specimens makes it impossible to be certain
+whether they were found in association. Furthermore,
+given that Brown’s collections from Barnard’s Spruit also
+include definite sauropodomorph and probable ‘rauisuchian’ specimens, the possibility that other isolated
+elements from this lot pertain to archosaurs must be carefully considered. None of the elements here referred to
+Pentasaurus resemble ‘rauisuchian’ bones. The tibia and
+potential radius fragments (Figs 17, 18) are large and
+120
+
+poorly-preserved enough to be mistaken for sauropodomorph elements, but they do not match the histological
+profile for dinosaurs (see above). Most of the other
+elements are unmistakably dicynodontian. The fused
+dentary symphysis forming a toothless ‘beak’, prominent
+lateral dentary shelf, and dentary table of NHMW
+1876-VII-B-114 allow this specimen to be definitively
+identified as a dicynodont. The humerus NHMW
+1876-VII-B-123 also exhibits an array of features present in
+therapsids but not sauropodomorphs or ‘rauisuchians’
+(e.g. anteroposteriorly broad distal portion, large,
+well-defined areas for the capitulum and trochlea, large
+entepicondylar foramen). Furthermore, both of these
+elements exhibit features specific to placeriine stahleckeriids among dicynodonts: the combination of a huge
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+splenial contribution to the jaw symphysis and median
+symphysial ridge in the jaw fragment and the presence
+of an elongate, subvertical supinator process on the
+humerus. The other referred elements all exhibit characteristic dicynodont morphologies, albeit not specific
+placeriine synapomorphies (see Description above).
+The placeriine synapomorphies in the Pentasaurus jaw
+and humerus elements allow ready differentiation from
+the majority of Triassic dicynodonts. Importantly,
+mandibular morphology clearly distinguishes NHMW
+1876-VII-B-114 from the most common taxon of Karoo
+kannemeyeriiform, Kannemeyeria simocephalus (see Fig. 4).
+Although survival of the probably Middle Triassic Kannemeyeria into the Elliot Formation would be unlikely, the
+possibility had to be considered, given the possible
+presence of Diademodon (which co-occurs with Kannemeyeria in the Burgersdorp Formation) in the lower Elliot
+(Abdala et al. 2007) and general uncertainty as to the
+Burgersdorp’s precise age (Ottone et al. 2014). The morphology of the distal humerus NHMW 1876-VII-B-123
+permits distinction from stahleckeriines: both the proportions of the humerus and the shape and position of the
+supinator process differ sharply from that of stahleckeriines (see Fig. 14). The mandibular fragment provides
+additional characters indicating a non-stahleckeriine
+identification. A median symphysial ridge, present in
+NHMW 1876-VII-B-114, is absent in all known stahleckeriines (Kammerer pers. obs.) Additionally, the
+symphysis in NHMW 1876-VII-B-114 is relatively tall and
+steeply sloping (Fig. 20E). This is similar to the condition in
+all other known placeriines (Fig. 20A,B,D), but differs
+from the more elongate, horizontally-directed symphysis
+in stahleckeriines (Fig. 20C). Other placeriines also differ
+from stahleckeriines in that the tip of the ‘beak’ is shorter
+by comparison; unfortunately the tip is broken off in
+NHMW 1876-VII-B-114 so it is unknown whether this
+feature was shared as well.
+Among placeriines, the mandibular morphology of
+NHMW 1876-VII-B-114 clearly differs from that of
+Placerias, as detailed in the Description above. The same
+points of distinction largely also apply to Moghreberia,
+although poor preservation of the mandible in that taxon
+(Fig. 20A) complicates comparisons for certain characters (notably the presence of a sharp edge between the
+anterior and lateral faces of the symphysis, which is
+present in in Placerias, absent in Pentasaurus, and probably
+present in Moghreberia, although this surface is poorly
+preserved). The most important taxon for comparison in
+establishing the taxonomic distinctness of the lower Elliot
+dicynodont material is Zambiasaurus submersus from the
+upper Ntawere Formation of Zambia. As the only other
+southern African placeriine this taxon is geographically
+proximate; furthermore, the age of the Ntawere Formation is poorly-constrained and could potentially overlap with the lower Elliot (although it is likely to be
+older; Angielczyk et al. 2014). Regrettably, Zambiasaurus
+is known largely from isolated, juvenile remains
+(Angielczyk et al. 2014), complicating comparisons with
+the large, presumed subadult-to-adult elements of
+Pentasaurus. With this said, there are a few firm bases for
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+comparison. For one thing, the position and morphology
+of the lateral dentary shelf is not known to be an ontogenetically variable feature in dicynodonts (Angielczyk
+et al. 2009; Maisch 2009). Although known dentary elements in Zambiasaurus are small and poorly preserved
+(e.g. Fig. 20D), none show any trace of the robust, anteriorly located lateral dentary shelf here considered autapomorphic for Pentasaurus. Additionally, one distal
+humerus fragment of Zambiasaurus (NHMUK R9140;
+Figs 14C, 15C) is substantially larger than the other known
+Zambiasaurus limb elements and is comparable in size
+to the Pentasaurus humerus NHMW 1876-VII-B-123
+(Figs 14A, 15A). Although similar in overall shape, in
+Pentasaurus the distal surface of the humerus is substantially more robust and dorsoventrally expanded than in
+Zambiasaurus. Also, the morphology of the entepicondyle
+differs between these specimens, being relatively truncated in Pentasaurus. Although this distinction may be
+exaggerated by damage to NHMW 1876-VII-B-123, worn
+bone surface is unlikely to explain all the variation seen
+between Figures 15A and C. Thus, despite less-than-ideal
+sets of overlapping material for both taxa, available points
+of comparison support taxonomic separation between
+Pentasaurus and Zambiasaurus.
+Identification of the Pentasauropus trackmaker
+In a series of contributions, Ellenberger (1955, 1970, 1972,
+1974) described a diverse ichnofossil assemblage from
+Stormberg exposures in Lesotho. The majority of
+Ellenberger ’s lower Elliot ichnotaxa correspond to
+reptilian trackmakers (Olsen & Galton 1984), as expected
+of a Late Triassic tetrapod assemblage, but there are
+some probable exceptions. One of the most unusual and
+intriguing of Ellenberger’s track morphotypes is a large,
+pentadactyl print currently known as Pentasauropus
+incredibilis (Ellenberger’s ichnotaxonomy, encompassing
+over 60 ichnogenera and 150 ichnospecies, is generally
+regarded as highly oversplit, and five ichnospecies are
+currently considered synonymous with P. incredibilis;
+D’Orazi Porchetti & Nicosia 2007). The zoological attribution of the Pentasauropus tracks has long proven problematic. Ellenberger & Ellenberger (1958) initially identified
+the trackmaker of Pentasauropus as either a ‘Theromorphe’
+(=synapsid) or an amphibian. Later, Ellenberger (1970)
+cited personal correspondence with Donald Baird and
+A. W. Crompton, who identified the trackmaker as a large
+dicynodont. Later contributions (e.g. Ellenberger 1972)
+favored reptilian identification, with a large ‘anapsid’
+reptile or sauropod dinosaur proposed as potential trackmakers. Early revisers of this ichnofossil assemblage were
+similarly circumspect: Haubold (1974) considered the
+trackmaker of Pentasauropus to be either a sauropod or an
+anomodont. Subsequent research has generally favoured
+a dicynodont identification for the Pentasauropus trackmaker, however (e.g. Demathieu & Haubold 1974;
+Hopson 1984; Olsen & Galton 1984; Anderson et al. 1998;
+Lockley & Meyer 2000; Gaston et al. 2003; Lockley et al.
+2006). Olsen & Galton (1984, p. 97) called these tracks
+‘unmistakable’ despite their poor preservation, and flatly
+stated that dicynodonts represent the ‘only early Meso121
+
+Figure 20. Anterior portions of stahleckeriid mandibles in lateral view: A, Moghreberia nmachouensis (MNHN.ALM.167); B, Placerias hesternus
+(GPIT/RE/9578); C, Stahleckeria potens (AMNH FARB 7804); D, Zambiasaurus submersus (NHMUK R9039); E, Pentasaurus goggai (NHMW
+1876-VII-B-114). Note relatively tall, steep symphyses of placeriines (A, B, D, E) compared to the more elongate, gently curved symphysis of a typical
+stahleckeriine (C). Specimens in B and E in right lateral view; A, C, and D in left lateral view but mirrored for comparative purposes. Scale bars
+equal 5 cm.
+
+zoic… group with feet both large enough and with toes
+short enough to have made Pentasauropus-type tracks’.
+Despite majority support for the ‘Pentasauropus as
+dicynodont track’ hypothesis, in recent years there have
+been a few dissenting opinions. Knoll (2004) deemed the
+dicynodont affinities of Pentasauropus unconvincing and
+argued that it could also be sauropodan. Hunt & Lucas
+(2007) stated that while only dicynodonts represent a
+good match for the Pentasauropus prints morphologically,
+they doubted this attribution based on the absence of
+skeletal evidence for dicynodonts of equivalent age to the
+tracks (speaking specifically of North American records
+[Lockley & Hunt 1995], but applicable to the southern
+African record as well).
+The most recent revisionary work on the Lesotho
+trackways (D’Orazi Porchetti & Nicosia 2007) has convincingly demonstrated that the Pentasauropus tracks do not
+match sauropodomorph autopodia. Many of the tracks
+from the Stormberg of Lesotho (e.g. Tetrasauropus and
+Pseudotetrasauropus) do show indications of a sauropodomorph trackmaker and differ dramatically from those of
+Pentasauropus. As regards Hunt & Lucas’ (2007) issue that
+dicynodonts must have gone extinct prior to the Pentasauropus tracks being laid down, several lines of evidence
+now address this problem. Firstly, although precise
+chronostratigraphic dating remains elusive for many
+Triassic vertebrate assemblages worldwide, there is
+increasingly good evidence that a number of stahleckeriid
+dicynodont-bearing deposits are actually Norian in age
+(Irmis et al. 2011; Kent et al. 2014; note also that Dzik et al.
+[2008] even proposed a Rhaetian age for Polish stahlec122
+
+keriid remains). So arguments based on a prior understanding of dicynodonts having gone extinct at the end of
+the Carnian (e.g. Benton 2006) are no longer tenable.
+Secondly, concerning the southern African record in
+particular, it is true that historically there has been no
+skeletal evidence for dicynodonts surviving in the Karoo
+Basin above the (probably) Middle Triassic Burgersdorp
+Formation. As the Elliot Formation is reasonably wellsampled (Smith et al. 2012), this seemed to be good
+evidence that dicynodonts truly were absent there in the
+Late Triassic. However, raw sampling is often not equivalent to subsequent worker research effort, and researchers
+working in collections frequently overlook specimens that
+do not fit the search image for their taxon of interest. This
+can make the absence of certain taxa in even well-sampled
+deposits something of a ‘self-fulfilling prophecy’: if
+researchers do not expect to find a given taxon, they may
+not look for it, and specialists on that taxon will eschew
+collections that (supposedly) contain no representatives
+of it. As clear evidence of this, the specimens described
+herein were housed in one of the largest and most
+frequently visited palaeontological collections in Europe
+for over 140 years without any recognition of their taxonomic identification and importance. It is possible that
+additional dicynodont elements remain unrecognized in
+other lower Elliot collections.
+Given that the Pentasauropus incredibilis tracks from
+the lower Elliot Formation morphologically match a
+dicynodont trackmaker, and that dicynodonts were
+indeed present in this formation (based on the newlydescribed fossils herein), can it be demonstrated that the
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Figure 21. Results of the phylogenetic analysis: subtree showing the relationships of Bidentalia. Non-bidentalian anomodont relationships are
+identical to those of Angielczyk & Kammerer (2017). Numbers at nodes represent symmetric resampling values.
+
+taxon here named Pentasaurus was actually the trackmaker of Pentasauropus? On a strict morphology basis, the
+answer is no. No manus or pes elements are preserved
+among the known material of Pentasaurus, so direct
+comparisons are not possible. Furthermore, known
+kannemeyeriiform manual and pedal materials are
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+generally homomorphic, suggesting morphological
+conservatism of these elements across the clade.
+Observed variation in manus morphology among kannemeyeriiforms has mostly been limited to minor differences in ungual shape (Cox 1965; Lucas 2002); it is
+uncertain to what degree, if any, this would be reflected
+123
+
+in Pentasauropus-type trackways. As such, even if Pentasaurus autopodia were known, unique correspondence
+with the Pentasauropus incredibilis tracks would be unlikely. Indeed, tracks referred to Pentasauropus have also
+been reported from North (Lockley & Hunt 1995; Gaston
+et al. 2003) and South America (Domnanovich et al. 2008);
+these tracks likely represent various local kannemeyeriiform taxa (Placerias, Ischigualastia, etc.) However,
+while a morphological correlation between Pentasaurus
+goggai and Pentasauropus incredibilis is not currently possible (and may never be), a strong circumstantial case can be
+made for Pentasaurus as the trackmaker of lower Elliot
+Pentasauropus prints. Although dicynodonts are now
+thought to have survived into the Norian, they were rare
+and species-poor at this time. No Norian basins are
+known to produce more than a single dicynodont species.
+Kammerer et al. (2013) recently resurrected Eubrachiosaurus browni from the Popo Agie Formation of Wyoming
+as a valid taxon, bringing the number of Triassic North
+American dicynodont species to two (the other being the
+well-known Placerias hesternus). However, no localities are
+known to produce both Eubrachiosaurus and Placerias, and
+increasing evidence indicates that the tetrapod fauna
+of the Popo Agie Formation is not coeval with the
+Placerias-bearing beds of the Chinle Formation, instead
+representing a substantially older (potentially Carnian)
+assemblage (Hartman et al. 2015). In South America, one
+endemic species each is known from the Los Colorados
+Formation of Argentina (Jachaleria colorata) and the
+Caturrita Formation of Brazil (Jachaleria candelariensis)
+(Arcucci et al. 2004; Müller et al. 2015). It is highly unlikely
+that the lower Elliot Formation would have diverged from
+this pattern, particularly given the rarity of dicynodont
+fossils in this formation relative to other Norian deposits
+(while additional Pentasaurus remains may well be lying
+unrecognized in South African collections, its record is
+clearly poorer than the likes of Placerias and Jachaleria,
+which are known from multiple skulls). In conclusion,
+there is no good reason to suspect any dicynodont taxa
+other than Pentasaurus goggai were present in the lower
+Elliot Formation, making it the only probable trackmaker
+of regional Pentasauropus trackways.
+Biogeographic and faunal implications
+The recognition of a placeriine dicynodont in the lower
+Elliot Formation conflicts with several prevailing ideas on
+Late Triassic dicynodont survival, namely their supposed
+absence in the Karoo Basin in strata above the Burgersdorp Formation (Rubidge 1995), the supposed disjunct
+between Triassic faunas containing dicynodonts vs
+sauropodomorph dinosaurs as the largest-bodied herbivores (Benton 1994), and the recognition of Placeriinae as
+a predominantly Northern Hemisphere clade (Kammerer
+et al. 2013, in press).
+The lack of co-occurrence between large-bodied kannemeyeriiform dicynodonts and the earliest large dinosaurian herbivores (sauropodomorphs) has frequently been
+discussed by Triassic researchers in the context of
+synapsid/archosaur turnover patterns (Bakker 1977;
+Benton 1983, 2006; Charig 1984; Zawiskie 1986; Brusatte
+124
+
+et al. 2008; Benton et al. 2014). The prevailing idea in the
+late 20th and early 21st centuries was that dicynodonts
+went extinct at the end of the Carnian, whereas the first
+large-bodied sauropodomorphs did not appear until the
+Norian (Benton 1994). Thus, direct ecological interaction between dicynodonts and sauropodomorphs was
+thought not to have occurred, regardless of whether the
+researchers in question supported environmental change
+(e.g. Benton 1983) or clade-level competition with
+archosaurs (e.g. Charig 1984) as the primary driver of
+Triassic synapsid decline. As discussed in the preceding
+section, new radioisotopic and magnetostratigraphic
+dates for Late Triassic vertebrate assemblages now indicate that dicynodonts survived into the Norian (Irmis et al.
+2011; Kent et al. 2014). However, even with this extension
+of the clade’s range, there has until now been no evidence
+of direct co-occurrence between dicynodonts and largebodied sauropodomorphs. The youngest dicynodont
+remains from South America (and the youngest securely
+dated dicynodonts worldwide) are those of Jachaleria
+colorata from the Norian Los Colorados Formation of
+Argentina (Kent et al. 2014). The Los Colorados Formation
+also contains a diverse sauropodomorph assemblage
+including the taxa Coloradisaurus, Riojasaurus, and the
+enormous (~9 m) Lessemsaurus (Pol & Powell 2007). However, these taxa are known only from the upper part of
+the formation, whereas Jachaleria is known only from
+the base of the formation (Arcucci et al. 2004). Disarticulated archosaur specimens that may represent sauropodomorphs have been recovered from the basal Los
+Colorados, in the same levels as Jachaleria, but they are
+currently undescribed (Martínez et al. 1998). The preliminarily-described kannemeyeriiform from the Lisowice
+claypit in Poland was originally stated to be Rhaetian
+(Dzik et al. 2008), but this site may also be Norian
+(Niedïwiedzki & Sulej 2008), and regardless of age has
+not produced any sauropodomorph material. Thus, the
+presence of Pentasaurus and Eucnemesaurus in the material
+from Barnard’s Spruit potentially represents the first
+co-occurrence of a dicynodont and large sauropodomorph in the Triassic.
+Kammerer et al. (2013, in press) commented on the
+global distribution of stahleckeriids, noting an apparent
+geographic disjunct between its two subclades, with
+stahleckeriine fossils mostly found in the Southern Hemisphere and placeriine fossils mostly in the Northern. They
+recognized exceptions to this pattern, however, with
+the stahleckeriine Eubrachiosaurus browni known from
+the Popo Agie Formation of the western United States
+(Wyoming) and the placeriine Zambiasaurus submersus
+known from the Ntawere Formation of Zambia. Pentasaurus goggai represents an additional exception to this
+supposed pattern, joining Zambiasaurus among the ranks
+of southern Gondwanan placeriines. Furthermore, it
+refutes the hypothesis that while placeriines may have
+originated in Gondwana in the Middle Triassic, their Late
+Triassic radiation was confined to the Northern Hemisphere. The presence of Pentasaurus in the lower Elliot
+demonstrates that this clade was present across Pangaea
+even in the Late Triassic.
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+Environmental restriction offers a common explanation
+for the conflicts between the three aforementioned
+prevailing ideas on Triassic dicynodont distribution and
+the presence of Pentasaurus in the lower Elliot Formation.
+Late Triassic dicynodont fossils show a distinctly ‘patchy’
+distribution, best illustrated by Placerias hesternus. This
+taxon is generally one of the rarest components of North
+American Triassic assemblages, but in a few exceptional
+localities represents the dominant taxon (most notably the
+Placerias Quarry near St. Johns, Arizona; Lucas & Heckert
+2002). Massive accumulations like the Placerias Quarry
+indicate that P. hesternus was not just a rare, solitary
+animal, but more likely was an ecologically-restricted
+taxon that did not prefer or could not tolerate the seasonally arid environments preserving most Chinle Formation
+tetrapod fossils. Notably, the Blue Mesa Member of the
+Chinle Formation, which has produced the majority of
+Placerias fossils, seems to preserve one of the wettest
+sections of the Chinle (Martz & Parker 2010). Additionally,
+although only preliminarily studied, Placerias seems to be
+more abundant in the more humid basins of the Newark
+Supergroup in eastern North America (Baird & Patterson
+1968; Kammerer et al. 2013). This would concord with
+broader-scale studies indicating the restriction of
+synapsids to humid belts in the Late Triassic (Whiteside
+et al. 2011). Thus, synapsids could still have been
+extremely abundant in ‘patches’ of the appropriate habitat in the Late Triassic, but if that specific habitat is not preserved, they would appear to be absent in the regional
+record. Although less arid than the upper Elliot (with
+perennial river systems; Bordy & Eriksson 2015), the
+lower Elliot still represents a relatively arid environment
+compared to earlier Triassic dicynodont-bearing deposits
+(e.g. Smith & Swart 2002), and it is likely that the majority
+of fossiliferous localities in the lower Elliot simply do not
+preserve the sort of wet habitat frequented by Late Triassic
+dicynodonts. As such, the co-occurrence of a kannemeyeriiform and large sauropodomorph like Pentasaurus
+and Eucnemesaurus may represent an unusual circumstance, and these taxa may well have rarely encountered
+each other when alive, because of their preferences for
+different kinds of vegetation (see Benton 1983; Crompton
+& Attridge 1986).
+The apparent geographic disjunct between placeriine
+and stahleckeriine stahleckeriids in the Carnian-Norian is
+more difficult to explain, but is also probably attributable
+to environmental specializations of the respective clades.
+Work on functional variation in the dicynodont feeding
+apparatus has generally focused on very broad trends,
+such as the differences between Permian and Triassic
+dicynodonts (e.g. Crompton & Hotton 1967). Unfortunately, little attention has been given to the functional
+implications of differences in morphology within Kannemeyeriiformes. Surkov & Benton (2008) attempted to
+reconstruct feeding height in dicynodonts and preferred
+plane of head movement based on occipital morphology
+and included a number of Triassic taxa in their analysis.
+They measured differences in the relative height and
+width of the occiput, which they took to reflect differences
+in relative efficiency of the lateral and dorsal portions of
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+the neck musculature. Dicynodonts with heads low to the
+ground would be expected to use more lateral movements, whereas dicynodonts feeding high would require
+greater development of the dorsal neck musculature to
+hold the head up. Under this scheme, Surkov & Benton
+(2008) reconstructed Placerias as a high-level feeder and
+Stahleckeria as a low-level feeder. While these results
+suggest that general cranial conservatism belies sharp
+differences in feeding behavior between kannemeyeriiform taxa, occipital dimensions are only part of the story:
+other trophically relevant morphological features of these
+taxa still await detailed comparisons. As shown by
+Angielczyk et al. (in press), position and angulation of jaw
+muscles would also have strongly influenced dicynodont
+feeding style, but rigorous reconstructions are currently
+available for only a small handful of taxa. Mandibular
+morphology is also understudied, and the functional
+implications of differences in dicynodont jaw shape
+are poorly known. The narrower, taller symphyses of
+placeriines (Figs 5, 20) do suggest that they were concentrating greater bite force on the ‘beak’ tip than
+stahleckeriines, possibly reflecting differences in preferred diet (as suggested by Cox [1965] for kannemeyeriids vs stahleckeriids). Observed distribution of the
+two stahleckeriid subclades, then, may just be reflective
+of local abundance of preferred vegetation, with apparent rarity in one hemisphere or another representing
+sampling artefact. However, the situation is complex:
+despite the similarity of their mandibular morphology
+and inferred myology to Stahleckeria, other stahleckeriines
+(Ischigualastia and Jachaleria) were reconstructed by
+Surkov & Benton (2008) as high-feeders, with similar
+occipital values to Placerias. So it is probably premature to
+propose general, clade-specific feeding specializations for
+placeriines vs stahleckeriines that explain their distribution. Extensive additional research will be required to
+incorporate these various sources of data into a holistic
+view of kannemeyeriiform feeding, and as Pentasaurus
+indicates, there remains much left to learn about the
+palaeobiology of the latest-surviving dicynodonts.
+ABBREVIATIONS
+Institutional
+AMNH FARB American Museum of Natural History, Fossil
+Amphibian, Reptile, and Bird Collection, New York,
+U.S.A.
+BP
+Evolutionary Studies Institute (ESI), University of the
+Witwatersrand, Johannesburg, South Africa
+BSPG
+Bayerische Staatssammlung für Paläontologie und
+Geologie, Munich, Germany
+ELM
+East London Museum, East London, South Africa
+FMNH
+Field Museum of Natural History, Chicago, U.S.A.
+GPIT
+Paläontologische Sammlung, Eberhard Karls
+Universität Tübingen, Tübingen, Germany
+IVPP
+Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China
+MACN
+Museo Argentino de Ciencias Naturales “Bernardino
+Rivadavia”, Buenos Aires, Argentina
+MCN
+Museu de Ciências Naturais, Fundação Zoobotânica do
+Rio Grande do Sul, Porto Alegre, Brazil
+MNA
+Museum of Northern Arizona, Flagstaff, U.S.A.
+NHMUK
+The Natural History Museum, London, U.K.
+125
+
+NHMW
+NMT
+PVL
+SAM
+UCMP
+UFRGS
+UMZC
+USNM
+
+Naturhistorisches Museum Wien, Vienna, Austria
+National Museum of Tanzania, Dar es Salaam,
+Tanzania
+Fundación Miguel Lillo, Sección de Paleovertebrados,
+Tucumán, Argentina
+Iziko South African Museums, Cape Town, South
+Africa
+University of California Museum of Paleontology,
+Berkeley, U.S.A.
+Universidade Federal do Rio Grande do Sul, Porto
+Alegre, Brazil
+University Museum of Zoology, Cambridge, U.K.
+National Museum of Natural History, Smithsonian
+Institution, Washington, D.C., U.S.A.
+
+Sincere thanks to Ursula Göhlich (NHMW) for permitting me to examine the
+Viennese Permo-Triassic collections. Thanks also to Carl Mehling (AMNH), Oliver
+Rauhut (BSPG), Sifelani Jirah (ESI), Ken Angielczyk (FMNH), Ingmar Werneburg
+(GPIT), Alejandro Kramarz (MACN), David Gillette (MNA), Paul Barrett
+(NHMUK), the late Jaime Powell (PVL), Zaituna Erasmus (SAM), Pat Holroyd
+(UCMP), Cesar Schultz (UFRGS), Matt Lowe (UMZC), and Matt Carrano (USNM)
+for access to comparative materials. Special thanks to Juliane Katharina Hinz
+(GPIT) for her invaluable aid in providing specimen numbers for historical specimens in Friedrich von Huene’s collections in Tübingen. Thanks to Jonah Choiniere,
+Kimi Chapelle, Casey Staunton, and Emese Bordy for information on the dinosaur
+fauna and geology of the Elliot Formation and Aurore Canoville for discussion of
+bone histology in Triassic tetrapods. This research was funded by a grant from the
+Deutsche Forschungsgemeinschaft (KA 4133/1-1).
+
+REFERENCES
+ABDALA, F., DAMIANI, R., YATES, A. & NEVELING, J. 2007. A
+non-mammaliaform cynodont from the Upper Triassic of South
+Africa: a therapsid Lazarus taxon? Palaeontologia africana 42, 17–23.
+ANDERSON, J.M., ANDERSON, H.M. & CRUICKSHANK, A.R.I. 1998.
+Late Triassic ecosystems of the Molteno/lower Elliot biome of southern
+Africa. Palaeontology 41, 387–421.
+ANGIELCZYK, K.D. & KAMMERER, C.F. 2017. The cranial morphology,
+phylogenetic position, and biogeography of the upper Permian
+dicynodont Compsodon helmoedi van Hoepen, 1934 (Therapsida,
+Anomodontia). Papers in Palaeontology 3, 513–545.
+ANGIELCZYK, K.D. & RUBIDGE, B.S. 2013. Skeletal morphology,
+phylogenetic relationships and stratigraphic range of Eosimops
+newtoni Broom, 1921, a pylaecephalid dicynodont (Therapsida,
+Anomodontia) from the Middle Permian of South Africa. Journal of
+Systematic Palaeontology 11, 191–231.
+ANGIELCZYK, K.D., HANCOX, P.J. & NABAVIZADEH, A. In press. A
+re-description of the Triassic kannemeyeriiform dicynodont
+Sangusaurus (Therapsida, Anomodontia), with an analysis of its feeding system. Society of Vertebrate Paleontology Memoir 17.
+ANGIELCZYK, K.D., SIDOR, C.A., NESBITT, S.J., SMITH, R.M.H. &
+TSUJI, L. 2009. Taxonomic revision and new observations on the
+postcranial skeleton, biogeography, and biostratigraphy of the
+dicynodont genus Dicynodontoides, the senior subjective synonym of
+Kingoria (Therapsida, Anomodontia). Journal of Vertebrate Paleontology
+29, 1174–1187.
+ANGIELCZYK, K.D., STEYER, J-S., SIDOR, C.A., SMITH, R.M.H.,
+WHATLEY, R.L. & TOLAN, S. 2014. Permian and Triassic dicynodont
+(Therapsida: Anomodontia) faunas of the Luangwa Basin, Zambia:
+taxonomic update and implications for dicynodont biogeography and
+biostratigraphy. In: Kammerer, C.F., Angielczyk, K.D. & Fröbisch, J.
+(eds), Early Evolutionary History of the Synapsida, 93–138. Dordrecht,
+Springer.
+APALDETTI, C., POL, D. & YATES, A. 2013. The postcranial anatomy of
+Coloradisaurus brevis (Dinosauria: Sauropodomorpha) from the Late
+Triassic of Argentina and its phylogenetic implications. Palaeontology
+56, 277–301.
+ARCUCCI, A.B., MARSICANO, C.A. & CASELLI, A.T. 2004. Tetrapod
+association and palaeoenvironment of the Los Colorados Formation
+(Argentina): a significant sample from Western Gondwana at the end
+of the Triassic. Geobios 37, 557–568.
+BAIN, A.G. 1845. On the discovery of fossil remains of bidental and other
+reptiles in South Africa. Transactions of the Geological Society of London,
+Second Series 7, 53–59.
+BAIRD, D. & PATTERSON, O.F., III. 1968. Dicynodont-archosaur fauna
+in the Pekin Formation (Upper Triassic) of North Carolina. Geological
+Society of America Special Papers 115, 11.
+
+126
+
+BAKKER, R.T. 1977. Tetrapod mass extinctions – (a model of the regulation of speciation rates and immigration by cycles of topographic
+diversity). In: Hallam, A. (ed.), Patterns as Illustrated by the Fossil Record,
+439–468. New York, Elsevier.
+BANDYOPADHYAY, S. 1988. A kannemeyeriid dicynodont from the
+Middle Triassic Yerrapalli Formation. Philosophical Transactions of the
+Royal Society of London B 320, 185–233.
+BENTON, M.J. 1983. Dinosaur success in the Triassic: a noncompetitive
+ecological model. The Quarterly Review of Biology 58, 29–55.
+BENTON, M.J. 1994. Late Triassic to Middle Jurassic extinctions among
+continental tetrapods: testing the pattern. In: Fraser, N.C. & Sues, H-D.
+(eds), In the Shadow of the Dinosaurs: Early Mesozoic Tetrapods, 366–397.
+Cambridge, Cambridge University Press.
+BENTON, M.J. 2006. The origin of the dinosaurs. In: Colectivo Arqueológico-Paleontológico Salense (ed.), Actas de las III Jornadas sobre Dinosaurios y su Entorno, 11–19. Burgos, Salas de los Infantes.
+BENTON, M.J., FORTH, J. & LANGER, M.C. 2014. Models for the rise of
+dinosaurs. Current Biology 24, R87–R95.
+BOOS, A.D.S, KAMMERER, C.F., SCHULTZ, C.L., SOARES, M.B. &
+ILHA, A.L.R. 2016. A new dicynodont (Therapsida: Anomodontia)
+from the Permian of southern Brazil and its implications for bidentalian origins. PLOS ONE 11(5), e0155000.
+BORDY, E.M. & ERIKSSON, P. 2015. Lithostratigraphy of the Elliot
+Formation (Karoo Supergroup), South Africa. South African Journal of
+Geology 118, 311–316.
+BOTHA-BRINK, J. & ANGIELCZYK, K.D. 2010. Do extraordinarily high
+growth rates in Permo-Triassic dicynodonts (Therapsida, Anomodontia) explain their success before and after the end-Permian extinction? Zoological Journal of the Linnean Society 160, 341–365.
+BROOM, R. 1905. On the use of the term Anomodontia. Records of the
+Albany Museum 1, 266–269.
+BRUSATTE, S.L., BENTON, M.J., RUTA, M. & LLOYD, G.T. 2008. Superiority, competition, and opportunism in the evolutionary radiation of
+dinosaurs. Science 321, 1485–1488.
+CAMP, C.L. & WELLES, S.P. 1956. Triassic Dicynodont Reptiles. Part I.
+The North American genus Placerias. Memoirs of the University of
+California 13, 255–304.
+CASTANHINHA, R., ARAÚJO, R., JÚNIOR, L.C., ANGIELCZYK, K.D.,
+MARTINS, G.G, MARTINS, R.M.S., CHAOUIYA, C., BECKMANN, F.
+& WILDE, F. 2013. Bringing dicynodonts back to life: paleobiology and
+anatomy of a new emydopoid genus from the Upper Permian of
+Mozambique. PLOS ONE 8(12), e80974.
+CHARIG, A.J. 1984. Competition between therapsids and archosaurs
+during the Triassic period: a review and synthesis of current theories.
+Zoological Society of London Symposium 52, 597–628.
+CHINSAMY, A. 1993. Bone histology and growth trajectory of the
+prosauropod dinosaur Massospondylus carinatus. Modern Geology 18,
+319–329.
+CLUVER, M.A. & HOTTON, N. III. 1981. The genera Dicynodon and
+Diictodon and their bearing on the classification of the Dicynodontia
+(Reptilia, Therapsida). Annals of the South African Museum 83, 99–146.
+COX, C.B. 1965. New Triassic dicynodonts from South America, their
+origins and relationships. Philosophical Transactions of the Royal Society of
+London B 248, 457–516.
+CROMPTON, A.W. & ATTRIDGE, J. 1986. Masticatory apparatus of the
+larger herbivores during Late Triassic and Early Jurassic time. In:
+Padian, K. (ed.), The Beginning of the Age of Dinosaurs: Faunal Change
+Across the Triassic-Jurassic Boundary, 223–236. Cambridge, Cambridge
+University Press.
+CROMPTON, A.W. & HOTTON, N., III. 1967. Functional morphology of
+the masticatory apparatus of two dicynodonts (Reptilia, Therapsida).
+Postilla 109, 1–51.
+CRUICKSHANK, A.R.I. 1975. The skeleton of the Triassic anomodont
+Kannemeyeria wilsoni Broom. Palaeontologia africana 18, 137–142.
+D’ORAZI PORCHETTI, S. & NICOSIA, U. 2007. Re-examination of some
+large early Mesozoic tetrapod footprints from the African collection of
+Paul Ellenberger. Ichnos 14, 219–245.
+DAMIANI, R., NEVELING, J., MODESTO, S. & YATES, A. 2003.
+Barendskraal, a diverse amniote locality from the Lystrosaurus Assemblage Zone, Early Triassic of South Africa. Palaeontologia africana 39,
+53–62.
+DEMATHIEU, G.R. & HAUBOLD, H. 1974. Evolution und Lebensgemeinschaft terrestrischer Tetrapoden nach ihren Fährten in der
+Trias. Freiberger Forschungshefte C 298, 51–72.
+DOMNANOVICH, N.S., TOMASSINI, R., MANERA DE BIANCO, T. &
+DALPONTE, M. 2008. Nuevos aportes al conocimiento de la icnofauna
+de tetrápodos del Triásico Superior de Los Menucos (Complejos Los
+Menucos), provincia de Río Negro, Argentina. Ameghiniana 45,
+211–224.
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+DRENNAN, M.R. 1938. Gogga Brown: The Life-story of Alfred Brown, South
+Africa’s Hermit-Naturalist. Cape Town, Maskew Miller Limited, 99 pp.
+DZIK, J., SULEJ, T. & NIEDîWIEDZKI, G. 2008. A dicynodont-theropod
+association in the latest Triassic of Poland. Acta Palaeontologica Polonica
+53, 733–738.
+ELLENBERGER, P. 1955. Note préliminaire sur les pistes et les restes
+osseaux de Vertébrés du Basutoland (Afrique du Sud). Comptes Rendus
+Hebdomadaires des Séances de l’Academie des Sciences, Paris 240, 889–891.
+ELLENBERGER, P. 1970. Les niveaux paléontologiques de première
+apparition des mammifères primordiaux en Afrique du Sud et leur
+ichnologie: establissement de zones stratigraphiques detaillées dans le
+Stormberg du Lesotho, (Afrique du Sud) (Triassique supérieur à
+Jurassique). In: Haughton, S.H. (ed.), Second Gondwana Symposium,
+Proceedings and Papers, 347–370. Pretoria, Council for Scientific and
+Industrial Research.
+ELLENBERGER, P. 1972. Contribution à la classification des pistes de
+vertébrés du Trias: les types du Stormberg d’Afrique du Sud (I).
+Palaeovertebrata, Mémoire Extraordinaire 1972, 1–152.
+ELLENBERGER, P. 1974. Contribution à la classification des pistes de
+vertébrés du Trias: les types du Stormberg d’Afrique du Sud (2).
+Palaeovertebrata, Mémoire Extraordinaire 1974, 1–170.
+ELLENBERGER, F. & ELLENBERGER, P. 1958. Principaux types de
+pistes de vértebrés dans les couches du Stormberg au Basutoland
+(Afrique du Sud) (Note préliminaire). Comptes-Rendus sommaire des
+Séances de la Societé géologique de France, 65–67.
+FRÖBISCH, J. & REISZ, R.R. 2011. The postcranial anatomy of Suminia
+getmanovi (Synapsida: Anomodontia), the earliest known arboreal
+tetrapod. Zoological Journal of the Linnean Society 162, 661–698.
+GALTON, P.M. 1985. The poposaurid thecodontian Teratosaurus suevicus
+V. MEYER, plus referred specimens mostly based on prosauropod
+dinosaurs, from the Middle Stubensandstein (Upper Triassic) of
+Nordwürttemberg. Stuttgarter Beiträge zur Naturkunde Serie B (Geologie
+und Paläontologie) 116, 1–29.
+GALTON, P.M. 1998. Anatomy of the prosauropod dinosaur Blikanasaurus cromptoni (Upper Triassic, South Africa), with notes on the other
+tetrapods from the lower Elliot Formation. Paläontologische Zeitschrift
+72, 163–177.
+GASTON, R., LOCKLEY, M.G., LUCAS, S.G. & HUNT, A.P. 2003.
+Grallator-dominated fossil footprint assemblages and associated enigmatic footprints from the Chinle Group (Upper Triassic), Gateway
+Area, Colorado. Ichnos 10, 153–163.
+GOLOBOFF, P.A., MATTONI, C.I. & QUINTEROS, A.S. 2006. Continuous characters analyzed as such. Cladistics 22, 589–601.
+GOLOBOFF, P.A., FARRIS, J.S. & NIXON, K.C. 2008. TNT, a free program
+for phylogenetic analysis. Cladistics 24, 774–786.
+GOW, C.E. & HANCOX, P.J. 1993. First complete skull of the Late Triassic
+Scalenodontoides (Reptilia, Cynodontia) from southern Africa. New
+Mexico Museum of Natural History and Science Bulletin 3, 161–168.
+GROENEWALD, G.H. 1996. Stratigraphy of the Tarkastad Subgroup, Karoo
+Supergroup, South Africa. Unpublished P.hD. thesis, University of Port
+Elizabeth, Port Elizabeth.
+HARTMAN, S., LOVELACE, D.M. & STOCKER, M.R. 2015. Stratigraphic
+and chronologic relationships of the Popo Agie Formation, upper
+Chugwater Group. Geological Society of America Abstracts with Programs
+47, 36.
+HAUBOLD, H. 1974. Die fossilien Saurierfährten. A. Wittenberg, Ziemsen.
+HAUGHTON, S.H. 1924. The fauna and stratigraphy of the Stormberg
+Series. Annals of the South African Museum 12, 323–497.
+HOPSON, J.A. 1984. Late Triassic traversodont cynodonts from Nova
+Scotia and southern Africa. Palaeontologia africana 25, 181–201.
+HOPSON, J.A. & BARGHUSEN, H.R. 1986. An analysis of therapsid
+relationships. In: Hotton, N., III, MacLean, P.D., Roth, J.J. & Roth,
+E.C. (eds), The Ecology and Biology of the Mammal-like Reptiles, 83–106.
+Washington, D. C., Smithsonian Institution Press.
+HUENE, F. VON. 1906. Ueber die Dinosaurier der aussereuropäischen
+Trias. Geologische und Paläontologische Abhandlungen 8, 99–156.
+HUENE, F. VON. 1935. Die Fossilen Reptilien des Südamerikanischen
+Gondwanalandes. Ergebnisse der Sauriergrabungen in Südbrasilien 1928/29.
+Lieferung 1: Anomodontia. Munich, C.H. Beck’sche Verlagsbuchhandlung.
+HUNT, A.P. & LUCAS, S.G. 2007. Late Triassic tetrapod tracks of western
+North America. New Mexico Museum of Natural History and Science
+Bulletin 40, 215–230.
+HUXLEY, T.H. 1866. On the remains of large dinosaurian reptiles from
+the Stormberg Mountains, South Africa. Geological Magazine 3, 563.
+IRMIS, R.B., MUNDIL, R., MARTZ, J.W. & PARKER, W.G. 2011.
+High-resolution U-Pb ages from the Upper Triassic Chinle Formation
+(New Mexico, USA) support a diachronous rise of dinosaurs. Earth and
+Planetary Science Letters 309, 258–267.
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+KAMMERER, C.F. & SMITH, R.M.H. 2017. An early geikiid dicynodont
+from the Tropidostoma Assemblage Zone (late Permian) of South Africa.
+PeerJ 5, e2913.
+KAMMERER, C.F., ANGIELCZYK, K.D. & FRÖBISCH, J. 2011. A comprehensive taxonomic revision of Dicynodon (Therapsida, Anomodontia)
+and its implications for dicynodont phylogeny, biogeography, and
+biostratigraphy. Society of Vertebrate Paleontology Memoir 11, 1–158.
+KAMMERER, C.F., ANGIELCZYK, K.D. & NESBITT, S.J. In press. Novel
+hind limb morphology in a kannemeyeriiform dicynodont from the
+Manda Beds (Songea Group, Ruhuhu Basin) of Tanzania. Society of
+Vertebrate Paleontology Memoir 17.
+KAMMERER, C.F., FRÖBISCH, J. & ANGIELCZYK, K.D. 2013. On the
+validity and phylogenetic position of Eubrachiosaurus browni, a kannemeyeriiform dicynodont (Anomodontia) from Triassic North America. PLOS ONE 8(5), e64203.
+KEMP, T.S. 1986. The skeleton of a baurioid therocephalian therapsid
+from the Lower Triassic (Lystrosaurus Zone) of South Africa. Journal of
+Vertebrate Paleontology 6, 215–232.
+KENT, D.V., SANTI MALNIS, P., COLOMBI, C.E., ALCOBER, O.A. &
+MARTÍNEZ, R.N. 2014. Age constraints on the dispersal of dinosaurs
+in the Late Triassic from magnetochronology of the Los Colorados
+Formation (Argentina). Proceedings of the National Academy of Sciences of
+the United States of America 111, 7958–7963.
+KING, G.M. 1988. Anomodontia. Handbuch der Paläoherpetologie 17C.
+Stuttgart, Gustav Fischer Verlag, 174 pp.
+KITCHING, J.W. & RAATH, M.A. 1984. Fossils from the Elliot and Clarens
+formations (Karoo Sequence) of the northeastern Cape, Orange Free
+State and Lesotho, and a suggested biozonation based on tetrapods.
+Palaeontologia africana 25, 111–125.
+KNOLL, F. 2004. Review of the tetrapod fauna of the “Lower Stormberg
+Group” of the main Karoo Basin (southern Africa): implication for the
+age of the Lower Elliot Formation. Bulletin de la Société Géologique de
+France 175, 73–83.
+LANGER, M.C., RIBEIRO, A.M., SCHULTZ, C.L. & FERIGOLO, J. 2007.
+The continental tetrapod-bearing Triassic of South Brazil. New Mexico
+Museum of Natural History and Science Bulletin 41, 201–218.
+LEHMAN, J-P. 1961. Dicynodontia. In: Piveteau, J-P. (ed.), Traité de
+Paléontologie, VI, Mammifères, Vol. 1.: Origine Reptilienne Èvolution,
+287–351. Paris, Masson et Cie.
+LOCKLEY, M.G. & HUNT, A.P. 1995. Dinosaur Tracks and Other Fossil Footprints of the Western United States. New York, Columbia University
+Press.
+LOCKLEY, M.G. & MEYER, C. 2000. Dinosaur Tracks and Other Fossil Footprints of Europe. New York, Columbia University Press.
+LOCKLEY, M.G., LUCAS, S.G. & HUNT, A.P. 2006. Eosauropus, a new
+name for a Late Triassic track: Further observations on the Late Triassic
+ichnogenus Tetrasauropus and related forms, with notes on the limits of
+interpretation. New Mexico Museum of Natural History and Science Bulletin 37, 192–198.
+LUCAS, S.G. 2002. A new dicynodont from the Triassic of Brazil and the
+tetrapod biochronology of the Brazilian Triassic. New Mexico Museum
+of Natural History and Science Bulletin 21, 131–141.
+LUCAS, S.G. & HECKERT, A.B. 2002. Skull of the dicynodont Placerias
+from the Upper Triassic of Arizona. New Mexico Museum of Natural History and Science Bulletin 21, 127–130.
+MAISCH, M.W. 2001. Observations on Karoo and Gondwana vertebrates. Part 2: A new skull-reconstruction of Stahleckeria potens von
+Huene, 1935 (Dicynodontia, Middle Triassic) and a reconsideration of
+kannemeyeriiform phylogeny. Neues Jahrbuch für Geologie und
+Paläontologie, Abhandlungen 220, 127–152.
+MAISCH, M.W. 2009. The small dicynodont Katumbia parringtoni (von
+Huene, 1942) (Therapsida: Dicynodontia) from the Upper Permian
+Kawinga Formation of Tanzania as gorgonopsian prey. Palaeodiversity
+2, 279–282.
+MANCUSO, A.C., GAETANO, L.C., LEARDI, J.M., ABDALA, F. &
+ARCUCCI, A.B. 2014. The Chañares Formation: a window to a Middle
+Triassic tetrapod community. Lethaia 47, 244–265.
+MARTÍNEZ, R.N. & ALCOBER, O.A. 2009. A basal sauropodomorph
+(Dinosauria: Saurischia) from the Ischigualasto Formation (Triassic,
+Carnian) and the early evolution of Sauropodomorpha. PLOS ONE
+4(2), e4397.
+MARTÍNEZ, R.N., MILANA, J.P. & ALCOBER, O. 1998. Nuevos
+hallazgos de paleovertebrados en la base de la Formación Los
+Colorados (Triásico Superior), del Provincia de San Juan: importancia
+estratigráfica y paleofaunística. Acta Geológico Lilloana 18, 167.
+MARTZ, J.W. & PARKER, W.G. 2010. Revised lithostratigraphy of the
+Sonsela Member (Chinle Formation, Upper Triassic) in the southern
+part of Petrified Forest National Park, Arizona. PLOS ONE 5(2), e9329.
+McPHEE, B.W., CHOINIERE, J.N., YATES, A.M. & VIGLIETTI, P.A. 2015.
+127
+
+A second species of Eucnemesaurus van Hoepen, 1920 (Dinosauria,
+Sauropodomorpha): new information on the diversity and evolution
+of the sauropodomorph fauna of South Africa’s lower Elliot Formation
+(latest Triassic). Journal of Vertebrate Paleontology 35, e980504.
+MÜLLER, R.T., DA ROSA, A.A.S., DA SILVA, L.R., AIRES, A.S.S.,
+PACHECO, C.P., PAVANATTO, A.E.B. & DIAS-DA-SILVA, S. 2015.
+Wachholz, a new exquisite dinosaur-bearing fossiliferous site from the
+Upper Triassic of southern Brazil. Journal of South American Earth Sciences 61, 120–128.
+NIEDîWIEDZKI, G. & SULEJ, T. 2008. Lipie Ðlskie ko»o Lisowic – okno
+3 Geologiczny 56, 821–822
+na p\ïnotriasowy ekosystem ldowy. Przeglad
+OSBORN, H.F. 1903. On the primary division of the Reptilia into two
+sub-classes, Synapsida and Diapsida. Science 17, 275–276.
+OTTONE, E.G., MONTI, M., MARSICANO, C.A., DE LA FUENTE, M.S.,
+NAIPAUER, M., ARMSTRONG, R. & MANCUSO, A.C. 2014. A new
+Late Triassic age for the Puesto Viejo Group (San Rafael depocenter,
+Argentina): SHRIMP U-Pb zircon dating and biostratigraphic correlations across southern Gondwana. Journal of South American Earth
+Sciences 56, 186–199.
+OWEN, R. 1854. Descriptive catalogue of the fossil organic remains of Reptilia
+and Pisces contained in the museum of the Royal College of Surgeons of
+England. London, Taylor and Francis, xix+184 pp.
+OWEN, R. 1859. On some reptilian remains from South Africa. The Edinburgh New Philosophical Journal 10, 289–291.
+OWEN, R. 1860. On the orders of fossil and recent Reptilia, and their
+distribution in time. Report of the Twenty-Ninth Meeting of the British
+Association for the Advancement of Science 1859, 153–166.
+PAUL, G.S. 1988. Predatory Dinosaurs of the World. New York, Simon and
+Schuster, 464 pp.
+PEARSON, H.G. 1924. A dicynodont reptile reconstructed. Proceedings of
+the Zoological Society of London 1924, 827–856.
+POL, D. & POWELL, J.E. 2007. New information on Lessemsaurus
+sauropoides (Dinosauria: Sauropodomorpha) from the Upper Triassic
+of Argentina. Special Papers in Palaeontology 77, 223–243.
+
+128
+
+RAY, S. 2006. Functional and evolutionary aspects of the postcranial anatomy of dicynodonts (Synapsida, Therapsida). Palaeontology 49,
+1263–1286.
+ROMER, A.S. 1956. Osteology of the Reptiles. Chicago, University of
+Chicago Press, xxi+772 pp.
+RUBIDGE, B.S. 1995. Biostratigraphy of the Beaufort Group (Karoo
+Supergroup). SACS Biostratigraphic Series 1, 1–46.
+SEELEY, H.G. 1894. On Euskelesaurus Brownii (Huxley). Annals and Magazine of Natural History (Series 6) 14, 317–340.
+SMITH, R.M.H. & SWART, R. 2002. Changing fluvial environments and
+vertebrate taphonomy in response to climatic drying in a mid-Triassic
+rift valley fill: the Omingonde Formation (Karoo Supergroup) of
+central Namibia. Palaios 17, 249–267.
+SMITH, R.M.H., RUBIDGE, B.S. & VAN DER WALT, M. 2012. Therapsid
+biodiversity patterns and palaeoenvironments of the Karoo Basin,
+South Africa. In: Chinsamy-Turan, A. (ed.), Forerunners of Mammals:
+Radiation, Histology, Biology, 31–62. Bloomington, Indiana University
+Press.
+VAN HOEPEN, E.C.N. 1920. Contributions to the knowledge of the
+reptiles of the Karroo Formation. 6. Further dinosaurian material in
+the Transvaal Museum. Annals of the Transvaal Museum 7, 7–140.
+WEITHOFER, A. 1888. Ueber einen neuen Dicynodonten (Dicynodon
+simocephalus) aus der Karrooformation Südafrikas. Annalen des k.k.
+naturhistorischen Hofmuseums 3, 1–6.
+WHITESIDE, J.H., GROGAN, D.S., OLSEN, P.E. & KENT, D.V. 2011.
+Climatically drive biogeographic provinces of Late Triassic tropical
+Pangea. Proceedings of the National Academy of Sciences of the United States
+of America 108, 8972–8977.
+YATES, A.M. 2007. Solving a dinosaurian puzzle: the identity of Aliwalia
+rex Galton. Historical Biology 19, 93–123.
+ZAWISKIE, J. 1986. Terrestrial vertebrate faunal succession during the
+Triassic. In: Padian, K. (ed.), The Beginning of the Age of Dinosaurs: Faunal
+Change Across the Triassic-Jurassic Boundary, 353–362. Cambridge,
+Cambridge University Press.
+
+ISSN 2410-4418 Palaeont. afr. (2018) 52: 102–128
+
+
